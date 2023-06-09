@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>h3_Sign In To Admin System</name>
+   <tag></tag>
+   <elementGuidId>3517efbd-fb9a-450f-aa2f-d3aaf3c57b4f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='kt_login']/div/div/div/div[2]/div/h3</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>h3.kt-login__title</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>h3</value>
+      <webElementGuid>0a4fe5c7-a664-4b4f-a580-7f31d31e0ddc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>kt-login__title</value>
+      <webElementGuid>64fce1c5-9c32-4e26-874d-6a16c4f328d6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Sign In To Admin System</value>
+      <webElementGuid>3db197ff-f509-49a9-87d2-29e057d46884</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;kt_login&quot;)/div[@class=&quot;kt-grid__item kt-grid__item--fluid kt-grid kt-grid--hor&quot;]/div[@class=&quot;kt-grid__item kt-grid__item--fluid kt-login__wrapper&quot;]/div[@class=&quot;kt-login__container&quot;]/div[@class=&quot;kt-login__signin&quot;]/div[@class=&quot;kt-login__head&quot;]/h3[@class=&quot;kt-login__title&quot;]</value>
+      <webElementGuid>c55e082e-08e6-4ecb-a3e9-e5682fe82984</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='kt_login']/div/div/div/div[2]/div/h3</value>
+      <webElementGuid>9ce219cf-be8b-4ffa-9ed1-0370c5ec5bc1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Next'])[1]/preceding::h3[1]</value>
+      <webElementGuid>69573cd7-cb71-4b65-9e87-df245f1e423b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Sign In'])[1]/preceding::h3[1]</value>
+      <webElementGuid>d10fdb1d-4850-41b7-8deb-0bac7eddf4c5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Sign In To Admin System']/parent::*</value>
+      <webElementGuid>bd853dbe-c849-47e8-a32b-87df77729f30</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//h3</value>
+      <webElementGuid>e476bedd-0c6d-429a-b51b-3addbe912444</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//h3[(text() = 'Sign In To Admin System' or . = 'Sign In To Admin System')]</value>
+      <webElementGuid>e83fb9ed-0383-47e0-99f6-f8dc1db80e29</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -17,25 +17,11 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
-WebUI.openBrowser('')
+WebUI.callTestCase(findTestCase('Login Admin'), [:], FailureHandling.STOP_ON_FAILURE)
 
-WebUI.maximizeWindow()
+WebUI.mouseOver(findTestObject('Sub Admin/Page_Dashboard/span_Sub-Admin'))
 
-WebUI.navigateToUrl(GlobalVariable.URL)
+WebUI.mouseOver(findTestObject('Sub Admin/Page_Dashboard/span_List'))
 
-WebUI.verifyElementText(findTestObject('Object Repository/Login/Page_SUNCITY - Login/h3_Sign In To Admin System'), 'Sign In To Admin System')
-
-WebUI.setText(findTestObject('Object Repository/Login/Page_SUNCITY - Login/input_Sign In To Admin System_username'), GlobalVariable.Username)
-
-WebUI.setText(findTestObject('Object Repository/Login/Page_SUNCITY - Login/input_Sign In To Admin System_password'), GlobalVariable.Password)
-
-WebUI.click(findTestObject('Object Repository/Login/Page_SUNCITY - Login/button_Next'))
-
-WebUI.setText(findTestObject('Object Repository/Login/Page_SUNCITY - Login/input_Next_verificationCode'), GlobalVariable.VerificationCode)
-
-WebUI.click(findTestObject('Object Repository/Login/Page_SUNCITY - Login/button_Sign In'))
-
-WebUI.click(findTestObject('Object Repository/Login/Page_Dashboard/h2_Login Success'))
-
-WebUI.click(findTestObject('Object Repository/Login/Page_Dashboard/button_OK'))
+WebUI.click(findTestObject('Sub Admin/Page_Dashboard/span_List'))
 
