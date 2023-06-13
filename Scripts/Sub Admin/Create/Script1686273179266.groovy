@@ -17,9 +17,15 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
+CustomKeywords.'com.reusableComponent.HighlightElement.run'(findTestObject('Sub Admin/Page_Dashboard/span_Sub-Admin'))
+
 WebUI.mouseOver(findTestObject('Sub Admin/Page_Dashboard/span_Sub-Admin'))
 
+CustomKeywords.'com.reusableComponent.HighlightElement.run'(findTestObject('Sub Admin/Page_Dashboard/span_Create'))
+
 WebUI.mouseOver(findTestObject('Sub Admin/Page_Dashboard/span_Create'))
+
+CustomKeywords.'com.reusableComponent.HighlightElement.run'(findTestObject('Sub Admin/Page_Dashboard/span_Create'))
 
 WebUI.click(findTestObject('Sub Admin/Page_Dashboard/span_Create'))
 

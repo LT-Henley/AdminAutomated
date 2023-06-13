@@ -1,0 +1,11 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+Smoke,Chrome 114.0.0.0,,,2023-06-09 19:11:46,2023-06-09 19:12:49,1m - 2.433s,FAILED
+,,,,,,,
+Test Cases/Sub Admin/List,Chrome 114.0.0.0,,,2023-06-09 19:12:04,2023-06-09 19:12:08,4.374s,FAILED
+"callTestCase(findTestCase(""Login Admin""), [:], STOP_ON_FAILURE)",Chrome 114.0.0.0,,,2023-06-09 19:12:04,2023-06-09 19:12:08,4.365s,FAILED
+,,,,,,,
+Test Cases/Sub Admin/Create,Chrome 114.0.0.0,,,2023-06-09 19:12:47,2023-06-09 19:12:47,0.251s,FAILED
+"mouseOver(findTestObject(""Sub Admin/Page_Dashboard/span_Sub-Admin""))",Chrome 114.0.0.0,,,2023-06-09 19:12:47,2023-06-09 19:12:47,0.239s,FAILED
+,,,,,,,
+Test Cases/Sub Admin/Duplicate IP Logins,Chrome 114.0.0.0,,,2023-06-09 19:12:49,2023-06-09 19:12:49,0.229s,FAILED
+"mouseOver(findTestObject(""Sub Admin/Page_Dashboard/span_Sub-Admin""))",Chrome 114.0.0.0,,,2023-06-09 19:12:49,2023-06-09 19:12:49,0.219s,FAILED

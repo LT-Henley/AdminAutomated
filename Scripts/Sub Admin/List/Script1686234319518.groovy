@@ -19,9 +19,15 @@ import org.openqa.selenium.Keys as Keys
 
 WebUI.callTestCase(findTestCase('Login Admin'), [:], FailureHandling.STOP_ON_FAILURE)
 
+CustomKeywords.'com.reusableComponent.HighlightElement.run'(findTestObject('Sub Admin/Page_Dashboard/span_Sub-Admin'))
+
 WebUI.mouseOver(findTestObject('Sub Admin/Page_Dashboard/span_Sub-Admin'))
 
+CustomKeywords.'com.reusableComponent.HighlightElement.run'(findTestObject('Sub Admin/Page_Dashboard/span_List'))
+
 WebUI.mouseOver(findTestObject('Sub Admin/Page_Dashboard/span_List'))
+
+CustomKeywords.'com.reusableComponent.HighlightElement.run'(findTestObject('Sub Admin/Page_Dashboard/span_List'))
 
 WebUI.click(findTestObject('Sub Admin/Page_Dashboard/span_List'))
 

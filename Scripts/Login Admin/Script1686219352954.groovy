@@ -25,17 +25,33 @@ WebUI.navigateToUrl(GlobalVariable.URL)
 
 WebUI.verifyElementText(findTestObject('Object Repository/Login/Page_SUNCITY - Login/h3_Sign In To Admin System'), 'Sign In To Admin System')
 
+CustomKeywords.'com.reusableComponent.HighlightElement.run'(findTestObject('Login/Page_SUNCITY - Login/h3_Sign In To Admin System'))
+
+CustomKeywords.'com.reusableComponent.HighlightElement.run'(findTestObject('Login/Page_SUNCITY - Login/input_Sign In To Admin System_username'))
+
+CustomKeywords.'com.reusableComponent.HighlightElement.run'(findTestObject('Login/Page_SUNCITY - Login/input_Sign In To Admin System_password'))
+
 WebUI.setText(findTestObject('Object Repository/Login/Page_SUNCITY - Login/input_Sign In To Admin System_username'), GlobalVariable.Username)
 
 WebUI.setText(findTestObject('Object Repository/Login/Page_SUNCITY - Login/input_Sign In To Admin System_password'), GlobalVariable.Password)
 
+CustomKeywords.'com.reusableComponent.HighlightElement.run'(findTestObject('Login/Page_SUNCITY - Login/button_Next'))
+
 WebUI.click(findTestObject('Object Repository/Login/Page_SUNCITY - Login/button_Next'))
+
+CustomKeywords.'com.reusableComponent.HighlightElement.run'(findTestObject('Login/Page_SUNCITY - Login/input_Next_verificationCode'))
 
 WebUI.setText(findTestObject('Object Repository/Login/Page_SUNCITY - Login/input_Next_verificationCode'), GlobalVariable.VerificationCode)
 
+CustomKeywords.'com.reusableComponent.HighlightElement.run'(findTestObject('Login/Page_SUNCITY - Login/button_Sign In'))
+
 WebUI.click(findTestObject('Object Repository/Login/Page_SUNCITY - Login/button_Sign In'))
 
+CustomKeywords.'com.reusableComponent.HighlightElement.run'(findTestObject('Login/Page_Dashboard/h2_Login Success'))
+
 WebUI.click(findTestObject('Object Repository/Login/Page_Dashboard/h2_Login Success'))
+
+CustomKeywords.'com.reusableComponent.HighlightElement.run'(findTestObject('Login/Page_Dashboard/button_OK'))
 
 WebUI.click(findTestObject('Object Repository/Login/Page_Dashboard/button_OK'))
 

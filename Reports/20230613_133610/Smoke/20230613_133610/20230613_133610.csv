@@ -1,0 +1,18 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+Smoke,Chrome 114.0.0.0,,,2023-06-13 13:36:24,2023-06-13 13:37:09,44.773s,PASSED
+,,,,,,,
+Test Cases/Sub Admin/List,Chrome 114.0.0.0,,,2023-06-13 13:36:25,2023-06-13 13:37:01,35.596s,PASSED
+"callTestCase(findTestCase(""Login Admin""), [:], STOP_ON_FAILURE)",Chrome 114.0.0.0,,,2023-06-13 13:36:26,2023-06-13 13:36:57,31.037s,PASSED
+"mouseOver(findTestObject(""Sub Admin/Page_Dashboard/span_Sub-Admin""))",Chrome 114.0.0.0,,,2023-06-13 13:36:57,2023-06-13 13:36:58,0.907s,PASSED
+"mouseOver(findTestObject(""Sub Admin/Page_Dashboard/span_List""))",Chrome 114.0.0.0,,,2023-06-13 13:36:58,2023-06-13 13:36:59,0.576s,PASSED
+"click(findTestObject(""Sub Admin/Page_Dashboard/span_List""))",Chrome 114.0.0.0,,,2023-06-13 13:36:59,2023-06-13 13:37:01,2.283s,PASSED
+,,,,,,,
+Test Cases/Sub Admin/Create,Chrome 114.0.0.0,,,2023-06-13 13:37:01,2023-06-13 13:37:06,4.653s,PASSED
+"mouseOver(findTestObject(""Sub Admin/Page_Dashboard/span_Sub-Admin""))",Chrome 114.0.0.0,,,2023-06-13 13:37:02,2023-06-13 13:37:02,0.604s,PASSED
+"mouseOver(findTestObject(""Sub Admin/Page_Dashboard/span_Create""))",Chrome 114.0.0.0,,,2023-06-13 13:37:02,2023-06-13 13:37:03,0.572s,PASSED
+"click(findTestObject(""Sub Admin/Page_Dashboard/span_Create""))",Chrome 114.0.0.0,,,2023-06-13 13:37:03,2023-06-13 13:37:06,2.745s,PASSED
+,,,,,,,
+Test Cases/Sub Admin/Duplicate IP Logins,Chrome 114.0.0.0,,,2023-06-13 13:37:06,2023-06-13 13:37:09,3.596s,PASSED
+"mouseOver(findTestObject(""Sub Admin/Page_Dashboard/span_Sub-Admin""))",Chrome 114.0.0.0,,,2023-06-13 13:37:06,2023-06-13 13:37:07,0.568s,PASSED
+"mouseOver(findTestObject(""Sub Admin/Page_Dashboard/span_Duplicate IP Logins""))",Chrome 114.0.0.0,,,2023-06-13 13:37:07,2023-06-13 13:37:08,0.614s,PASSED
+"click(findTestObject(""Sub Admin/Page_Dashboard/span_Duplicate IP Logins""))",Chrome 114.0.0.0,,,2023-06-13 13:37:08,2023-06-13 13:37:09,1.630s,PASSED
