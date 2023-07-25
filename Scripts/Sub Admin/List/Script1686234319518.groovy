@@ -31,3 +31,71 @@ CustomKeywords.'com.reusableComponent.HighlightElement.run'(findTestObject('Sub 
 
 WebUI.click(findTestObject('Sub Admin/Page_Dashboard/span_List'))
 
+CustomKeywords.'com.reusableComponent.HighlightElement.run'(findTestObject('Sub Admin/Page_Admin List/h3_Admin List'))
+
+WebUI.verifyElementVisible(findTestObject('Sub Admin/Page_Admin List/h3_Admin List'))
+
+CustomKeywords.'com.reusableComponent.HighlightElement.run'(findTestObject('Sub Admin/Page_Admin List/button_Create Admin'))
+
+CustomKeywords.'com.reusableComponent.HighlightElement.run'(findTestObject('Sub Admin/Page_Admin List/button_Create Admin'))
+
+WebUI.verifyElementVisible(findTestObject('Sub Admin/Page_Admin List/button_Create Admin'))
+
+CustomKeywords.'com.reusableComponent.HighlightElement.run'(findTestObject('Sub Admin/Page_Admin List/span_Copy'))
+
+CustomKeywords.'com.reusableComponent.HighlightElement.run'(findTestObject('Sub Admin/Page_Admin List/span_CSV'))
+
+CustomKeywords.'com.reusableComponent.HighlightElement.run'(findTestObject('Sub Admin/Page_Admin List/span_Excel'))
+
+CustomKeywords.'com.reusableComponent.HighlightElement.run'(findTestObject('Sub Admin/Page_Admin List/span_PDF'))
+
+WebUI.verifyElementVisible(findTestObject('Sub Admin/Page_Admin List/span_Copy'))
+
+WebUI.verifyElementVisible(findTestObject('Sub Admin/Page_Admin List/span_CSV'))
+
+WebUI.verifyElementVisible(findTestObject('Sub Admin/Page_Admin List/span_Excel'))
+
+WebUI.verifyElementVisible(findTestObject('Sub Admin/Page_Admin List/span_PDF'))
+
+CustomKeywords.'com.reusableComponent.HighlightElement.run'(findTestObject('Sub Admin/Page_Admin List/input_Search_form-control form-control-sm'))
+
+WebUI.verifyElementVisible(findTestObject('Sub Admin/Page_Admin List/input_Search_form-control form-control-sm'))
+
+CustomKeywords.'com.reusableComponent.HighlightElement.run'(findTestObject('Sub Admin/Page_Admin List/th_Name'))
+
+CustomKeywords.'com.reusableComponent.HighlightElement.run'(findTestObject('Sub Admin/Page_Admin List/th_Country'))
+
+CustomKeywords.'com.reusableComponent.HighlightElement.run'(findTestObject('Sub Admin/Page_Admin List/th_App Type'))
+
+CustomKeywords.'com.reusableComponent.HighlightElement.run'(findTestObject('Sub Admin/Page_Admin List/th_Created Datetime'))
+
+CustomKeywords.'com.reusableComponent.HighlightElement.run'(findTestObject('Sub Admin/Page_Admin List/th_Last Login Datetime'))
+
+CustomKeywords.'com.reusableComponent.HighlightElement.run'(findTestObject('Sub Admin/Page_Admin List/th_Last login IP'))
+
+CustomKeywords.'com.reusableComponent.HighlightElement.run'(findTestObject('Sub Admin/Page_Admin List/th_Account Status'))
+
+CustomKeywords.'com.reusableComponent.HighlightElement.run'(findTestObject('Sub Admin/Page_Admin List/th_Action'))
+
+WebUI.verifyElementVisible(findTestObject('Sub Admin/Page_Admin List/th_Name'))
+
+WebUI.verifyElementVisible(findTestObject('Sub Admin/Page_Admin List/th_Country'))
+
+WebUI.verifyElementVisible(findTestObject('Sub Admin/Page_Admin List/th_App Type'))
+
+WebUI.verifyElementVisible(findTestObject('Sub Admin/Page_Admin List/th_Created Datetime'))
+
+WebUI.verifyElementVisible(findTestObject('Sub Admin/Page_Admin List/th_Last Login Datetime'))
+
+WebUI.verifyElementVisible(findTestObject('Sub Admin/Page_Admin List/th_Last login IP'))
+
+WebUI.verifyElementVisible(findTestObject('Sub Admin/Page_Admin List/th_Account Status'))
+
+WebUI.verifyElementVisible(findTestObject('Sub Admin/Page_Admin List/th_Action'))
+
+CustomKeywords.'com.reusableComponent.HighlightElement.run'(findTestObject('Sub Admin/Page_Admin List/table_NameCountryApp TypeCreated DatetimeLast Login DatetimeLast login IPAccount StatusAction'))
+
+WebUI.verifyElementVisible(findTestObject('Sub Admin/Page_Admin List/table_NameCountryApp TypeCreated DatetimeLast Login DatetimeLast login IPAccount StatusAction'))
+
+WebUI.closeBrowser()
+
