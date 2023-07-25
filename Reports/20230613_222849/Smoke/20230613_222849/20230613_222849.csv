@@ -1,0 +1,51 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+Smoke,Chrome 114.0.0.0,,,2023-06-13 22:29:02,2023-06-13 22:30:24,1m - 21.553s,PASSED
+,,,,,,,
+Test Cases/User/Shareholder/Create,Chrome 114.0.0.0,,,2023-06-13 22:29:03,2023-06-13 22:29:40,36.686s,PASSED
+"callTestCase(findTestCase(""Login Admin""), [:], STOP_ON_FAILURE)",Chrome 114.0.0.0,,,2023-06-13 22:29:04,2023-06-13 22:29:34,30.237s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""User/Page_Dashboard/Member/span_User""))",Chrome 114.0.0.0,,,2023-06-13 22:29:34,2023-06-13 22:29:35,0.751s,PASSED
+"mouseOver(findTestObject(""User/Page_Dashboard/Member/span_User""))",Chrome 114.0.0.0,,,2023-06-13 22:29:35,2023-06-13 22:29:35,0.614s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""User/Page_Dashboard/Shareholder/span_Create""))",Chrome 114.0.0.0,,,2023-06-13 22:29:35,2023-06-13 22:29:36,0.495s,PASSED
+"mouseOver(findTestObject(""User/Page_Dashboard/Shareholder/span_Create""))",Chrome 114.0.0.0,,,2023-06-13 22:29:36,2023-06-13 22:29:36,0.559s,PASSED
+"click(findTestObject(""User/Page_Dashboard/Shareholder/span_Create""))",Chrome 114.0.0.0,,,2023-06-13 22:29:36,2023-06-13 22:29:40,3.286s,PASSED
+,,,,,,,
+Test Cases/User/Shareholder/List,Chrome 114.0.0.0,,,2023-06-13 22:29:40,2023-06-13 22:29:42,2.678s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""User/Page_Dashboard/Member/span_User""))",Chrome 114.0.0.0,,,2023-06-13 22:29:40,2023-06-13 22:29:41,0.468s,PASSED
+"mouseOver(findTestObject(""User/Page_Dashboard/Member/span_User""))",Chrome 114.0.0.0,,,2023-06-13 22:29:41,2023-06-13 22:29:41,0.545s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""User/Page_Dashboard/Shareholder/span_List_User""))",Chrome 114.0.0.0,,,2023-06-13 22:29:41,2023-06-13 22:29:42,0.469s,PASSED
+"mouseOver(findTestObject(""User/Page_Dashboard/Shareholder/span_List_User""))",Chrome 114.0.0.0,,,2023-06-13 22:29:42,2023-06-13 22:29:42,0.568s,PASSED
+,,,,,,,
+Test Cases/User/Shareholder/Limited List,Chrome 114.0.0.0,,,2023-06-13 22:29:42,2023-06-13 22:29:47,4.529s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""User/Page_Dashboard/Member/span_User""))",Chrome 114.0.0.0,,,2023-06-13 22:29:43,2023-06-13 22:29:44,0.516s,PASSED
+"mouseOver(findTestObject(""User/Page_Dashboard/Member/span_User""))",Chrome 114.0.0.0,,,2023-06-13 22:29:44,2023-06-13 22:29:44,0.560s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""User/Page_Dashboard/Shareholder/span_Limited List_User""))",Chrome 114.0.0.0,,,2023-06-13 22:29:44,2023-06-13 22:29:45,0.468s,PASSED
+"mouseOver(findTestObject(""User/Page_Dashboard/Shareholder/span_Limited List_User""))",Chrome 114.0.0.0,,,2023-06-13 22:29:45,2023-06-13 22:29:45,0.552s,PASSED
+"click(findTestObject(""User/Page_Dashboard/Shareholder/span_Limited List_User""))",Chrome 114.0.0.0,,,2023-06-13 22:29:45,2023-06-13 22:29:47,1.734s,PASSED
+,,,,,,,
+Test Cases/User/Shareholder/All Wallet,Chrome 114.0.0.0,,,2023-06-13 22:29:47,2023-06-13 22:30:00,12.902s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""User/Page_Dashboard/Member/span_User""))",Chrome 114.0.0.0,,,2023-06-13 22:29:48,2023-06-13 22:29:57,9.164s,PASSED
+"mouseOver(findTestObject(""User/Page_Dashboard/Member/span_User""))",Chrome 114.0.0.0,,,2023-06-13 22:29:57,2023-06-13 22:29:57,0.579s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""User/Page_Dashboard/Shareholder/span_All Wallet""))",Chrome 114.0.0.0,,,2023-06-13 22:29:57,2023-06-13 22:29:58,0.984s,PASSED
+"mouseOver(findTestObject(""User/Page_Dashboard/Shareholder/span_All Wallet""))",Chrome 114.0.0.0,,,2023-06-13 22:29:58,2023-06-13 22:29:59,1.103s,PASSED
+"click(findTestObject(""User/Page_Dashboard/Shareholder/span_All Wallet""))",Chrome 114.0.0.0,,,2023-06-13 22:29:59,2023-06-13 22:30:00,0.475s,PASSED
+,,,,,,,
+Test Cases/User/Shareholder/Negative Wallet,Chrome 114.0.0.0,,,2023-06-13 22:30:00,2023-06-13 22:30:16,15.996s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""User/Page_Dashboard/Member/span_User""))",Chrome 114.0.0.0,,,2023-06-13 22:30:00,2023-06-13 22:30:01,0.998s,PASSED
+"mouseOver(findTestObject(""User/Page_Dashboard/Member/span_User""))",Chrome 114.0.0.0,,,2023-06-13 22:30:01,2023-06-13 22:30:02,0.524s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""User/Page_Dashboard/Shareholder/span_Negative Wallet""))",Chrome 114.0.0.0,,,2023-06-13 22:30:02,2023-06-13 22:30:03,0.802s,PASSED
+"mouseOver(findTestObject(""User/Page_Dashboard/Shareholder/span_Negative Wallet""))",Chrome 114.0.0.0,,,2023-06-13 22:30:03,2023-06-13 22:30:15,12.582s,PASSED
+"click(findTestObject(""User/Page_Dashboard/Shareholder/span_Negative Wallet""))",Chrome 114.0.0.0,,,2023-06-13 22:30:15,2023-06-13 22:30:16,0.438s,PASSED
+,,,,,,,
+Test Cases/User/Shareholder/Positive Wallet,Chrome 114.0.0.0,,,2023-06-13 22:30:16,2023-06-13 22:30:19,3.038s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""User/Page_Dashboard/Member/span_User""))",Chrome 114.0.0.0,,,2023-06-13 22:30:16,2023-06-13 22:30:17,0.439s,PASSED
+"mouseOver(findTestObject(""User/Page_Dashboard/Member/span_User""))",Chrome 114.0.0.0,,,2023-06-13 22:30:17,2023-06-13 22:30:17,0.535s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""User/Page_Dashboard/Shareholder/span_Positive Wallet""))",Chrome 114.0.0.0,,,2023-06-13 22:30:17,2023-06-13 22:30:18,0.440s,PASSED
+"mouseOver(findTestObject(""User/Page_Dashboard/Shareholder/span_Positive Wallet""))",Chrome 114.0.0.0,,,2023-06-13 22:30:18,2023-06-13 22:30:18,0.649s,PASSED
+"click(findTestObject(""User/Page_Dashboard/Shareholder/span_Positive Wallet""))",Chrome 114.0.0.0,,,2023-06-13 22:30:18,2023-06-13 22:30:19,0.454s,PASSED
+,,,,,,,
+Test Cases/User/Shareholder/Duplicate IP Logins,Chrome 114.0.0.0,,,2023-06-13 22:30:19,2023-06-13 22:30:24,4.970s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""User/Page_Dashboard/Member/span_User""))",Chrome 114.0.0.0,,,2023-06-13 22:30:19,2023-06-13 22:30:20,0.446s,PASSED
+"mouseOver(findTestObject(""User/Page_Dashboard/Member/span_User""))",Chrome 114.0.0.0,,,2023-06-13 22:30:20,2023-06-13 22:30:20,0.583s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""User/Page_Dashboard/Shareholder/span_Duplicate IP Logins""))",Chrome 114.0.0.0,,,2023-06-13 22:30:20,2023-06-13 22:30:21,0.984s,PASSED
+"mouseOver(findTestObject(""User/Page_Dashboard/Shareholder/span_Duplicate IP Logins""))",Chrome 114.0.0.0,,,2023-06-13 22:30:21,2023-06-13 22:30:22,0.649s,PASSED
+"click(findTestObject(""User/Page_Dashboard/Shareholder/span_Duplicate IP Logins""))",Chrome 114.0.0.0,,,2023-06-13 22:30:22,2023-06-13 22:30:24,1.813s,PASSED
