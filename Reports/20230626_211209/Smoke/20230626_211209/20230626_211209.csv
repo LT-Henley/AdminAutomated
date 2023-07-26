@@ -1,0 +1,403 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+Smoke,Chrome 114.0.0.0,,,2023-06-26 21:12:21,2023-06-26 21:16:18,3m - 57.361s,PASSED
+,,,,,,,
+Test Cases/User/Member/List MYR,Chrome 114.0.0.0,,,2023-06-26 21:12:22,2023-06-26 21:13:35,1m - 13.673s,PASSED
+"callTestCase(findTestCase(""Login Admin""), [:], STOP_ON_FAILURE)",Chrome 114.0.0.0,,,2023-06-26 21:12:22,2023-06-26 21:12:46,23.474s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""User/Member/span_User""))",Chrome 114.0.0.0,,,2023-06-26 21:12:46,2023-06-26 21:12:47,0.798s,PASSED
+"mouseOver(findTestObject(""User/Member/span_User""))",Chrome 114.0.0.0,,,2023-06-26 21:12:47,2023-06-26 21:12:47,0.667s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""User/Member/span_List""))",Chrome 114.0.0.0,,,2023-06-26 21:12:47,2023-06-26 21:12:48,0.492s,PASSED
+"mouseOver(findTestObject(""User/Member/span_List""))",Chrome 114.0.0.0,,,2023-06-26 21:12:48,2023-06-26 21:12:49,0.610s,PASSED
+"click(findTestObject(""User/Member/span_List""))",Chrome 114.0.0.0,,,2023-06-26 21:12:49,2023-06-26 21:12:49,0.547s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""User/Member/Page_Dashboard/span_MYR""))",Chrome 114.0.0.0,,,2023-06-26 21:12:49,2023-06-26 21:12:50,0.507s,PASSED
+"mouseOver(findTestObject(""User/Member/Page_Dashboard/span_MYR""))",Chrome 114.0.0.0,,,2023-06-26 21:12:50,2023-06-26 21:12:50,0.616s,PASSED
+"click(findTestObject(""User/Member/Page_Dashboard/span_MYR""))",Chrome 114.0.0.0,,,2023-06-26 21:12:50,2023-06-26 21:12:52,1.844s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""User/Member/Page_Member List/h3_Member List""))",Chrome 114.0.0.0,,,2023-06-26 21:12:52,2023-06-26 21:13:01,8.851s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""User/Member/Page_Member List/input_Username_member_username""))",Chrome 114.0.0.0,,,2023-06-26 21:13:01,2023-06-26 21:13:01,0.567s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""User/Member/Page_Member List/input_MPU_member_product_username""))",Chrome 114.0.0.0,,,2023-06-26 21:13:01,2023-06-26 21:13:02,0.507s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""User/Member/Page_Member List/input_Phone_member_phone_number""))",Chrome 114.0.0.0,,,2023-06-26 21:13:02,2023-06-26 21:13:03,0.548s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""User/Member/Page_Member List/select_All""))",Chrome 114.0.0.0,,,2023-06-26 21:13:03,2023-06-26 21:13:03,0.532s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""User/Member/Page_Member List/select_AllPlayer""))",Chrome 114.0.0.0,,,2023-06-26 21:13:03,2023-06-26 21:13:04,0.508s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""User/Member/Page_Member List/button_Search""))",Chrome 114.0.0.0,,,2023-06-26 21:13:04,2023-06-26 21:13:04,0.515s,PASSED
+"verifyElementVisible(findTestObject(""User/Member/Page_Member List/h3_Member List""))",Chrome 114.0.0.0,,,2023-06-26 21:13:04,2023-06-26 21:13:05,0.487s,PASSED
+"verifyElementVisible(findTestObject(""User/Member/Page_Member List/input_Username_member_username""))",Chrome 114.0.0.0,,,2023-06-26 21:13:05,2023-06-26 21:13:05,0.437s,PASSED
+"verifyElementVisible(findTestObject(""User/Member/Page_Member List/input_MPU_member_product_username""))",Chrome 114.0.0.0,,,2023-06-26 21:13:05,2023-06-26 21:13:05,0.439s,PASSED
+"verifyElementVisible(findTestObject(""User/Member/Page_Member List/input_Phone_member_phone_number""))",Chrome 114.0.0.0,,,2023-06-26 21:13:05,2023-06-26 21:13:06,0.462s,PASSED
+"verifyElementVisible(findTestObject(""User/Member/Page_Member List/select_All""))",Chrome 114.0.0.0,,,2023-06-26 21:13:06,2023-06-26 21:13:06,0.526s,PASSED
+"verifyElementVisible(findTestObject(""User/Member/Page_Member List/select_AllPlayer""))",Chrome 114.0.0.0,,,2023-06-26 21:13:06,2023-06-26 21:13:07,0.436s,PASSED
+"verifyElementVisible(findTestObject(""User/Member/Page_Member List/button_Search""))",Chrome 114.0.0.0,,,2023-06-26 21:13:07,2023-06-26 21:13:07,0.394s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""User/Member/Page_Member List/select_102550100""))",Chrome 114.0.0.0,,,2023-06-26 21:13:07,2023-06-26 21:13:08,0.548s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""User/Member/Page_Member List/span_Copy""))",Chrome 114.0.0.0,,,2023-06-26 21:13:08,2023-06-26 21:13:08,0.472s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""User/Member/Page_Member List/span_CSV""))",Chrome 114.0.0.0,,,2023-06-26 21:13:08,2023-06-26 21:13:09,0.533s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""User/Member/Page_Member List/span_Excel""))",Chrome 114.0.0.0,,,2023-06-26 21:13:09,2023-06-26 21:13:09,0.516s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""User/Member/Page_Member List/span_PDF""))",Chrome 114.0.0.0,,,2023-06-26 21:13:09,2023-06-26 21:13:10,0.496s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""User/Member/Page_Member List/input_Search_form-control form-control-sm""))",Chrome 114.0.0.0,,,2023-06-26 21:13:10,2023-06-26 21:13:10,0.505s,PASSED
+"verifyElementVisible(findTestObject(""User/Member/Page_Member List/select_102550100""))",Chrome 114.0.0.0,,,2023-06-26 21:13:10,2023-06-26 21:13:11,0.434s,PASSED
+"verifyElementVisible(findTestObject(""User/Member/Page_Member List/span_Copy""))",Chrome 114.0.0.0,,,2023-06-26 21:13:11,2023-06-26 21:13:11,0.435s,PASSED
+"verifyElementVisible(findTestObject(""User/Member/Page_Member List/span_CSV""))",Chrome 114.0.0.0,,,2023-06-26 21:13:11,2023-06-26 21:13:12,0.438s,PASSED
+"verifyElementVisible(findTestObject(""User/Member/Page_Member List/span_Excel""))",Chrome 114.0.0.0,,,2023-06-26 21:13:12,2023-06-26 21:13:12,0.437s,PASSED
+"verifyElementVisible(findTestObject(""User/Member/Page_Member List/span_PDF""))",Chrome 114.0.0.0,,,2023-06-26 21:13:12,2023-06-26 21:13:12,0.429s,PASSED
+"verifyElementVisible(findTestObject(""User/Member/Page_Member List/input_Search_form-control form-control-sm""))",Chrome 114.0.0.0,,,2023-06-26 21:13:12,2023-06-26 21:13:13,0.431s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""User/Member/Page_Member List/th_ID""))",Chrome 114.0.0.0,,,2023-06-26 21:13:13,2023-06-26 21:13:13,0.492s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""User/Member/Page_Member List/th_Name""))",Chrome 114.0.0.0,,,2023-06-26 21:13:13,2023-06-26 21:13:14,0.470s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""User/Member/Page_Member List/th_Full Name""))",Chrome 114.0.0.0,,,2023-06-26 21:13:14,2023-06-26 21:13:14,0.483s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""User/Member/Page_Member List/th_Nickname""))",Chrome 114.0.0.0,,,2023-06-26 21:13:14,2023-06-26 21:13:15,0.483s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""User/Member/Page_Member List/th_Level""))",Chrome 114.0.0.0,,,2023-06-26 21:13:15,2023-06-26 21:13:15,0.496s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""User/Member/Page_Member List/th_Upline Name""))",Chrome 114.0.0.0,,,2023-06-26 21:13:15,2023-06-26 21:13:16,0.489s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""User/Member/Page_Member List/th_Shareholder name""))",Chrome 114.0.0.0,,,2023-06-26 21:13:16,2023-06-26 21:13:16,0.497s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""User/Member/Page_Member List/th_Phone""))",Chrome 114.0.0.0,,,2023-06-26 21:13:16,2023-06-26 21:13:17,0.478s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""User/Member/Page_Member List/th_Status""))",Chrome 114.0.0.0,,,2023-06-26 21:13:17,2023-06-26 21:13:17,0.566s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""User/Member/Page_Member List/th_Remarks""))",Chrome 114.0.0.0,,,2023-06-26 21:13:17,2023-06-26 21:13:18,0.521s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""User/Member/Page_Member List/th_Cash""))",Chrome 114.0.0.0,,,2023-06-26 21:13:18,2023-06-26 21:13:18,0.487s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""User/Member/Page_Member List/th_Coin""))",Chrome 114.0.0.0,,,2023-06-26 21:13:18,2023-06-26 21:13:19,0.504s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""User/Member/Page_Member List/th_Interest""))",Chrome 114.0.0.0,,,2023-06-26 21:13:19,2023-06-26 21:13:19,0.499s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""User/Member/Page_Member List/th_Password Otp""))",Chrome 114.0.0.0,,,2023-06-26 21:13:19,2023-06-26 21:13:20,0.508s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""User/Member/Page_Member List/th_Phone Otp""))",Chrome 114.0.0.0,,,2023-06-26 21:13:20,2023-06-26 21:13:20,0.598s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""User/Member/Page_Member List/th_Last login IP""))",Chrome 114.0.0.0,,,2023-06-26 21:13:21,2023-06-26 21:13:21,0.518s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""User/Member/Page_Member List/th_Last login time""))",Chrome 114.0.0.0,,,2023-06-26 21:13:21,2023-06-26 21:13:22,0.689s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""User/Member/Page_Member List/th_App Type""))",Chrome 114.0.0.0,,,2023-06-26 21:13:22,2023-06-26 21:13:22,0.673s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""User/Member/Page_Member List/th_Action""))",Chrome 114.0.0.0,,,2023-06-26 21:13:22,2023-06-26 21:13:23,0.549s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""User/Member/Page_Member List/table_IDNameFull NameNicknameLevelUpline NameShareholder namePhoneStatusRemarksCashCoinInterestPassword OtpPhone OtpLast login IPLast login timeApp TypeAction""))",Chrome 114.0.0.0,,,2023-06-26 21:13:23,2023-06-26 21:13:24,0.727s,PASSED
+"verifyElementVisible(findTestObject(""User/Member/Page_Member List/th_ID""))",Chrome 114.0.0.0,,,2023-06-26 21:13:24,2023-06-26 21:13:24,0.424s,PASSED
+"verifyElementVisible(findTestObject(""User/Member/Page_Member List/th_Name""))",Chrome 114.0.0.0,,,2023-06-26 21:13:24,2023-06-26 21:13:25,0.461s,PASSED
+"verifyElementVisible(findTestObject(""User/Member/Page_Member List/th_Full Name""))",Chrome 114.0.0.0,,,2023-06-26 21:13:25,2023-06-26 21:13:25,0.484s,PASSED
+"verifyElementVisible(findTestObject(""User/Member/Page_Member List/th_Nickname""))",Chrome 114.0.0.0,,,2023-06-26 21:13:25,2023-06-26 21:13:25,0.440s,PASSED
+"verifyElementVisible(findTestObject(""User/Member/Page_Member List/th_Level""))",Chrome 114.0.0.0,,,2023-06-26 21:13:25,2023-06-26 21:13:26,0.440s,PASSED
+"verifyElementVisible(findTestObject(""User/Member/Page_Member List/th_Upline Name""))",Chrome 114.0.0.0,,,2023-06-26 21:13:26,2023-06-26 21:13:26,0.436s,PASSED
+"verifyElementVisible(findTestObject(""User/Member/Page_Member List/th_Shareholder name""))",Chrome 114.0.0.0,,,2023-06-26 21:13:26,2023-06-26 21:13:27,0.449s,PASSED
+"verifyElementVisible(findTestObject(""User/Member/Page_Member List/th_Phone""))",Chrome 114.0.0.0,,,2023-06-26 21:13:27,2023-06-26 21:13:27,0.416s,PASSED
+"verifyElementVisible(findTestObject(""User/Member/Page_Member List/th_Status""))",Chrome 114.0.0.0,,,2023-06-26 21:13:27,2023-06-26 21:13:28,0.498s,PASSED
+"verifyElementVisible(findTestObject(""User/Member/Page_Member List/th_Remarks""))",Chrome 114.0.0.0,,,2023-06-26 21:13:28,2023-06-26 21:13:28,0.441s,PASSED
+"verifyElementVisible(findTestObject(""User/Member/Page_Member List/th_Cash""))",Chrome 114.0.0.0,,,2023-06-26 21:13:28,2023-06-26 21:13:29,0.479s,PASSED
+"verifyElementVisible(findTestObject(""User/Member/Page_Member List/th_Coin""))",Chrome 114.0.0.0,,,2023-06-26 21:13:29,2023-06-26 21:13:29,0.498s,PASSED
+"verifyElementVisible(findTestObject(""User/Member/Page_Member List/th_Interest""))",Chrome 114.0.0.0,,,2023-06-26 21:13:29,2023-06-26 21:13:30,0.660s,PASSED
+"verifyElementVisible(findTestObject(""User/Member/Page_Member List/th_Password Otp""))",Chrome 114.0.0.0,,,2023-06-26 21:13:30,2023-06-26 21:13:30,0.565s,PASSED
+"verifyElementVisible(findTestObject(""User/Member/Page_Member List/th_Phone Otp""))",Chrome 114.0.0.0,,,2023-06-26 21:13:30,2023-06-26 21:13:31,0.499s,PASSED
+"verifyElementVisible(findTestObject(""User/Member/Page_Member List/th_Last login IP""))",Chrome 114.0.0.0,,,2023-06-26 21:13:31,2023-06-26 21:13:31,0.461s,PASSED
+"verifyElementVisible(findTestObject(""User/Member/Page_Member List/th_Last login time""))",Chrome 114.0.0.0,,,2023-06-26 21:13:31,2023-06-26 21:13:32,0.433s,PASSED
+"verifyElementVisible(findTestObject(""User/Member/Page_Member List/th_App Type""))",Chrome 114.0.0.0,,,2023-06-26 21:13:32,2023-06-26 21:13:32,0.449s,PASSED
+"verifyElementVisible(findTestObject(""User/Member/Page_Member List/th_Action""))",Chrome 114.0.0.0,,,2023-06-26 21:13:32,2023-06-26 21:13:33,0.410s,PASSED
+"verifyElementVisible(findTestObject(""User/Member/Page_Member List/table_IDNameFull NameNicknameLevelUpline NameShareholder namePhoneStatusRemarksCashCoinInterestPassword OtpPhone OtpLast login IPLast login timeApp TypeAction""))",Chrome 114.0.0.0,,,2023-06-26 21:13:33,2023-06-26 21:13:33,0.723s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""User/Member/Page_Member List/li_Previous""))",Chrome 114.0.0.0,,,2023-06-26 21:13:33,2023-06-26 21:13:34,0.530s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""User/Member/Page_Member List/a_Next""))",Chrome 114.0.0.0,,,2023-06-26 21:13:34,2023-06-26 21:13:34,0.487s,PASSED
+"verifyElementVisible(findTestObject(""User/Member/Page_Member List/li_Previous""))",Chrome 114.0.0.0,,,2023-06-26 21:13:34,2023-06-26 21:13:35,0.429s,PASSED
+"verifyElementVisible(findTestObject(""User/Member/Page_Member List/a_Next""))",Chrome 114.0.0.0,,,2023-06-26 21:13:35,2023-06-26 21:13:35,0.439s,PASSED
+,,,,,,,
+Test Cases/User/Member/List THB,Chrome 114.0.0.0,,,2023-06-26 21:13:35,2023-06-26 21:14:16,41.083s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""User/Member/span_User""))",Chrome 114.0.0.0,,,2023-06-26 21:13:36,2023-06-26 21:13:36,0.516s,PASSED
+"mouseOver(findTestObject(""User/Member/span_User""))",Chrome 114.0.0.0,,,2023-06-26 21:13:36,2023-06-26 21:13:37,0.563s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""User/Member/span_List""))",Chrome 114.0.0.0,,,2023-06-26 21:13:37,2023-06-26 21:13:37,0.488s,PASSED
+"mouseOver(findTestObject(""User/Member/span_List""))",Chrome 114.0.0.0,,,2023-06-26 21:13:37,2023-06-26 21:13:38,0.567s,PASSED
+"click(findTestObject(""User/Member/span_List""))",Chrome 114.0.0.0,,,2023-06-26 21:13:38,2023-06-26 21:13:39,0.496s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""User/Member/Page_Dashboard/span_THB""))",Chrome 114.0.0.0,,,2023-06-26 21:13:39,2023-06-26 21:13:39,0.486s,PASSED
+"mouseOver(findTestObject(""User/Member/Page_Dashboard/span_THB""))",Chrome 114.0.0.0,,,2023-06-26 21:13:39,2023-06-26 21:13:40,0.565s,PASSED
+"click(findTestObject(""User/Member/Page_Dashboard/span_THB""))",Chrome 114.0.0.0,,,2023-06-26 21:13:40,2023-06-26 21:13:42,2.006s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""User/Member/Page_Member List/h3_Member List""))",Chrome 114.0.0.0,,,2023-06-26 21:13:42,2023-06-26 21:13:44,2.608s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""User/Member/Page_Member List/input_Username_member_username""))",Chrome 114.0.0.0,,,2023-06-26 21:13:44,2023-06-26 21:13:45,0.497s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""User/Member/Page_Member List/input_MPU_member_product_username""))",Chrome 114.0.0.0,,,2023-06-26 21:13:45,2023-06-26 21:13:45,0.473s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""User/Member/Page_Member List/input_Phone_member_phone_number""))",Chrome 114.0.0.0,,,2023-06-26 21:13:45,2023-06-26 21:13:46,0.466s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""User/Member/Page_Member List/select_All""))",Chrome 114.0.0.0,,,2023-06-26 21:13:46,2023-06-26 21:13:46,0.542s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""User/Member/Page_Member List/select_AllPlayer""))",Chrome 114.0.0.0,,,2023-06-26 21:13:46,2023-06-26 21:13:47,0.545s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""User/Member/Page_Member List/button_Search""))",Chrome 114.0.0.0,,,2023-06-26 21:13:47,2023-06-26 21:13:47,0.465s,PASSED
+"verifyElementVisible(findTestObject(""User/Member/Page_Member List/h3_Member List""))",Chrome 114.0.0.0,,,2023-06-26 21:13:47,2023-06-26 21:13:48,0.455s,PASSED
+"verifyElementVisible(findTestObject(""User/Member/Page_Member List/input_Username_member_username""))",Chrome 114.0.0.0,,,2023-06-26 21:13:48,2023-06-26 21:13:48,0.450s,PASSED
+"verifyElementVisible(findTestObject(""User/Member/Page_Member List/input_MPU_member_product_username""))",Chrome 114.0.0.0,,,2023-06-26 21:13:48,2023-06-26 21:13:49,0.435s,PASSED
+"verifyElementVisible(findTestObject(""User/Member/Page_Member List/input_Phone_member_phone_number""))",Chrome 114.0.0.0,,,2023-06-26 21:13:49,2023-06-26 21:13:49,0.418s,PASSED
+"verifyElementVisible(findTestObject(""User/Member/Page_Member List/select_All""))",Chrome 114.0.0.0,,,2023-06-26 21:13:49,2023-06-26 21:13:49,0.407s,PASSED
+"verifyElementVisible(findTestObject(""User/Member/Page_Member List/select_AllPlayer""))",Chrome 114.0.0.0,,,2023-06-26 21:13:49,2023-06-26 21:13:50,0.439s,PASSED
+"verifyElementVisible(findTestObject(""User/Member/Page_Member List/button_Search""))",Chrome 114.0.0.0,,,2023-06-26 21:13:50,2023-06-26 21:13:50,0.410s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""User/Member/Page_Member List/select_102550100""))",Chrome 114.0.0.0,,,2023-06-26 21:13:50,2023-06-26 21:13:51,0.505s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""User/Member/Page_Member List/span_Copy""))",Chrome 114.0.0.0,,,2023-06-26 21:13:51,2023-06-26 21:13:51,0.483s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""User/Member/Page_Member List/span_CSV""))",Chrome 114.0.0.0,,,2023-06-26 21:13:51,2023-06-26 21:13:52,0.596s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""User/Member/Page_Member List/span_Excel""))",Chrome 114.0.0.0,,,2023-06-26 21:13:52,2023-06-26 21:13:52,0.481s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""User/Member/Page_Member List/span_PDF""))",Chrome 114.0.0.0,,,2023-06-26 21:13:52,2023-06-26 21:13:53,0.471s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""User/Member/Page_Member List/input_Search_form-control form-control-sm""))",Chrome 114.0.0.0,,,2023-06-26 21:13:53,2023-06-26 21:13:53,0.574s,PASSED
+"verifyElementVisible(findTestObject(""User/Member/Page_Member List/select_102550100""))",Chrome 114.0.0.0,,,2023-06-26 21:13:53,2023-06-26 21:13:54,0.416s,PASSED
+"verifyElementVisible(findTestObject(""User/Member/Page_Member List/span_Copy""))",Chrome 114.0.0.0,,,2023-06-26 21:13:54,2023-06-26 21:13:54,0.420s,PASSED
+"verifyElementVisible(findTestObject(""User/Member/Page_Member List/span_CSV""))",Chrome 114.0.0.0,,,2023-06-26 21:13:54,2023-06-26 21:13:55,0.423s,PASSED
+"verifyElementVisible(findTestObject(""User/Member/Page_Member List/span_Excel""))",Chrome 114.0.0.0,,,2023-06-26 21:13:55,2023-06-26 21:13:55,0.423s,PASSED
+"verifyElementVisible(findTestObject(""User/Member/Page_Member List/span_PDF""))",Chrome 114.0.0.0,,,2023-06-26 21:13:55,2023-06-26 21:13:55,0.427s,PASSED
+"verifyElementVisible(findTestObject(""User/Member/Page_Member List/input_Search_form-control form-control-sm""))",Chrome 114.0.0.0,,,2023-06-26 21:13:55,2023-06-26 21:13:56,0.434s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""User/Member/Page_Member List/th_ID""))",Chrome 114.0.0.0,,,2023-06-26 21:13:56,2023-06-26 21:13:56,0.468s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""User/Member/Page_Member List/th_Name""))",Chrome 114.0.0.0,,,2023-06-26 21:13:56,2023-06-26 21:13:57,0.443s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""User/Member/Page_Member List/th_Full Name""))",Chrome 114.0.0.0,,,2023-06-26 21:13:57,2023-06-26 21:13:57,0.471s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""User/Member/Page_Member List/th_Nickname""))",Chrome 114.0.0.0,,,2023-06-26 21:13:57,2023-06-26 21:13:58,0.628s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""User/Member/Page_Member List/th_Level""))",Chrome 114.0.0.0,,,2023-06-26 21:13:58,2023-06-26 21:13:58,0.504s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""User/Member/Page_Member List/th_Upline Name""))",Chrome 114.0.0.0,,,2023-06-26 21:13:58,2023-06-26 21:13:59,0.662s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""User/Member/Page_Member List/th_Shareholder name""))",Chrome 114.0.0.0,,,2023-06-26 21:13:59,2023-06-26 21:14:00,0.487s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""User/Member/Page_Member List/th_Phone""))",Chrome 114.0.0.0,,,2023-06-26 21:14:00,2023-06-26 21:14:00,0.483s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""User/Member/Page_Member List/th_Status""))",Chrome 114.0.0.0,,,2023-06-26 21:14:00,2023-06-26 21:14:00,0.473s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""User/Member/Page_Member List/th_Remarks""))",Chrome 114.0.0.0,,,2023-06-26 21:14:00,2023-06-26 21:14:01,0.446s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""User/Member/Page_Member List/th_Cash""))",Chrome 114.0.0.0,,,2023-06-26 21:14:01,2023-06-26 21:14:01,0.483s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""User/Member/Page_Member List/th_Coin""))",Chrome 114.0.0.0,,,2023-06-26 21:14:01,2023-06-26 21:14:02,0.498s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""User/Member/Page_Member List/th_Interest""))",Chrome 114.0.0.0,,,2023-06-26 21:14:02,2023-06-26 21:14:02,0.484s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""User/Member/Page_Member List/th_Password Otp""))",Chrome 114.0.0.0,,,2023-06-26 21:14:02,2023-06-26 21:14:03,0.482s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""User/Member/Page_Member List/th_Phone Otp""))",Chrome 114.0.0.0,,,2023-06-26 21:14:03,2023-06-26 21:14:03,0.471s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""User/Member/Page_Member List/th_Last login IP""))",Chrome 114.0.0.0,,,2023-06-26 21:14:03,2023-06-26 21:14:04,0.512s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""User/Member/Page_Member List/th_Last login time""))",Chrome 114.0.0.0,,,2023-06-26 21:14:04,2023-06-26 21:14:04,0.514s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""User/Member/Page_Member List/th_App Type""))",Chrome 114.0.0.0,,,2023-06-26 21:14:04,2023-06-26 21:14:05,0.482s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""User/Member/Page_Member List/th_Action""))",Chrome 114.0.0.0,,,2023-06-26 21:14:05,2023-06-26 21:14:05,0.473s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""User/Member/Page_Member List/table_IDNameFull NameNicknameLevelUpline NameShareholder namePhoneStatusRemarksCashCoinInterestPassword OtpPhone OtpLast login IPLast login timeApp TypeAction""))",Chrome 114.0.0.0,,,2023-06-26 21:14:05,2023-06-26 21:14:06,0.494s,PASSED
+"verifyElementVisible(findTestObject(""User/Member/Page_Member List/th_ID""))",Chrome 114.0.0.0,,,2023-06-26 21:14:06,2023-06-26 21:14:06,0.438s,PASSED
+"verifyElementVisible(findTestObject(""User/Member/Page_Member List/th_Name""))",Chrome 114.0.0.0,,,2023-06-26 21:14:06,2023-06-26 21:14:07,0.442s,PASSED
+"verifyElementVisible(findTestObject(""User/Member/Page_Member List/th_Full Name""))",Chrome 114.0.0.0,,,2023-06-26 21:14:07,2023-06-26 21:14:07,0.416s,PASSED
+"verifyElementVisible(findTestObject(""User/Member/Page_Member List/th_Nickname""))",Chrome 114.0.0.0,,,2023-06-26 21:14:07,2023-06-26 21:14:08,0.452s,PASSED
+"verifyElementVisible(findTestObject(""User/Member/Page_Member List/th_Level""))",Chrome 114.0.0.0,,,2023-06-26 21:14:08,2023-06-26 21:14:08,0.448s,PASSED
+"verifyElementVisible(findTestObject(""User/Member/Page_Member List/th_Upline Name""))",Chrome 114.0.0.0,,,2023-06-26 21:14:08,2023-06-26 21:14:08,0.434s,PASSED
+"verifyElementVisible(findTestObject(""User/Member/Page_Member List/th_Shareholder name""))",Chrome 114.0.0.0,,,2023-06-26 21:14:08,2023-06-26 21:14:09,0.426s,PASSED
+"verifyElementVisible(findTestObject(""User/Member/Page_Member List/th_Phone""))",Chrome 114.0.0.0,,,2023-06-26 21:14:09,2023-06-26 21:14:09,0.409s,PASSED
+"verifyElementVisible(findTestObject(""User/Member/Page_Member List/th_Status""))",Chrome 114.0.0.0,,,2023-06-26 21:14:09,2023-06-26 21:14:10,0.420s,PASSED
+"verifyElementVisible(findTestObject(""User/Member/Page_Member List/th_Remarks""))",Chrome 114.0.0.0,,,2023-06-26 21:14:10,2023-06-26 21:14:10,0.409s,PASSED
+"verifyElementVisible(findTestObject(""User/Member/Page_Member List/th_Cash""))",Chrome 114.0.0.0,,,2023-06-26 21:14:10,2023-06-26 21:14:11,0.423s,PASSED
+"verifyElementVisible(findTestObject(""User/Member/Page_Member List/th_Coin""))",Chrome 114.0.0.0,,,2023-06-26 21:14:11,2023-06-26 21:14:11,0.440s,PASSED
+"verifyElementVisible(findTestObject(""User/Member/Page_Member List/th_Interest""))",Chrome 114.0.0.0,,,2023-06-26 21:14:11,2023-06-26 21:14:11,0.514s,PASSED
+"verifyElementVisible(findTestObject(""User/Member/Page_Member List/th_Password Otp""))",Chrome 114.0.0.0,,,2023-06-26 21:14:11,2023-06-26 21:14:12,0.448s,PASSED
+"verifyElementVisible(findTestObject(""User/Member/Page_Member List/th_Phone Otp""))",Chrome 114.0.0.0,,,2023-06-26 21:14:12,2023-06-26 21:14:12,0.432s,PASSED
+"verifyElementVisible(findTestObject(""User/Member/Page_Member List/th_Last login IP""))",Chrome 114.0.0.0,,,2023-06-26 21:14:12,2023-06-26 21:14:13,0.432s,PASSED
+"verifyElementVisible(findTestObject(""User/Member/Page_Member List/th_Last login time""))",Chrome 114.0.0.0,,,2023-06-26 21:14:13,2023-06-26 21:14:13,0.421s,PASSED
+"verifyElementVisible(findTestObject(""User/Member/Page_Member List/th_App Type""))",Chrome 114.0.0.0,,,2023-06-26 21:14:13,2023-06-26 21:14:14,0.451s,PASSED
+"verifyElementVisible(findTestObject(""User/Member/Page_Member List/th_Action""))",Chrome 114.0.0.0,,,2023-06-26 21:14:14,2023-06-26 21:14:14,0.415s,PASSED
+"verifyElementVisible(findTestObject(""User/Member/Page_Member List/table_IDNameFull NameNicknameLevelUpline NameShareholder namePhoneStatusRemarksCashCoinInterestPassword OtpPhone OtpLast login IPLast login timeApp TypeAction""))",Chrome 114.0.0.0,,,2023-06-26 21:14:14,2023-06-26 21:14:15,0.424s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""User/Member/Page_Member List/li_Previous""))",Chrome 114.0.0.0,,,2023-06-26 21:14:15,2023-06-26 21:14:15,0.488s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""User/Member/Page_Member List/a_Next""))",Chrome 114.0.0.0,,,2023-06-26 21:14:15,2023-06-26 21:14:15,0.471s,PASSED
+"verifyElementVisible(findTestObject(""User/Member/Page_Member List/li_Previous""))",Chrome 114.0.0.0,,,2023-06-26 21:14:15,2023-06-26 21:14:16,0.413s,PASSED
+"verifyElementVisible(findTestObject(""User/Member/Page_Member List/a_Next""))",Chrome 114.0.0.0,,,2023-06-26 21:14:16,2023-06-26 21:14:16,0.417s,PASSED
+,,,,,,,
+Test Cases/User/Member/List IDR,Chrome 114.0.0.0,,,2023-06-26 21:14:16,2023-06-26 21:14:55,38.876s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""User/Member/span_User""))",Chrome 114.0.0.0,,,2023-06-26 21:14:17,2023-06-26 21:14:17,0.453s,PASSED
+"mouseOver(findTestObject(""User/Member/span_User""))",Chrome 114.0.0.0,,,2023-06-26 21:14:17,2023-06-26 21:14:18,0.574s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""User/Member/span_List""))",Chrome 114.0.0.0,,,2023-06-26 21:14:18,2023-06-26 21:14:18,0.486s,PASSED
+"mouseOver(findTestObject(""User/Member/span_List""))",Chrome 114.0.0.0,,,2023-06-26 21:14:18,2023-06-26 21:14:19,0.569s,PASSED
+"click(findTestObject(""User/Member/span_List""))",Chrome 114.0.0.0,,,2023-06-26 21:14:19,2023-06-26 21:14:20,0.476s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""User/Member/Page_Dashboard/span_IDR""))",Chrome 114.0.0.0,,,2023-06-26 21:14:20,2023-06-26 21:14:20,0.490s,PASSED
+"mouseOver(findTestObject(""User/Member/Page_Dashboard/span_IDR""))",Chrome 114.0.0.0,,,2023-06-26 21:14:20,2023-06-26 21:14:21,0.628s,PASSED
+"click(findTestObject(""User/Member/Page_Dashboard/span_IDR""))",Chrome 114.0.0.0,,,2023-06-26 21:14:21,2023-06-26 21:14:23,1.920s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""User/Member/Page_Member List/h3_Member List""))",Chrome 114.0.0.0,,,2023-06-26 21:14:23,2023-06-26 21:14:24,1.765s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""User/Member/Page_Member List/input_Username_member_username""))",Chrome 114.0.0.0,,,2023-06-26 21:14:24,2023-06-26 21:14:25,0.453s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""User/Member/Page_Member List/input_MPU_member_product_username""))",Chrome 114.0.0.0,,,2023-06-26 21:14:25,2023-06-26 21:14:25,0.453s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""User/Member/Page_Member List/input_Phone_member_phone_number""))",Chrome 114.0.0.0,,,2023-06-26 21:14:25,2023-06-26 21:14:26,0.482s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""User/Member/Page_Member List/select_All""))",Chrome 114.0.0.0,,,2023-06-26 21:14:26,2023-06-26 21:14:26,0.479s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""User/Member/Page_Member List/select_AllPlayer""))",Chrome 114.0.0.0,,,2023-06-26 21:14:26,2023-06-26 21:14:27,0.470s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""User/Member/Page_Member List/button_Search""))",Chrome 114.0.0.0,,,2023-06-26 21:14:27,2023-06-26 21:14:27,0.459s,PASSED
+"verifyElementVisible(findTestObject(""User/Member/Page_Member List/h3_Member List""))",Chrome 114.0.0.0,,,2023-06-26 21:14:27,2023-06-26 21:14:28,0.441s,PASSED
+"verifyElementVisible(findTestObject(""User/Member/Page_Member List/input_Username_member_username""))",Chrome 114.0.0.0,,,2023-06-26 21:14:28,2023-06-26 21:14:28,0.410s,PASSED
+"verifyElementVisible(findTestObject(""User/Member/Page_Member List/input_MPU_member_product_username""))",Chrome 114.0.0.0,,,2023-06-26 21:14:28,2023-06-26 21:14:28,0.448s,PASSED
+"verifyElementVisible(findTestObject(""User/Member/Page_Member List/input_Phone_member_phone_number""))",Chrome 114.0.0.0,,,2023-06-26 21:14:28,2023-06-26 21:14:29,0.436s,PASSED
+"verifyElementVisible(findTestObject(""User/Member/Page_Member List/select_All""))",Chrome 114.0.0.0,,,2023-06-26 21:14:29,2023-06-26 21:14:29,0.443s,PASSED
+"verifyElementVisible(findTestObject(""User/Member/Page_Member List/select_AllPlayer""))",Chrome 114.0.0.0,,,2023-06-26 21:14:29,2023-06-26 21:14:30,0.419s,PASSED
+"verifyElementVisible(findTestObject(""User/Member/Page_Member List/button_Search""))",Chrome 114.0.0.0,,,2023-06-26 21:14:30,2023-06-26 21:14:30,0.450s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""User/Member/Page_Member List/select_102550100""))",Chrome 114.0.0.0,,,2023-06-26 21:14:30,2023-06-26 21:14:31,0.451s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""User/Member/Page_Member List/span_Copy""))",Chrome 114.0.0.0,,,2023-06-26 21:14:31,2023-06-26 21:14:31,0.480s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""User/Member/Page_Member List/span_CSV""))",Chrome 114.0.0.0,,,2023-06-26 21:14:31,2023-06-26 21:14:32,0.475s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""User/Member/Page_Member List/span_Excel""))",Chrome 114.0.0.0,,,2023-06-26 21:14:32,2023-06-26 21:14:32,0.472s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""User/Member/Page_Member List/span_PDF""))",Chrome 114.0.0.0,,,2023-06-26 21:14:32,2023-06-26 21:14:33,0.465s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""User/Member/Page_Member List/input_Search_form-control form-control-sm""))",Chrome 114.0.0.0,,,2023-06-26 21:14:33,2023-06-26 21:14:33,0.468s,PASSED
+"verifyElementVisible(findTestObject(""User/Member/Page_Member List/select_102550100""))",Chrome 114.0.0.0,,,2023-06-26 21:14:33,2023-06-26 21:14:33,0.461s,PASSED
+"verifyElementVisible(findTestObject(""User/Member/Page_Member List/span_Copy""))",Chrome 114.0.0.0,,,2023-06-26 21:14:33,2023-06-26 21:14:34,0.425s,PASSED
+"verifyElementVisible(findTestObject(""User/Member/Page_Member List/span_CSV""))",Chrome 114.0.0.0,,,2023-06-26 21:14:34,2023-06-26 21:14:34,0.453s,PASSED
+"verifyElementVisible(findTestObject(""User/Member/Page_Member List/span_Excel""))",Chrome 114.0.0.0,,,2023-06-26 21:14:34,2023-06-26 21:14:35,0.442s,PASSED
+"verifyElementVisible(findTestObject(""User/Member/Page_Member List/span_PDF""))",Chrome 114.0.0.0,,,2023-06-26 21:14:35,2023-06-26 21:14:35,0.445s,PASSED
+"verifyElementVisible(findTestObject(""User/Member/Page_Member List/input_Search_form-control form-control-sm""))",Chrome 114.0.0.0,,,2023-06-26 21:14:35,2023-06-26 21:14:36,0.432s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""User/Member/Page_Member List/th_ID""))",Chrome 114.0.0.0,,,2023-06-26 21:14:36,2023-06-26 21:14:36,0.511s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""User/Member/Page_Member List/th_Name""))",Chrome 114.0.0.0,,,2023-06-26 21:14:36,2023-06-26 21:14:37,0.471s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""User/Member/Page_Member List/th_Full Name""))",Chrome 114.0.0.0,,,2023-06-26 21:14:37,2023-06-26 21:14:37,0.453s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""User/Member/Page_Member List/th_Nickname""))",Chrome 114.0.0.0,,,2023-06-26 21:14:37,2023-06-26 21:14:38,0.454s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""User/Member/Page_Member List/th_Level""))",Chrome 114.0.0.0,,,2023-06-26 21:14:38,2023-06-26 21:14:38,0.490s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""User/Member/Page_Member List/th_Upline Name""))",Chrome 114.0.0.0,,,2023-06-26 21:14:38,2023-06-26 21:14:38,0.456s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""User/Member/Page_Member List/th_Shareholder name""))",Chrome 114.0.0.0,,,2023-06-26 21:14:38,2023-06-26 21:14:39,0.476s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""User/Member/Page_Member List/th_Phone""))",Chrome 114.0.0.0,,,2023-06-26 21:14:39,2023-06-26 21:14:39,0.485s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""User/Member/Page_Member List/th_Status""))",Chrome 114.0.0.0,,,2023-06-26 21:14:39,2023-06-26 21:14:40,0.475s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""User/Member/Page_Member List/th_Remarks""))",Chrome 114.0.0.0,,,2023-06-26 21:14:40,2023-06-26 21:14:40,0.438s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""User/Member/Page_Member List/th_Cash""))",Chrome 114.0.0.0,,,2023-06-26 21:14:40,2023-06-26 21:14:41,0.474s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""User/Member/Page_Member List/th_Coin""))",Chrome 114.0.0.0,,,2023-06-26 21:14:41,2023-06-26 21:14:41,0.458s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""User/Member/Page_Member List/th_Interest""))",Chrome 114.0.0.0,,,2023-06-26 21:14:41,2023-06-26 21:14:42,0.455s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""User/Member/Page_Member List/th_Password Otp""))",Chrome 114.0.0.0,,,2023-06-26 21:14:42,2023-06-26 21:14:42,0.440s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""User/Member/Page_Member List/th_Phone Otp""))",Chrome 114.0.0.0,,,2023-06-26 21:14:42,2023-06-26 21:14:43,0.453s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""User/Member/Page_Member List/th_Last login IP""))",Chrome 114.0.0.0,,,2023-06-26 21:14:43,2023-06-26 21:14:43,0.454s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""User/Member/Page_Member List/th_Last login time""))",Chrome 114.0.0.0,,,2023-06-26 21:14:43,2023-06-26 21:14:44,0.464s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""User/Member/Page_Member List/th_App Type""))",Chrome 114.0.0.0,,,2023-06-26 21:14:44,2023-06-26 21:14:44,0.459s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""User/Member/Page_Member List/th_Action""))",Chrome 114.0.0.0,,,2023-06-26 21:14:44,2023-06-26 21:14:44,0.439s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""User/Member/Page_Member List/table_IDNameFull NameNicknameLevelUpline NameShareholder namePhoneStatusRemarksCashCoinInterestPassword OtpPhone OtpLast login IPLast login timeApp TypeAction""))",Chrome 114.0.0.0,,,2023-06-26 21:14:44,2023-06-26 21:14:45,0.469s,PASSED
+"verifyElementVisible(findTestObject(""User/Member/Page_Member List/th_ID""))",Chrome 114.0.0.0,,,2023-06-26 21:14:45,2023-06-26 21:14:45,0.430s,PASSED
+"verifyElementVisible(findTestObject(""User/Member/Page_Member List/th_Name""))",Chrome 114.0.0.0,,,2023-06-26 21:14:45,2023-06-26 21:14:46,0.410s,PASSED
+"verifyElementVisible(findTestObject(""User/Member/Page_Member List/th_Full Name""))",Chrome 114.0.0.0,,,2023-06-26 21:14:46,2023-06-26 21:14:46,0.436s,PASSED
+"verifyElementVisible(findTestObject(""User/Member/Page_Member List/th_Nickname""))",Chrome 114.0.0.0,,,2023-06-26 21:14:46,2023-06-26 21:14:47,0.425s,PASSED
+"verifyElementVisible(findTestObject(""User/Member/Page_Member List/th_Level""))",Chrome 114.0.0.0,,,2023-06-26 21:14:47,2023-06-26 21:14:47,0.439s,PASSED
+"verifyElementVisible(findTestObject(""User/Member/Page_Member List/th_Upline Name""))",Chrome 114.0.0.0,,,2023-06-26 21:14:47,2023-06-26 21:14:47,0.412s,PASSED
+"verifyElementVisible(findTestObject(""User/Member/Page_Member List/th_Shareholder name""))",Chrome 114.0.0.0,,,2023-06-26 21:14:47,2023-06-26 21:14:48,0.424s,PASSED
+"verifyElementVisible(findTestObject(""User/Member/Page_Member List/th_Phone""))",Chrome 114.0.0.0,,,2023-06-26 21:14:48,2023-06-26 21:14:48,0.404s,PASSED
+"verifyElementVisible(findTestObject(""User/Member/Page_Member List/th_Status""))",Chrome 114.0.0.0,,,2023-06-26 21:14:48,2023-06-26 21:14:49,0.424s,PASSED
+"verifyElementVisible(findTestObject(""User/Member/Page_Member List/th_Remarks""))",Chrome 114.0.0.0,,,2023-06-26 21:14:49,2023-06-26 21:14:49,0.429s,PASSED
+"verifyElementVisible(findTestObject(""User/Member/Page_Member List/th_Cash""))",Chrome 114.0.0.0,,,2023-06-26 21:14:49,2023-06-26 21:14:50,0.425s,PASSED
+"verifyElementVisible(findTestObject(""User/Member/Page_Member List/th_Coin""))",Chrome 114.0.0.0,,,2023-06-26 21:14:50,2023-06-26 21:14:50,0.434s,PASSED
+"verifyElementVisible(findTestObject(""User/Member/Page_Member List/th_Interest""))",Chrome 114.0.0.0,,,2023-06-26 21:14:50,2023-06-26 21:14:50,0.436s,PASSED
+"verifyElementVisible(findTestObject(""User/Member/Page_Member List/th_Password Otp""))",Chrome 114.0.0.0,,,2023-06-26 21:14:50,2023-06-26 21:14:51,0.423s,PASSED
+"verifyElementVisible(findTestObject(""User/Member/Page_Member List/th_Phone Otp""))",Chrome 114.0.0.0,,,2023-06-26 21:14:51,2023-06-26 21:14:51,0.409s,PASSED
+"verifyElementVisible(findTestObject(""User/Member/Page_Member List/th_Last login IP""))",Chrome 114.0.0.0,,,2023-06-26 21:14:51,2023-06-26 21:14:52,0.432s,PASSED
+"verifyElementVisible(findTestObject(""User/Member/Page_Member List/th_Last login time""))",Chrome 114.0.0.0,,,2023-06-26 21:14:52,2023-06-26 21:14:52,0.442s,PASSED
+"verifyElementVisible(findTestObject(""User/Member/Page_Member List/th_App Type""))",Chrome 114.0.0.0,,,2023-06-26 21:14:52,2023-06-26 21:14:53,0.408s,PASSED
+"verifyElementVisible(findTestObject(""User/Member/Page_Member List/th_Action""))",Chrome 114.0.0.0,,,2023-06-26 21:14:53,2023-06-26 21:14:53,0.448s,PASSED
+"verifyElementVisible(findTestObject(""User/Member/Page_Member List/table_IDNameFull NameNicknameLevelUpline NameShareholder namePhoneStatusRemarksCashCoinInterestPassword OtpPhone OtpLast login IPLast login timeApp TypeAction""))",Chrome 114.0.0.0,,,2023-06-26 21:14:53,2023-06-26 21:14:53,0.440s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""User/Member/Page_Member List/li_Previous""))",Chrome 114.0.0.0,,,2023-06-26 21:14:53,2023-06-26 21:14:54,0.461s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""User/Member/Page_Member List/a_Next""))",Chrome 114.0.0.0,,,2023-06-26 21:14:54,2023-06-26 21:14:54,0.449s,PASSED
+"verifyElementVisible(findTestObject(""User/Member/Page_Member List/li_Previous""))",Chrome 114.0.0.0,,,2023-06-26 21:14:54,2023-06-26 21:14:55,0.427s,PASSED
+"verifyElementVisible(findTestObject(""User/Member/Page_Member List/a_Next""))",Chrome 114.0.0.0,,,2023-06-26 21:14:55,2023-06-26 21:14:55,0.395s,PASSED
+,,,,,,,
+Test Cases/User/Member/List MMK,Chrome 114.0.0.0,,,2023-06-26 21:14:55,2023-06-26 21:15:39,43.693s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""User/Member/span_User""))",Chrome 114.0.0.0,,,2023-06-26 21:14:56,2023-06-26 21:14:56,0.444s,PASSED
+"mouseOver(findTestObject(""User/Member/span_User""))",Chrome 114.0.0.0,,,2023-06-26 21:14:56,2023-06-26 21:14:57,0.581s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""User/Member/span_List""))",Chrome 114.0.0.0,,,2023-06-26 21:14:57,2023-06-26 21:14:57,0.472s,PASSED
+"mouseOver(findTestObject(""User/Member/span_List""))",Chrome 114.0.0.0,,,2023-06-26 21:14:57,2023-06-26 21:14:58,0.557s,PASSED
+"click(findTestObject(""User/Member/span_List""))",Chrome 114.0.0.0,,,2023-06-26 21:14:58,2023-06-26 21:14:58,0.440s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""User/Member/Page_Dashboard/span_MMK""))",Chrome 114.0.0.0,,,2023-06-26 21:14:58,2023-06-26 21:14:59,0.481s,PASSED
+"mouseOver(findTestObject(""User/Member/Page_Dashboard/span_MMK""))",Chrome 114.0.0.0,,,2023-06-26 21:14:59,2023-06-26 21:14:59,0.545s,PASSED
+"click(findTestObject(""User/Member/Page_Dashboard/span_MMK""))",Chrome 114.0.0.0,,,2023-06-26 21:14:59,2023-06-26 21:15:07,7.163s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""User/Member/Page_Member List/h3_Member List""))",Chrome 114.0.0.0,,,2023-06-26 21:15:07,2023-06-26 21:15:08,1.934s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""User/Member/Page_Member List/input_Username_member_username""))",Chrome 114.0.0.0,,,2023-06-26 21:15:08,2023-06-26 21:15:09,0.439s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""User/Member/Page_Member List/input_MPU_member_product_username""))",Chrome 114.0.0.0,,,2023-06-26 21:15:09,2023-06-26 21:15:09,0.472s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""User/Member/Page_Member List/input_Phone_member_phone_number""))",Chrome 114.0.0.0,,,2023-06-26 21:15:09,2023-06-26 21:15:10,0.462s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""User/Member/Page_Member List/select_All""))",Chrome 114.0.0.0,,,2023-06-26 21:15:10,2023-06-26 21:15:10,0.473s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""User/Member/Page_Member List/select_AllPlayer""))",Chrome 114.0.0.0,,,2023-06-26 21:15:10,2023-06-26 21:15:11,0.473s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""User/Member/Page_Member List/button_Search""))",Chrome 114.0.0.0,,,2023-06-26 21:15:11,2023-06-26 21:15:11,0.472s,PASSED
+"verifyElementVisible(findTestObject(""User/Member/Page_Member List/h3_Member List""))",Chrome 114.0.0.0,,,2023-06-26 21:15:11,2023-06-26 21:15:12,0.444s,PASSED
+"verifyElementVisible(findTestObject(""User/Member/Page_Member List/input_Username_member_username""))",Chrome 114.0.0.0,,,2023-06-26 21:15:12,2023-06-26 21:15:12,0.425s,PASSED
+"verifyElementVisible(findTestObject(""User/Member/Page_Member List/input_MPU_member_product_username""))",Chrome 114.0.0.0,,,2023-06-26 21:15:12,2023-06-26 21:15:13,0.412s,PASSED
+"verifyElementVisible(findTestObject(""User/Member/Page_Member List/input_Phone_member_phone_number""))",Chrome 114.0.0.0,,,2023-06-26 21:15:13,2023-06-26 21:15:13,0.424s,PASSED
+"verifyElementVisible(findTestObject(""User/Member/Page_Member List/select_All""))",Chrome 114.0.0.0,,,2023-06-26 21:15:13,2023-06-26 21:15:13,0.389s,PASSED
+"verifyElementVisible(findTestObject(""User/Member/Page_Member List/select_AllPlayer""))",Chrome 114.0.0.0,,,2023-06-26 21:15:13,2023-06-26 21:15:14,0.424s,PASSED
+"verifyElementVisible(findTestObject(""User/Member/Page_Member List/button_Search""))",Chrome 114.0.0.0,,,2023-06-26 21:15:14,2023-06-26 21:15:14,0.424s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""User/Member/Page_Member List/select_102550100""))",Chrome 114.0.0.0,,,2023-06-26 21:15:14,2023-06-26 21:15:15,0.492s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""User/Member/Page_Member List/span_Copy""))",Chrome 114.0.0.0,,,2023-06-26 21:15:15,2023-06-26 21:15:15,0.456s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""User/Member/Page_Member List/span_CSV""))",Chrome 114.0.0.0,,,2023-06-26 21:15:15,2023-06-26 21:15:16,0.471s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""User/Member/Page_Member List/span_Excel""))",Chrome 114.0.0.0,,,2023-06-26 21:15:16,2023-06-26 21:15:16,0.485s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""User/Member/Page_Member List/span_PDF""))",Chrome 114.0.0.0,,,2023-06-26 21:15:16,2023-06-26 21:15:17,0.560s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""User/Member/Page_Member List/input_Search_form-control form-control-sm""))",Chrome 114.0.0.0,,,2023-06-26 21:15:17,2023-06-26 21:15:17,0.459s,PASSED
+"verifyElementVisible(findTestObject(""User/Member/Page_Member List/select_102550100""))",Chrome 114.0.0.0,,,2023-06-26 21:15:17,2023-06-26 21:15:18,0.414s,PASSED
+"verifyElementVisible(findTestObject(""User/Member/Page_Member List/span_Copy""))",Chrome 114.0.0.0,,,2023-06-26 21:15:18,2023-06-26 21:15:18,0.423s,PASSED
+"verifyElementVisible(findTestObject(""User/Member/Page_Member List/span_CSV""))",Chrome 114.0.0.0,,,2023-06-26 21:15:18,2023-06-26 21:15:18,0.410s,PASSED
+"verifyElementVisible(findTestObject(""User/Member/Page_Member List/span_Excel""))",Chrome 114.0.0.0,,,2023-06-26 21:15:18,2023-06-26 21:15:19,0.398s,PASSED
+"verifyElementVisible(findTestObject(""User/Member/Page_Member List/span_PDF""))",Chrome 114.0.0.0,,,2023-06-26 21:15:19,2023-06-26 21:15:19,0.409s,PASSED
+"verifyElementVisible(findTestObject(""User/Member/Page_Member List/input_Search_form-control form-control-sm""))",Chrome 114.0.0.0,,,2023-06-26 21:15:19,2023-06-26 21:15:20,0.422s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""User/Member/Page_Member List/th_ID""))",Chrome 114.0.0.0,,,2023-06-26 21:15:20,2023-06-26 21:15:20,0.452s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""User/Member/Page_Member List/th_Name""))",Chrome 114.0.0.0,,,2023-06-26 21:15:20,2023-06-26 21:15:21,0.460s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""User/Member/Page_Member List/th_Full Name""))",Chrome 114.0.0.0,,,2023-06-26 21:15:21,2023-06-26 21:15:21,0.453s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""User/Member/Page_Member List/th_Nickname""))",Chrome 114.0.0.0,,,2023-06-26 21:15:21,2023-06-26 21:15:21,0.473s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""User/Member/Page_Member List/th_Level""))",Chrome 114.0.0.0,,,2023-06-26 21:15:21,2023-06-26 21:15:22,0.483s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""User/Member/Page_Member List/th_Upline Name""))",Chrome 114.0.0.0,,,2023-06-26 21:15:22,2023-06-26 21:15:22,0.469s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""User/Member/Page_Member List/th_Shareholder name""))",Chrome 114.0.0.0,,,2023-06-26 21:15:22,2023-06-26 21:15:23,0.453s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""User/Member/Page_Member List/th_Phone""))",Chrome 114.0.0.0,,,2023-06-26 21:15:23,2023-06-26 21:15:23,0.469s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""User/Member/Page_Member List/th_Status""))",Chrome 114.0.0.0,,,2023-06-26 21:15:23,2023-06-26 21:15:24,0.459s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""User/Member/Page_Member List/th_Remarks""))",Chrome 114.0.0.0,,,2023-06-26 21:15:24,2023-06-26 21:15:24,0.484s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""User/Member/Page_Member List/th_Cash""))",Chrome 114.0.0.0,,,2023-06-26 21:15:24,2023-06-26 21:15:25,0.483s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""User/Member/Page_Member List/th_Coin""))",Chrome 114.0.0.0,,,2023-06-26 21:15:25,2023-06-26 21:15:25,0.485s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""User/Member/Page_Member List/th_Interest""))",Chrome 114.0.0.0,,,2023-06-26 21:15:25,2023-06-26 21:15:26,0.450s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""User/Member/Page_Member List/th_Password Otp""))",Chrome 114.0.0.0,,,2023-06-26 21:15:26,2023-06-26 21:15:26,0.456s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""User/Member/Page_Member List/th_Phone Otp""))",Chrome 114.0.0.0,,,2023-06-26 21:15:26,2023-06-26 21:15:27,0.470s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""User/Member/Page_Member List/th_Last login IP""))",Chrome 114.0.0.0,,,2023-06-26 21:15:27,2023-06-26 21:15:27,0.468s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""User/Member/Page_Member List/th_Last login time""))",Chrome 114.0.0.0,,,2023-06-26 21:15:27,2023-06-26 21:15:28,0.457s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""User/Member/Page_Member List/th_App Type""))",Chrome 114.0.0.0,,,2023-06-26 21:15:28,2023-06-26 21:15:28,0.456s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""User/Member/Page_Member List/th_Action""))",Chrome 114.0.0.0,,,2023-06-26 21:15:28,2023-06-26 21:15:28,0.453s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""User/Member/Page_Member List/table_IDNameFull NameNicknameLevelUpline NameShareholder namePhoneStatusRemarksCashCoinInterestPassword OtpPhone OtpLast login IPLast login timeApp TypeAction""))",Chrome 114.0.0.0,,,2023-06-26 21:15:28,2023-06-26 21:15:29,0.436s,PASSED
+"verifyElementVisible(findTestObject(""User/Member/Page_Member List/th_ID""))",Chrome 114.0.0.0,,,2023-06-26 21:15:29,2023-06-26 21:15:29,0.413s,PASSED
+"verifyElementVisible(findTestObject(""User/Member/Page_Member List/th_Name""))",Chrome 114.0.0.0,,,2023-06-26 21:15:29,2023-06-26 21:15:30,0.424s,PASSED
+"verifyElementVisible(findTestObject(""User/Member/Page_Member List/th_Full Name""))",Chrome 114.0.0.0,,,2023-06-26 21:15:30,2023-06-26 21:15:30,0.407s,PASSED
+"verifyElementVisible(findTestObject(""User/Member/Page_Member List/th_Nickname""))",Chrome 114.0.0.0,,,2023-06-26 21:15:30,2023-06-26 21:15:31,0.418s,PASSED
+"verifyElementVisible(findTestObject(""User/Member/Page_Member List/th_Level""))",Chrome 114.0.0.0,,,2023-06-26 21:15:31,2023-06-26 21:15:31,0.392s,PASSED
+"verifyElementVisible(findTestObject(""User/Member/Page_Member List/th_Upline Name""))",Chrome 114.0.0.0,,,2023-06-26 21:15:31,2023-06-26 21:15:31,0.421s,PASSED
+"verifyElementVisible(findTestObject(""User/Member/Page_Member List/th_Shareholder name""))",Chrome 114.0.0.0,,,2023-06-26 21:15:31,2023-06-26 21:15:32,0.425s,PASSED
+"verifyElementVisible(findTestObject(""User/Member/Page_Member List/th_Phone""))",Chrome 114.0.0.0,,,2023-06-26 21:15:32,2023-06-26 21:15:32,0.412s,PASSED
+"verifyElementVisible(findTestObject(""User/Member/Page_Member List/th_Status""))",Chrome 114.0.0.0,,,2023-06-26 21:15:32,2023-06-26 21:15:33,0.408s,PASSED
+"verifyElementVisible(findTestObject(""User/Member/Page_Member List/th_Remarks""))",Chrome 114.0.0.0,,,2023-06-26 21:15:33,2023-06-26 21:15:33,0.406s,PASSED
+"verifyElementVisible(findTestObject(""User/Member/Page_Member List/th_Cash""))",Chrome 114.0.0.0,,,2023-06-26 21:15:33,2023-06-26 21:15:33,0.433s,PASSED
+"verifyElementVisible(findTestObject(""User/Member/Page_Member List/th_Coin""))",Chrome 114.0.0.0,,,2023-06-26 21:15:33,2023-06-26 21:15:34,0.406s,PASSED
+"verifyElementVisible(findTestObject(""User/Member/Page_Member List/th_Interest""))",Chrome 114.0.0.0,,,2023-06-26 21:15:34,2023-06-26 21:15:34,0.441s,PASSED
+"verifyElementVisible(findTestObject(""User/Member/Page_Member List/th_Password Otp""))",Chrome 114.0.0.0,,,2023-06-26 21:15:34,2023-06-26 21:15:35,0.393s,PASSED
+"verifyElementVisible(findTestObject(""User/Member/Page_Member List/th_Phone Otp""))",Chrome 114.0.0.0,,,2023-06-26 21:15:35,2023-06-26 21:15:35,0.427s,PASSED
+"verifyElementVisible(findTestObject(""User/Member/Page_Member List/th_Last login IP""))",Chrome 114.0.0.0,,,2023-06-26 21:15:35,2023-06-26 21:15:36,0.394s,PASSED
+"verifyElementVisible(findTestObject(""User/Member/Page_Member List/th_Last login time""))",Chrome 114.0.0.0,,,2023-06-26 21:15:36,2023-06-26 21:15:36,0.393s,PASSED
+"verifyElementVisible(findTestObject(""User/Member/Page_Member List/th_App Type""))",Chrome 114.0.0.0,,,2023-06-26 21:15:36,2023-06-26 21:15:36,0.424s,PASSED
+"verifyElementVisible(findTestObject(""User/Member/Page_Member List/th_Action""))",Chrome 114.0.0.0,,,2023-06-26 21:15:36,2023-06-26 21:15:37,0.429s,PASSED
+"verifyElementVisible(findTestObject(""User/Member/Page_Member List/table_IDNameFull NameNicknameLevelUpline NameShareholder namePhoneStatusRemarksCashCoinInterestPassword OtpPhone OtpLast login IPLast login timeApp TypeAction""))",Chrome 114.0.0.0,,,2023-06-26 21:15:37,2023-06-26 21:15:37,0.409s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""User/Member/Page_Member List/li_Previous""))",Chrome 114.0.0.0,,,2023-06-26 21:15:37,2023-06-26 21:15:38,0.460s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""User/Member/Page_Member List/a_Next""))",Chrome 114.0.0.0,,,2023-06-26 21:15:38,2023-06-26 21:15:38,0.458s,PASSED
+"verifyElementVisible(findTestObject(""User/Member/Page_Member List/li_Previous""))",Chrome 114.0.0.0,,,2023-06-26 21:15:38,2023-06-26 21:15:38,0.418s,PASSED
+"verifyElementVisible(findTestObject(""User/Member/Page_Member List/a_Next""))",Chrome 114.0.0.0,,,2023-06-26 21:15:38,2023-06-26 21:15:39,0.402s,PASSED
+,,,,,,,
+Test Cases/User/Member/List RMB,Chrome 114.0.0.0,,,2023-06-26 21:15:39,2023-06-26 21:16:18,39.469s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""User/Member/span_User""))",Chrome 114.0.0.0,,,2023-06-26 21:15:40,2023-06-26 21:15:40,0.447s,PASSED
+"mouseOver(findTestObject(""User/Member/span_User""))",Chrome 114.0.0.0,,,2023-06-26 21:15:40,2023-06-26 21:15:41,0.550s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""User/Member/span_List""))",Chrome 114.0.0.0,,,2023-06-26 21:15:41,2023-06-26 21:15:41,0.484s,PASSED
+"mouseOver(findTestObject(""User/Member/span_List""))",Chrome 114.0.0.0,,,2023-06-26 21:15:41,2023-06-26 21:15:42,0.568s,PASSED
+"click(findTestObject(""User/Member/span_List""))",Chrome 114.0.0.0,,,2023-06-26 21:15:42,2023-06-26 21:15:42,0.448s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""User/Member/Page_Dashboard/span_RMB""))",Chrome 114.0.0.0,,,2023-06-26 21:15:42,2023-06-26 21:15:43,0.479s,PASSED
+"mouseOver(findTestObject(""User/Member/Page_Dashboard/span_RMB""))",Chrome 114.0.0.0,,,2023-06-26 21:15:43,2023-06-26 21:15:43,0.558s,PASSED
+"click(findTestObject(""User/Member/Page_Dashboard/span_RMB""))",Chrome 114.0.0.0,,,2023-06-26 21:15:43,2023-06-26 21:15:45,1.891s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""User/Member/Page_Member List/h3_Member List""))",Chrome 114.0.0.0,,,2023-06-26 21:15:45,2023-06-26 21:15:47,1.703s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""User/Member/Page_Member List/input_Username_member_username""))",Chrome 114.0.0.0,,,2023-06-26 21:15:47,2023-06-26 21:15:47,0.470s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""User/Member/Page_Member List/input_MPU_member_product_username""))",Chrome 114.0.0.0,,,2023-06-26 21:15:47,2023-06-26 21:15:48,0.493s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""User/Member/Page_Member List/input_Phone_member_phone_number""))",Chrome 114.0.0.0,,,2023-06-26 21:15:48,2023-06-26 21:15:48,0.485s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""User/Member/Page_Member List/select_All""))",Chrome 114.0.0.0,,,2023-06-26 21:15:48,2023-06-26 21:15:49,0.502s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""User/Member/Page_Member List/select_AllPlayer""))",Chrome 114.0.0.0,,,2023-06-26 21:15:49,2023-06-26 21:15:49,0.470s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""User/Member/Page_Member List/button_Search""))",Chrome 114.0.0.0,,,2023-06-26 21:15:49,2023-06-26 21:15:50,0.488s,PASSED
+"verifyElementVisible(findTestObject(""User/Member/Page_Member List/h3_Member List""))",Chrome 114.0.0.0,,,2023-06-26 21:15:50,2023-06-26 21:15:50,0.408s,PASSED
+"verifyElementVisible(findTestObject(""User/Member/Page_Member List/input_Username_member_username""))",Chrome 114.0.0.0,,,2023-06-26 21:15:50,2023-06-26 21:15:50,0.453s,PASSED
+"verifyElementVisible(findTestObject(""User/Member/Page_Member List/input_MPU_member_product_username""))",Chrome 114.0.0.0,,,2023-06-26 21:15:50,2023-06-26 21:15:51,0.405s,PASSED
+"verifyElementVisible(findTestObject(""User/Member/Page_Member List/input_Phone_member_phone_number""))",Chrome 114.0.0.0,,,2023-06-26 21:15:51,2023-06-26 21:15:51,0.392s,PASSED
+"verifyElementVisible(findTestObject(""User/Member/Page_Member List/select_All""))",Chrome 114.0.0.0,,,2023-06-26 21:15:51,2023-06-26 21:15:52,0.409s,PASSED
+"verifyElementVisible(findTestObject(""User/Member/Page_Member List/select_AllPlayer""))",Chrome 114.0.0.0,,,2023-06-26 21:15:52,2023-06-26 21:15:52,0.436s,PASSED
+"verifyElementVisible(findTestObject(""User/Member/Page_Member List/button_Search""))",Chrome 114.0.0.0,,,2023-06-26 21:15:52,2023-06-26 21:15:53,0.533s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""User/Member/Page_Member List/select_102550100""))",Chrome 114.0.0.0,,,2023-06-26 21:15:53,2023-06-26 21:15:53,0.491s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""User/Member/Page_Member List/span_Copy""))",Chrome 114.0.0.0,,,2023-06-26 21:15:53,2023-06-26 21:15:54,0.475s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""User/Member/Page_Member List/span_CSV""))",Chrome 114.0.0.0,,,2023-06-26 21:15:54,2023-06-26 21:15:54,0.478s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""User/Member/Page_Member List/span_Excel""))",Chrome 114.0.0.0,,,2023-06-26 21:15:54,2023-06-26 21:15:55,0.457s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""User/Member/Page_Member List/span_PDF""))",Chrome 114.0.0.0,,,2023-06-26 21:15:55,2023-06-26 21:15:55,0.584s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""User/Member/Page_Member List/input_Search_form-control form-control-sm""))",Chrome 114.0.0.0,,,2023-06-26 21:15:55,2023-06-26 21:15:56,0.492s,PASSED
+"verifyElementVisible(findTestObject(""User/Member/Page_Member List/select_102550100""))",Chrome 114.0.0.0,,,2023-06-26 21:15:56,2023-06-26 21:15:56,0.424s,PASSED
+"verifyElementVisible(findTestObject(""User/Member/Page_Member List/span_Copy""))",Chrome 114.0.0.0,,,2023-06-26 21:15:56,2023-06-26 21:15:56,0.423s,PASSED
+"verifyElementVisible(findTestObject(""User/Member/Page_Member List/span_CSV""))",Chrome 114.0.0.0,,,2023-06-26 21:15:56,2023-06-26 21:15:57,0.409s,PASSED
+"verifyElementVisible(findTestObject(""User/Member/Page_Member List/span_Excel""))",Chrome 114.0.0.0,,,2023-06-26 21:15:57,2023-06-26 21:15:57,0.405s,PASSED
+"verifyElementVisible(findTestObject(""User/Member/Page_Member List/span_PDF""))",Chrome 114.0.0.0,,,2023-06-26 21:15:57,2023-06-26 21:15:58,0.424s,PASSED
+"verifyElementVisible(findTestObject(""User/Member/Page_Member List/input_Search_form-control form-control-sm""))",Chrome 114.0.0.0,,,2023-06-26 21:15:58,2023-06-26 21:15:58,0.429s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""User/Member/Page_Member List/th_ID""))",Chrome 114.0.0.0,,,2023-06-26 21:15:58,2023-06-26 21:15:59,0.740s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""User/Member/Page_Member List/th_Name""))",Chrome 114.0.0.0,,,2023-06-26 21:15:59,2023-06-26 21:15:59,0.478s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""User/Member/Page_Member List/th_Full Name""))",Chrome 114.0.0.0,,,2023-06-26 21:15:59,2023-06-26 21:16:00,0.484s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""User/Member/Page_Member List/th_Nickname""))",Chrome 114.0.0.0,,,2023-06-26 21:16:00,2023-06-26 21:16:00,0.470s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""User/Member/Page_Member List/th_Level""))",Chrome 114.0.0.0,,,2023-06-26 21:16:00,2023-06-26 21:16:01,0.439s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""User/Member/Page_Member List/th_Upline Name""))",Chrome 114.0.0.0,,,2023-06-26 21:16:01,2023-06-26 21:16:01,0.471s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""User/Member/Page_Member List/th_Shareholder name""))",Chrome 114.0.0.0,,,2023-06-26 21:16:01,2023-06-26 21:16:02,0.501s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""User/Member/Page_Member List/th_Phone""))",Chrome 114.0.0.0,,,2023-06-26 21:16:02,2023-06-26 21:16:02,0.499s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""User/Member/Page_Member List/th_Status""))",Chrome 114.0.0.0,,,2023-06-26 21:16:02,2023-06-26 21:16:03,0.508s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""User/Member/Page_Member List/th_Remarks""))",Chrome 114.0.0.0,,,2023-06-26 21:16:03,2023-06-26 21:16:03,0.522s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""User/Member/Page_Member List/th_Cash""))",Chrome 114.0.0.0,,,2023-06-26 21:16:03,2023-06-26 21:16:04,0.479s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""User/Member/Page_Member List/th_Coin""))",Chrome 114.0.0.0,,,2023-06-26 21:16:04,2023-06-26 21:16:04,0.452s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""User/Member/Page_Member List/th_Interest""))",Chrome 114.0.0.0,,,2023-06-26 21:16:04,2023-06-26 21:16:05,0.483s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""User/Member/Page_Member List/th_Password Otp""))",Chrome 114.0.0.0,,,2023-06-26 21:16:05,2023-06-26 21:16:05,0.482s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""User/Member/Page_Member List/th_Phone Otp""))",Chrome 114.0.0.0,,,2023-06-26 21:16:05,2023-06-26 21:16:06,0.484s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""User/Member/Page_Member List/th_Last login IP""))",Chrome 114.0.0.0,,,2023-06-26 21:16:06,2023-06-26 21:16:06,0.474s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""User/Member/Page_Member List/th_Last login time""))",Chrome 114.0.0.0,,,2023-06-26 21:16:06,2023-06-26 21:16:07,0.481s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""User/Member/Page_Member List/th_App Type""))",Chrome 114.0.0.0,,,2023-06-26 21:16:07,2023-06-26 21:16:07,0.495s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""User/Member/Page_Member List/th_Action""))",Chrome 114.0.0.0,,,2023-06-26 21:16:07,2023-06-26 21:16:08,0.455s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""User/Member/Page_Member List/table_IDNameFull NameNicknameLevelUpline NameShareholder namePhoneStatusRemarksCashCoinInterestPassword OtpPhone OtpLast login IPLast login timeApp TypeAction""))",Chrome 114.0.0.0,,,2023-06-26 21:16:08,2023-06-26 21:16:08,0.512s,PASSED
+"verifyElementVisible(findTestObject(""User/Member/Page_Member List/th_ID""))",Chrome 114.0.0.0,,,2023-06-26 21:16:08,2023-06-26 21:16:08,0.410s,PASSED
+"verifyElementVisible(findTestObject(""User/Member/Page_Member List/th_Name""))",Chrome 114.0.0.0,,,2023-06-26 21:16:08,2023-06-26 21:16:09,0.435s,PASSED
+"verifyElementVisible(findTestObject(""User/Member/Page_Member List/th_Full Name""))",Chrome 114.0.0.0,,,2023-06-26 21:16:09,2023-06-26 21:16:09,0.409s,PASSED
+"verifyElementVisible(findTestObject(""User/Member/Page_Member List/th_Nickname""))",Chrome 114.0.0.0,,,2023-06-26 21:16:09,2023-06-26 21:16:10,0.441s,PASSED
+"verifyElementVisible(findTestObject(""User/Member/Page_Member List/th_Level""))",Chrome 114.0.0.0,,,2023-06-26 21:16:10,2023-06-26 21:16:10,0.437s,PASSED
+"verifyElementVisible(findTestObject(""User/Member/Page_Member List/th_Upline Name""))",Chrome 114.0.0.0,,,2023-06-26 21:16:10,2023-06-26 21:16:11,0.436s,PASSED
+"verifyElementVisible(findTestObject(""User/Member/Page_Member List/th_Shareholder name""))",Chrome 114.0.0.0,,,2023-06-26 21:16:11,2023-06-26 21:16:11,0.441s,PASSED
+"verifyElementVisible(findTestObject(""User/Member/Page_Member List/th_Phone""))",Chrome 114.0.0.0,,,2023-06-26 21:16:11,2023-06-26 21:16:11,0.410s,PASSED
+"verifyElementVisible(findTestObject(""User/Member/Page_Member List/th_Status""))",Chrome 114.0.0.0,,,2023-06-26 21:16:11,2023-06-26 21:16:12,0.438s,PASSED
+"verifyElementVisible(findTestObject(""User/Member/Page_Member List/th_Remarks""))",Chrome 114.0.0.0,,,2023-06-26 21:16:12,2023-06-26 21:16:12,0.392s,PASSED
+"verifyElementVisible(findTestObject(""User/Member/Page_Member List/th_Cash""))",Chrome 114.0.0.0,,,2023-06-26 21:16:12,2023-06-26 21:16:13,0.441s,PASSED
+"verifyElementVisible(findTestObject(""User/Member/Page_Member List/th_Coin""))",Chrome 114.0.0.0,,,2023-06-26 21:16:13,2023-06-26 21:16:13,0.401s,PASSED
+"verifyElementVisible(findTestObject(""User/Member/Page_Member List/th_Interest""))",Chrome 114.0.0.0,,,2023-06-26 21:16:13,2023-06-26 21:16:14,0.409s,PASSED
+"verifyElementVisible(findTestObject(""User/Member/Page_Member List/th_Password Otp""))",Chrome 114.0.0.0,,,2023-06-26 21:16:14,2023-06-26 21:16:14,0.395s,PASSED
+"verifyElementVisible(findTestObject(""User/Member/Page_Member List/th_Phone Otp""))",Chrome 114.0.0.0,,,2023-06-26 21:16:14,2023-06-26 21:16:14,0.437s,PASSED
+"verifyElementVisible(findTestObject(""User/Member/Page_Member List/th_Last login IP""))",Chrome 114.0.0.0,,,2023-06-26 21:16:14,2023-06-26 21:16:15,0.436s,PASSED
+"verifyElementVisible(findTestObject(""User/Member/Page_Member List/th_Last login time""))",Chrome 114.0.0.0,,,2023-06-26 21:16:15,2023-06-26 21:16:15,0.430s,PASSED
+"verifyElementVisible(findTestObject(""User/Member/Page_Member List/th_App Type""))",Chrome 114.0.0.0,,,2023-06-26 21:16:15,2023-06-26 21:16:16,0.423s,PASSED
+"verifyElementVisible(findTestObject(""User/Member/Page_Member List/th_Action""))",Chrome 114.0.0.0,,,2023-06-26 21:16:16,2023-06-26 21:16:16,0.415s,PASSED
+"verifyElementVisible(findTestObject(""User/Member/Page_Member List/table_IDNameFull NameNicknameLevelUpline NameShareholder namePhoneStatusRemarksCashCoinInterestPassword OtpPhone OtpLast login IPLast login timeApp TypeAction""))",Chrome 114.0.0.0,,,2023-06-26 21:16:16,2023-06-26 21:16:17,0.448s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""User/Member/Page_Member List/li_Previous""))",Chrome 114.0.0.0,,,2023-06-26 21:16:17,2023-06-26 21:16:17,0.480s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""User/Member/Page_Member List/a_Next""))",Chrome 114.0.0.0,,,2023-06-26 21:16:17,2023-06-26 21:16:18,0.583s,PASSED
+"verifyElementVisible(findTestObject(""User/Member/Page_Member List/li_Previous""))",Chrome 114.0.0.0,,,2023-06-26 21:16:18,2023-06-26 21:16:18,0.399s,PASSED
+"verifyElementVisible(findTestObject(""User/Member/Page_Member List/a_Next""))",Chrome 114.0.0.0,,,2023-06-26 21:16:18,2023-06-26 21:16:18,0.404s,PASSED

@@ -1,0 +1,24 @@
+{
+  "brokenTestObjects": [
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Sub Admin/Page_Admin Duplicate IP Logins/label_Date Range",
+      "brokenLocator": "//div[@id\u003d\u0027adminDuplicateIpLoginsLayout\u0027]/div/div/div[2]/div/form/div/label",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "(.//*[normalize-space(text()) and normalize-space(.)\u003d\u0027Unlock\u0027])[1]/following::label[1]",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/20230623_203657/Smoke/20230623_203657/Object Repository/Sub Admin/Page_Admin Duplicate IP Logins/label_Date Range_neighbor.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Sub Admin/Page_Admin Duplicate IP Logins/input_Date Range_form-control date_range",
+      "brokenLocator": "//input[@value\u003d\u002721-06-2023 - 21-06-2023\u0027]",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "//form/div/input",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/20230623_203657/Smoke/20230623_203657/Object Repository/Sub Admin/Page_Admin Duplicate IP Logins/input_Date Range_form-control date_range_position.png"
+    }
+  ]
+}

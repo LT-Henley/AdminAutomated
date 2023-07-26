@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>input_Date Range_form-control date_range</name>
+   <tag></tag>
+   <elementGuidId>62701575-782f-45a4-9570-47ba0cc8c980</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//input[@value='04-07-2023 - 04-07-2023']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>input.form-control.date_range</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>input</value>
+      <webElementGuid>2edf7594-cade-402d-849f-a55956f9ae6b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>text</value>
+      <webElementGuid>bde04137-c230-4555-9f31-1bb28f14507b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>form-control date_range</value>
+      <webElementGuid>10e269e3-0e97-4da3-b609-43669837accf</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>value</name>
+      <type>Main</type>
+      <value>04-07-2023 - 04-07-2023</value>
+      <webElementGuid>ee9ae91c-b689-45ce-b446-0fb6adbbeaa6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>placeholder</name>
+      <type>Main</type>
+      <value>Select date range</value>
+      <webElementGuid>9f971f9f-b9fd-43d8-85a3-927654d846f5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;winLossReportDirectLayout&quot;)/div[@class=&quot;kt-portlet kt-portlet--mobile&quot;]/div[@class=&quot;kt-portlet__head kt-portlet__head--lg&quot;]/div[@class=&quot;kt-portlet__head-toolbar&quot;]/form[@class=&quot;form-inline&quot;]/div[@class=&quot;form-group mb-2 mr-2&quot;]/input[@class=&quot;form-control date_range&quot;]</value>
+      <webElementGuid>ce4232da-8e33-4992-b1c0-c3b6d8b52ae2</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//input[@value='04-07-2023 - 04-07-2023']</value>
+      <webElementGuid>defd8293-2830-44c2-a9d4-658fa51dcffe</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='winLossReportDirectLayout']/div/div/div[2]/form/div[3]/input</value>
+      <webElementGuid>41405342-4423-4956-b521-a04731b1ebda</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//form/div[3]/input</value>
+      <webElementGuid>bcaa3a90-809e-4145-8013-4dd5c96d773a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//input[@type = 'text' and @placeholder = 'Select date range']</value>
+      <webElementGuid>91894893-2bf9-44fe-a273-fd9736f1058b</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

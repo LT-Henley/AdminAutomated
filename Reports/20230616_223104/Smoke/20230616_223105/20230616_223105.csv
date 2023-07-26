@@ -1,0 +1,51 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+Smoke,Chrome 114.0.0.0,,,2023-06-16 22:31:18,2023-06-16 22:32:07,48.953s,PASSED
+,,,,,,,
+Test Cases/Bank/List,Chrome 114.0.0.0,,,2023-06-16 22:31:18,2023-06-16 22:31:44,26.029s,PASSED
+"callTestCase(findTestCase(""Login Admin""), [:], STOP_ON_FAILURE)",Chrome 114.0.0.0,,,2023-06-16 22:31:19,2023-06-16 22:31:42,22.822s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""Bank/Page_Dashboard/span_Bank""))",Chrome 114.0.0.0,,,2023-06-16 22:31:42,2023-06-16 22:31:42,0.699s,PASSED
+"mouseOver(findTestObject(""Bank/Page_Dashboard/span_Bank""))",Chrome 114.0.0.0,,,2023-06-16 22:31:42,2023-06-16 22:31:43,0.646s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""Bank/Page_Dashboard/span_List""))",Chrome 114.0.0.0,,,2023-06-16 22:31:43,2023-06-16 22:31:43,0.505s,PASSED
+"mouseOver(findTestObject(""Bank/Page_Dashboard/span_List""))",Chrome 114.0.0.0,,,2023-06-16 22:31:43,2023-06-16 22:31:44,0.666s,PASSED
+,,,,,,,
+Test Cases/Setting/Settings,Chrome 114.0.0.0,,,2023-06-16 22:31:44,2023-06-16 22:31:48,3.829s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""Setting/Page_Dashboard/span_Setting""))",Chrome 114.0.0.0,,,2023-06-16 22:31:45,2023-06-16 22:31:46,0.606s,PASSED
+"mouseOver(findTestObject(""Setting/Page_Dashboard/span_Setting""))",Chrome 114.0.0.0,,,2023-06-16 22:31:46,2023-06-16 22:31:46,0.661s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""Setting/Page_Dashboard/span_Settings""))",Chrome 114.0.0.0,,,2023-06-16 22:31:46,2023-06-16 22:31:47,1.017s,PASSED
+"mouseOver(findTestObject(""Setting/Page_Dashboard/span_Settings""))",Chrome 114.0.0.0,,,2023-06-16 22:31:47,2023-06-16 22:31:48,0.575s,PASSED
+,,,,,,,
+Test Cases/Setting/FX Rates,Chrome 114.0.0.0,,,2023-06-16 22:31:48,2023-06-16 22:31:52,3.610s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""Setting/Page_Dashboard/span_Setting""))",Chrome 114.0.0.0,,,2023-06-16 22:31:49,2023-06-16 22:31:49,0.901s,PASSED
+"mouseOver(findTestObject(""Setting/Page_Dashboard/span_Setting""))",Chrome 114.0.0.0,,,2023-06-16 22:31:49,2023-06-16 22:31:50,0.546s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""Setting/Page_Dashboard/span_FX Rates""))",Chrome 114.0.0.0,,,2023-06-16 22:31:50,2023-06-16 22:31:50,0.453s,PASSED
+"mouseOver(findTestObject(""Setting/Page_Dashboard/span_FX Rates""))",Chrome 114.0.0.0,,,2023-06-16 22:31:50,2023-06-16 22:31:52,1.088s,PASSED
+,,,,,,,
+Test Cases/Setting/Maintenance,Chrome 114.0.0.0,,,2023-06-16 22:31:52,2023-06-16 22:31:56,4.009s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""Setting/Page_Dashboard/span_Setting""))",Chrome 114.0.0.0,,,2023-06-16 22:31:52,2023-06-16 22:31:54,1.494s,PASSED
+"mouseOver(findTestObject(""Setting/Page_Dashboard/span_Setting""))",Chrome 114.0.0.0,,,2023-06-16 22:31:54,2023-06-16 22:31:55,1.013s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""Setting/Page_Dashboard/span_Maintenance""))",Chrome 114.0.0.0,,,2023-06-16 22:31:55,2023-06-16 22:31:55,0.481s,PASSED
+"mouseOver(findTestObject(""Setting/Page_Dashboard/span_Maintenance""))",Chrome 114.0.0.0,,,2023-06-16 22:31:55,2023-06-16 22:31:56,0.545s,PASSED
+,,,,,,,
+Test Cases/Setting/Settings,Chrome 114.0.0.0,,,2023-06-16 22:31:56,2023-06-16 22:31:58,2.043s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""Setting/Page_Dashboard/span_Setting""))",Chrome 114.0.0.0,,,2023-06-16 22:31:56,2023-06-16 22:31:56,0.452s,PASSED
+"mouseOver(findTestObject(""Setting/Page_Dashboard/span_Setting""))",Chrome 114.0.0.0,,,2023-06-16 22:31:56,2023-06-16 22:31:57,0.582s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""Setting/Page_Dashboard/span_Settings""))",Chrome 114.0.0.0,,,2023-06-16 22:31:57,2023-06-16 22:31:57,0.429s,PASSED
+"mouseOver(findTestObject(""Setting/Page_Dashboard/span_Settings""))",Chrome 114.0.0.0,,,2023-06-16 22:31:57,2023-06-16 22:31:58,0.570s,PASSED
+,,,,,,,
+Test Cases/Setting/Notification Threshold,Chrome 114.0.0.0,,,2023-06-16 22:31:58,2023-06-16 22:32:00,2.712s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""Setting/Page_Dashboard/span_Setting""))",Chrome 114.0.0.0,,,2023-06-16 22:31:58,2023-06-16 22:31:59,0.490s,PASSED
+"mouseOver(findTestObject(""Setting/Page_Dashboard/span_Setting""))",Chrome 114.0.0.0,,,2023-06-16 22:31:59,2023-06-16 22:31:59,0.533s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""Setting/Page_Dashboard/span_Notification Threshold""))",Chrome 114.0.0.0,,,2023-06-16 22:31:59,2023-06-16 22:32:00,0.482s,PASSED
+"mouseOver(findTestObject(""Setting/Page_Dashboard/span_Notification Threshold""))",Chrome 114.0.0.0,,,2023-06-16 22:32:00,2023-06-16 22:32:00,0.527s,PASSED
+,,,,,,,
+Test Cases/Leaderboard/List,Chrome 114.0.0.0,,,2023-06-16 22:32:00,2023-06-16 22:32:04,3.704s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""Leaderboard/Page_Dashboard/span_leaderboard""))",Chrome 114.0.0.0,,,2023-06-16 22:32:01,2023-06-16 22:32:01,0.486s,PASSED
+"mouseOver(findTestObject(""Leaderboard/Page_Dashboard/span_leaderboard""))",Chrome 114.0.0.0,,,2023-06-16 22:32:01,2023-06-16 22:32:02,0.531s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""Leaderboard/Page_Dashboard/span_List""))",Chrome 114.0.0.0,,,2023-06-16 22:32:02,2023-06-16 22:32:03,1.126s,PASSED
+"mouseOver(findTestObject(""Leaderboard/Page_Dashboard/span_List""))",Chrome 114.0.0.0,,,2023-06-16 22:32:03,2023-06-16 22:32:04,1.072s,PASSED
+,,,,,,,
+Test Cases/Leaderboard/Ranking,Chrome 114.0.0.0,,,2023-06-16 22:32:04,2023-06-16 22:32:07,2.510s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""Leaderboard/Page_Dashboard/span_leaderboard""))",Chrome 114.0.0.0,,,2023-06-16 22:32:05,2023-06-16 22:32:05,0.455s,PASSED
+"mouseOver(findTestObject(""Leaderboard/Page_Dashboard/span_leaderboard""))",Chrome 114.0.0.0,,,2023-06-16 22:32:05,2023-06-16 22:32:06,0.528s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""Leaderboard/Page_Dashboard/span_Ranking""))",Chrome 114.0.0.0,,,2023-06-16 22:32:06,2023-06-16 22:32:06,0.504s,PASSED
+"mouseOver(findTestObject(""Leaderboard/Page_Dashboard/span_Ranking""))",Chrome 114.0.0.0,,,2023-06-16 22:32:06,2023-06-16 22:32:07,0.554s,PASSED

@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>h3_Withdraw</name>
+   <tag></tag>
+   <elementGuidId>d34450ea-b118-4e25-9855-a8e3437366cc</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>h3.kt-portlet__head-title</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='withdrawListLayout']/div/div/div/h3</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>h3</value>
+      <webElementGuid>c0fc0d58-a458-4a38-8746-c1883bcc2de1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>kt-portlet__head-title</value>
+      <webElementGuid>9ea26134-a4f6-4fa5-995e-56c7d7046edb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+                    Withdraw 
+                </value>
+      <webElementGuid>9ba2304f-ea13-42c0-b9c5-fedac6632d2d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;withdrawListLayout&quot;)/div[@class=&quot;kt-portlet kt-portlet--mobile&quot;]/div[@class=&quot;kt-portlet__head kt-portlet__head--lg&quot;]/div[@class=&quot;kt-portlet__head-label&quot;]/h3[@class=&quot;kt-portlet__head-title&quot;]</value>
+      <webElementGuid>e51a9381-5b65-4f1d-a3ec-cc843fbc1c0f</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='withdrawListLayout']/div/div/div/h3</value>
+      <webElementGuid>5c736605-038f-4ef1-8f2a-c6e3b8458d68</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Unlock'])[1]/following::h3[1]</value>
+      <webElementGuid>79e913c1-1c61-479c-9f37-71167a80e99e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Google Authenticator Verification Code'])[1]/following::h3[1]</value>
+      <webElementGuid>704d4195-cee2-4bc8-a0d6-200bc6f291da</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Country :'])[1]/preceding::h3[1]</value>
+      <webElementGuid>bff6ac23-e2ad-4ee6-8598-3ffc824cf906</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Auto Refresh'])[1]/preceding::h3[1]</value>
+      <webElementGuid>a5d3c572-295c-41a5-a450-c5ac6673718b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//h3</value>
+      <webElementGuid>2b0b60c6-a87a-4d30-9f13-d1de27241ceb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//h3[(text() = '
+                    Withdraw 
+                ' or . = '
+                    Withdraw 
+                ')]</value>
+      <webElementGuid>a7fdc958-9e83-413f-810f-13be671bf4e1</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

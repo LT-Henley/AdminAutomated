@@ -1,0 +1,27 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+Smoke,Chrome 114.0.0.0,,,2023-06-13 13:48:25,2023-06-13 13:49:07,41.925s,PASSED
+,,,,,,,
+Test Cases/Sub Admin/List,Chrome 114.0.0.0,,,2023-06-13 13:48:26,2023-06-13 13:48:57,31.141s,PASSED
+"callTestCase(findTestCase(""Login Admin""), [:], STOP_ON_FAILURE)",Chrome 114.0.0.0,,,2023-06-13 13:48:27,2023-06-13 13:48:52,25.179s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""Sub Admin/Page_Dashboard/span_Sub-Admin""))",Chrome 114.0.0.0,,,2023-06-13 13:48:52,2023-06-13 13:48:52,0.742s,PASSED
+"mouseOver(findTestObject(""Sub Admin/Page_Dashboard/span_Sub-Admin""))",Chrome 114.0.0.0,,,2023-06-13 13:48:52,2023-06-13 13:48:53,0.669s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""Sub Admin/Page_Dashboard/span_List""))",Chrome 114.0.0.0,,,2023-06-13 13:48:53,2023-06-13 13:48:54,0.457s,PASSED
+"mouseOver(findTestObject(""Sub Admin/Page_Dashboard/span_List""))",Chrome 114.0.0.0,,,2023-06-13 13:48:54,2023-06-13 13:48:54,0.598s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""Sub Admin/Page_Dashboard/span_List""))",Chrome 114.0.0.0,,,2023-06-13 13:48:54,2023-06-13 13:48:55,0.452s,PASSED
+"click(findTestObject(""Sub Admin/Page_Dashboard/span_List""))",Chrome 114.0.0.0,,,2023-06-13 13:48:55,2023-06-13 13:48:57,2.325s,PASSED
+,,,,,,,
+Test Cases/Sub Admin/Create,Chrome 114.0.0.0,,,2023-06-13 13:48:57,2023-06-13 13:49:02,5.485s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""Sub Admin/Page_Dashboard/span_Sub-Admin""))",Chrome 114.0.0.0,,,2023-06-13 13:48:58,2023-06-13 13:48:58,0.459s,PASSED
+"mouseOver(findTestObject(""Sub Admin/Page_Dashboard/span_Sub-Admin""))",Chrome 114.0.0.0,,,2023-06-13 13:48:58,2023-06-13 13:48:59,0.570s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""Sub Admin/Page_Dashboard/span_Create""))",Chrome 114.0.0.0,,,2023-06-13 13:48:59,2023-06-13 13:48:59,0.533s,PASSED
+"mouseOver(findTestObject(""Sub Admin/Page_Dashboard/span_Create""))",Chrome 114.0.0.0,,,2023-06-13 13:48:59,2023-06-13 13:49:00,0.583s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""Sub Admin/Page_Dashboard/span_Create""))",Chrome 114.0.0.0,,,2023-06-13 13:49:00,2023-06-13 13:49:00,0.473s,PASSED
+"click(findTestObject(""Sub Admin/Page_Dashboard/span_Create""))",Chrome 114.0.0.0,,,2023-06-13 13:49:00,2023-06-13 13:49:02,2.099s,PASSED
+,,,,,,,
+Test Cases/Sub Admin/Duplicate IP Logins,Chrome 114.0.0.0,,,2023-06-13 13:49:02,2023-06-13 13:49:07,4.811s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""Sub Admin/Page_Dashboard/span_Sub-Admin""))",Chrome 114.0.0.0,,,2023-06-13 13:49:03,2023-06-13 13:49:04,0.502s,PASSED
+"mouseOver(findTestObject(""Sub Admin/Page_Dashboard/span_Sub-Admin""))",Chrome 114.0.0.0,,,2023-06-13 13:49:04,2023-06-13 13:49:04,0.566s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""Sub Admin/Page_Dashboard/span_Duplicate IP Logins""))",Chrome 114.0.0.0,,,2023-06-13 13:49:04,2023-06-13 13:49:05,0.492s,PASSED
+"mouseOver(findTestObject(""Sub Admin/Page_Dashboard/span_Duplicate IP Logins""))",Chrome 114.0.0.0,,,2023-06-13 13:49:05,2023-06-13 13:49:05,0.554s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""Sub Admin/Page_Dashboard/span_Duplicate IP Logins""))",Chrome 114.0.0.0,,,2023-06-13 13:49:05,2023-06-13 13:49:06,0.504s,PASSED
+"click(findTestObject(""Sub Admin/Page_Dashboard/span_Duplicate IP Logins""))",Chrome 114.0.0.0,,,2023-06-13 13:49:06,2023-06-13 13:49:07,1.502s,PASSED

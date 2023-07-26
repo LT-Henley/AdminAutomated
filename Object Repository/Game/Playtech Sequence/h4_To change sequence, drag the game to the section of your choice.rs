@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>h4_To change sequence, drag the game to the section of your choice</name>
+   <tag></tag>
+   <elementGuidId>9d2b7e34-009d-4d8e-9885-6dab2a18d88f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>h4</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='gamePlaytechSequenceLayout']/div/div[2]/div/h4</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>h4</value>
+      <webElementGuid>e1bf0e57-64e7-4e56-85d7-89dbc67622ab</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>To change sequence, drag the game to the section of your choice</value>
+      <webElementGuid>e25770c6-5556-4daa-96b1-cdcd1c1a7e51</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;gamePlaytechSequenceLayout&quot;)/div[@class=&quot;kt-portlet kt-portlet--mobile&quot;]/div[@class=&quot;kt-portlet__body&quot;]/div[1]/h4[1]</value>
+      <webElementGuid>e2de52c6-134f-44fb-b92f-9148f86bbb15</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='gamePlaytechSequenceLayout']/div/div[2]/div/h4</value>
+      <webElementGuid>d77ad50d-1eb8-4faf-a341-9361672d904e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Playtech Sequence'])[4]/following::h4[1]</value>
+      <webElementGuid>4e94dbd6-b598-4a00-b894-570b98d2feb0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Unlock'])[1]/following::h4[1]</value>
+      <webElementGuid>6dbdc093-54d5-4aea-94d1-d3345fe74dd1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='To change sequence,']/parent::*</value>
+      <webElementGuid>20230ae0-65b0-41e0-a8ee-bac3b6f845ca</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//h4</value>
+      <webElementGuid>05c5ad2e-3571-4e75-9a88-0247b1dfd3c8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//h4[(text() = 'To change sequence, drag the game to the section of your choice' or . = 'To change sequence, drag the game to the section of your choice')]</value>
+      <webElementGuid>95ae07e4-f3dc-4116-b233-429f3fbd3355</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

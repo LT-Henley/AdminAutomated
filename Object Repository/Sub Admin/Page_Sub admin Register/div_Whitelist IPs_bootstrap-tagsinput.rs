@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Whitelist IPs_bootstrap-tagsinput</name>
+   <tag></tag>
+   <elementGuidId>a8867e5a-08b0-428a-a7a3-aa1ad82195f4</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.bootstrap-tagsinput</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='adminCreateLayout']/div/div/form/div/div[8]/div/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>0dd9f241-375b-441a-a071-c01485ae673e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>bootstrap-tagsinput</value>
+      <webElementGuid>552de97d-d9ba-4f8e-8076-3af8aca15f6a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;adminCreateLayout&quot;)/div[@class=&quot;kt-portlet__body&quot;]/div[@class=&quot;kt-section kt-section--first&quot;]/form[@class=&quot;kt-form&quot;]/div[@class=&quot;kt-section__body&quot;]/div[@class=&quot;form-group row&quot;]/div[@class=&quot;col-lg-9 col-xl-6&quot;]/div[@class=&quot;bootstrap-tagsinput&quot;]</value>
+      <webElementGuid>4707392e-5ca8-4525-be98-8a1521109ca3</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='adminCreateLayout']/div/div/form/div/div[8]/div/div</value>
+      <webElementGuid>e24d2233-7fc2-4bcc-81f6-bbdd67f27b93</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Whitelist IPs'])[1]/following::div[2]</value>
+      <webElementGuid>8bcc7501-4d6c-4556-8972-33e75b8e8e17</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Deselect all'])[1]/following::div[5]</value>
+      <webElementGuid>e924e6b6-7912-420c-a0ba-c9b6c1d111e9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Access Time From'])[1]/preceding::div[1]</value>
+      <webElementGuid>2a511f64-0850-4a4e-9523-fd2c3dbe758d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Access Time To'])[1]/preceding::div[3]</value>
+      <webElementGuid>e0e40cdc-78bd-44c7-b032-b8d4042c1ab4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[8]/div/div</value>
+      <webElementGuid>86d1185a-02be-411b-8b41-9c6065c47ef0</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

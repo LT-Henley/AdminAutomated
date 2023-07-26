@@ -1,0 +1,14 @@
+{
+  "brokenTestObjects": [
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/User/Page_Dashboard/Shareholder/span_Limited List_User",
+      "brokenLocator": "id(\"kt_aside_menu\")/ul[@class\u003d\"kt-menu__nav\"]/li[@class\u003d\"kt-menu__item kt-menu__item-- kt-menu__item--hover\"]/div[@class\u003d\"kt-menu__submenu\"]/ul[@class\u003d\"kt-menu__subnav\"]/li[@class\u003d\"kt-menu__item\"]/a[@class\u003d\"kt-menu__link\"]/span[@class\u003d\"kt-menu__link-text\"]",
+      "brokenLocatorMethod": "BASIC",
+      "proposedLocator": "//div[@id\u003d\u0027kt_aside_menu\u0027]/ul/li[3]/div/ul/li[13]/a/span",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": ""
+    }
+  ]
+}

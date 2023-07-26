@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Percentage</name>
+   <tag></tag>
+   <elementGuidId>2373f2c0-29f3-410f-8cc9-6b85c2f236b7</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='shareholderCreateLayout']/div/div/form/div/div[9]/label</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>label</value>
+      <webElementGuid>4f0eb1fc-6d89-4da1-8042-93474cb89ff4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>col-xl-3 col-lg-3 col-form-label</value>
+      <webElementGuid>a60aa325-208d-4878-88c1-ffc35aaf7a8d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Percentage</value>
+      <webElementGuid>a51d1361-60a7-4a78-827b-fd5930ab465c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;shareholderCreateLayout&quot;)/div[@class=&quot;kt-portlet__body&quot;]/div[@class=&quot;kt-section kt-section--first&quot;]/form[@class=&quot;kt-form&quot;]/div[@class=&quot;kt-section__body&quot;]/div[@class=&quot;form-group row&quot;]/label[@class=&quot;col-xl-3 col-lg-3 col-form-label&quot;]</value>
+      <webElementGuid>7d3a4ff6-dfb2-4681-be5e-7e52b76d0ff0</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='shareholderCreateLayout']/div/div/form/div/div[9]/label</value>
+      <webElementGuid>fabbf10c-276c-4b97-98b7-1a05ea0b6c6c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='App Type'])[2]/following::label[1]</value>
+      <webElementGuid>700c9a15-2e30-4332-bb1f-36ceca1214ae</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='App Type'])[1]/following::label[2]</value>
+      <webElementGuid>78e1f4b4-96f0-4524-8438-59926a45d942</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Permissions'])[1]/preceding::label[1]</value>
+      <webElementGuid>0f0ec658-9c71-4bf8-afb0-bde9787e7d49</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Nothing selected'])[1]/preceding::label[2]</value>
+      <webElementGuid>e419c543-3e2a-47f4-a1e1-3aab58ff0a7a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[9]/label</value>
+      <webElementGuid>81bb98cf-15c4-4394-84e9-eccb3da1979e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//label[(text() = 'Percentage' or . = 'Percentage')]</value>
+      <webElementGuid>e9e5d037-69ac-4987-94d5-3eb1ae727dba</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

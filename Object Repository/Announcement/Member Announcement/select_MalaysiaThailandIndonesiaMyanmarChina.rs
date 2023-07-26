@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>select_MalaysiaThailandIndonesiaMyanmarChina</name>
+   <tag></tag>
+   <elementGuidId>b5e4bbec-98f7-46f2-9b70-1d93c7da9319</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='memberAnnouncementListLayout']/div/div/div[2]/form/div/select</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>select.form-control.country</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>select</value>
+      <webElementGuid>ebc74a9d-2da4-4718-b0ef-9b576b6cb0b3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>form-control country</value>
+      <webElementGuid>b9db6ce7-5857-4667-bb47-cda52c1f4a12</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+															Malaysia
+															Thailand
+															Indonesia
+															Myanmar
+															China
+													</value>
+      <webElementGuid>54f684aa-2753-408b-884c-87f8d81e3b48</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;memberAnnouncementListLayout&quot;)/div[@class=&quot;kt-portlet kt-portlet--mobile&quot;]/div[@class=&quot;kt-portlet__head kt-portlet__head--lg&quot;]/div[@class=&quot;kt-portlet__head-toolbar&quot;]/form[@class=&quot;form-inline&quot;]/div[@class=&quot;form-group  mr-2&quot;]/select[@class=&quot;form-control country&quot;]</value>
+      <webElementGuid>43df1db5-8c16-455a-b00d-85a7d4815885</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='memberAnnouncementListLayout']/div/div/div[2]/form/div/select</value>
+      <webElementGuid>ade0a2a5-86cc-4907-ae4d-389645d813ee</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Country :'])[1]/following::select[1]</value>
+      <webElementGuid>1dc5e9a0-192a-4b8d-9a8d-de26c40e639b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Member Announcement List'])[3]/following::select[1]</value>
+      <webElementGuid>d6c699f8-b425-47c7-86de-459c6e6a9984</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='App Type :'])[1]/preceding::select[1]</value>
+      <webElementGuid>095583fd-f8b9-48de-bf05-16f26d2bae46</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Search'])[2]/preceding::select[2]</value>
+      <webElementGuid>19ce27c8-b46d-467c-b2d7-7262dfc997f3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//select</value>
+      <webElementGuid>156cc02e-7448-48eb-88ad-af734eb9c45c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//select[(text() = '
+															Malaysia
+															Thailand
+															Indonesia
+															Myanmar
+															China
+													' or . = '
+															Malaysia
+															Thailand
+															Indonesia
+															Myanmar
+															China
+													')]</value>
+      <webElementGuid>4b16a8a5-fb98-4e3e-95a5-9b7f56c72dae</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

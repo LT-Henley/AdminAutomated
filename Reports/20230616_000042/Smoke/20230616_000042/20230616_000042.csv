@@ -1,0 +1,135 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+Smoke,Chrome 114.0.0.0,,,2023-06-16 00:00:52,2023-06-16 00:02:28,1m - 36.300s,PASSED
+,,,,,,,
+Test Cases/Report/Win Loss Report (Direct),Chrome 114.0.0.0,,,2023-06-16 00:00:53,2023-06-16 00:01:18,25.670s,PASSED
+"callTestCase(findTestCase(""Login Admin""), [:], STOP_ON_FAILURE)",Chrome 114.0.0.0,,,2023-06-16 00:00:53,2023-06-16 00:01:16,22.473s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""Report/Page_Dashboard/span_Report""))",Chrome 114.0.0.0,,,2023-06-16 00:01:16,2023-06-16 00:01:17,0.679s,PASSED
+"mouseOver(findTestObject(""Report/Page_Dashboard/span_Report""))",Chrome 114.0.0.0,,,2023-06-16 00:01:17,2023-06-16 00:01:17,0.595s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""Report/Page_Dashboard/span_Win Loss Report (Direct)""))",Chrome 114.0.0.0,,,2023-06-16 00:01:17,2023-06-16 00:01:18,0.486s,PASSED
+"mouseOver(findTestObject(""Report/Page_Dashboard/span_Win Loss Report (Direct)""))",Chrome 114.0.0.0,,,2023-06-16 00:01:18,2023-06-16 00:01:18,0.643s,PASSED
+,,,,,,,
+Test Cases/Report/Win Loss Report (All),Chrome 114.0.0.0,,,2023-06-16 00:01:18,2023-06-16 00:01:21,3.024s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""Report/Page_Dashboard/span_Report""))",Chrome 114.0.0.0,,,2023-06-16 00:01:19,2023-06-16 00:01:20,0.462s,PASSED
+"mouseOver(findTestObject(""Report/Page_Dashboard/span_Report""))",Chrome 114.0.0.0,,,2023-06-16 00:01:20,2023-06-16 00:01:20,0.581s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""Report/Page_Dashboard/span_Win Loss Report (All)""))",Chrome 114.0.0.0,,,2023-06-16 00:01:20,2023-06-16 00:01:21,0.515s,PASSED
+"mouseOver(findTestObject(""Report/Page_Dashboard/span_Win Loss Report (All)""))",Chrome 114.0.0.0,,,2023-06-16 00:01:21,2023-06-16 00:01:21,0.598s,PASSED
+,,,,,,,
+Test Cases/Report/Win Loss Report,Chrome 114.0.0.0,,,2023-06-16 00:01:21,2023-06-16 00:01:24,2.792s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""Report/Page_Dashboard/span_Report""))",Chrome 114.0.0.0,,,2023-06-16 00:01:22,2023-06-16 00:01:23,0.441s,PASSED
+"mouseOver(findTestObject(""Report/Page_Dashboard/span_Report""))",Chrome 114.0.0.0,,,2023-06-16 00:01:23,2023-06-16 00:01:23,0.563s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""Report/Page_Dashboard/span_Win Loss Report""))",Chrome 114.0.0.0,,,2023-06-16 00:01:23,2023-06-16 00:01:24,0.469s,PASSED
+"mouseOver(findTestObject(""Report/Page_Dashboard/span_Win Loss Report""))",Chrome 114.0.0.0,,,2023-06-16 00:01:24,2023-06-16 00:01:24,0.549s,PASSED
+,,,,,,,
+Test Cases/Report/Win Loss Report Percentage,Chrome 114.0.0.0,,,2023-06-16 00:01:24,2023-06-16 00:01:34,10.150s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""Report/Page_Dashboard/span_Report""))",Chrome 114.0.0.0,,,2023-06-16 00:01:25,2023-06-16 00:01:26,0.909s,PASSED
+"mouseOver(findTestObject(""Report/Page_Dashboard/span_Report""))",Chrome 114.0.0.0,,,2023-06-16 00:01:26,2023-06-16 00:01:26,0.544s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""Report/Page_Dashboard/span_Win Loss Report""))",Chrome 114.0.0.0,,,2023-06-16 00:01:26,2023-06-16 00:01:27,0.494s,PASSED
+"mouseOver(findTestObject(""Report/Page_Dashboard/span_Win Loss Report""))",Chrome 114.0.0.0,,,2023-06-16 00:01:27,2023-06-16 00:01:34,7.645s,PASSED
+,,,,,,,
+Test Cases/Report/Win Loss Report (Member),Chrome 114.0.0.0,,,2023-06-16 00:01:34,2023-06-16 00:01:37,2.809s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""Report/Page_Dashboard/span_Report""))",Chrome 114.0.0.0,,,2023-06-16 00:01:35,2023-06-16 00:01:36,0.693s,PASSED
+"mouseOver(findTestObject(""Report/Page_Dashboard/span_Report""))",Chrome 114.0.0.0,,,2023-06-16 00:01:36,2023-06-16 00:01:36,0.554s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""Report/Page_Dashboard/span_Win Loss Report (Member)""))",Chrome 114.0.0.0,,,2023-06-16 00:01:36,2023-06-16 00:01:37,0.478s,PASSED
+"mouseOver(findTestObject(""Report/Page_Dashboard/span_Win Loss Report (Member)""))",Chrome 114.0.0.0,,,2023-06-16 00:01:37,2023-06-16 00:01:37,0.551s,PASSED
+,,,,,,,
+Test Cases/Report/Detail,Chrome 114.0.0.0,,,2023-06-16 00:01:37,2023-06-16 00:01:40,2.701s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""Report/Page_Dashboard/span_Report""))",Chrome 114.0.0.0,,,2023-06-16 00:01:38,2023-06-16 00:01:38,0.517s,PASSED
+"mouseOver(findTestObject(""Report/Page_Dashboard/span_Report""))",Chrome 114.0.0.0,,,2023-06-16 00:01:38,2023-06-16 00:01:39,0.538s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""Report/Page_Dashboard/span_Detail""))",Chrome 114.0.0.0,,,2023-06-16 00:01:39,2023-06-16 00:01:39,0.470s,PASSED
+"mouseOver(findTestObject(""Report/Page_Dashboard/span_Detail""))",Chrome 114.0.0.0,,,2023-06-16 00:01:39,2023-06-16 00:01:40,0.544s,PASSED
+,,,,,,,
+Test Cases/Report/Summary All,Chrome 114.0.0.0,,,2023-06-16 00:01:40,2023-06-16 00:01:43,2.675s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""Report/Page_Dashboard/span_Report""))",Chrome 114.0.0.0,,,2023-06-16 00:01:40,2023-06-16 00:01:41,0.487s,PASSED
+"mouseOver(findTestObject(""Report/Page_Dashboard/span_Report""))",Chrome 114.0.0.0,,,2023-06-16 00:01:41,2023-06-16 00:01:42,0.619s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""Report/Page_Dashboard/span_Summary All""))",Chrome 114.0.0.0,,,2023-06-16 00:01:42,2023-06-16 00:01:42,0.465s,PASSED
+"mouseOver(findTestObject(""Report/Page_Dashboard/span_Summary All""))",Chrome 114.0.0.0,,,2023-06-16 00:01:42,2023-06-16 00:01:43,0.522s,PASSED
+,,,,,,,
+Test Cases/Report/Summary MYR,Chrome 114.0.0.0,,,2023-06-16 00:01:43,2023-06-16 00:01:45,2.552s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""Report/Page_Dashboard/span_Report""))",Chrome 114.0.0.0,,,2023-06-16 00:01:43,2023-06-16 00:01:43,0.445s,PASSED
+"mouseOver(findTestObject(""Report/Page_Dashboard/span_Report""))",Chrome 114.0.0.0,,,2023-06-16 00:01:43,2023-06-16 00:01:44,0.542s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""Report/Page_Dashboard/span_Summary MYR""))",Chrome 114.0.0.0,,,2023-06-16 00:01:44,2023-06-16 00:01:44,0.519s,PASSED
+"mouseOver(findTestObject(""Report/Page_Dashboard/span_Summary MYR""))",Chrome 114.0.0.0,,,2023-06-16 00:01:44,2023-06-16 00:01:45,0.574s,PASSED
+,,,,,,,
+Test Cases/Report/Summary THB,Chrome 114.0.0.0,,,2023-06-16 00:01:45,2023-06-16 00:01:48,2.536s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""Report/Page_Dashboard/span_Report""))",Chrome 114.0.0.0,,,2023-06-16 00:01:46,2023-06-16 00:01:46,0.447s,PASSED
+"mouseOver(findTestObject(""Report/Page_Dashboard/span_Report""))",Chrome 114.0.0.0,,,2023-06-16 00:01:46,2023-06-16 00:01:47,0.532s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""Report/Page_Dashboard/span_Summary THB""))",Chrome 114.0.0.0,,,2023-06-16 00:01:47,2023-06-16 00:01:47,0.480s,PASSED
+"mouseOver(findTestObject(""Report/Page_Dashboard/span_Summary THB""))",Chrome 114.0.0.0,,,2023-06-16 00:01:47,2023-06-16 00:01:48,0.591s,PASSED
+,,,,,,,
+Test Cases/Report/Summary IDR,Chrome 114.0.0.0,,,2023-06-16 00:01:48,2023-06-16 00:01:50,2.732s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""Report/Page_Dashboard/span_Report""))",Chrome 114.0.0.0,,,2023-06-16 00:01:48,2023-06-16 00:01:49,0.469s,PASSED
+"mouseOver(findTestObject(""Report/Page_Dashboard/span_Report""))",Chrome 114.0.0.0,,,2023-06-16 00:01:49,2023-06-16 00:01:49,0.538s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""Report/Page_Dashboard/span_Summary IDR""))",Chrome 114.0.0.0,,,2023-06-16 00:01:49,2023-06-16 00:01:50,0.468s,PASSED
+"mouseOver(findTestObject(""Report/Page_Dashboard/span_Summary IDR""))",Chrome 114.0.0.0,,,2023-06-16 00:01:50,2023-06-16 00:01:50,0.547s,PASSED
+,,,,,,,
+Test Cases/Report/Summary MMK,Chrome 114.0.0.0,,,2023-06-16 00:01:50,2023-06-16 00:01:53,2.763s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""Report/Page_Dashboard/span_Report""))",Chrome 114.0.0.0,,,2023-06-16 00:01:51,2023-06-16 00:01:51,0.583s,PASSED
+"mouseOver(findTestObject(""Report/Page_Dashboard/span_Report""))",Chrome 114.0.0.0,,,2023-06-16 00:01:51,2023-06-16 00:01:52,0.625s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""Report/Page_Dashboard/span_Summary MMK""))",Chrome 114.0.0.0,,,2023-06-16 00:01:52,2023-06-16 00:01:53,0.507s,PASSED
+"mouseOver(findTestObject(""Report/Page_Dashboard/span_Summary MMK""))",Chrome 114.0.0.0,,,2023-06-16 00:01:53,2023-06-16 00:01:53,0.550s,PASSED
+,,,,,,,
+Test Cases/Report/Summary RMB,Chrome 114.0.0.0,,,2023-06-16 00:01:53,2023-06-16 00:01:56,2.854s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""Report/Page_Dashboard/span_Report""))",Chrome 114.0.0.0,,,2023-06-16 00:01:54,2023-06-16 00:01:54,0.513s,PASSED
+"mouseOver(findTestObject(""Report/Page_Dashboard/span_Report""))",Chrome 114.0.0.0,,,2023-06-16 00:01:54,2023-06-16 00:01:55,0.533s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""Report/Page_Dashboard/span_Summary RMB""))",Chrome 114.0.0.0,,,2023-06-16 00:01:55,2023-06-16 00:01:55,0.486s,PASSED
+"mouseOver(findTestObject(""Report/Page_Dashboard/span_Summary RMB""))",Chrome 114.0.0.0,,,2023-06-16 00:01:55,2023-06-16 00:01:56,0.527s,PASSED
+,,,,,,,
+Test Cases/Report/Summary Monthly,Chrome 114.0.0.0,,,2023-06-16 00:01:56,2023-06-16 00:01:59,3.101s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""Report/Page_Dashboard/span_Report""))",Chrome 114.0.0.0,,,2023-06-16 00:01:57,2023-06-16 00:01:58,0.634s,PASSED
+"mouseOver(findTestObject(""Report/Page_Dashboard/span_Report""))",Chrome 114.0.0.0,,,2023-06-16 00:01:58,2023-06-16 00:01:58,0.554s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""Report/Page_Dashboard/span_Summary Monthly""))",Chrome 114.0.0.0,,,2023-06-16 00:01:58,2023-06-16 00:01:59,0.438s,PASSED
+"mouseOver(findTestObject(""Report/Page_Dashboard/span_Summary Monthly""))",Chrome 114.0.0.0,,,2023-06-16 00:01:59,2023-06-16 00:01:59,0.547s,PASSED
+,,,,,,,
+Test Cases/Report/Summary (Direct),Chrome 114.0.0.0,,,2023-06-16 00:01:59,2023-06-16 00:02:02,2.734s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""Report/Page_Dashboard/span_Report""))",Chrome 114.0.0.0,,,2023-06-16 00:02:00,2023-06-16 00:02:00,0.468s,PASSED
+"mouseOver(findTestObject(""Report/Page_Dashboard/span_Report""))",Chrome 114.0.0.0,,,2023-06-16 00:02:00,2023-06-16 00:02:01,0.568s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""Report/Page_Dashboard/span_Summary (Direct)""))",Chrome 114.0.0.0,,,2023-06-16 00:02:01,2023-06-16 00:02:01,0.467s,PASSED
+"mouseOver(findTestObject(""Report/Page_Dashboard/span_Summary (Direct)""))",Chrome 114.0.0.0,,,2023-06-16 00:02:01,2023-06-16 00:02:02,0.533s,PASSED
+,,,,,,,
+Test Cases/Report/Saved Report,Chrome 114.0.0.0,,,2023-06-16 00:02:02,2023-06-16 00:02:05,3.415s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""Report/Page_Dashboard/span_Report""))",Chrome 114.0.0.0,,,2023-06-16 00:02:03,2023-06-16 00:02:04,0.515s,PASSED
+"mouseOver(findTestObject(""Report/Page_Dashboard/span_Report""))",Chrome 114.0.0.0,,,2023-06-16 00:02:04,2023-06-16 00:02:04,0.572s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""Report/Page_Dashboard/span_Saved Report""))",Chrome 114.0.0.0,,,2023-06-16 00:02:04,2023-06-16 00:02:05,0.455s,PASSED
+"mouseOver(findTestObject(""Report/Page_Dashboard/span_Saved Report""))",Chrome 114.0.0.0,,,2023-06-16 00:02:05,2023-06-16 00:02:05,0.552s,PASSED
+,,,,,,,
+Test Cases/Report/Commission,Chrome 114.0.0.0,,,2023-06-16 00:02:05,2023-06-16 00:02:08,2.490s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""Report/Page_Dashboard/span_Report""))",Chrome 114.0.0.0,,,2023-06-16 00:02:06,2023-06-16 00:02:06,0.430s,PASSED
+"mouseOver(findTestObject(""Report/Page_Dashboard/span_Report""))",Chrome 114.0.0.0,,,2023-06-16 00:02:06,2023-06-16 00:02:07,0.555s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""Report/Page_Dashboard/span_Commission""))",Chrome 114.0.0.0,,,2023-06-16 00:02:07,2023-06-16 00:02:07,0.464s,PASSED
+"mouseOver(findTestObject(""Report/Page_Dashboard/span_Commission""))",Chrome 114.0.0.0,,,2023-06-16 00:02:07,2023-06-16 00:02:08,0.567s,PASSED
+,,,,,,,
+Test Cases/Report/40130 Report,Chrome 114.0.0.0,,,2023-06-16 00:02:08,2023-06-16 00:02:10,2.589s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""Report/Page_Dashboard/span_Report""))",Chrome 114.0.0.0,,,2023-06-16 00:02:08,2023-06-16 00:02:09,0.437s,PASSED
+"mouseOver(findTestObject(""Report/Page_Dashboard/span_Report""))",Chrome 114.0.0.0,,,2023-06-16 00:02:09,2023-06-16 00:02:09,0.565s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""Report/Page_Dashboard/span_40130 Report""))",Chrome 114.0.0.0,,,2023-06-16 00:02:09,2023-06-16 00:02:10,0.465s,PASSED
+"mouseOver(findTestObject(""Report/Page_Dashboard/span_40130 Report""))",Chrome 114.0.0.0,,,2023-06-16 00:02:10,2023-06-16 00:02:10,0.523s,PASSED
+,,,,,,,
+Test Cases/Report/Reward,Chrome 114.0.0.0,,,2023-06-16 00:02:10,2023-06-16 00:02:13,2.955s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""Report/Page_Dashboard/span_Report""))",Chrome 114.0.0.0,,,2023-06-16 00:02:11,2023-06-16 00:02:12,0.657s,PASSED
+"mouseOver(findTestObject(""Report/Page_Dashboard/span_Report""))",Chrome 114.0.0.0,,,2023-06-16 00:02:12,2023-06-16 00:02:12,0.540s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""Report/Page_Dashboard/span_Reward""))",Chrome 114.0.0.0,,,2023-06-16 00:02:12,2023-06-16 00:02:13,0.455s,PASSED
+"mouseOver(findTestObject(""Report/Page_Dashboard/span_Reward""))",Chrome 114.0.0.0,,,2023-06-16 00:02:13,2023-06-16 00:02:13,0.574s,PASSED
+,,,,,,,
+Test Cases/Report/Shareholder Report Preview,Chrome 114.0.0.0,,,2023-06-16 00:02:13,2023-06-16 00:02:16,2.619s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""Report/Page_Dashboard/span_Report""))",Chrome 114.0.0.0,,,2023-06-16 00:02:14,2023-06-16 00:02:14,0.465s,PASSED
+"mouseOver(findTestObject(""Report/Page_Dashboard/span_Report""))",Chrome 114.0.0.0,,,2023-06-16 00:02:14,2023-06-16 00:02:15,0.549s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""Report/Page_Dashboard/span_Shareholder report preview""))",Chrome 114.0.0.0,,,2023-06-16 00:02:15,2023-06-16 00:02:15,0.570s,PASSED
+"mouseOver(findTestObject(""Report/Page_Dashboard/span_Shareholder report preview""))",Chrome 114.0.0.0,,,2023-06-16 00:02:15,2023-06-16 00:02:16,0.563s,PASSED
+,,,,,,,
+Test Cases/Report/Member New Register,Chrome 114.0.0.0,,,2023-06-16 00:02:19,2023-06-16 00:02:23,4.473s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""Report/Page_Dashboard/span_Report""))",Chrome 114.0.0.0,,,2023-06-16 00:02:19,2023-06-16 00:02:19,0.432s,PASSED
+"mouseOver(findTestObject(""Report/Page_Dashboard/span_Report""))",Chrome 114.0.0.0,,,2023-06-16 00:02:19,2023-06-16 00:02:20,0.612s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""Report/Page_Dashboard/span_Member New Register""))",Chrome 114.0.0.0,,,2023-06-16 00:02:20,2023-06-16 00:02:20,0.475s,PASSED
+"mouseOver(findTestObject(""Report/Page_Dashboard/span_Member New Register""))",Chrome 114.0.0.0,,,2023-06-16 00:02:20,2023-06-16 00:02:23,2.939s,PASSED
+,,,,,,,
+Test Cases/Report/Gift Report,Chrome 114.0.0.0,,,2023-06-16 00:02:23,2023-06-16 00:02:26,2.568s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""Report/Page_Dashboard/span_Report""))",Chrome 114.0.0.0,,,2023-06-16 00:02:24,2023-06-16 00:02:24,0.454s,PASSED
+"mouseOver(findTestObject(""Report/Page_Dashboard/span_Report""))",Chrome 114.0.0.0,,,2023-06-16 00:02:24,2023-06-16 00:02:25,0.569s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""Report/Page_Dashboard/span_Gift Report""))",Chrome 114.0.0.0,,,2023-06-16 00:02:25,2023-06-16 00:02:25,0.517s,PASSED
+"mouseOver(findTestObject(""Report/Page_Dashboard/span_Gift Report""))",Chrome 114.0.0.0,,,2023-06-16 00:02:25,2023-06-16 00:02:26,0.546s,PASSED
+,,,,,,,
+Test Cases/Report/Member Blocked Report,Chrome 114.0.0.0,,,2023-06-16 00:02:26,2023-06-16 00:02:28,2.764s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""Report/Page_Dashboard/span_Report""))",Chrome 114.0.0.0,,,2023-06-16 00:02:26,2023-06-16 00:02:27,0.505s,PASSED
+"mouseOver(findTestObject(""Report/Page_Dashboard/span_Report""))",Chrome 114.0.0.0,,,2023-06-16 00:02:27,2023-06-16 00:02:27,0.549s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""Report/Page_Dashboard/span_Member Blocked Report""))",Chrome 114.0.0.0,,,2023-06-16 00:02:27,2023-06-16 00:02:28,0.474s,PASSED
+"mouseOver(findTestObject(""Report/Page_Dashboard/span_Member Blocked Report""))",Chrome 114.0.0.0,,,2023-06-16 00:02:28,2023-06-16 00:02:28,0.559s,PASSED

@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>select_AllPlayer</name>
+   <tag></tag>
+   <elementGuidId>ca3e2304-f9de-42a1-a758-fde5aa137350</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>select.form-control.userType</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='currencyConversionsLayout']/div/div/form/div/select</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>select</value>
+      <webElementGuid>8b8c085e-9a8b-48a3-93cb-03e09f4de2a5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>form-control userType</value>
+      <webElementGuid>40e0b06e-667d-4800-a852-9154b747c190</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+                        All
+                        Player
+                        Member
+                        Shareholder
+                    </value>
+      <webElementGuid>9d167462-8feb-4085-9bb7-32b002be59f5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;currencyConversionsLayout&quot;)/div[@class=&quot;kt-portlet kt-portlet--mobile&quot;]/div[@class=&quot;kt-portlet__head kt-portlet__head--lg&quot;]/form[@class=&quot;form-inline&quot;]/div[@class=&quot;form-group mb-2 mr-2&quot;]/select[@class=&quot;form-control userType&quot;]</value>
+      <webElementGuid>17981d03-e35b-42d3-96a8-e2089ddd31b5</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='currencyConversionsLayout']/div/div/form/div/select</value>
+      <webElementGuid>10e557a5-0e9d-4fb8-ae0c-7adf0838dd8a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='User Type'])[1]/following::select[1]</value>
+      <webElementGuid>2772b107-b55b-479b-a873-6ce6f074f84f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Currency Conversions'])[3]/following::select[1]</value>
+      <webElementGuid>82a99340-ae49-4f9d-9f1d-561927b22795</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Flow Type'])[1]/preceding::select[1]</value>
+      <webElementGuid>ca5e4215-e94f-4820-9ee3-e5aeaa5b0139</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Currency'])[1]/preceding::select[2]</value>
+      <webElementGuid>c5cfe1f1-d318-4a40-9b35-744891a10783</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//select</value>
+      <webElementGuid>a78bac80-7b8f-43aa-bdff-7a291dc33f26</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//select[(text() = '
+                        All
+                        Player
+                        Member
+                        Shareholder
+                    ' or . = '
+                        All
+                        Player
+                        Member
+                        Shareholder
+                    ')]</value>
+      <webElementGuid>214be965-2240-4ecd-a29c-dfaade2778a9</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

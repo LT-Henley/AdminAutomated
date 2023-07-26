@@ -1,0 +1,298 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+Smoke,Chrome 114.0.0.0,,,2023-07-10 22:01:56,2023-07-10 22:04:43,2m - 47.554s,PASSED
+,,,,,,,
+Test Cases/Game/Product List MYR,Chrome 114.0.0.0,,,2023-07-10 22:01:56,2023-07-10 22:02:49,53.003s,PASSED
+"callTestCase(findTestCase(""Login Admin""), [:], STOP_ON_FAILURE)",Chrome 114.0.0.0,,,2023-07-10 22:01:57,2023-07-10 22:02:20,22.920s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""Game/Page_Dashboard/span_Game""))",Chrome 114.0.0.0,,,2023-07-10 22:02:20,2023-07-10 22:02:21,0.718s,PASSED
+"mouseOver(findTestObject(""Game/Page_Dashboard/span_Game""))",Chrome 114.0.0.0,,,2023-07-10 22:02:21,2023-07-10 22:02:21,0.634s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""Game/Page_Dashboard/span_Product List""))",Chrome 114.0.0.0,,,2023-07-10 22:02:21,2023-07-10 22:02:22,0.483s,PASSED
+"mouseOver(findTestObject(""Game/Page_Dashboard/span_Product List""))",Chrome 114.0.0.0,,,2023-07-10 22:02:22,2023-07-10 22:02:22,0.609s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""Game/Page_Dashboard/span_MYR""))",Chrome 114.0.0.0,,,2023-07-10 22:02:22,2023-07-10 22:02:23,0.517s,PASSED
+"mouseOver(findTestObject(""Game/Page_Dashboard/span_MYR""))",Chrome 114.0.0.0,,,2023-07-10 22:02:23,2023-07-10 22:02:23,0.584s,PASSED
+"click(findTestObject(""Game/Page_Dashboard/span_MYR""))",Chrome 114.0.0.0,,,2023-07-10 22:02:23,2023-07-10 22:02:26,2.497s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""Game/Product List/h3_Game List""))",Chrome 114.0.0.0,,,2023-07-10 22:02:26,2023-07-10 22:02:27,0.997s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""Game/Product List/select_102550100""))",Chrome 114.0.0.0,,,2023-07-10 22:02:27,2023-07-10 22:02:27,0.477s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""Game/Product List/span_Copy""))",Chrome 114.0.0.0,,,2023-07-10 22:02:27,2023-07-10 22:02:28,0.493s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""Game/Product List/span_CSV""))",Chrome 114.0.0.0,,,2023-07-10 22:02:28,2023-07-10 22:02:28,0.489s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""Game/Product List/span_Excel""))",Chrome 114.0.0.0,,,2023-07-10 22:02:28,2023-07-10 22:02:29,0.487s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""Game/Product List/span_PDF""))",Chrome 114.0.0.0,,,2023-07-10 22:02:29,2023-07-10 22:02:29,0.456s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""Game/Product List/input_Search_form-control form-control-sm""))",Chrome 114.0.0.0,,,2023-07-10 22:02:29,2023-07-10 22:02:30,0.476s,PASSED
+"verifyElementVisible(findTestObject(""Game/Product List/h3_Game List""))",Chrome 114.0.0.0,,,2023-07-10 22:02:30,2023-07-10 22:02:30,0.421s,PASSED
+"verifyElementVisible(findTestObject(""Game/Product List/select_102550100""))",Chrome 114.0.0.0,,,2023-07-10 22:02:30,2023-07-10 22:02:31,0.416s,PASSED
+"verifyElementVisible(findTestObject(""Game/Product List/span_Copy""))",Chrome 114.0.0.0,,,2023-07-10 22:02:31,2023-07-10 22:02:31,0.428s,PASSED
+"verifyElementVisible(findTestObject(""Game/Product List/span_CSV""))",Chrome 114.0.0.0,,,2023-07-10 22:02:31,2023-07-10 22:02:31,0.401s,PASSED
+"verifyElementVisible(findTestObject(""Game/Product List/span_Excel""))",Chrome 114.0.0.0,,,2023-07-10 22:02:31,2023-07-10 22:02:32,0.425s,PASSED
+"verifyElementVisible(findTestObject(""Game/Product List/span_PDF""))",Chrome 114.0.0.0,,,2023-07-10 22:02:32,2023-07-10 22:02:32,0.406s,PASSED
+"verifyElementVisible(findTestObject(""Game/Product List/input_Search_form-control form-control-sm""))",Chrome 114.0.0.0,,,2023-07-10 22:02:32,2023-07-10 22:02:33,0.416s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""Game/Product List/th_Name""))",Chrome 114.0.0.0,,,2023-07-10 22:02:33,2023-07-10 22:02:33,0.507s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""Game/Product List/th_Category""))",Chrome 114.0.0.0,,,2023-07-10 22:02:33,2023-07-10 22:02:34,0.492s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""Game/Product List/th_Description""))",Chrome 114.0.0.0,,,2023-07-10 22:02:34,2023-07-10 22:02:34,0.485s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""Game/Product List/th_Up By""))",Chrome 114.0.0.0,,,2023-07-10 22:02:34,2023-07-10 22:02:35,0.491s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""Game/Product List/th_Down By""))",Chrome 114.0.0.0,,,2023-07-10 22:02:35,2023-07-10 22:02:35,0.475s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""Game/Product List/th_Up At""))",Chrome 114.0.0.0,,,2023-07-10 22:02:35,2023-07-10 22:02:36,0.450s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""Game/Product List/th_Down At""))",Chrome 114.0.0.0,,,2023-07-10 22:02:36,2023-07-10 22:02:36,0.489s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""Game/Product List/th_Up Time""))",Chrome 114.0.0.0,,,2023-07-10 22:02:36,2023-07-10 22:02:37,0.480s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""Game/Product List/th_Down Time""))",Chrome 114.0.0.0,,,2023-07-10 22:02:37,2023-07-10 22:02:37,0.472s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""Game/Product List/th_Status""))",Chrome 114.0.0.0,,,2023-07-10 22:02:37,2023-07-10 22:02:37,0.472s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""Game/Product List/th_Maintenance Scheduled""))",Chrome 114.0.0.0,,,2023-07-10 22:02:37,2023-07-10 22:02:38,0.487s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""Game/Product List/th_Maintenance Schedule From""))",Chrome 114.0.0.0,,,2023-07-10 22:02:38,2023-07-10 22:02:38,0.500s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""Game/Product List/th_Maintenance Schedule To""))",Chrome 114.0.0.0,,,2023-07-10 22:02:38,2023-07-10 22:02:39,0.489s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""Game/Product List/th_Product Languages""))",Chrome 114.0.0.0,,,2023-07-10 22:02:39,2023-07-10 22:02:39,0.496s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""Game/Product List/th_Action""))",Chrome 114.0.0.0,,,2023-07-10 22:02:39,2023-07-10 22:02:40,0.492s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""Game/Product List/table_Name""))",Chrome 114.0.0.0,,,2023-07-10 22:02:40,2023-07-10 22:02:40,0.464s,PASSED
+"verifyElementVisible(findTestObject(""Game/Product List/th_Name""))",Chrome 114.0.0.0,,,2023-07-10 22:02:40,2023-07-10 22:02:41,0.442s,PASSED
+"verifyElementVisible(findTestObject(""Game/Product List/th_Category""))",Chrome 114.0.0.0,,,2023-07-10 22:02:41,2023-07-10 22:02:41,0.412s,PASSED
+"verifyElementVisible(findTestObject(""Game/Product List/th_Description""))",Chrome 114.0.0.0,,,2023-07-10 22:02:41,2023-07-10 22:02:42,0.437s,PASSED
+"verifyElementVisible(findTestObject(""Game/Product List/th_Up By""))",Chrome 114.0.0.0,,,2023-07-10 22:02:42,2023-07-10 22:02:42,0.437s,PASSED
+"verifyElementVisible(findTestObject(""Game/Product List/th_Down By""))",Chrome 114.0.0.0,,,2023-07-10 22:02:42,2023-07-10 22:02:43,0.416s,PASSED
+"verifyElementVisible(findTestObject(""Game/Product List/th_Up At""))",Chrome 114.0.0.0,,,2023-07-10 22:02:43,2023-07-10 22:02:43,0.430s,PASSED
+"verifyElementVisible(findTestObject(""Game/Product List/th_Down At""))",Chrome 114.0.0.0,,,2023-07-10 22:02:43,2023-07-10 22:02:43,0.444s,PASSED
+"verifyElementVisible(findTestObject(""Game/Product List/th_Up Time""))",Chrome 114.0.0.0,,,2023-07-10 22:02:43,2023-07-10 22:02:44,0.408s,PASSED
+"verifyElementVisible(findTestObject(""Game/Product List/th_Down Time""))",Chrome 114.0.0.0,,,2023-07-10 22:02:44,2023-07-10 22:02:44,0.436s,PASSED
+"verifyElementVisible(findTestObject(""Game/Product List/th_Status""))",Chrome 114.0.0.0,,,2023-07-10 22:02:44,2023-07-10 22:02:45,0.418s,PASSED
+"verifyElementVisible(findTestObject(""Game/Product List/th_Maintenance Scheduled""))",Chrome 114.0.0.0,,,2023-07-10 22:02:45,2023-07-10 22:02:45,0.426s,PASSED
+"verifyElementVisible(findTestObject(""Game/Product List/th_Maintenance Schedule From""))",Chrome 114.0.0.0,,,2023-07-10 22:02:45,2023-07-10 22:02:46,0.427s,PASSED
+"verifyElementVisible(findTestObject(""Game/Product List/th_Maintenance Schedule To""))",Chrome 114.0.0.0,,,2023-07-10 22:02:46,2023-07-10 22:02:46,0.414s,PASSED
+"verifyElementVisible(findTestObject(""Game/Product List/th_Product Languages""))",Chrome 114.0.0.0,,,2023-07-10 22:02:46,2023-07-10 22:02:46,0.431s,PASSED
+"verifyElementVisible(findTestObject(""Game/Product List/th_Action""))",Chrome 114.0.0.0,,,2023-07-10 22:02:46,2023-07-10 22:02:47,0.455s,PASSED
+"verifyElementVisible(findTestObject(""Game/Product List/table_Name""))",Chrome 114.0.0.0,,,2023-07-10 22:02:47,2023-07-10 22:02:47,0.426s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""Game/Product List/li_Previous""))",Chrome 114.0.0.0,,,2023-07-10 22:02:47,2023-07-10 22:02:48,0.484s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""Game/Product List/a_Next""))",Chrome 114.0.0.0,,,2023-07-10 22:02:48,2023-07-10 22:02:48,0.483s,PASSED
+"verifyElementVisible(findTestObject(""Game/Product List/li_Previous""))",Chrome 114.0.0.0,,,2023-07-10 22:02:48,2023-07-10 22:02:49,0.400s,PASSED
+"verifyElementVisible(findTestObject(""Game/Product List/a_Next""))",Chrome 114.0.0.0,,,2023-07-10 22:02:49,2023-07-10 22:02:49,0.434s,PASSED
+,,,,,,,
+Test Cases/Game/Product List THB,Chrome 114.0.0.0,,,2023-07-10 22:02:49,2023-07-10 22:03:19,29.350s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""Game/Page_Dashboard/span_Game""))",Chrome 114.0.0.0,,,2023-07-10 22:02:50,2023-07-10 22:02:50,0.474s,PASSED
+"mouseOver(findTestObject(""Game/Page_Dashboard/span_Game""))",Chrome 114.0.0.0,,,2023-07-10 22:02:50,2023-07-10 22:02:51,0.548s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""Game/Page_Dashboard/span_Product List""))",Chrome 114.0.0.0,,,2023-07-10 22:02:51,2023-07-10 22:02:51,0.469s,PASSED
+"mouseOver(findTestObject(""Game/Page_Dashboard/span_Product List""))",Chrome 114.0.0.0,,,2023-07-10 22:02:51,2023-07-10 22:02:52,0.531s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""Game/Page_Dashboard/span_THB""))",Chrome 114.0.0.0,,,2023-07-10 22:02:52,2023-07-10 22:02:52,0.487s,PASSED
+"mouseOver(findTestObject(""Game/Page_Dashboard/span_THB""))",Chrome 114.0.0.0,,,2023-07-10 22:02:52,2023-07-10 22:02:53,0.540s,PASSED
+"click(findTestObject(""Game/Page_Dashboard/span_THB""))",Chrome 114.0.0.0,,,2023-07-10 22:02:53,2023-07-10 22:02:55,2.636s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""Game/Product List/h3_Game List""))",Chrome 114.0.0.0,,,2023-07-10 22:02:55,2023-07-10 22:02:56,0.793s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""Game/Product List/select_102550100""))",Chrome 114.0.0.0,,,2023-07-10 22:02:56,2023-07-10 22:02:57,0.457s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""Game/Product List/span_Copy""))",Chrome 114.0.0.0,,,2023-07-10 22:02:57,2023-07-10 22:02:57,0.576s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""Game/Product List/span_CSV""))",Chrome 114.0.0.0,,,2023-07-10 22:02:57,2023-07-10 22:02:58,0.452s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""Game/Product List/span_Excel""))",Chrome 114.0.0.0,,,2023-07-10 22:02:58,2023-07-10 22:02:58,0.580s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""Game/Product List/span_PDF""))",Chrome 114.0.0.0,,,2023-07-10 22:02:58,2023-07-10 22:02:59,0.540s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""Game/Product List/input_Search_form-control form-control-sm""))",Chrome 114.0.0.0,,,2023-07-10 22:02:59,2023-07-10 22:02:59,0.562s,PASSED
+"verifyElementVisible(findTestObject(""Game/Product List/h3_Game List""))",Chrome 114.0.0.0,,,2023-07-10 22:02:59,2023-07-10 22:03:00,0.442s,PASSED
+"verifyElementVisible(findTestObject(""Game/Product List/select_102550100""))",Chrome 114.0.0.0,,,2023-07-10 22:03:00,2023-07-10 22:03:00,0.406s,PASSED
+"verifyElementVisible(findTestObject(""Game/Product List/span_Copy""))",Chrome 114.0.0.0,,,2023-07-10 22:03:00,2023-07-10 22:03:01,0.402s,PASSED
+"verifyElementVisible(findTestObject(""Game/Product List/span_CSV""))",Chrome 114.0.0.0,,,2023-07-10 22:03:01,2023-07-10 22:03:01,0.418s,PASSED
+"verifyElementVisible(findTestObject(""Game/Product List/span_Excel""))",Chrome 114.0.0.0,,,2023-07-10 22:03:01,2023-07-10 22:03:01,0.405s,PASSED
+"verifyElementVisible(findTestObject(""Game/Product List/span_PDF""))",Chrome 114.0.0.0,,,2023-07-10 22:03:01,2023-07-10 22:03:02,0.410s,PASSED
+"verifyElementVisible(findTestObject(""Game/Product List/input_Search_form-control form-control-sm""))",Chrome 114.0.0.0,,,2023-07-10 22:03:02,2023-07-10 22:03:02,0.415s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""Game/Product List/th_Name""))",Chrome 114.0.0.0,,,2023-07-10 22:03:02,2023-07-10 22:03:03,0.528s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""Game/Product List/th_Category""))",Chrome 114.0.0.0,,,2023-07-10 22:03:03,2023-07-10 22:03:03,0.530s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""Game/Product List/th_Description""))",Chrome 114.0.0.0,,,2023-07-10 22:03:03,2023-07-10 22:03:04,0.455s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""Game/Product List/th_Up By""))",Chrome 114.0.0.0,,,2023-07-10 22:03:04,2023-07-10 22:03:04,0.477s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""Game/Product List/th_Down By""))",Chrome 114.0.0.0,,,2023-07-10 22:03:04,2023-07-10 22:03:05,0.455s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""Game/Product List/th_Up At""))",Chrome 114.0.0.0,,,2023-07-10 22:03:05,2023-07-10 22:03:05,0.461s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""Game/Product List/th_Down At""))",Chrome 114.0.0.0,,,2023-07-10 22:03:05,2023-07-10 22:03:06,0.464s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""Game/Product List/th_Up Time""))",Chrome 114.0.0.0,,,2023-07-10 22:03:06,2023-07-10 22:03:06,0.456s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""Game/Product List/th_Down Time""))",Chrome 114.0.0.0,,,2023-07-10 22:03:06,2023-07-10 22:03:07,0.479s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""Game/Product List/th_Status""))",Chrome 114.0.0.0,,,2023-07-10 22:03:07,2023-07-10 22:03:07,0.512s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""Game/Product List/th_Maintenance Scheduled""))",Chrome 114.0.0.0,,,2023-07-10 22:03:07,2023-07-10 22:03:08,0.484s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""Game/Product List/th_Maintenance Schedule From""))",Chrome 114.0.0.0,,,2023-07-10 22:03:08,2023-07-10 22:03:08,0.483s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""Game/Product List/th_Maintenance Schedule To""))",Chrome 114.0.0.0,,,2023-07-10 22:03:08,2023-07-10 22:03:09,0.476s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""Game/Product List/th_Product Languages""))",Chrome 114.0.0.0,,,2023-07-10 22:03:09,2023-07-10 22:03:09,0.492s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""Game/Product List/th_Action""))",Chrome 114.0.0.0,,,2023-07-10 22:03:09,2023-07-10 22:03:10,0.499s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""Game/Product List/table_Name""))",Chrome 114.0.0.0,,,2023-07-10 22:03:10,2023-07-10 22:03:10,0.487s,PASSED
+"verifyElementVisible(findTestObject(""Game/Product List/th_Name""))",Chrome 114.0.0.0,,,2023-07-10 22:03:10,2023-07-10 22:03:10,0.414s,PASSED
+"verifyElementVisible(findTestObject(""Game/Product List/th_Category""))",Chrome 114.0.0.0,,,2023-07-10 22:03:10,2023-07-10 22:03:11,0.402s,PASSED
+"verifyElementVisible(findTestObject(""Game/Product List/th_Description""))",Chrome 114.0.0.0,,,2023-07-10 22:03:11,2023-07-10 22:03:11,0.421s,PASSED
+"verifyElementVisible(findTestObject(""Game/Product List/th_Up By""))",Chrome 114.0.0.0,,,2023-07-10 22:03:11,2023-07-10 22:03:12,0.434s,PASSED
+"verifyElementVisible(findTestObject(""Game/Product List/th_Down By""))",Chrome 114.0.0.0,,,2023-07-10 22:03:12,2023-07-10 22:03:12,0.426s,PASSED
+"verifyElementVisible(findTestObject(""Game/Product List/th_Up At""))",Chrome 114.0.0.0,,,2023-07-10 22:03:12,2023-07-10 22:03:13,0.401s,PASSED
+"verifyElementVisible(findTestObject(""Game/Product List/th_Down At""))",Chrome 114.0.0.0,,,2023-07-10 22:03:13,2023-07-10 22:03:13,0.418s,PASSED
+"verifyElementVisible(findTestObject(""Game/Product List/th_Up Time""))",Chrome 114.0.0.0,,,2023-07-10 22:03:13,2023-07-10 22:03:13,0.410s,PASSED
+"verifyElementVisible(findTestObject(""Game/Product List/th_Down Time""))",Chrome 114.0.0.0,,,2023-07-10 22:03:13,2023-07-10 22:03:14,0.424s,PASSED
+"verifyElementVisible(findTestObject(""Game/Product List/th_Status""))",Chrome 114.0.0.0,,,2023-07-10 22:03:14,2023-07-10 22:03:14,0.425s,PASSED
+"verifyElementVisible(findTestObject(""Game/Product List/th_Maintenance Scheduled""))",Chrome 114.0.0.0,,,2023-07-10 22:03:14,2023-07-10 22:03:15,0.438s,PASSED
+"verifyElementVisible(findTestObject(""Game/Product List/th_Maintenance Schedule From""))",Chrome 114.0.0.0,,,2023-07-10 22:03:15,2023-07-10 22:03:15,0.413s,PASSED
+"verifyElementVisible(findTestObject(""Game/Product List/th_Maintenance Schedule To""))",Chrome 114.0.0.0,,,2023-07-10 22:03:15,2023-07-10 22:03:15,0.403s,PASSED
+"verifyElementVisible(findTestObject(""Game/Product List/th_Product Languages""))",Chrome 114.0.0.0,,,2023-07-10 22:03:15,2023-07-10 22:03:16,0.420s,PASSED
+"verifyElementVisible(findTestObject(""Game/Product List/th_Action""))",Chrome 114.0.0.0,,,2023-07-10 22:03:16,2023-07-10 22:03:16,0.388s,PASSED
+"verifyElementVisible(findTestObject(""Game/Product List/table_Name""))",Chrome 114.0.0.0,,,2023-07-10 22:03:16,2023-07-10 22:03:17,0.384s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""Game/Product List/li_Previous""))",Chrome 114.0.0.0,,,2023-07-10 22:03:17,2023-07-10 22:03:17,0.431s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""Game/Product List/a_Next""))",Chrome 114.0.0.0,,,2023-07-10 22:03:17,2023-07-10 22:03:18,0.559s,PASSED
+"verifyElementVisible(findTestObject(""Game/Product List/li_Previous""))",Chrome 114.0.0.0,,,2023-07-10 22:03:18,2023-07-10 22:03:18,0.419s,PASSED
+"verifyElementVisible(findTestObject(""Game/Product List/a_Next""))",Chrome 114.0.0.0,,,2023-07-10 22:03:18,2023-07-10 22:03:19,0.415s,PASSED
+,,,,,,,
+Test Cases/Game/Product List IDR,Chrome 114.0.0.0,,,2023-07-10 22:03:19,2023-07-10 22:03:47,28.143s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""Game/Page_Dashboard/span_Game""))",Chrome 114.0.0.0,,,2023-07-10 22:03:19,2023-07-10 22:03:19,0.465s,PASSED
+"mouseOver(findTestObject(""Game/Page_Dashboard/span_Game""))",Chrome 114.0.0.0,,,2023-07-10 22:03:19,2023-07-10 22:03:20,0.530s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""Game/Page_Dashboard/span_Product List""))",Chrome 114.0.0.0,,,2023-07-10 22:03:20,2023-07-10 22:03:20,0.445s,PASSED
+"mouseOver(findTestObject(""Game/Page_Dashboard/span_Product List""))",Chrome 114.0.0.0,,,2023-07-10 22:03:20,2023-07-10 22:03:21,0.555s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""Game/Page_Dashboard/span_IDR""))",Chrome 114.0.0.0,,,2023-07-10 22:03:21,2023-07-10 22:03:21,0.478s,PASSED
+"mouseOver(findTestObject(""Game/Page_Dashboard/span_IDR""))",Chrome 114.0.0.0,,,2023-07-10 22:03:21,2023-07-10 22:03:22,0.537s,PASSED
+"click(findTestObject(""Game/Page_Dashboard/span_IDR""))",Chrome 114.0.0.0,,,2023-07-10 22:03:22,2023-07-10 22:03:25,2.525s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""Game/Product List/h3_Game List""))",Chrome 114.0.0.0,,,2023-07-10 22:03:25,2023-07-10 22:03:25,0.731s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""Game/Product List/select_102550100""))",Chrome 114.0.0.0,,,2023-07-10 22:03:25,2023-07-10 22:03:26,0.555s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""Game/Product List/span_Copy""))",Chrome 114.0.0.0,,,2023-07-10 22:03:26,2023-07-10 22:03:26,0.465s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""Game/Product List/span_CSV""))",Chrome 114.0.0.0,,,2023-07-10 22:03:26,2023-07-10 22:03:27,0.454s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""Game/Product List/span_Excel""))",Chrome 114.0.0.0,,,2023-07-10 22:03:27,2023-07-10 22:03:27,0.552s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""Game/Product List/span_PDF""))",Chrome 114.0.0.0,,,2023-07-10 22:03:27,2023-07-10 22:03:28,0.456s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""Game/Product List/input_Search_form-control form-control-sm""))",Chrome 114.0.0.0,,,2023-07-10 22:03:28,2023-07-10 22:03:28,0.537s,PASSED
+"verifyElementVisible(findTestObject(""Game/Product List/h3_Game List""))",Chrome 114.0.0.0,,,2023-07-10 22:03:28,2023-07-10 22:03:29,0.424s,PASSED
+"verifyElementVisible(findTestObject(""Game/Product List/select_102550100""))",Chrome 114.0.0.0,,,2023-07-10 22:03:29,2023-07-10 22:03:29,0.418s,PASSED
+"verifyElementVisible(findTestObject(""Game/Product List/span_Copy""))",Chrome 114.0.0.0,,,2023-07-10 22:03:29,2023-07-10 22:03:30,0.423s,PASSED
+"verifyElementVisible(findTestObject(""Game/Product List/span_CSV""))",Chrome 114.0.0.0,,,2023-07-10 22:03:30,2023-07-10 22:03:30,0.413s,PASSED
+"verifyElementVisible(findTestObject(""Game/Product List/span_Excel""))",Chrome 114.0.0.0,,,2023-07-10 22:03:30,2023-07-10 22:03:30,0.385s,PASSED
+"verifyElementVisible(findTestObject(""Game/Product List/span_PDF""))",Chrome 114.0.0.0,,,2023-07-10 22:03:30,2023-07-10 22:03:31,0.401s,PASSED
+"verifyElementVisible(findTestObject(""Game/Product List/input_Search_form-control form-control-sm""))",Chrome 114.0.0.0,,,2023-07-10 22:03:31,2023-07-10 22:03:31,0.390s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""Game/Product List/th_Name""))",Chrome 114.0.0.0,,,2023-07-10 22:03:31,2023-07-10 22:03:32,0.443s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""Game/Product List/th_Category""))",Chrome 114.0.0.0,,,2023-07-10 22:03:32,2023-07-10 22:03:32,0.446s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""Game/Product List/th_Description""))",Chrome 114.0.0.0,,,2023-07-10 22:03:32,2023-07-10 22:03:33,0.458s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""Game/Product List/th_Up By""))",Chrome 114.0.0.0,,,2023-07-10 22:03:33,2023-07-10 22:03:33,0.441s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""Game/Product List/th_Down By""))",Chrome 114.0.0.0,,,2023-07-10 22:03:33,2023-07-10 22:03:33,0.436s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""Game/Product List/th_Up At""))",Chrome 114.0.0.0,,,2023-07-10 22:03:33,2023-07-10 22:03:34,0.461s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""Game/Product List/th_Down At""))",Chrome 114.0.0.0,,,2023-07-10 22:03:34,2023-07-10 22:03:34,0.456s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""Game/Product List/th_Up Time""))",Chrome 114.0.0.0,,,2023-07-10 22:03:34,2023-07-10 22:03:35,0.444s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""Game/Product List/th_Down Time""))",Chrome 114.0.0.0,,,2023-07-10 22:03:35,2023-07-10 22:03:35,0.437s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""Game/Product List/th_Status""))",Chrome 114.0.0.0,,,2023-07-10 22:03:35,2023-07-10 22:03:36,0.427s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""Game/Product List/th_Maintenance Scheduled""))",Chrome 114.0.0.0,,,2023-07-10 22:03:36,2023-07-10 22:03:36,0.448s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""Game/Product List/th_Maintenance Schedule From""))",Chrome 114.0.0.0,,,2023-07-10 22:03:36,2023-07-10 22:03:37,0.458s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""Game/Product List/th_Maintenance Schedule To""))",Chrome 114.0.0.0,,,2023-07-10 22:03:37,2023-07-10 22:03:37,0.459s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""Game/Product List/th_Product Languages""))",Chrome 114.0.0.0,,,2023-07-10 22:03:37,2023-07-10 22:03:37,0.430s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""Game/Product List/th_Action""))",Chrome 114.0.0.0,,,2023-07-10 22:03:37,2023-07-10 22:03:38,0.437s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""Game/Product List/table_Name""))",Chrome 114.0.0.0,,,2023-07-10 22:03:38,2023-07-10 22:03:38,0.454s,PASSED
+"verifyElementVisible(findTestObject(""Game/Product List/th_Name""))",Chrome 114.0.0.0,,,2023-07-10 22:03:38,2023-07-10 22:03:39,0.520s,PASSED
+"verifyElementVisible(findTestObject(""Game/Product List/th_Category""))",Chrome 114.0.0.0,,,2023-07-10 22:03:39,2023-07-10 22:03:39,0.389s,PASSED
+"verifyElementVisible(findTestObject(""Game/Product List/th_Description""))",Chrome 114.0.0.0,,,2023-07-10 22:03:39,2023-07-10 22:03:40,0.410s,PASSED
+"verifyElementVisible(findTestObject(""Game/Product List/th_Up By""))",Chrome 114.0.0.0,,,2023-07-10 22:03:40,2023-07-10 22:03:40,0.376s,PASSED
+"verifyElementVisible(findTestObject(""Game/Product List/th_Down By""))",Chrome 114.0.0.0,,,2023-07-10 22:03:40,2023-07-10 22:03:40,0.377s,PASSED
+"verifyElementVisible(findTestObject(""Game/Product List/th_Up At""))",Chrome 114.0.0.0,,,2023-07-10 22:03:40,2023-07-10 22:03:41,0.405s,PASSED
+"verifyElementVisible(findTestObject(""Game/Product List/th_Down At""))",Chrome 114.0.0.0,,,2023-07-10 22:03:41,2023-07-10 22:03:41,0.392s,PASSED
+"verifyElementVisible(findTestObject(""Game/Product List/th_Up Time""))",Chrome 114.0.0.0,,,2023-07-10 22:03:41,2023-07-10 22:03:42,0.405s,PASSED
+"verifyElementVisible(findTestObject(""Game/Product List/th_Down Time""))",Chrome 114.0.0.0,,,2023-07-10 22:03:42,2023-07-10 22:03:42,0.405s,PASSED
+"verifyElementVisible(findTestObject(""Game/Product List/th_Status""))",Chrome 114.0.0.0,,,2023-07-10 22:03:42,2023-07-10 22:03:42,0.384s,PASSED
+"verifyElementVisible(findTestObject(""Game/Product List/th_Maintenance Scheduled""))",Chrome 114.0.0.0,,,2023-07-10 22:03:42,2023-07-10 22:03:43,0.397s,PASSED
+"verifyElementVisible(findTestObject(""Game/Product List/th_Maintenance Schedule From""))",Chrome 114.0.0.0,,,2023-07-10 22:03:43,2023-07-10 22:03:43,0.385s,PASSED
+"verifyElementVisible(findTestObject(""Game/Product List/th_Maintenance Schedule To""))",Chrome 114.0.0.0,,,2023-07-10 22:03:43,2023-07-10 22:03:44,0.407s,PASSED
+"verifyElementVisible(findTestObject(""Game/Product List/th_Product Languages""))",Chrome 114.0.0.0,,,2023-07-10 22:03:44,2023-07-10 22:03:44,0.396s,PASSED
+"verifyElementVisible(findTestObject(""Game/Product List/th_Action""))",Chrome 114.0.0.0,,,2023-07-10 22:03:44,2023-07-10 22:03:44,0.387s,PASSED
+"verifyElementVisible(findTestObject(""Game/Product List/table_Name""))",Chrome 114.0.0.0,,,2023-07-10 22:03:44,2023-07-10 22:03:45,0.416s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""Game/Product List/li_Previous""))",Chrome 114.0.0.0,,,2023-07-10 22:03:45,2023-07-10 22:03:45,0.423s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""Game/Product List/a_Next""))",Chrome 114.0.0.0,,,2023-07-10 22:03:45,2023-07-10 22:03:46,0.560s,PASSED
+"verifyElementVisible(findTestObject(""Game/Product List/li_Previous""))",Chrome 114.0.0.0,,,2023-07-10 22:03:46,2023-07-10 22:03:46,0.499s,PASSED
+"verifyElementVisible(findTestObject(""Game/Product List/a_Next""))",Chrome 114.0.0.0,,,2023-07-10 22:03:46,2023-07-10 22:03:47,0.416s,PASSED
+,,,,,,,
+Test Cases/Game/Product List MMK,Chrome 114.0.0.0,,,2023-07-10 22:03:47,2023-07-10 22:04:15,28.626s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""Game/Page_Dashboard/span_Game""))",Chrome 114.0.0.0,,,2023-07-10 22:03:47,2023-07-10 22:03:48,0.468s,PASSED
+"mouseOver(findTestObject(""Game/Page_Dashboard/span_Game""))",Chrome 114.0.0.0,,,2023-07-10 22:03:48,2023-07-10 22:03:48,0.532s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""Game/Page_Dashboard/span_Product List""))",Chrome 114.0.0.0,,,2023-07-10 22:03:48,2023-07-10 22:03:49,0.470s,PASSED
+"mouseOver(findTestObject(""Game/Page_Dashboard/span_Product List""))",Chrome 114.0.0.0,,,2023-07-10 22:03:49,2023-07-10 22:03:49,0.546s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""Game/Page_Dashboard/span_MMK""))",Chrome 114.0.0.0,,,2023-07-10 22:03:49,2023-07-10 22:03:50,0.470s,PASSED
+"mouseOver(findTestObject(""Game/Page_Dashboard/span_MMK""))",Chrome 114.0.0.0,,,2023-07-10 22:03:50,2023-07-10 22:03:50,0.593s,PASSED
+"click(findTestObject(""Game/Page_Dashboard/span_MMK""))",Chrome 114.0.0.0,,,2023-07-10 22:03:50,2023-07-10 22:03:53,2.432s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""Game/Product List/h3_Game List""))",Chrome 114.0.0.0,,,2023-07-10 22:03:53,2023-07-10 22:03:53,0.728s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""Game/Product List/select_102550100""))",Chrome 114.0.0.0,,,2023-07-10 22:03:53,2023-07-10 22:03:54,0.559s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""Game/Product List/span_Copy""))",Chrome 114.0.0.0,,,2023-07-10 22:03:54,2023-07-10 22:03:54,0.458s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""Game/Product List/span_CSV""))",Chrome 114.0.0.0,,,2023-07-10 22:03:54,2023-07-10 22:03:55,0.559s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""Game/Product List/span_Excel""))",Chrome 114.0.0.0,,,2023-07-10 22:03:55,2023-07-10 22:03:56,0.553s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""Game/Product List/span_PDF""))",Chrome 114.0.0.0,,,2023-07-10 22:03:56,2023-07-10 22:03:56,0.448s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""Game/Product List/input_Search_form-control form-control-sm""))",Chrome 114.0.0.0,,,2023-07-10 22:03:56,2023-07-10 22:03:56,0.455s,PASSED
+"verifyElementVisible(findTestObject(""Game/Product List/h3_Game List""))",Chrome 114.0.0.0,,,2023-07-10 22:03:56,2023-07-10 22:03:57,0.430s,PASSED
+"verifyElementVisible(findTestObject(""Game/Product List/select_102550100""))",Chrome 114.0.0.0,,,2023-07-10 22:03:57,2023-07-10 22:03:57,0.420s,PASSED
+"verifyElementVisible(findTestObject(""Game/Product List/span_Copy""))",Chrome 114.0.0.0,,,2023-07-10 22:03:57,2023-07-10 22:03:58,0.402s,PASSED
+"verifyElementVisible(findTestObject(""Game/Product List/span_CSV""))",Chrome 114.0.0.0,,,2023-07-10 22:03:58,2023-07-10 22:03:58,0.405s,PASSED
+"verifyElementVisible(findTestObject(""Game/Product List/span_Excel""))",Chrome 114.0.0.0,,,2023-07-10 22:03:58,2023-07-10 22:03:59,0.409s,PASSED
+"verifyElementVisible(findTestObject(""Game/Product List/span_PDF""))",Chrome 114.0.0.0,,,2023-07-10 22:03:59,2023-07-10 22:03:59,0.450s,PASSED
+"verifyElementVisible(findTestObject(""Game/Product List/input_Search_form-control form-control-sm""))",Chrome 114.0.0.0,,,2023-07-10 22:03:59,2023-07-10 22:03:59,0.417s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""Game/Product List/th_Name""))",Chrome 114.0.0.0,,,2023-07-10 22:03:59,2023-07-10 22:04:00,0.482s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""Game/Product List/th_Category""))",Chrome 114.0.0.0,,,2023-07-10 22:04:00,2023-07-10 22:04:00,0.480s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""Game/Product List/th_Description""))",Chrome 114.0.0.0,,,2023-07-10 22:04:00,2023-07-10 22:04:01,0.472s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""Game/Product List/th_Up By""))",Chrome 114.0.0.0,,,2023-07-10 22:04:01,2023-07-10 22:04:01,0.469s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""Game/Product List/th_Down By""))",Chrome 114.0.0.0,,,2023-07-10 22:04:01,2023-07-10 22:04:02,0.465s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""Game/Product List/th_Up At""))",Chrome 114.0.0.0,,,2023-07-10 22:04:02,2023-07-10 22:04:02,0.489s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""Game/Product List/th_Down At""))",Chrome 114.0.0.0,,,2023-07-10 22:04:02,2023-07-10 22:04:03,0.456s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""Game/Product List/th_Up Time""))",Chrome 114.0.0.0,,,2023-07-10 22:04:03,2023-07-10 22:04:03,0.487s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""Game/Product List/th_Down Time""))",Chrome 114.0.0.0,,,2023-07-10 22:04:03,2023-07-10 22:04:04,0.458s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""Game/Product List/th_Status""))",Chrome 114.0.0.0,,,2023-07-10 22:04:04,2023-07-10 22:04:04,0.468s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""Game/Product List/th_Maintenance Scheduled""))",Chrome 114.0.0.0,,,2023-07-10 22:04:04,2023-07-10 22:04:05,0.480s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""Game/Product List/th_Maintenance Schedule From""))",Chrome 114.0.0.0,,,2023-07-10 22:04:05,2023-07-10 22:04:05,0.447s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""Game/Product List/th_Maintenance Schedule To""))",Chrome 114.0.0.0,,,2023-07-10 22:04:05,2023-07-10 22:04:05,0.447s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""Game/Product List/th_Product Languages""))",Chrome 114.0.0.0,,,2023-07-10 22:04:05,2023-07-10 22:04:06,0.457s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""Game/Product List/th_Action""))",Chrome 114.0.0.0,,,2023-07-10 22:04:06,2023-07-10 22:04:06,0.450s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""Game/Product List/table_Name""))",Chrome 114.0.0.0,,,2023-07-10 22:04:06,2023-07-10 22:04:07,0.422s,PASSED
+"verifyElementVisible(findTestObject(""Game/Product List/th_Name""))",Chrome 114.0.0.0,,,2023-07-10 22:04:07,2023-07-10 22:04:07,0.404s,PASSED
+"verifyElementVisible(findTestObject(""Game/Product List/th_Category""))",Chrome 114.0.0.0,,,2023-07-10 22:04:07,2023-07-10 22:04:08,0.421s,PASSED
+"verifyElementVisible(findTestObject(""Game/Product List/th_Description""))",Chrome 114.0.0.0,,,2023-07-10 22:04:08,2023-07-10 22:04:08,0.419s,PASSED
+"verifyElementVisible(findTestObject(""Game/Product List/th_Up By""))",Chrome 114.0.0.0,,,2023-07-10 22:04:08,2023-07-10 22:04:08,0.420s,PASSED
+"verifyElementVisible(findTestObject(""Game/Product List/th_Down By""))",Chrome 114.0.0.0,,,2023-07-10 22:04:08,2023-07-10 22:04:09,0.441s,PASSED
+"verifyElementVisible(findTestObject(""Game/Product List/th_Up At""))",Chrome 114.0.0.0,,,2023-07-10 22:04:09,2023-07-10 22:04:09,0.426s,PASSED
+"verifyElementVisible(findTestObject(""Game/Product List/th_Down At""))",Chrome 114.0.0.0,,,2023-07-10 22:04:09,2023-07-10 22:04:10,0.422s,PASSED
+"verifyElementVisible(findTestObject(""Game/Product List/th_Up Time""))",Chrome 114.0.0.0,,,2023-07-10 22:04:10,2023-07-10 22:04:10,0.423s,PASSED
+"verifyElementVisible(findTestObject(""Game/Product List/th_Down Time""))",Chrome 114.0.0.0,,,2023-07-10 22:04:10,2023-07-10 22:04:11,0.405s,PASSED
+"verifyElementVisible(findTestObject(""Game/Product List/th_Status""))",Chrome 114.0.0.0,,,2023-07-10 22:04:11,2023-07-10 22:04:11,0.405s,PASSED
+"verifyElementVisible(findTestObject(""Game/Product List/th_Maintenance Scheduled""))",Chrome 114.0.0.0,,,2023-07-10 22:04:11,2023-07-10 22:04:11,0.405s,PASSED
+"verifyElementVisible(findTestObject(""Game/Product List/th_Maintenance Schedule From""))",Chrome 114.0.0.0,,,2023-07-10 22:04:11,2023-07-10 22:04:12,0.421s,PASSED
+"verifyElementVisible(findTestObject(""Game/Product List/th_Maintenance Schedule To""))",Chrome 114.0.0.0,,,2023-07-10 22:04:12,2023-07-10 22:04:12,0.407s,PASSED
+"verifyElementVisible(findTestObject(""Game/Product List/th_Product Languages""))",Chrome 114.0.0.0,,,2023-07-10 22:04:12,2023-07-10 22:04:13,0.411s,PASSED
+"verifyElementVisible(findTestObject(""Game/Product List/th_Action""))",Chrome 114.0.0.0,,,2023-07-10 22:04:13,2023-07-10 22:04:13,0.444s,PASSED
+"verifyElementVisible(findTestObject(""Game/Product List/table_Name""))",Chrome 114.0.0.0,,,2023-07-10 22:04:13,2023-07-10 22:04:13,0.381s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""Game/Product List/li_Previous""))",Chrome 114.0.0.0,,,2023-07-10 22:04:13,2023-07-10 22:04:14,0.449s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""Game/Product List/a_Next""))",Chrome 114.0.0.0,,,2023-07-10 22:04:14,2023-07-10 22:04:14,0.533s,PASSED
+"verifyElementVisible(findTestObject(""Game/Product List/li_Previous""))",Chrome 114.0.0.0,,,2023-07-10 22:04:14,2023-07-10 22:04:15,0.418s,PASSED
+"verifyElementVisible(findTestObject(""Game/Product List/a_Next""))",Chrome 114.0.0.0,,,2023-07-10 22:04:15,2023-07-10 22:04:15,0.408s,PASSED
+,,,,,,,
+Test Cases/Game/Product List RMB,Chrome 114.0.0.0,,,2023-07-10 22:04:15,2023-07-10 22:04:43,27.838s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""Game/Page_Dashboard/span_Game""))",Chrome 114.0.0.0,,,2023-07-10 22:04:16,2023-07-10 22:04:16,0.471s,PASSED
+"mouseOver(findTestObject(""Game/Page_Dashboard/span_Game""))",Chrome 114.0.0.0,,,2023-07-10 22:04:16,2023-07-10 22:04:17,0.523s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""Game/Page_Dashboard/span_Product List""))",Chrome 114.0.0.0,,,2023-07-10 22:04:17,2023-07-10 22:04:17,0.468s,PASSED
+"mouseOver(findTestObject(""Game/Page_Dashboard/span_Product List""))",Chrome 114.0.0.0,,,2023-07-10 22:04:17,2023-07-10 22:04:18,0.548s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""Game/Page_Dashboard/span_RMB""))",Chrome 114.0.0.0,,,2023-07-10 22:04:18,2023-07-10 22:04:18,0.486s,PASSED
+"mouseOver(findTestObject(""Game/Page_Dashboard/span_RMB""))",Chrome 114.0.0.0,,,2023-07-10 22:04:18,2023-07-10 22:04:19,0.540s,PASSED
+"click(findTestObject(""Game/Page_Dashboard/span_RMB""))",Chrome 114.0.0.0,,,2023-07-10 22:04:19,2023-07-10 22:04:21,2.449s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""Game/Product List/h3_Game List""))",Chrome 114.0.0.0,,,2023-07-10 22:04:21,2023-07-10 22:04:22,0.755s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""Game/Product List/select_102550100""))",Chrome 114.0.0.0,,,2023-07-10 22:04:22,2023-07-10 22:04:23,0.456s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""Game/Product List/span_Copy""))",Chrome 114.0.0.0,,,2023-07-10 22:04:23,2023-07-10 22:04:23,0.560s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""Game/Product List/span_CSV""))",Chrome 114.0.0.0,,,2023-07-10 22:04:23,2023-07-10 22:04:24,0.533s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""Game/Product List/span_Excel""))",Chrome 114.0.0.0,,,2023-07-10 22:04:24,2023-07-10 22:04:24,0.456s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""Game/Product List/span_PDF""))",Chrome 114.0.0.0,,,2023-07-10 22:04:24,2023-07-10 22:04:25,0.460s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""Game/Product List/input_Search_form-control form-control-sm""))",Chrome 114.0.0.0,,,2023-07-10 22:04:25,2023-07-10 22:04:25,0.442s,PASSED
+"verifyElementVisible(findTestObject(""Game/Product List/h3_Game List""))",Chrome 114.0.0.0,,,2023-07-10 22:04:25,2023-07-10 22:04:25,0.406s,PASSED
+"verifyElementVisible(findTestObject(""Game/Product List/select_102550100""))",Chrome 114.0.0.0,,,2023-07-10 22:04:25,2023-07-10 22:04:26,0.407s,PASSED
+"verifyElementVisible(findTestObject(""Game/Product List/span_Copy""))",Chrome 114.0.0.0,,,2023-07-10 22:04:26,2023-07-10 22:04:26,0.387s,PASSED
+"verifyElementVisible(findTestObject(""Game/Product List/span_CSV""))",Chrome 114.0.0.0,,,2023-07-10 22:04:26,2023-07-10 22:04:27,0.407s,PASSED
+"verifyElementVisible(findTestObject(""Game/Product List/span_Excel""))",Chrome 114.0.0.0,,,2023-07-10 22:04:27,2023-07-10 22:04:27,0.369s,PASSED
+"verifyElementVisible(findTestObject(""Game/Product List/span_PDF""))",Chrome 114.0.0.0,,,2023-07-10 22:04:27,2023-07-10 22:04:27,0.389s,PASSED
+"verifyElementVisible(findTestObject(""Game/Product List/input_Search_form-control form-control-sm""))",Chrome 114.0.0.0,,,2023-07-10 22:04:27,2023-07-10 22:04:28,0.417s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""Game/Product List/th_Name""))",Chrome 114.0.0.0,,,2023-07-10 22:04:28,2023-07-10 22:04:28,0.438s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""Game/Product List/th_Category""))",Chrome 114.0.0.0,,,2023-07-10 22:04:28,2023-07-10 22:04:29,0.432s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""Game/Product List/th_Description""))",Chrome 114.0.0.0,,,2023-07-10 22:04:29,2023-07-10 22:04:29,0.445s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""Game/Product List/th_Up By""))",Chrome 114.0.0.0,,,2023-07-10 22:04:29,2023-07-10 22:04:30,0.451s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""Game/Product List/th_Down By""))",Chrome 114.0.0.0,,,2023-07-10 22:04:30,2023-07-10 22:04:30,0.443s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""Game/Product List/th_Up At""))",Chrome 114.0.0.0,,,2023-07-10 22:04:30,2023-07-10 22:04:30,0.439s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""Game/Product List/th_Down At""))",Chrome 114.0.0.0,,,2023-07-10 22:04:30,2023-07-10 22:04:31,0.458s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""Game/Product List/th_Up Time""))",Chrome 114.0.0.0,,,2023-07-10 22:04:31,2023-07-10 22:04:31,0.458s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""Game/Product List/th_Down Time""))",Chrome 114.0.0.0,,,2023-07-10 22:04:31,2023-07-10 22:04:32,0.447s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""Game/Product List/th_Status""))",Chrome 114.0.0.0,,,2023-07-10 22:04:32,2023-07-10 22:04:32,0.465s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""Game/Product List/th_Maintenance Scheduled""))",Chrome 114.0.0.0,,,2023-07-10 22:04:32,2023-07-10 22:04:33,0.433s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""Game/Product List/th_Maintenance Schedule From""))",Chrome 114.0.0.0,,,2023-07-10 22:04:33,2023-07-10 22:04:33,0.441s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""Game/Product List/th_Maintenance Schedule To""))",Chrome 114.0.0.0,,,2023-07-10 22:04:33,2023-07-10 22:04:34,0.464s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""Game/Product List/th_Product Languages""))",Chrome 114.0.0.0,,,2023-07-10 22:04:34,2023-07-10 22:04:34,0.437s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""Game/Product List/th_Action""))",Chrome 114.0.0.0,,,2023-07-10 22:04:34,2023-07-10 22:04:34,0.447s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""Game/Product List/table_Name""))",Chrome 114.0.0.0,,,2023-07-10 22:04:34,2023-07-10 22:04:35,0.462s,PASSED
+"verifyElementVisible(findTestObject(""Game/Product List/th_Name""))",Chrome 114.0.0.0,,,2023-07-10 22:04:35,2023-07-10 22:04:35,0.420s,PASSED
+"verifyElementVisible(findTestObject(""Game/Product List/th_Category""))",Chrome 114.0.0.0,,,2023-07-10 22:04:35,2023-07-10 22:04:36,0.408s,PASSED
+"verifyElementVisible(findTestObject(""Game/Product List/th_Description""))",Chrome 114.0.0.0,,,2023-07-10 22:04:36,2023-07-10 22:04:36,0.384s,PASSED
+"verifyElementVisible(findTestObject(""Game/Product List/th_Up By""))",Chrome 114.0.0.0,,,2023-07-10 22:04:36,2023-07-10 22:04:37,0.422s,PASSED
+"verifyElementVisible(findTestObject(""Game/Product List/th_Down By""))",Chrome 114.0.0.0,,,2023-07-10 22:04:37,2023-07-10 22:04:37,0.387s,PASSED
+"verifyElementVisible(findTestObject(""Game/Product List/th_Up At""))",Chrome 114.0.0.0,,,2023-07-10 22:04:37,2023-07-10 22:04:37,0.396s,PASSED
+"verifyElementVisible(findTestObject(""Game/Product List/th_Down At""))",Chrome 114.0.0.0,,,2023-07-10 22:04:37,2023-07-10 22:04:38,0.392s,PASSED
+"verifyElementVisible(findTestObject(""Game/Product List/th_Up Time""))",Chrome 114.0.0.0,,,2023-07-10 22:04:38,2023-07-10 22:04:38,0.398s,PASSED
+"verifyElementVisible(findTestObject(""Game/Product List/th_Down Time""))",Chrome 114.0.0.0,,,2023-07-10 22:04:38,2023-07-10 22:04:39,0.429s,PASSED
+"verifyElementVisible(findTestObject(""Game/Product List/th_Status""))",Chrome 114.0.0.0,,,2023-07-10 22:04:39,2023-07-10 22:04:39,0.421s,PASSED
+"verifyElementVisible(findTestObject(""Game/Product List/th_Maintenance Scheduled""))",Chrome 114.0.0.0,,,2023-07-10 22:04:39,2023-07-10 22:04:39,0.411s,PASSED
+"verifyElementVisible(findTestObject(""Game/Product List/th_Maintenance Schedule From""))",Chrome 114.0.0.0,,,2023-07-10 22:04:39,2023-07-10 22:04:40,0.395s,PASSED
+"verifyElementVisible(findTestObject(""Game/Product List/th_Maintenance Schedule To""))",Chrome 114.0.0.0,,,2023-07-10 22:04:40,2023-07-10 22:04:40,0.415s,PASSED
+"verifyElementVisible(findTestObject(""Game/Product List/th_Product Languages""))",Chrome 114.0.0.0,,,2023-07-10 22:04:40,2023-07-10 22:04:41,0.410s,PASSED
+"verifyElementVisible(findTestObject(""Game/Product List/th_Action""))",Chrome 114.0.0.0,,,2023-07-10 22:04:41,2023-07-10 22:04:41,0.404s,PASSED
+"verifyElementVisible(findTestObject(""Game/Product List/table_Name""))",Chrome 114.0.0.0,,,2023-07-10 22:04:41,2023-07-10 22:04:41,0.429s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""Game/Product List/li_Previous""))",Chrome 114.0.0.0,,,2023-07-10 22:04:41,2023-07-10 22:04:42,0.430s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""Game/Product List/a_Next""))",Chrome 114.0.0.0,,,2023-07-10 22:04:42,2023-07-10 22:04:42,0.463s,PASSED
+"verifyElementVisible(findTestObject(""Game/Product List/li_Previous""))",Chrome 114.0.0.0,,,2023-07-10 22:04:42,2023-07-10 22:04:43,0.422s,PASSED
+"verifyElementVisible(findTestObject(""Game/Product List/a_Next""))",Chrome 114.0.0.0,,,2023-07-10 22:04:43,2023-07-10 22:04:43,0.365s,PASSED

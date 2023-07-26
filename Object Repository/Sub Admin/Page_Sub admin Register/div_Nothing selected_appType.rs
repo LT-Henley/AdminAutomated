@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Nothing selected_appType</name>
+   <tag></tag>
+   <elementGuidId>acd0e0fa-d1be-466c-816c-62ce79a53d52</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='adminCreateLayout']/div/div/form/div/div[12]/div/div/button/div/div/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>e82c6b69-c76f-443f-b966-f06d79711b44</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>filter-option-inner-inner</value>
+      <webElementGuid>6294ad2a-639c-45d0-9dd4-e309ff6f6446</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Nothing selected</value>
+      <webElementGuid>5a59144b-e7f7-42fe-933a-453232a3d861</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;adminCreateLayout&quot;)/div[@class=&quot;kt-portlet__body&quot;]/div[@class=&quot;kt-section kt-section--first&quot;]/form[@class=&quot;kt-form&quot;]/div[@class=&quot;kt-section__body&quot;]/div[@class=&quot;form-group row&quot;]/div[@class=&quot;col-lg-9 col-xl-6&quot;]/div[@class=&quot;dropdown bootstrap-select show-tick form-control&quot;]/button[@class=&quot;btn dropdown-toggle btn-light bs-placeholder&quot;]/div[@class=&quot;filter-option&quot;]/div[@class=&quot;filter-option-inner&quot;]/div[@class=&quot;filter-option-inner-inner&quot;]</value>
+      <webElementGuid>79527ff0-b7b4-4125-aff4-1aa0b9357929</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='adminCreateLayout']/div/div/form/div/div[12]/div/div/button/div/div/div</value>
+      <webElementGuid>c95dd299-237c-4952-81e9-30f2af3bd7b1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='App Type'])[1]/following::div[5]</value>
+      <webElementGuid>eb3016d0-0879-4d07-89ad-bf5b60867bd3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Deselect all'])[2]/following::div[7]</value>
+      <webElementGuid>9abb20ab-e4df-400a-aa22-7639c1ed1fa4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Select all'])[3]/preceding::div[2]</value>
+      <webElementGuid>aa54af9a-7d66-47ef-980e-b408655ae91e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Deselect all'])[3]/preceding::div[2]</value>
+      <webElementGuid>99adcc03-1ef8-4f76-92d9-ef4cffaea557</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[12]/div/div/button/div/div/div</value>
+      <webElementGuid>00fe915c-74fd-4de1-aad8-8336aaf7387c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Nothing selected' or . = 'Nothing selected')]</value>
+      <webElementGuid>8485ee8e-d62e-462b-ab46-35b3b2c1a562</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

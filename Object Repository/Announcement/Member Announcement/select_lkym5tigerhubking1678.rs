@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>select_lkym5tigerhubking1678</name>
+   <tag></tag>
+   <elementGuidId>9322f6fa-0d1f-4f16-9f11-fc13a83fa521</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='memberAnnouncementListLayout']/div/div/div[2]/form/div[2]/select</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>select.form-control.changeApptype</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>select</value>
+      <webElementGuid>0b815cca-916a-4083-894a-cbdc5849097c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>form-control changeApptype</value>
+      <webElementGuid>a8d70669-19ca-4fb5-89d0-b48afa37d943</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+															lky
+															m5
+															tigerhub
+															king1678
+													</value>
+      <webElementGuid>da2eb554-748b-45d0-a6e6-474041089289</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;memberAnnouncementListLayout&quot;)/div[@class=&quot;kt-portlet kt-portlet--mobile&quot;]/div[@class=&quot;kt-portlet__head kt-portlet__head--lg&quot;]/div[@class=&quot;kt-portlet__head-toolbar&quot;]/form[@class=&quot;form-inline&quot;]/div[@class=&quot;form-group  mr-2&quot;]/select[@class=&quot;form-control changeApptype&quot;]</value>
+      <webElementGuid>e36dc73b-1418-4aba-9946-98ba2d650e27</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='memberAnnouncementListLayout']/div/div/div[2]/form/div[2]/select</value>
+      <webElementGuid>02a29bd6-7d3f-46df-a274-ab2416bb4b51</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='App Type :'])[1]/following::select[1]</value>
+      <webElementGuid>03ebea70-f88a-49ed-9241-a03359d3326c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Country :'])[1]/following::select[2]</value>
+      <webElementGuid>3ba707b6-692e-42ef-8d46-6d8a663614e4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Search'])[2]/preceding::select[1]</value>
+      <webElementGuid>8bedf5f1-1476-4303-9354-48deb9c2328c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Add'])[1]/preceding::select[1]</value>
+      <webElementGuid>2acfd3fd-ef9c-454a-8aba-fed2f43404b4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/select</value>
+      <webElementGuid>b5c1fc60-8299-4deb-be28-a53546caa3af</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//select[(text() = '
+															lky
+															m5
+															tigerhub
+															king1678
+													' or . = '
+															lky
+															m5
+															tigerhub
+															king1678
+													')]</value>
+      <webElementGuid>105256c7-8be5-4dc3-8ae4-bb0ee94aabdc</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

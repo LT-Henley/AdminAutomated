@@ -1,0 +1,459 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+Smoke,Chrome 114.0.0.0,,,2023-06-23 15:48:51,2023-06-23 15:52:51,4m - 0.220s,PASSED
+,,,,,,,
+Test Cases/User/Shareholder/List All,Chrome 114.0.0.0,,,2023-06-23 15:48:51,2023-06-23 15:49:51,59.367s,PASSED
+"callTestCase(findTestCase(""Login Admin""), [:], STOP_ON_FAILURE)",Chrome 114.0.0.0,,,2023-06-23 15:48:52,2023-06-23 15:49:14,21.668s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""User/Page_Dashboard/Member/span_User""))",Chrome 114.0.0.0,,,2023-06-23 15:49:14,2023-06-23 15:49:14,0.705s,PASSED
+"mouseOver(findTestObject(""User/Page_Dashboard/Member/span_User""))",Chrome 114.0.0.0,,,2023-06-23 15:49:14,2023-06-23 15:49:15,0.631s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""User/Page_Dashboard/Shareholder/span_List""))",Chrome 114.0.0.0,,,2023-06-23 15:49:15,2023-06-23 15:49:16,0.471s,PASSED
+"mouseOver(findTestObject(""User/Page_Dashboard/Shareholder/span_List""))",Chrome 114.0.0.0,,,2023-06-23 15:49:16,2023-06-23 15:49:16,0.578s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""User/Page_Dashboard/Shareholder/UserListAll/span_All""))",Chrome 114.0.0.0,,,2023-06-23 15:49:16,2023-06-23 15:49:17,0.505s,PASSED
+"mouseOver(findTestObject(""User/Page_Dashboard/Shareholder/UserListAll/span_All""))",Chrome 114.0.0.0,,,2023-06-23 15:49:17,2023-06-23 15:49:17,0.564s,PASSED
+"click(findTestObject(""User/Page_Dashboard/Shareholder/UserListAll/span_All""))",Chrome 114.0.0.0,,,2023-06-23 15:49:17,2023-06-23 15:49:20,2.554s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""User/Page_Dashboard/Shareholder/UserListAll/h3_User List""))",Chrome 114.0.0.0,,,2023-06-23 15:49:20,2023-06-23 15:49:21,1.698s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""User/Page_Dashboard/Shareholder/UserListAll/input_Username_shareholder_username""))",Chrome 114.0.0.0,,,2023-06-23 15:49:21,2023-06-23 15:49:22,0.460s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""User/Page_Dashboard/Shareholder/UserListAll/input_MPU_member_product_username""))",Chrome 114.0.0.0,,,2023-06-23 15:49:22,2023-06-23 15:49:22,0.482s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""User/Page_Dashboard/Shareholder/UserListAll/selectLevel""))",Chrome 114.0.0.0,,,2023-06-23 15:49:22,2023-06-23 15:49:23,0.472s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""User/Page_Dashboard/Shareholder/UserListAll/selectWallet""))",Chrome 114.0.0.0,,,2023-06-23 15:49:23,2023-06-23 15:49:23,0.476s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""User/Page_Dashboard/Shareholder/UserListAll/button_Search""))",Chrome 114.0.0.0,,,2023-06-23 15:49:23,2023-06-23 15:49:24,0.496s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""User/Page_Dashboard/Shareholder/UserListAll/button_Create Shareholder""))",Chrome 114.0.0.0,,,2023-06-23 15:49:24,2023-06-23 15:49:24,0.474s,PASSED
+"verifyElementVisible(findTestObject(""User/Page_Dashboard/Shareholder/UserListAll/h3_User List""))",Chrome 114.0.0.0,,,2023-06-23 15:49:24,2023-06-23 15:49:25,0.458s,PASSED
+"verifyElementVisible(findTestObject(""User/Page_Dashboard/Shareholder/UserListAll/input_Username_shareholder_username""))",Chrome 114.0.0.0,,,2023-06-23 15:49:25,2023-06-23 15:49:25,0.406s,PASSED
+"verifyElementVisible(findTestObject(""User/Page_Dashboard/Shareholder/UserListAll/input_MPU_member_product_username""))",Chrome 114.0.0.0,,,2023-06-23 15:49:25,2023-06-23 15:49:26,0.410s,PASSED
+"verifyElementVisible(findTestObject(""User/Page_Dashboard/Shareholder/UserListAll/selectLevel""))",Chrome 114.0.0.0,,,2023-06-23 15:49:26,2023-06-23 15:49:26,0.406s,PASSED
+"verifyElementVisible(findTestObject(""User/Page_Dashboard/Shareholder/UserListAll/selectWallet""))",Chrome 114.0.0.0,,,2023-06-23 15:49:26,2023-06-23 15:49:26,0.407s,PASSED
+"verifyElementVisible(findTestObject(""User/Page_Dashboard/Shareholder/UserListAll/button_Search""))",Chrome 114.0.0.0,,,2023-06-23 15:49:26,2023-06-23 15:49:27,0.423s,PASSED
+"verifyElementVisible(findTestObject(""User/Page_Dashboard/Shareholder/UserListAll/button_Create Shareholder""))",Chrome 114.0.0.0,,,2023-06-23 15:49:27,2023-06-23 15:49:27,0.417s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""User/Page_Dashboard/Shareholder/UserListAll/select_102550100""))",Chrome 114.0.0.0,,,2023-06-23 15:49:27,2023-06-23 15:49:28,0.456s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""User/Page_Dashboard/Shareholder/UserListAll/span_Copy""))",Chrome 114.0.0.0,,,2023-06-23 15:49:28,2023-06-23 15:49:28,0.485s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""User/Page_Dashboard/Shareholder/UserListAll/span_CSV""))",Chrome 114.0.0.0,,,2023-06-23 15:49:28,2023-06-23 15:49:29,0.456s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""User/Page_Dashboard/Shareholder/UserListAll/span_Excel""))",Chrome 114.0.0.0,,,2023-06-23 15:49:29,2023-06-23 15:49:29,0.559s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""User/Page_Dashboard/Shareholder/UserListAll/span_PDF""))",Chrome 114.0.0.0,,,2023-06-23 15:49:29,2023-06-23 15:49:30,0.548s,PASSED
+"verifyElementVisible(findTestObject(""User/Page_Dashboard/Shareholder/UserListAll/span_Copy""))",Chrome 114.0.0.0,,,2023-06-23 15:49:30,2023-06-23 15:49:30,0.517s,PASSED
+"verifyElementVisible(findTestObject(""User/Page_Dashboard/Shareholder/UserListAll/span_CSV""))",Chrome 114.0.0.0,,,2023-06-23 15:49:30,2023-06-23 15:49:31,0.417s,PASSED
+"verifyElementVisible(findTestObject(""User/Page_Dashboard/Shareholder/UserListAll/span_Excel""))",Chrome 114.0.0.0,,,2023-06-23 15:49:31,2023-06-23 15:49:31,0.414s,PASSED
+"verifyElementVisible(findTestObject(""User/Page_Dashboard/Shareholder/UserListAll/span_PDF""))",Chrome 114.0.0.0,,,2023-06-23 15:49:31,2023-06-23 15:49:32,0.420s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""User/Page_Dashboard/Shareholder/UserListAll/input_Search_form-control form-control-sm""))",Chrome 114.0.0.0,,,2023-06-23 15:49:32,2023-06-23 15:49:32,0.475s,PASSED
+"verifyElementVisible(findTestObject(""User/Page_Dashboard/Shareholder/UserListAll/input_Search_form-control form-control-sm""))",Chrome 114.0.0.0,,,2023-06-23 15:49:32,2023-06-23 15:49:32,0.410s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""User/Page_Dashboard/Shareholder/UserListAll/th_No""))",Chrome 114.0.0.0,,,2023-06-23 15:49:32,2023-06-23 15:49:33,0.487s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""User/Page_Dashboard/Shareholder/UserListAll/th_Login Account""))",Chrome 114.0.0.0,,,2023-06-23 15:49:33,2023-06-23 15:49:33,0.476s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""User/Page_Dashboard/Shareholder/UserListAll/th_Full Name""))",Chrome 114.0.0.0,,,2023-06-23 15:49:33,2023-06-23 15:49:34,0.461s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""User/Page_Dashboard/Shareholder/UserListAll/th_Nickname""))",Chrome 114.0.0.0,,,2023-06-23 15:49:34,2023-06-23 15:49:34,0.484s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""User/Page_Dashboard/Shareholder/UserListAll/th_Currency""))",Chrome 114.0.0.0,,,2023-06-23 15:49:34,2023-06-23 15:49:35,0.463s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""User/Page_Dashboard/Shareholder/UserListAll/th_Role""))",Chrome 114.0.0.0,,,2023-06-23 15:49:35,2023-06-23 15:49:35,0.467s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""User/Page_Dashboard/Shareholder/UserListAll/th_Phone""))",Chrome 114.0.0.0,,,2023-06-23 15:49:35,2023-06-23 15:49:36,0.462s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""User/Page_Dashboard/Shareholder/UserListAll/th_Percentage""))",Chrome 114.0.0.0,,,2023-06-23 15:49:36,2023-06-23 15:49:36,0.497s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""User/Page_Dashboard/Shareholder/UserListAll/th_Status""))",Chrome 114.0.0.0,,,2023-06-23 15:49:36,2023-06-23 15:49:37,0.468s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""User/Page_Dashboard/Shareholder/UserListAll/th_Remarks""))",Chrome 114.0.0.0,,,2023-06-23 15:49:37,2023-06-23 15:49:37,0.483s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""User/Page_Dashboard/Shareholder/UserListAll/th_Cash""))",Chrome 114.0.0.0,,,2023-06-23 15:49:37,2023-06-23 15:49:38,0.438s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""User/Page_Dashboard/Shareholder/UserListAll/th_Password Otp""))",Chrome 114.0.0.0,,,2023-06-23 15:49:38,2023-06-23 15:49:38,0.469s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""User/Page_Dashboard/Shareholder/UserListAll/th_Phone Otp""))",Chrome 114.0.0.0,,,2023-06-23 15:49:38,2023-06-23 15:49:39,0.472s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""User/Page_Dashboard/Shareholder/UserListAll/th_Last login IP""))",Chrome 114.0.0.0,,,2023-06-23 15:49:39,2023-06-23 15:49:39,0.462s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""User/Page_Dashboard/Shareholder/UserListAll/th_Created Datetime""))",Chrome 114.0.0.0,,,2023-06-23 15:49:39,2023-06-23 15:49:39,0.478s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""User/Page_Dashboard/Shareholder/UserListAll/th_Last login time""))",Chrome 114.0.0.0,,,2023-06-23 15:49:39,2023-06-23 15:49:40,0.473s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""User/Page_Dashboard/Shareholder/UserListAll/th_App Type""))",Chrome 114.0.0.0,,,2023-06-23 15:49:40,2023-06-23 15:49:41,0.566s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""User/Page_Dashboard/Shareholder/UserListAll/th_Action""))",Chrome 114.0.0.0,,,2023-06-23 15:49:41,2023-06-23 15:49:41,0.449s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""User/Page_Dashboard/Shareholder/UserListAll/th_Upline""))",Chrome 114.0.0.0,,,2023-06-23 15:49:41,2023-06-23 15:49:41,0.468s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""User/Page_Dashboard/Shareholder/UserListAll/th_Main Line""))",Chrome 114.0.0.0,,,2023-06-23 15:49:41,2023-06-23 15:49:42,0.469s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""User/Page_Dashboard/Shareholder/UserListAll/tableUserList""))",Chrome 114.0.0.0,,,2023-06-23 15:49:42,2023-06-23 15:49:42,0.467s,PASSED
+"verifyElementVisible(findTestObject(""User/Page_Dashboard/Shareholder/UserListAll/th_No""))",Chrome 114.0.0.0,,,2023-06-23 15:49:42,2023-06-23 15:49:43,0.381s,PASSED
+"verifyElementVisible(findTestObject(""User/Page_Dashboard/Shareholder/UserListAll/th_Login Account""))",Chrome 114.0.0.0,,,2023-06-23 15:49:43,2023-06-23 15:49:43,0.376s,PASSED
+"verifyElementVisible(findTestObject(""User/Page_Dashboard/Shareholder/UserListAll/th_Full Name""))",Chrome 114.0.0.0,,,2023-06-23 15:49:43,2023-06-23 15:49:44,0.391s,PASSED
+"verifyElementVisible(findTestObject(""User/Page_Dashboard/Shareholder/UserListAll/th_Nickname""))",Chrome 114.0.0.0,,,2023-06-23 15:49:44,2023-06-23 15:49:44,0.390s,PASSED
+"verifyElementVisible(findTestObject(""User/Page_Dashboard/Shareholder/UserListAll/th_Currency""))",Chrome 114.0.0.0,,,2023-06-23 15:49:44,2023-06-23 15:49:44,0.390s,PASSED
+"verifyElementVisible(findTestObject(""User/Page_Dashboard/Shareholder/UserListAll/th_Role""))",Chrome 114.0.0.0,,,2023-06-23 15:49:44,2023-06-23 15:49:45,0.417s,PASSED
+"verifyElementVisible(findTestObject(""User/Page_Dashboard/Shareholder/UserListAll/th_Phone""))",Chrome 114.0.0.0,,,2023-06-23 15:49:45,2023-06-23 15:49:45,0.389s,PASSED
+"verifyElementVisible(findTestObject(""User/Page_Dashboard/Shareholder/UserListAll/th_Percentage""))",Chrome 114.0.0.0,,,2023-06-23 15:49:45,2023-06-23 15:49:46,0.411s,PASSED
+"verifyElementVisible(findTestObject(""User/Page_Dashboard/Shareholder/UserListAll/th_Status""))",Chrome 114.0.0.0,,,2023-06-23 15:49:46,2023-06-23 15:49:46,0.409s,PASSED
+"verifyElementVisible(findTestObject(""User/Page_Dashboard/Shareholder/UserListAll/th_Remarks""))",Chrome 114.0.0.0,,,2023-06-23 15:49:46,2023-06-23 15:49:46,0.390s,PASSED
+"verifyElementVisible(findTestObject(""User/Page_Dashboard/Shareholder/UserListAll/th_Cash""))",Chrome 114.0.0.0,,,2023-06-23 15:49:46,2023-06-23 15:49:47,0.377s,PASSED
+"verifyElementVisible(findTestObject(""User/Page_Dashboard/Shareholder/UserListAll/th_Password Otp""))",Chrome 114.0.0.0,,,2023-06-23 15:49:47,2023-06-23 15:49:47,0.378s,PASSED
+"verifyElementVisible(findTestObject(""User/Page_Dashboard/Shareholder/UserListAll/th_Phone Otp""))",Chrome 114.0.0.0,,,2023-06-23 15:49:47,2023-06-23 15:49:47,0.389s,PASSED
+"verifyElementVisible(findTestObject(""User/Page_Dashboard/Shareholder/UserListAll/th_Last login IP""))",Chrome 114.0.0.0,,,2023-06-23 15:49:47,2023-06-23 15:49:48,0.387s,PASSED
+"verifyElementVisible(findTestObject(""User/Page_Dashboard/Shareholder/UserListAll/th_Created Datetime""))",Chrome 114.0.0.0,,,2023-06-23 15:49:48,2023-06-23 15:49:48,0.406s,PASSED
+"verifyElementVisible(findTestObject(""User/Page_Dashboard/Shareholder/UserListAll/th_Last login time""))",Chrome 114.0.0.0,,,2023-06-23 15:49:48,2023-06-23 15:49:49,0.404s,PASSED
+"verifyElementVisible(findTestObject(""User/Page_Dashboard/Shareholder/UserListAll/th_App Type""))",Chrome 114.0.0.0,,,2023-06-23 15:49:49,2023-06-23 15:49:49,0.407s,PASSED
+"verifyElementVisible(findTestObject(""User/Page_Dashboard/Shareholder/UserListAll/th_Action""))",Chrome 114.0.0.0,,,2023-06-23 15:49:49,2023-06-23 15:49:49,0.406s,PASSED
+"verifyElementVisible(findTestObject(""User/Page_Dashboard/Shareholder/UserListAll/th_Upline""))",Chrome 114.0.0.0,,,2023-06-23 15:49:49,2023-06-23 15:49:50,0.376s,PASSED
+"verifyElementVisible(findTestObject(""User/Page_Dashboard/Shareholder/UserListAll/th_Main Line""))",Chrome 114.0.0.0,,,2023-06-23 15:49:50,2023-06-23 15:49:50,0.405s,PASSED
+"verifyElementVisible(findTestObject(""User/Page_Dashboard/Shareholder/UserListAll/tableUserList""))",Chrome 114.0.0.0,,,2023-06-23 15:49:50,2023-06-23 15:49:51,0.402s,PASSED
+,,,,,,,
+Test Cases/User/Shareholder/List MYR,Chrome 114.0.0.0,,,2023-06-23 15:49:51,2023-06-23 15:50:28,36.938s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""User/Page_Dashboard/Member/span_User""))",Chrome 114.0.0.0,,,2023-06-23 15:49:51,2023-06-23 15:49:52,0.454s,PASSED
+"mouseOver(findTestObject(""User/Page_Dashboard/Member/span_User""))",Chrome 114.0.0.0,,,2023-06-23 15:49:52,2023-06-23 15:49:52,0.531s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""User/Page_Dashboard/Shareholder/span_List""))",Chrome 114.0.0.0,,,2023-06-23 15:49:52,2023-06-23 15:49:53,0.486s,PASSED
+"mouseOver(findTestObject(""User/Page_Dashboard/Shareholder/span_List""))",Chrome 114.0.0.0,,,2023-06-23 15:49:53,2023-06-23 15:49:53,0.513s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""User/Page_Dashboard/Shareholder/UserListAll/span_MYR""))",Chrome 114.0.0.0,,,2023-06-23 15:49:53,2023-06-23 15:49:54,0.463s,PASSED
+"mouseOver(findTestObject(""User/Page_Dashboard/Shareholder/UserListAll/span_MYR""))",Chrome 114.0.0.0,,,2023-06-23 15:49:54,2023-06-23 15:49:54,0.566s,PASSED
+"click(findTestObject(""User/Page_Dashboard/Shareholder/UserListAll/span_MYR""))",Chrome 114.0.0.0,,,2023-06-23 15:49:54,2023-06-23 15:49:57,2.681s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""User/Page_Dashboard/Shareholder/UserListAll/h3_User List""))",Chrome 114.0.0.0,,,2023-06-23 15:49:57,2023-06-23 15:49:59,1.976s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""User/Page_Dashboard/Shareholder/UserListAll/input_Username_shareholder_username""))",Chrome 114.0.0.0,,,2023-06-23 15:49:59,2023-06-23 15:49:59,0.476s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""User/Page_Dashboard/Shareholder/UserListAll/input_MPU_member_product_username""))",Chrome 114.0.0.0,,,2023-06-23 15:49:59,2023-06-23 15:50:00,0.482s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""User/Page_Dashboard/Shareholder/UserListAll/selectLevel""))",Chrome 114.0.0.0,,,2023-06-23 15:50:00,2023-06-23 15:50:00,0.502s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""User/Page_Dashboard/Shareholder/UserListAll/selectWallet""))",Chrome 114.0.0.0,,,2023-06-23 15:50:00,2023-06-23 15:50:01,0.498s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""User/Page_Dashboard/Shareholder/UserListAll/button_Search""))",Chrome 114.0.0.0,,,2023-06-23 15:50:01,2023-06-23 15:50:01,0.498s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""User/Page_Dashboard/Shareholder/UserListAll/button_Create Shareholder""))",Chrome 114.0.0.0,,,2023-06-23 15:50:01,2023-06-23 15:50:02,0.497s,PASSED
+"verifyElementVisible(findTestObject(""User/Page_Dashboard/Shareholder/UserListAll/h3_User List""))",Chrome 114.0.0.0,,,2023-06-23 15:50:02,2023-06-23 15:50:02,0.432s,PASSED
+"verifyElementVisible(findTestObject(""User/Page_Dashboard/Shareholder/UserListAll/input_Username_shareholder_username""))",Chrome 114.0.0.0,,,2023-06-23 15:50:02,2023-06-23 15:50:03,0.408s,PASSED
+"verifyElementVisible(findTestObject(""User/Page_Dashboard/Shareholder/UserListAll/input_MPU_member_product_username""))",Chrome 114.0.0.0,,,2023-06-23 15:50:03,2023-06-23 15:50:03,0.444s,PASSED
+"verifyElementVisible(findTestObject(""User/Page_Dashboard/Shareholder/UserListAll/selectLevel""))",Chrome 114.0.0.0,,,2023-06-23 15:50:03,2023-06-23 15:50:04,0.394s,PASSED
+"verifyElementVisible(findTestObject(""User/Page_Dashboard/Shareholder/UserListAll/selectWallet""))",Chrome 114.0.0.0,,,2023-06-23 15:50:04,2023-06-23 15:50:04,0.417s,PASSED
+"verifyElementVisible(findTestObject(""User/Page_Dashboard/Shareholder/UserListAll/button_Search""))",Chrome 114.0.0.0,,,2023-06-23 15:50:04,2023-06-23 15:50:04,0.404s,PASSED
+"verifyElementVisible(findTestObject(""User/Page_Dashboard/Shareholder/UserListAll/button_Create Shareholder""))",Chrome 114.0.0.0,,,2023-06-23 15:50:04,2023-06-23 15:50:05,0.362s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""User/Page_Dashboard/Shareholder/UserListAll/select_102550100""))",Chrome 114.0.0.0,,,2023-06-23 15:50:05,2023-06-23 15:50:05,0.440s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""User/Page_Dashboard/Shareholder/UserListAll/span_Copy""))",Chrome 114.0.0.0,,,2023-06-23 15:50:05,2023-06-23 15:50:06,0.469s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""User/Page_Dashboard/Shareholder/UserListAll/span_CSV""))",Chrome 114.0.0.0,,,2023-06-23 15:50:06,2023-06-23 15:50:06,0.572s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""User/Page_Dashboard/Shareholder/UserListAll/span_Excel""))",Chrome 114.0.0.0,,,2023-06-23 15:50:06,2023-06-23 15:50:07,0.437s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""User/Page_Dashboard/Shareholder/UserListAll/span_PDF""))",Chrome 114.0.0.0,,,2023-06-23 15:50:07,2023-06-23 15:50:07,0.457s,PASSED
+"verifyElementVisible(findTestObject(""User/Page_Dashboard/Shareholder/UserListAll/span_Copy""))",Chrome 114.0.0.0,,,2023-06-23 15:50:07,2023-06-23 15:50:08,0.424s,PASSED
+"verifyElementVisible(findTestObject(""User/Page_Dashboard/Shareholder/UserListAll/span_CSV""))",Chrome 114.0.0.0,,,2023-06-23 15:50:08,2023-06-23 15:50:08,0.397s,PASSED
+"verifyElementVisible(findTestObject(""User/Page_Dashboard/Shareholder/UserListAll/span_Excel""))",Chrome 114.0.0.0,,,2023-06-23 15:50:08,2023-06-23 15:50:08,0.435s,PASSED
+"verifyElementVisible(findTestObject(""User/Page_Dashboard/Shareholder/UserListAll/span_PDF""))",Chrome 114.0.0.0,,,2023-06-23 15:50:08,2023-06-23 15:50:09,0.390s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""User/Page_Dashboard/Shareholder/UserListAll/input_Search_form-control form-control-sm""))",Chrome 114.0.0.0,,,2023-06-23 15:50:09,2023-06-23 15:50:09,0.449s,PASSED
+"verifyElementVisible(findTestObject(""User/Page_Dashboard/Shareholder/UserListAll/input_Search_form-control form-control-sm""))",Chrome 114.0.0.0,,,2023-06-23 15:50:09,2023-06-23 15:50:10,0.407s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""User/Page_Dashboard/Shareholder/UserListAll/th_No""))",Chrome 114.0.0.0,,,2023-06-23 15:50:10,2023-06-23 15:50:10,0.470s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""User/Page_Dashboard/Shareholder/UserListAll/th_Login Account""))",Chrome 114.0.0.0,,,2023-06-23 15:50:10,2023-06-23 15:50:11,0.424s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""User/Page_Dashboard/Shareholder/UserListAll/th_Full Name""))",Chrome 114.0.0.0,,,2023-06-23 15:50:11,2023-06-23 15:50:11,0.435s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""User/Page_Dashboard/Shareholder/UserListAll/th_Nickname""))",Chrome 114.0.0.0,,,2023-06-23 15:50:11,2023-06-23 15:50:11,0.450s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""User/Page_Dashboard/Shareholder/UserListAll/th_Currency""))",Chrome 114.0.0.0,,,2023-06-23 15:50:11,2023-06-23 15:50:12,0.456s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""User/Page_Dashboard/Shareholder/UserListAll/th_Role""))",Chrome 114.0.0.0,,,2023-06-23 15:50:12,2023-06-23 15:50:12,0.453s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""User/Page_Dashboard/Shareholder/UserListAll/th_Phone""))",Chrome 114.0.0.0,,,2023-06-23 15:50:12,2023-06-23 15:50:13,0.457s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""User/Page_Dashboard/Shareholder/UserListAll/th_Percentage""))",Chrome 114.0.0.0,,,2023-06-23 15:50:13,2023-06-23 15:50:13,0.460s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""User/Page_Dashboard/Shareholder/UserListAll/th_Status""))",Chrome 114.0.0.0,,,2023-06-23 15:50:13,2023-06-23 15:50:14,0.465s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""User/Page_Dashboard/Shareholder/UserListAll/th_Remarks""))",Chrome 114.0.0.0,,,2023-06-23 15:50:14,2023-06-23 15:50:14,0.453s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""User/Page_Dashboard/Shareholder/UserListAll/th_Cash""))",Chrome 114.0.0.0,,,2023-06-23 15:50:14,2023-06-23 15:50:15,0.429s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""User/Page_Dashboard/Shareholder/UserListAll/th_Password Otp""))",Chrome 114.0.0.0,,,2023-06-23 15:50:15,2023-06-23 15:50:15,0.466s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""User/Page_Dashboard/Shareholder/UserListAll/th_Phone Otp""))",Chrome 114.0.0.0,,,2023-06-23 15:50:15,2023-06-23 15:50:16,0.460s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""User/Page_Dashboard/Shareholder/UserListAll/th_Last login IP""))",Chrome 114.0.0.0,,,2023-06-23 15:50:16,2023-06-23 15:50:16,0.444s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""User/Page_Dashboard/Shareholder/UserListAll/th_Created Datetime""))",Chrome 114.0.0.0,,,2023-06-23 15:50:16,2023-06-23 15:50:16,0.467s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""User/Page_Dashboard/Shareholder/UserListAll/th_Last login time""))",Chrome 114.0.0.0,,,2023-06-23 15:50:16,2023-06-23 15:50:17,0.451s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""User/Page_Dashboard/Shareholder/UserListAll/th_App Type""))",Chrome 114.0.0.0,,,2023-06-23 15:50:17,2023-06-23 15:50:17,0.470s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""User/Page_Dashboard/Shareholder/UserListAll/th_Action""))",Chrome 114.0.0.0,,,2023-06-23 15:50:17,2023-06-23 15:50:18,0.443s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""User/Page_Dashboard/Shareholder/UserListAll/th_Upline""))",Chrome 114.0.0.0,,,2023-06-23 15:50:18,2023-06-23 15:50:18,0.464s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""User/Page_Dashboard/Shareholder/UserListAll/th_Main Line""))",Chrome 114.0.0.0,,,2023-06-23 15:50:18,2023-06-23 15:50:19,0.426s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""User/Page_Dashboard/Shareholder/UserListAll/tableUserList""))",Chrome 114.0.0.0,,,2023-06-23 15:50:19,2023-06-23 15:50:19,0.469s,PASSED
+"verifyElementVisible(findTestObject(""User/Page_Dashboard/Shareholder/UserListAll/th_No""))",Chrome 114.0.0.0,,,2023-06-23 15:50:19,2023-06-23 15:50:20,0.408s,PASSED
+"verifyElementVisible(findTestObject(""User/Page_Dashboard/Shareholder/UserListAll/th_Login Account""))",Chrome 114.0.0.0,,,2023-06-23 15:50:20,2023-06-23 15:50:20,0.384s,PASSED
+"verifyElementVisible(findTestObject(""User/Page_Dashboard/Shareholder/UserListAll/th_Full Name""))",Chrome 114.0.0.0,,,2023-06-23 15:50:20,2023-06-23 15:50:20,0.384s,PASSED
+"verifyElementVisible(findTestObject(""User/Page_Dashboard/Shareholder/UserListAll/th_Nickname""))",Chrome 114.0.0.0,,,2023-06-23 15:50:20,2023-06-23 15:50:21,0.409s,PASSED
+"verifyElementVisible(findTestObject(""User/Page_Dashboard/Shareholder/UserListAll/th_Currency""))",Chrome 114.0.0.0,,,2023-06-23 15:50:21,2023-06-23 15:50:21,0.427s,PASSED
+"verifyElementVisible(findTestObject(""User/Page_Dashboard/Shareholder/UserListAll/th_Role""))",Chrome 114.0.0.0,,,2023-06-23 15:50:21,2023-06-23 15:50:22,0.424s,PASSED
+"verifyElementVisible(findTestObject(""User/Page_Dashboard/Shareholder/UserListAll/th_Phone""))",Chrome 114.0.0.0,,,2023-06-23 15:50:22,2023-06-23 15:50:22,0.397s,PASSED
+"verifyElementVisible(findTestObject(""User/Page_Dashboard/Shareholder/UserListAll/th_Percentage""))",Chrome 114.0.0.0,,,2023-06-23 15:50:22,2023-06-23 15:50:22,0.386s,PASSED
+"verifyElementVisible(findTestObject(""User/Page_Dashboard/Shareholder/UserListAll/th_Status""))",Chrome 114.0.0.0,,,2023-06-23 15:50:22,2023-06-23 15:50:23,0.387s,PASSED
+"verifyElementVisible(findTestObject(""User/Page_Dashboard/Shareholder/UserListAll/th_Remarks""))",Chrome 114.0.0.0,,,2023-06-23 15:50:23,2023-06-23 15:50:23,0.405s,PASSED
+"verifyElementVisible(findTestObject(""User/Page_Dashboard/Shareholder/UserListAll/th_Cash""))",Chrome 114.0.0.0,,,2023-06-23 15:50:23,2023-06-23 15:50:24,0.411s,PASSED
+"verifyElementVisible(findTestObject(""User/Page_Dashboard/Shareholder/UserListAll/th_Password Otp""))",Chrome 114.0.0.0,,,2023-06-23 15:50:24,2023-06-23 15:50:24,0.417s,PASSED
+"verifyElementVisible(findTestObject(""User/Page_Dashboard/Shareholder/UserListAll/th_Phone Otp""))",Chrome 114.0.0.0,,,2023-06-23 15:50:24,2023-06-23 15:50:24,0.407s,PASSED
+"verifyElementVisible(findTestObject(""User/Page_Dashboard/Shareholder/UserListAll/th_Last login IP""))",Chrome 114.0.0.0,,,2023-06-23 15:50:24,2023-06-23 15:50:25,0.402s,PASSED
+"verifyElementVisible(findTestObject(""User/Page_Dashboard/Shareholder/UserListAll/th_Created Datetime""))",Chrome 114.0.0.0,,,2023-06-23 15:50:25,2023-06-23 15:50:25,0.375s,PASSED
+"verifyElementVisible(findTestObject(""User/Page_Dashboard/Shareholder/UserListAll/th_Last login time""))",Chrome 114.0.0.0,,,2023-06-23 15:50:25,2023-06-23 15:50:26,0.387s,PASSED
+"verifyElementVisible(findTestObject(""User/Page_Dashboard/Shareholder/UserListAll/th_App Type""))",Chrome 114.0.0.0,,,2023-06-23 15:50:26,2023-06-23 15:50:26,0.404s,PASSED
+"verifyElementVisible(findTestObject(""User/Page_Dashboard/Shareholder/UserListAll/th_Action""))",Chrome 114.0.0.0,,,2023-06-23 15:50:26,2023-06-23 15:50:26,0.424s,PASSED
+"verifyElementVisible(findTestObject(""User/Page_Dashboard/Shareholder/UserListAll/th_Upline""))",Chrome 114.0.0.0,,,2023-06-23 15:50:26,2023-06-23 15:50:27,0.402s,PASSED
+"verifyElementVisible(findTestObject(""User/Page_Dashboard/Shareholder/UserListAll/th_Main Line""))",Chrome 114.0.0.0,,,2023-06-23 15:50:27,2023-06-23 15:50:27,0.403s,PASSED
+"verifyElementVisible(findTestObject(""User/Page_Dashboard/Shareholder/UserListAll/tableUserList""))",Chrome 114.0.0.0,,,2023-06-23 15:50:27,2023-06-23 15:50:28,0.409s,PASSED
+,,,,,,,
+Test Cases/User/Shareholder/List THB,Chrome 114.0.0.0,,,2023-06-23 15:50:28,2023-06-23 15:51:04,36.129s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""User/Page_Dashboard/Member/span_User""))",Chrome 114.0.0.0,,,2023-06-23 15:50:28,2023-06-23 15:50:29,0.486s,PASSED
+"mouseOver(findTestObject(""User/Page_Dashboard/Member/span_User""))",Chrome 114.0.0.0,,,2023-06-23 15:50:29,2023-06-23 15:50:29,0.532s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""User/Page_Dashboard/Shareholder/span_List""))",Chrome 114.0.0.0,,,2023-06-23 15:50:29,2023-06-23 15:50:30,0.445s,PASSED
+"mouseOver(findTestObject(""User/Page_Dashboard/Shareholder/span_List""))",Chrome 114.0.0.0,,,2023-06-23 15:50:30,2023-06-23 15:50:30,0.537s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""User/Page_Dashboard/Shareholder/UserListAll/span_THB""))",Chrome 114.0.0.0,,,2023-06-23 15:50:30,2023-06-23 15:50:31,0.481s,PASSED
+"mouseOver(findTestObject(""User/Page_Dashboard/Shareholder/UserListAll/span_THB""))",Chrome 114.0.0.0,,,2023-06-23 15:50:31,2023-06-23 15:50:31,0.548s,PASSED
+"click(findTestObject(""User/Page_Dashboard/Shareholder/UserListAll/span_THB""))",Chrome 114.0.0.0,,,2023-06-23 15:50:31,2023-06-23 15:50:34,2.461s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""User/Page_Dashboard/Shareholder/UserListAll/h3_User List""))",Chrome 114.0.0.0,,,2023-06-23 15:50:34,2023-06-23 15:50:35,1.370s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""User/Page_Dashboard/Shareholder/UserListAll/input_Username_shareholder_username""))",Chrome 114.0.0.0,,,2023-06-23 15:50:35,2023-06-23 15:50:36,0.549s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""User/Page_Dashboard/Shareholder/UserListAll/input_MPU_member_product_username""))",Chrome 114.0.0.0,,,2023-06-23 15:50:36,2023-06-23 15:50:36,0.492s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""User/Page_Dashboard/Shareholder/UserListAll/selectLevel""))",Chrome 114.0.0.0,,,2023-06-23 15:50:36,2023-06-23 15:50:37,0.546s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""User/Page_Dashboard/Shareholder/UserListAll/selectWallet""))",Chrome 114.0.0.0,,,2023-06-23 15:50:37,2023-06-23 15:50:37,0.450s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""User/Page_Dashboard/Shareholder/UserListAll/button_Search""))",Chrome 114.0.0.0,,,2023-06-23 15:50:37,2023-06-23 15:50:37,0.453s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""User/Page_Dashboard/Shareholder/UserListAll/button_Create Shareholder""))",Chrome 114.0.0.0,,,2023-06-23 15:50:37,2023-06-23 15:50:38,0.549s,PASSED
+"verifyElementVisible(findTestObject(""User/Page_Dashboard/Shareholder/UserListAll/h3_User List""))",Chrome 114.0.0.0,,,2023-06-23 15:50:38,2023-06-23 15:50:38,0.415s,PASSED
+"verifyElementVisible(findTestObject(""User/Page_Dashboard/Shareholder/UserListAll/input_Username_shareholder_username""))",Chrome 114.0.0.0,,,2023-06-23 15:50:38,2023-06-23 15:50:39,0.421s,PASSED
+"verifyElementVisible(findTestObject(""User/Page_Dashboard/Shareholder/UserListAll/input_MPU_member_product_username""))",Chrome 114.0.0.0,,,2023-06-23 15:50:39,2023-06-23 15:50:39,0.381s,PASSED
+"verifyElementVisible(findTestObject(""User/Page_Dashboard/Shareholder/UserListAll/selectLevel""))",Chrome 114.0.0.0,,,2023-06-23 15:50:39,2023-06-23 15:50:40,0.392s,PASSED
+"verifyElementVisible(findTestObject(""User/Page_Dashboard/Shareholder/UserListAll/selectWallet""))",Chrome 114.0.0.0,,,2023-06-23 15:50:40,2023-06-23 15:50:40,0.388s,PASSED
+"verifyElementVisible(findTestObject(""User/Page_Dashboard/Shareholder/UserListAll/button_Search""))",Chrome 114.0.0.0,,,2023-06-23 15:50:40,2023-06-23 15:50:40,0.365s,PASSED
+"verifyElementVisible(findTestObject(""User/Page_Dashboard/Shareholder/UserListAll/button_Create Shareholder""))",Chrome 114.0.0.0,,,2023-06-23 15:50:40,2023-06-23 15:50:41,0.424s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""User/Page_Dashboard/Shareholder/UserListAll/select_102550100""))",Chrome 114.0.0.0,,,2023-06-23 15:50:41,2023-06-23 15:50:41,0.417s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""User/Page_Dashboard/Shareholder/UserListAll/span_Copy""))",Chrome 114.0.0.0,,,2023-06-23 15:50:41,2023-06-23 15:50:42,0.557s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""User/Page_Dashboard/Shareholder/UserListAll/span_CSV""))",Chrome 114.0.0.0,,,2023-06-23 15:50:42,2023-06-23 15:50:42,0.526s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""User/Page_Dashboard/Shareholder/UserListAll/span_Excel""))",Chrome 114.0.0.0,,,2023-06-23 15:50:42,2023-06-23 15:50:43,0.543s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""User/Page_Dashboard/Shareholder/UserListAll/span_PDF""))",Chrome 114.0.0.0,,,2023-06-23 15:50:43,2023-06-23 15:50:43,0.540s,PASSED
+"verifyElementVisible(findTestObject(""User/Page_Dashboard/Shareholder/UserListAll/span_Copy""))",Chrome 114.0.0.0,,,2023-06-23 15:50:43,2023-06-23 15:50:44,0.504s,PASSED
+"verifyElementVisible(findTestObject(""User/Page_Dashboard/Shareholder/UserListAll/span_CSV""))",Chrome 114.0.0.0,,,2023-06-23 15:50:44,2023-06-23 15:50:44,0.377s,PASSED
+"verifyElementVisible(findTestObject(""User/Page_Dashboard/Shareholder/UserListAll/span_Excel""))",Chrome 114.0.0.0,,,2023-06-23 15:50:44,2023-06-23 15:50:45,0.402s,PASSED
+"verifyElementVisible(findTestObject(""User/Page_Dashboard/Shareholder/UserListAll/span_PDF""))",Chrome 114.0.0.0,,,2023-06-23 15:50:45,2023-06-23 15:50:45,0.391s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""User/Page_Dashboard/Shareholder/UserListAll/input_Search_form-control form-control-sm""))",Chrome 114.0.0.0,,,2023-06-23 15:50:45,2023-06-23 15:50:46,0.435s,PASSED
+"verifyElementVisible(findTestObject(""User/Page_Dashboard/Shareholder/UserListAll/input_Search_form-control form-control-sm""))",Chrome 114.0.0.0,,,2023-06-23 15:50:46,2023-06-23 15:50:46,0.472s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""User/Page_Dashboard/Shareholder/UserListAll/th_No""))",Chrome 114.0.0.0,,,2023-06-23 15:50:46,2023-06-23 15:50:46,0.463s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""User/Page_Dashboard/Shareholder/UserListAll/th_Login Account""))",Chrome 114.0.0.0,,,2023-06-23 15:50:46,2023-06-23 15:50:47,0.448s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""User/Page_Dashboard/Shareholder/UserListAll/th_Full Name""))",Chrome 114.0.0.0,,,2023-06-23 15:50:47,2023-06-23 15:50:47,0.446s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""User/Page_Dashboard/Shareholder/UserListAll/th_Nickname""))",Chrome 114.0.0.0,,,2023-06-23 15:50:47,2023-06-23 15:50:48,0.433s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""User/Page_Dashboard/Shareholder/UserListAll/th_Currency""))",Chrome 114.0.0.0,,,2023-06-23 15:50:48,2023-06-23 15:50:48,0.437s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""User/Page_Dashboard/Shareholder/UserListAll/th_Role""))",Chrome 114.0.0.0,,,2023-06-23 15:50:48,2023-06-23 15:50:49,0.446s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""User/Page_Dashboard/Shareholder/UserListAll/th_Phone""))",Chrome 114.0.0.0,,,2023-06-23 15:50:49,2023-06-23 15:50:49,0.461s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""User/Page_Dashboard/Shareholder/UserListAll/th_Percentage""))",Chrome 114.0.0.0,,,2023-06-23 15:50:49,2023-06-23 15:50:50,0.433s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""User/Page_Dashboard/Shareholder/UserListAll/th_Status""))",Chrome 114.0.0.0,,,2023-06-23 15:50:50,2023-06-23 15:50:50,0.464s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""User/Page_Dashboard/Shareholder/UserListAll/th_Remarks""))",Chrome 114.0.0.0,,,2023-06-23 15:50:50,2023-06-23 15:50:50,0.434s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""User/Page_Dashboard/Shareholder/UserListAll/th_Cash""))",Chrome 114.0.0.0,,,2023-06-23 15:50:50,2023-06-23 15:50:51,0.450s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""User/Page_Dashboard/Shareholder/UserListAll/th_Password Otp""))",Chrome 114.0.0.0,,,2023-06-23 15:50:51,2023-06-23 15:50:51,0.451s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""User/Page_Dashboard/Shareholder/UserListAll/th_Phone Otp""))",Chrome 114.0.0.0,,,2023-06-23 15:50:51,2023-06-23 15:50:52,0.426s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""User/Page_Dashboard/Shareholder/UserListAll/th_Last login IP""))",Chrome 114.0.0.0,,,2023-06-23 15:50:52,2023-06-23 15:50:52,0.429s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""User/Page_Dashboard/Shareholder/UserListAll/th_Created Datetime""))",Chrome 114.0.0.0,,,2023-06-23 15:50:52,2023-06-23 15:50:53,0.461s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""User/Page_Dashboard/Shareholder/UserListAll/th_Last login time""))",Chrome 114.0.0.0,,,2023-06-23 15:50:53,2023-06-23 15:50:53,0.445s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""User/Page_Dashboard/Shareholder/UserListAll/th_App Type""))",Chrome 114.0.0.0,,,2023-06-23 15:50:53,2023-06-23 15:50:54,0.420s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""User/Page_Dashboard/Shareholder/UserListAll/th_Action""))",Chrome 114.0.0.0,,,2023-06-23 15:50:54,2023-06-23 15:50:54,0.456s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""User/Page_Dashboard/Shareholder/UserListAll/th_Upline""))",Chrome 114.0.0.0,,,2023-06-23 15:50:54,2023-06-23 15:50:54,0.421s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""User/Page_Dashboard/Shareholder/UserListAll/th_Main Line""))",Chrome 114.0.0.0,,,2023-06-23 15:50:54,2023-06-23 15:50:55,0.423s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""User/Page_Dashboard/Shareholder/UserListAll/tableUserList""))",Chrome 114.0.0.0,,,2023-06-23 15:50:55,2023-06-23 15:50:55,0.436s,PASSED
+"verifyElementVisible(findTestObject(""User/Page_Dashboard/Shareholder/UserListAll/th_No""))",Chrome 114.0.0.0,,,2023-06-23 15:50:55,2023-06-23 15:50:56,0.393s,PASSED
+"verifyElementVisible(findTestObject(""User/Page_Dashboard/Shareholder/UserListAll/th_Login Account""))",Chrome 114.0.0.0,,,2023-06-23 15:50:56,2023-06-23 15:50:56,0.391s,PASSED
+"verifyElementVisible(findTestObject(""User/Page_Dashboard/Shareholder/UserListAll/th_Full Name""))",Chrome 114.0.0.0,,,2023-06-23 15:50:56,2023-06-23 15:50:56,0.372s,PASSED
+"verifyElementVisible(findTestObject(""User/Page_Dashboard/Shareholder/UserListAll/th_Nickname""))",Chrome 114.0.0.0,,,2023-06-23 15:50:56,2023-06-23 15:50:57,0.401s,PASSED
+"verifyElementVisible(findTestObject(""User/Page_Dashboard/Shareholder/UserListAll/th_Currency""))",Chrome 114.0.0.0,,,2023-06-23 15:50:57,2023-06-23 15:50:57,0.425s,PASSED
+"verifyElementVisible(findTestObject(""User/Page_Dashboard/Shareholder/UserListAll/th_Role""))",Chrome 114.0.0.0,,,2023-06-23 15:50:57,2023-06-23 15:50:58,0.409s,PASSED
+"verifyElementVisible(findTestObject(""User/Page_Dashboard/Shareholder/UserListAll/th_Phone""))",Chrome 114.0.0.0,,,2023-06-23 15:50:58,2023-06-23 15:50:58,0.385s,PASSED
+"verifyElementVisible(findTestObject(""User/Page_Dashboard/Shareholder/UserListAll/th_Percentage""))",Chrome 114.0.0.0,,,2023-06-23 15:50:58,2023-06-23 15:50:58,0.373s,PASSED
+"verifyElementVisible(findTestObject(""User/Page_Dashboard/Shareholder/UserListAll/th_Status""))",Chrome 114.0.0.0,,,2023-06-23 15:50:58,2023-06-23 15:50:59,0.389s,PASSED
+"verifyElementVisible(findTestObject(""User/Page_Dashboard/Shareholder/UserListAll/th_Remarks""))",Chrome 114.0.0.0,,,2023-06-23 15:50:59,2023-06-23 15:50:59,0.449s,PASSED
+"verifyElementVisible(findTestObject(""User/Page_Dashboard/Shareholder/UserListAll/th_Cash""))",Chrome 114.0.0.0,,,2023-06-23 15:50:59,2023-06-23 15:51:00,0.405s,PASSED
+"verifyElementVisible(findTestObject(""User/Page_Dashboard/Shareholder/UserListAll/th_Password Otp""))",Chrome 114.0.0.0,,,2023-06-23 15:51:00,2023-06-23 15:51:00,0.401s,PASSED
+"verifyElementVisible(findTestObject(""User/Page_Dashboard/Shareholder/UserListAll/th_Phone Otp""))",Chrome 114.0.0.0,,,2023-06-23 15:51:00,2023-06-23 15:51:00,0.391s,PASSED
+"verifyElementVisible(findTestObject(""User/Page_Dashboard/Shareholder/UserListAll/th_Last login IP""))",Chrome 114.0.0.0,,,2023-06-23 15:51:00,2023-06-23 15:51:01,0.437s,PASSED
+"verifyElementVisible(findTestObject(""User/Page_Dashboard/Shareholder/UserListAll/th_Created Datetime""))",Chrome 114.0.0.0,,,2023-06-23 15:51:01,2023-06-23 15:51:01,0.436s,PASSED
+"verifyElementVisible(findTestObject(""User/Page_Dashboard/Shareholder/UserListAll/th_Last login time""))",Chrome 114.0.0.0,,,2023-06-23 15:51:01,2023-06-23 15:51:02,0.392s,PASSED
+"verifyElementVisible(findTestObject(""User/Page_Dashboard/Shareholder/UserListAll/th_App Type""))",Chrome 114.0.0.0,,,2023-06-23 15:51:02,2023-06-23 15:51:02,0.393s,PASSED
+"verifyElementVisible(findTestObject(""User/Page_Dashboard/Shareholder/UserListAll/th_Action""))",Chrome 114.0.0.0,,,2023-06-23 15:51:02,2023-06-23 15:51:03,0.417s,PASSED
+"verifyElementVisible(findTestObject(""User/Page_Dashboard/Shareholder/UserListAll/th_Upline""))",Chrome 114.0.0.0,,,2023-06-23 15:51:03,2023-06-23 15:51:03,0.390s,PASSED
+"verifyElementVisible(findTestObject(""User/Page_Dashboard/Shareholder/UserListAll/th_Main Line""))",Chrome 114.0.0.0,,,2023-06-23 15:51:03,2023-06-23 15:51:03,0.389s,PASSED
+"verifyElementVisible(findTestObject(""User/Page_Dashboard/Shareholder/UserListAll/tableUserList""))",Chrome 114.0.0.0,,,2023-06-23 15:51:03,2023-06-23 15:51:04,0.402s,PASSED
+,,,,,,,
+Test Cases/User/Shareholder/List IDR,Chrome 114.0.0.0,,,2023-06-23 15:51:04,2023-06-23 15:51:39,35.748s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""User/Page_Dashboard/Member/span_User""))",Chrome 114.0.0.0,,,2023-06-23 15:51:04,2023-06-23 15:51:05,0.466s,PASSED
+"mouseOver(findTestObject(""User/Page_Dashboard/Member/span_User""))",Chrome 114.0.0.0,,,2023-06-23 15:51:05,2023-06-23 15:51:05,0.635s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""User/Page_Dashboard/Shareholder/span_List""))",Chrome 114.0.0.0,,,2023-06-23 15:51:05,2023-06-23 15:51:06,0.462s,PASSED
+"mouseOver(findTestObject(""User/Page_Dashboard/Shareholder/span_List""))",Chrome 114.0.0.0,,,2023-06-23 15:51:06,2023-06-23 15:51:06,0.532s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""User/Page_Dashboard/Shareholder/UserListAll/span_IDR""))",Chrome 114.0.0.0,,,2023-06-23 15:51:06,2023-06-23 15:51:07,0.469s,PASSED
+"mouseOver(findTestObject(""User/Page_Dashboard/Shareholder/UserListAll/span_IDR""))",Chrome 114.0.0.0,,,2023-06-23 15:51:07,2023-06-23 15:51:07,0.560s,PASSED
+"click(findTestObject(""User/Page_Dashboard/Shareholder/UserListAll/span_IDR""))",Chrome 114.0.0.0,,,2023-06-23 15:51:07,2023-06-23 15:51:10,2.406s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""User/Page_Dashboard/Shareholder/UserListAll/h3_User List""))",Chrome 114.0.0.0,,,2023-06-23 15:51:10,2023-06-23 15:51:11,1.321s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""User/Page_Dashboard/Shareholder/UserListAll/input_Username_shareholder_username""))",Chrome 114.0.0.0,,,2023-06-23 15:51:11,2023-06-23 15:51:12,0.557s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""User/Page_Dashboard/Shareholder/UserListAll/input_MPU_member_product_username""))",Chrome 114.0.0.0,,,2023-06-23 15:51:12,2023-06-23 15:51:12,0.464s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""User/Page_Dashboard/Shareholder/UserListAll/selectLevel""))",Chrome 114.0.0.0,,,2023-06-23 15:51:12,2023-06-23 15:51:13,0.560s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""User/Page_Dashboard/Shareholder/UserListAll/selectWallet""))",Chrome 114.0.0.0,,,2023-06-23 15:51:13,2023-06-23 15:51:13,0.456s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""User/Page_Dashboard/Shareholder/UserListAll/button_Search""))",Chrome 114.0.0.0,,,2023-06-23 15:51:13,2023-06-23 15:51:14,0.453s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""User/Page_Dashboard/Shareholder/UserListAll/button_Create Shareholder""))",Chrome 114.0.0.0,,,2023-06-23 15:51:14,2023-06-23 15:51:14,0.555s,PASSED
+"verifyElementVisible(findTestObject(""User/Page_Dashboard/Shareholder/UserListAll/h3_User List""))",Chrome 114.0.0.0,,,2023-06-23 15:51:14,2023-06-23 15:51:15,0.412s,PASSED
+"verifyElementVisible(findTestObject(""User/Page_Dashboard/Shareholder/UserListAll/input_Username_shareholder_username""))",Chrome 114.0.0.0,,,2023-06-23 15:51:15,2023-06-23 15:51:15,0.376s,PASSED
+"verifyElementVisible(findTestObject(""User/Page_Dashboard/Shareholder/UserListAll/input_MPU_member_product_username""))",Chrome 114.0.0.0,,,2023-06-23 15:51:15,2023-06-23 15:51:15,0.378s,PASSED
+"verifyElementVisible(findTestObject(""User/Page_Dashboard/Shareholder/UserListAll/selectLevel""))",Chrome 114.0.0.0,,,2023-06-23 15:51:15,2023-06-23 15:51:16,0.376s,PASSED
+"verifyElementVisible(findTestObject(""User/Page_Dashboard/Shareholder/UserListAll/selectWallet""))",Chrome 114.0.0.0,,,2023-06-23 15:51:16,2023-06-23 15:51:16,0.391s,PASSED
+"verifyElementVisible(findTestObject(""User/Page_Dashboard/Shareholder/UserListAll/button_Search""))",Chrome 114.0.0.0,,,2023-06-23 15:51:16,2023-06-23 15:51:17,0.405s,PASSED
+"verifyElementVisible(findTestObject(""User/Page_Dashboard/Shareholder/UserListAll/button_Create Shareholder""))",Chrome 114.0.0.0,,,2023-06-23 15:51:17,2023-06-23 15:51:17,0.394s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""User/Page_Dashboard/Shareholder/UserListAll/select_102550100""))",Chrome 114.0.0.0,,,2023-06-23 15:51:17,2023-06-23 15:51:17,0.445s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""User/Page_Dashboard/Shareholder/UserListAll/span_Copy""))",Chrome 114.0.0.0,,,2023-06-23 15:51:17,2023-06-23 15:51:18,0.545s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""User/Page_Dashboard/Shareholder/UserListAll/span_CSV""))",Chrome 114.0.0.0,,,2023-06-23 15:51:18,2023-06-23 15:51:18,0.545s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""User/Page_Dashboard/Shareholder/UserListAll/span_Excel""))",Chrome 114.0.0.0,,,2023-06-23 15:51:18,2023-06-23 15:51:19,0.565s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""User/Page_Dashboard/Shareholder/UserListAll/span_PDF""))",Chrome 114.0.0.0,,,2023-06-23 15:51:19,2023-06-23 15:51:19,0.449s,PASSED
+"verifyElementVisible(findTestObject(""User/Page_Dashboard/Shareholder/UserListAll/span_Copy""))",Chrome 114.0.0.0,,,2023-06-23 15:51:19,2023-06-23 15:51:20,0.517s,PASSED
+"verifyElementVisible(findTestObject(""User/Page_Dashboard/Shareholder/UserListAll/span_CSV""))",Chrome 114.0.0.0,,,2023-06-23 15:51:20,2023-06-23 15:51:20,0.403s,PASSED
+"verifyElementVisible(findTestObject(""User/Page_Dashboard/Shareholder/UserListAll/span_Excel""))",Chrome 114.0.0.0,,,2023-06-23 15:51:20,2023-06-23 15:51:21,0.374s,PASSED
+"verifyElementVisible(findTestObject(""User/Page_Dashboard/Shareholder/UserListAll/span_PDF""))",Chrome 114.0.0.0,,,2023-06-23 15:51:21,2023-06-23 15:51:21,0.405s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""User/Page_Dashboard/Shareholder/UserListAll/input_Search_form-control form-control-sm""))",Chrome 114.0.0.0,,,2023-06-23 15:51:21,2023-06-23 15:51:22,0.432s,PASSED
+"verifyElementVisible(findTestObject(""User/Page_Dashboard/Shareholder/UserListAll/input_Search_form-control form-control-sm""))",Chrome 114.0.0.0,,,2023-06-23 15:51:22,2023-06-23 15:51:22,0.399s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""User/Page_Dashboard/Shareholder/UserListAll/th_No""))",Chrome 114.0.0.0,,,2023-06-23 15:51:22,2023-06-23 15:51:22,0.465s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""User/Page_Dashboard/Shareholder/UserListAll/th_Login Account""))",Chrome 114.0.0.0,,,2023-06-23 15:51:22,2023-06-23 15:51:23,0.421s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""User/Page_Dashboard/Shareholder/UserListAll/th_Full Name""))",Chrome 114.0.0.0,,,2023-06-23 15:51:23,2023-06-23 15:51:23,0.444s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""User/Page_Dashboard/Shareholder/UserListAll/th_Nickname""))",Chrome 114.0.0.0,,,2023-06-23 15:51:23,2023-06-23 15:51:24,0.435s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""User/Page_Dashboard/Shareholder/UserListAll/th_Currency""))",Chrome 114.0.0.0,,,2023-06-23 15:51:24,2023-06-23 15:51:24,0.424s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""User/Page_Dashboard/Shareholder/UserListAll/th_Role""))",Chrome 114.0.0.0,,,2023-06-23 15:51:24,2023-06-23 15:51:25,0.444s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""User/Page_Dashboard/Shareholder/UserListAll/th_Phone""))",Chrome 114.0.0.0,,,2023-06-23 15:51:25,2023-06-23 15:51:25,0.435s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""User/Page_Dashboard/Shareholder/UserListAll/th_Percentage""))",Chrome 114.0.0.0,,,2023-06-23 15:51:25,2023-06-23 15:51:25,0.434s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""User/Page_Dashboard/Shareholder/UserListAll/th_Status""))",Chrome 114.0.0.0,,,2023-06-23 15:51:25,2023-06-23 15:51:26,0.423s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""User/Page_Dashboard/Shareholder/UserListAll/th_Remarks""))",Chrome 114.0.0.0,,,2023-06-23 15:51:26,2023-06-23 15:51:26,0.435s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""User/Page_Dashboard/Shareholder/UserListAll/th_Cash""))",Chrome 114.0.0.0,,,2023-06-23 15:51:26,2023-06-23 15:51:27,0.423s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""User/Page_Dashboard/Shareholder/UserListAll/th_Password Otp""))",Chrome 114.0.0.0,,,2023-06-23 15:51:27,2023-06-23 15:51:27,0.453s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""User/Page_Dashboard/Shareholder/UserListAll/th_Phone Otp""))",Chrome 114.0.0.0,,,2023-06-23 15:51:27,2023-06-23 15:51:28,0.450s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""User/Page_Dashboard/Shareholder/UserListAll/th_Last login IP""))",Chrome 114.0.0.0,,,2023-06-23 15:51:28,2023-06-23 15:51:28,0.427s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""User/Page_Dashboard/Shareholder/UserListAll/th_Created Datetime""))",Chrome 114.0.0.0,,,2023-06-23 15:51:28,2023-06-23 15:51:29,0.426s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""User/Page_Dashboard/Shareholder/UserListAll/th_Last login time""))",Chrome 114.0.0.0,,,2023-06-23 15:51:29,2023-06-23 15:51:29,0.433s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""User/Page_Dashboard/Shareholder/UserListAll/th_App Type""))",Chrome 114.0.0.0,,,2023-06-23 15:51:29,2023-06-23 15:51:29,0.436s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""User/Page_Dashboard/Shareholder/UserListAll/th_Action""))",Chrome 114.0.0.0,,,2023-06-23 15:51:29,2023-06-23 15:51:30,0.452s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""User/Page_Dashboard/Shareholder/UserListAll/th_Upline""))",Chrome 114.0.0.0,,,2023-06-23 15:51:30,2023-06-23 15:51:30,0.431s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""User/Page_Dashboard/Shareholder/UserListAll/th_Main Line""))",Chrome 114.0.0.0,,,2023-06-23 15:51:30,2023-06-23 15:51:31,0.435s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""User/Page_Dashboard/Shareholder/UserListAll/tableUserList""))",Chrome 114.0.0.0,,,2023-06-23 15:51:31,2023-06-23 15:51:31,0.419s,PASSED
+"verifyElementVisible(findTestObject(""User/Page_Dashboard/Shareholder/UserListAll/th_No""))",Chrome 114.0.0.0,,,2023-06-23 15:51:31,2023-06-23 15:51:32,0.389s,PASSED
+"verifyElementVisible(findTestObject(""User/Page_Dashboard/Shareholder/UserListAll/th_Login Account""))",Chrome 114.0.0.0,,,2023-06-23 15:51:32,2023-06-23 15:51:32,0.388s,PASSED
+"verifyElementVisible(findTestObject(""User/Page_Dashboard/Shareholder/UserListAll/th_Full Name""))",Chrome 114.0.0.0,,,2023-06-23 15:51:32,2023-06-23 15:51:32,0.376s,PASSED
+"verifyElementVisible(findTestObject(""User/Page_Dashboard/Shareholder/UserListAll/th_Nickname""))",Chrome 114.0.0.0,,,2023-06-23 15:51:32,2023-06-23 15:51:33,0.392s,PASSED
+"verifyElementVisible(findTestObject(""User/Page_Dashboard/Shareholder/UserListAll/th_Currency""))",Chrome 114.0.0.0,,,2023-06-23 15:51:33,2023-06-23 15:51:33,0.422s,PASSED
+"verifyElementVisible(findTestObject(""User/Page_Dashboard/Shareholder/UserListAll/th_Role""))",Chrome 114.0.0.0,,,2023-06-23 15:51:33,2023-06-23 15:51:34,0.418s,PASSED
+"verifyElementVisible(findTestObject(""User/Page_Dashboard/Shareholder/UserListAll/th_Phone""))",Chrome 114.0.0.0,,,2023-06-23 15:51:34,2023-06-23 15:51:34,0.404s,PASSED
+"verifyElementVisible(findTestObject(""User/Page_Dashboard/Shareholder/UserListAll/th_Percentage""))",Chrome 114.0.0.0,,,2023-06-23 15:51:34,2023-06-23 15:51:34,0.404s,PASSED
+"verifyElementVisible(findTestObject(""User/Page_Dashboard/Shareholder/UserListAll/th_Status""))",Chrome 114.0.0.0,,,2023-06-23 15:51:34,2023-06-23 15:51:35,0.379s,PASSED
+"verifyElementVisible(findTestObject(""User/Page_Dashboard/Shareholder/UserListAll/th_Remarks""))",Chrome 114.0.0.0,,,2023-06-23 15:51:35,2023-06-23 15:51:35,0.407s,PASSED
+"verifyElementVisible(findTestObject(""User/Page_Dashboard/Shareholder/UserListAll/th_Cash""))",Chrome 114.0.0.0,,,2023-06-23 15:51:35,2023-06-23 15:51:36,0.392s,PASSED
+"verifyElementVisible(findTestObject(""User/Page_Dashboard/Shareholder/UserListAll/th_Password Otp""))",Chrome 114.0.0.0,,,2023-06-23 15:51:36,2023-06-23 15:51:36,0.391s,PASSED
+"verifyElementVisible(findTestObject(""User/Page_Dashboard/Shareholder/UserListAll/th_Phone Otp""))",Chrome 114.0.0.0,,,2023-06-23 15:51:36,2023-06-23 15:51:36,0.421s,PASSED
+"verifyElementVisible(findTestObject(""User/Page_Dashboard/Shareholder/UserListAll/th_Last login IP""))",Chrome 114.0.0.0,,,2023-06-23 15:51:36,2023-06-23 15:51:37,0.383s,PASSED
+"verifyElementVisible(findTestObject(""User/Page_Dashboard/Shareholder/UserListAll/th_Created Datetime""))",Chrome 114.0.0.0,,,2023-06-23 15:51:37,2023-06-23 15:51:37,0.395s,PASSED
+"verifyElementVisible(findTestObject(""User/Page_Dashboard/Shareholder/UserListAll/th_Last login time""))",Chrome 114.0.0.0,,,2023-06-23 15:51:37,2023-06-23 15:51:38,0.411s,PASSED
+"verifyElementVisible(findTestObject(""User/Page_Dashboard/Shareholder/UserListAll/th_App Type""))",Chrome 114.0.0.0,,,2023-06-23 15:51:38,2023-06-23 15:51:38,0.385s,PASSED
+"verifyElementVisible(findTestObject(""User/Page_Dashboard/Shareholder/UserListAll/th_Action""))",Chrome 114.0.0.0,,,2023-06-23 15:51:38,2023-06-23 15:51:38,0.379s,PASSED
+"verifyElementVisible(findTestObject(""User/Page_Dashboard/Shareholder/UserListAll/th_Upline""))",Chrome 114.0.0.0,,,2023-06-23 15:51:38,2023-06-23 15:51:39,0.401s,PASSED
+"verifyElementVisible(findTestObject(""User/Page_Dashboard/Shareholder/UserListAll/th_Main Line""))",Chrome 114.0.0.0,,,2023-06-23 15:51:39,2023-06-23 15:51:39,0.391s,PASSED
+"verifyElementVisible(findTestObject(""User/Page_Dashboard/Shareholder/UserListAll/tableUserList""))",Chrome 114.0.0.0,,,2023-06-23 15:51:39,2023-06-23 15:51:39,0.406s,PASSED
+,,,,,,,
+Test Cases/User/Shareholder/List MMK,Chrome 114.0.0.0,,,2023-06-23 15:51:39,2023-06-23 15:52:16,36.106s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""User/Page_Dashboard/Member/span_User""))",Chrome 114.0.0.0,,,2023-06-23 15:51:40,2023-06-23 15:51:41,0.457s,PASSED
+"mouseOver(findTestObject(""User/Page_Dashboard/Member/span_User""))",Chrome 114.0.0.0,,,2023-06-23 15:51:41,2023-06-23 15:51:41,0.528s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""User/Page_Dashboard/Shareholder/span_List""))",Chrome 114.0.0.0,,,2023-06-23 15:51:41,2023-06-23 15:51:41,0.438s,PASSED
+"mouseOver(findTestObject(""User/Page_Dashboard/Shareholder/span_List""))",Chrome 114.0.0.0,,,2023-06-23 15:51:41,2023-06-23 15:51:42,0.530s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""User/Page_Dashboard/Shareholder/UserListAll/span_MMK""))",Chrome 114.0.0.0,,,2023-06-23 15:51:42,2023-06-23 15:51:42,0.440s,PASSED
+"mouseOver(findTestObject(""User/Page_Dashboard/Shareholder/UserListAll/span_MMK""))",Chrome 114.0.0.0,,,2023-06-23 15:51:42,2023-06-23 15:51:43,0.651s,PASSED
+"click(findTestObject(""User/Page_Dashboard/Shareholder/UserListAll/span_MMK""))",Chrome 114.0.0.0,,,2023-06-23 15:51:43,2023-06-23 15:51:46,2.764s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""User/Page_Dashboard/Shareholder/UserListAll/h3_User List""))",Chrome 114.0.0.0,,,2023-06-23 15:51:46,2023-06-23 15:51:47,1.541s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""User/Page_Dashboard/Shareholder/UserListAll/input_Username_shareholder_username""))",Chrome 114.0.0.0,,,2023-06-23 15:51:47,2023-06-23 15:51:48,0.538s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""User/Page_Dashboard/Shareholder/UserListAll/input_MPU_member_product_username""))",Chrome 114.0.0.0,,,2023-06-23 15:51:48,2023-06-23 15:51:48,0.536s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""User/Page_Dashboard/Shareholder/UserListAll/selectLevel""))",Chrome 114.0.0.0,,,2023-06-23 15:51:48,2023-06-23 15:51:49,0.455s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""User/Page_Dashboard/Shareholder/UserListAll/selectWallet""))",Chrome 114.0.0.0,,,2023-06-23 15:51:49,2023-06-23 15:51:49,0.448s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""User/Page_Dashboard/Shareholder/UserListAll/button_Search""))",Chrome 114.0.0.0,,,2023-06-23 15:51:49,2023-06-23 15:51:50,0.548s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""User/Page_Dashboard/Shareholder/UserListAll/button_Create Shareholder""))",Chrome 114.0.0.0,,,2023-06-23 15:51:50,2023-06-23 15:51:50,0.551s,PASSED
+"verifyElementVisible(findTestObject(""User/Page_Dashboard/Shareholder/UserListAll/h3_User List""))",Chrome 114.0.0.0,,,2023-06-23 15:51:50,2023-06-23 15:51:51,0.409s,PASSED
+"verifyElementVisible(findTestObject(""User/Page_Dashboard/Shareholder/UserListAll/input_Username_shareholder_username""))",Chrome 114.0.0.0,,,2023-06-23 15:51:51,2023-06-23 15:51:51,0.378s,PASSED
+"verifyElementVisible(findTestObject(""User/Page_Dashboard/Shareholder/UserListAll/input_MPU_member_product_username""))",Chrome 114.0.0.0,,,2023-06-23 15:51:51,2023-06-23 15:51:52,0.397s,PASSED
+"verifyElementVisible(findTestObject(""User/Page_Dashboard/Shareholder/UserListAll/selectLevel""))",Chrome 114.0.0.0,,,2023-06-23 15:51:52,2023-06-23 15:51:52,0.405s,PASSED
+"verifyElementVisible(findTestObject(""User/Page_Dashboard/Shareholder/UserListAll/selectWallet""))",Chrome 114.0.0.0,,,2023-06-23 15:51:52,2023-06-23 15:51:52,0.374s,PASSED
+"verifyElementVisible(findTestObject(""User/Page_Dashboard/Shareholder/UserListAll/button_Search""))",Chrome 114.0.0.0,,,2023-06-23 15:51:52,2023-06-23 15:51:53,0.397s,PASSED
+"verifyElementVisible(findTestObject(""User/Page_Dashboard/Shareholder/UserListAll/button_Create Shareholder""))",Chrome 114.0.0.0,,,2023-06-23 15:51:53,2023-06-23 15:51:53,0.388s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""User/Page_Dashboard/Shareholder/UserListAll/select_102550100""))",Chrome 114.0.0.0,,,2023-06-23 15:51:53,2023-06-23 15:51:54,0.448s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""User/Page_Dashboard/Shareholder/UserListAll/span_Copy""))",Chrome 114.0.0.0,,,2023-06-23 15:51:54,2023-06-23 15:51:54,0.528s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""User/Page_Dashboard/Shareholder/UserListAll/span_CSV""))",Chrome 114.0.0.0,,,2023-06-23 15:51:54,2023-06-23 15:51:55,0.543s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""User/Page_Dashboard/Shareholder/UserListAll/span_Excel""))",Chrome 114.0.0.0,,,2023-06-23 15:51:55,2023-06-23 15:51:55,0.547s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""User/Page_Dashboard/Shareholder/UserListAll/span_PDF""))",Chrome 114.0.0.0,,,2023-06-23 15:51:55,2023-06-23 15:51:56,0.458s,PASSED
+"verifyElementVisible(findTestObject(""User/Page_Dashboard/Shareholder/UserListAll/span_Copy""))",Chrome 114.0.0.0,,,2023-06-23 15:51:56,2023-06-23 15:51:56,0.410s,PASSED
+"verifyElementVisible(findTestObject(""User/Page_Dashboard/Shareholder/UserListAll/span_CSV""))",Chrome 114.0.0.0,,,2023-06-23 15:51:56,2023-06-23 15:51:57,0.388s,PASSED
+"verifyElementVisible(findTestObject(""User/Page_Dashboard/Shareholder/UserListAll/span_Excel""))",Chrome 114.0.0.0,,,2023-06-23 15:51:57,2023-06-23 15:51:57,0.391s,PASSED
+"verifyElementVisible(findTestObject(""User/Page_Dashboard/Shareholder/UserListAll/span_PDF""))",Chrome 114.0.0.0,,,2023-06-23 15:51:57,2023-06-23 15:51:57,0.405s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""User/Page_Dashboard/Shareholder/UserListAll/input_Search_form-control form-control-sm""))",Chrome 114.0.0.0,,,2023-06-23 15:51:57,2023-06-23 15:51:58,0.438s,PASSED
+"verifyElementVisible(findTestObject(""User/Page_Dashboard/Shareholder/UserListAll/input_Search_form-control form-control-sm""))",Chrome 114.0.0.0,,,2023-06-23 15:51:58,2023-06-23 15:51:58,0.389s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""User/Page_Dashboard/Shareholder/UserListAll/th_No""))",Chrome 114.0.0.0,,,2023-06-23 15:51:58,2023-06-23 15:51:59,0.428s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""User/Page_Dashboard/Shareholder/UserListAll/th_Login Account""))",Chrome 114.0.0.0,,,2023-06-23 15:51:59,2023-06-23 15:51:59,0.460s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""User/Page_Dashboard/Shareholder/UserListAll/th_Full Name""))",Chrome 114.0.0.0,,,2023-06-23 15:51:59,2023-06-23 15:52:00,0.422s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""User/Page_Dashboard/Shareholder/UserListAll/th_Nickname""))",Chrome 114.0.0.0,,,2023-06-23 15:52:00,2023-06-23 15:52:00,0.444s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""User/Page_Dashboard/Shareholder/UserListAll/th_Currency""))",Chrome 114.0.0.0,,,2023-06-23 15:52:00,2023-06-23 15:52:00,0.433s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""User/Page_Dashboard/Shareholder/UserListAll/th_Role""))",Chrome 114.0.0.0,,,2023-06-23 15:52:00,2023-06-23 15:52:01,0.438s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""User/Page_Dashboard/Shareholder/UserListAll/th_Phone""))",Chrome 114.0.0.0,,,2023-06-23 15:52:01,2023-06-23 15:52:01,0.428s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""User/Page_Dashboard/Shareholder/UserListAll/th_Percentage""))",Chrome 114.0.0.0,,,2023-06-23 15:52:01,2023-06-23 15:52:02,0.436s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""User/Page_Dashboard/Shareholder/UserListAll/th_Status""))",Chrome 114.0.0.0,,,2023-06-23 15:52:02,2023-06-23 15:52:02,0.419s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""User/Page_Dashboard/Shareholder/UserListAll/th_Remarks""))",Chrome 114.0.0.0,,,2023-06-23 15:52:02,2023-06-23 15:52:03,0.434s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""User/Page_Dashboard/Shareholder/UserListAll/th_Cash""))",Chrome 114.0.0.0,,,2023-06-23 15:52:03,2023-06-23 15:52:03,0.436s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""User/Page_Dashboard/Shareholder/UserListAll/th_Password Otp""))",Chrome 114.0.0.0,,,2023-06-23 15:52:03,2023-06-23 15:52:03,0.441s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""User/Page_Dashboard/Shareholder/UserListAll/th_Phone Otp""))",Chrome 114.0.0.0,,,2023-06-23 15:52:03,2023-06-23 15:52:04,0.437s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""User/Page_Dashboard/Shareholder/UserListAll/th_Last login IP""))",Chrome 114.0.0.0,,,2023-06-23 15:52:04,2023-06-23 15:52:04,0.444s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""User/Page_Dashboard/Shareholder/UserListAll/th_Created Datetime""))",Chrome 114.0.0.0,,,2023-06-23 15:52:04,2023-06-23 15:52:05,0.436s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""User/Page_Dashboard/Shareholder/UserListAll/th_Last login time""))",Chrome 114.0.0.0,,,2023-06-23 15:52:05,2023-06-23 15:52:05,0.436s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""User/Page_Dashboard/Shareholder/UserListAll/th_App Type""))",Chrome 114.0.0.0,,,2023-06-23 15:52:05,2023-06-23 15:52:06,0.436s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""User/Page_Dashboard/Shareholder/UserListAll/th_Action""))",Chrome 114.0.0.0,,,2023-06-23 15:52:06,2023-06-23 15:52:06,0.437s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""User/Page_Dashboard/Shareholder/UserListAll/th_Upline""))",Chrome 114.0.0.0,,,2023-06-23 15:52:06,2023-06-23 15:52:06,0.452s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""User/Page_Dashboard/Shareholder/UserListAll/th_Main Line""))",Chrome 114.0.0.0,,,2023-06-23 15:52:06,2023-06-23 15:52:07,0.451s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""User/Page_Dashboard/Shareholder/UserListAll/tableUserList""))",Chrome 114.0.0.0,,,2023-06-23 15:52:07,2023-06-23 15:52:07,0.450s,PASSED
+"verifyElementVisible(findTestObject(""User/Page_Dashboard/Shareholder/UserListAll/th_No""))",Chrome 114.0.0.0,,,2023-06-23 15:52:07,2023-06-23 15:52:08,0.410s,PASSED
+"verifyElementVisible(findTestObject(""User/Page_Dashboard/Shareholder/UserListAll/th_Login Account""))",Chrome 114.0.0.0,,,2023-06-23 15:52:08,2023-06-23 15:52:08,0.364s,PASSED
+"verifyElementVisible(findTestObject(""User/Page_Dashboard/Shareholder/UserListAll/th_Full Name""))",Chrome 114.0.0.0,,,2023-06-23 15:52:08,2023-06-23 15:52:09,0.391s,PASSED
+"verifyElementVisible(findTestObject(""User/Page_Dashboard/Shareholder/UserListAll/th_Nickname""))",Chrome 114.0.0.0,,,2023-06-23 15:52:09,2023-06-23 15:52:09,0.389s,PASSED
+"verifyElementVisible(findTestObject(""User/Page_Dashboard/Shareholder/UserListAll/th_Currency""))",Chrome 114.0.0.0,,,2023-06-23 15:52:09,2023-06-23 15:52:09,0.385s,PASSED
+"verifyElementVisible(findTestObject(""User/Page_Dashboard/Shareholder/UserListAll/th_Role""))",Chrome 114.0.0.0,,,2023-06-23 15:52:09,2023-06-23 15:52:10,0.390s,PASSED
+"verifyElementVisible(findTestObject(""User/Page_Dashboard/Shareholder/UserListAll/th_Phone""))",Chrome 114.0.0.0,,,2023-06-23 15:52:10,2023-06-23 15:52:10,0.412s,PASSED
+"verifyElementVisible(findTestObject(""User/Page_Dashboard/Shareholder/UserListAll/th_Percentage""))",Chrome 114.0.0.0,,,2023-06-23 15:52:10,2023-06-23 15:52:11,0.377s,PASSED
+"verifyElementVisible(findTestObject(""User/Page_Dashboard/Shareholder/UserListAll/th_Status""))",Chrome 114.0.0.0,,,2023-06-23 15:52:11,2023-06-23 15:52:11,0.371s,PASSED
+"verifyElementVisible(findTestObject(""User/Page_Dashboard/Shareholder/UserListAll/th_Remarks""))",Chrome 114.0.0.0,,,2023-06-23 15:52:11,2023-06-23 15:52:11,0.404s,PASSED
+"verifyElementVisible(findTestObject(""User/Page_Dashboard/Shareholder/UserListAll/th_Cash""))",Chrome 114.0.0.0,,,2023-06-23 15:52:11,2023-06-23 15:52:12,0.406s,PASSED
+"verifyElementVisible(findTestObject(""User/Page_Dashboard/Shareholder/UserListAll/th_Password Otp""))",Chrome 114.0.0.0,,,2023-06-23 15:52:12,2023-06-23 15:52:12,0.408s,PASSED
+"verifyElementVisible(findTestObject(""User/Page_Dashboard/Shareholder/UserListAll/th_Phone Otp""))",Chrome 114.0.0.0,,,2023-06-23 15:52:12,2023-06-23 15:52:13,0.402s,PASSED
+"verifyElementVisible(findTestObject(""User/Page_Dashboard/Shareholder/UserListAll/th_Last login IP""))",Chrome 114.0.0.0,,,2023-06-23 15:52:13,2023-06-23 15:52:13,0.359s,PASSED
+"verifyElementVisible(findTestObject(""User/Page_Dashboard/Shareholder/UserListAll/th_Created Datetime""))",Chrome 114.0.0.0,,,2023-06-23 15:52:13,2023-06-23 15:52:13,0.382s,PASSED
+"verifyElementVisible(findTestObject(""User/Page_Dashboard/Shareholder/UserListAll/th_Last login time""))",Chrome 114.0.0.0,,,2023-06-23 15:52:13,2023-06-23 15:52:14,0.391s,PASSED
+"verifyElementVisible(findTestObject(""User/Page_Dashboard/Shareholder/UserListAll/th_App Type""))",Chrome 114.0.0.0,,,2023-06-23 15:52:14,2023-06-23 15:52:14,0.376s,PASSED
+"verifyElementVisible(findTestObject(""User/Page_Dashboard/Shareholder/UserListAll/th_Action""))",Chrome 114.0.0.0,,,2023-06-23 15:52:14,2023-06-23 15:52:14,0.393s,PASSED
+"verifyElementVisible(findTestObject(""User/Page_Dashboard/Shareholder/UserListAll/th_Upline""))",Chrome 114.0.0.0,,,2023-06-23 15:52:14,2023-06-23 15:52:15,0.396s,PASSED
+"verifyElementVisible(findTestObject(""User/Page_Dashboard/Shareholder/UserListAll/th_Main Line""))",Chrome 114.0.0.0,,,2023-06-23 15:52:15,2023-06-23 15:52:15,0.392s,PASSED
+"verifyElementVisible(findTestObject(""User/Page_Dashboard/Shareholder/UserListAll/tableUserList""))",Chrome 114.0.0.0,,,2023-06-23 15:52:15,2023-06-23 15:52:16,0.396s,PASSED
+,,,,,,,
+Test Cases/User/Shareholder/List RMB,Chrome 114.0.0.0,,,2023-06-23 15:52:16,2023-06-23 15:52:51,35.441s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""User/Page_Dashboard/Member/span_User""))",Chrome 114.0.0.0,,,2023-06-23 15:52:16,2023-06-23 15:52:17,0.442s,PASSED
+"mouseOver(findTestObject(""User/Page_Dashboard/Member/span_User""))",Chrome 114.0.0.0,,,2023-06-23 15:52:17,2023-06-23 15:52:17,0.651s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""User/Page_Dashboard/Shareholder/span_List""))",Chrome 114.0.0.0,,,2023-06-23 15:52:17,2023-06-23 15:52:18,0.464s,PASSED
+"mouseOver(findTestObject(""User/Page_Dashboard/Shareholder/span_List""))",Chrome 114.0.0.0,,,2023-06-23 15:52:18,2023-06-23 15:52:18,0.536s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""User/Page_Dashboard/Shareholder/UserListAll/span_RMB""))",Chrome 114.0.0.0,,,2023-06-23 15:52:18,2023-06-23 15:52:19,0.472s,PASSED
+"mouseOver(findTestObject(""User/Page_Dashboard/Shareholder/UserListAll/span_RMB""))",Chrome 114.0.0.0,,,2023-06-23 15:52:19,2023-06-23 15:52:19,0.540s,PASSED
+"click(findTestObject(""User/Page_Dashboard/Shareholder/UserListAll/span_RMB""))",Chrome 114.0.0.0,,,2023-06-23 15:52:19,2023-06-23 15:52:22,2.378s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""User/Page_Dashboard/Shareholder/UserListAll/h3_User List""))",Chrome 114.0.0.0,,,2023-06-23 15:52:22,2023-06-23 15:52:23,1.290s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""User/Page_Dashboard/Shareholder/UserListAll/input_Username_shareholder_username""))",Chrome 114.0.0.0,,,2023-06-23 15:52:23,2023-06-23 15:52:23,0.529s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""User/Page_Dashboard/Shareholder/UserListAll/input_MPU_member_product_username""))",Chrome 114.0.0.0,,,2023-06-23 15:52:23,2023-06-23 15:52:24,0.542s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""User/Page_Dashboard/Shareholder/UserListAll/selectLevel""))",Chrome 114.0.0.0,,,2023-06-23 15:52:24,2023-06-23 15:52:24,0.544s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""User/Page_Dashboard/Shareholder/UserListAll/selectWallet""))",Chrome 114.0.0.0,,,2023-06-23 15:52:24,2023-06-23 15:52:25,0.456s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""User/Page_Dashboard/Shareholder/UserListAll/button_Search""))",Chrome 114.0.0.0,,,2023-06-23 15:52:25,2023-06-23 15:52:25,0.551s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""User/Page_Dashboard/Shareholder/UserListAll/button_Create Shareholder""))",Chrome 114.0.0.0,,,2023-06-23 15:52:25,2023-06-23 15:52:26,0.434s,PASSED
+"verifyElementVisible(findTestObject(""User/Page_Dashboard/Shareholder/UserListAll/h3_User List""))",Chrome 114.0.0.0,,,2023-06-23 15:52:26,2023-06-23 15:52:26,0.501s,PASSED
+"verifyElementVisible(findTestObject(""User/Page_Dashboard/Shareholder/UserListAll/input_Username_shareholder_username""))",Chrome 114.0.0.0,,,2023-06-23 15:52:26,2023-06-23 15:52:27,0.388s,PASSED
+"verifyElementVisible(findTestObject(""User/Page_Dashboard/Shareholder/UserListAll/input_MPU_member_product_username""))",Chrome 114.0.0.0,,,2023-06-23 15:52:27,2023-06-23 15:52:27,0.390s,PASSED
+"verifyElementVisible(findTestObject(""User/Page_Dashboard/Shareholder/UserListAll/selectLevel""))",Chrome 114.0.0.0,,,2023-06-23 15:52:27,2023-06-23 15:52:28,0.376s,PASSED
+"verifyElementVisible(findTestObject(""User/Page_Dashboard/Shareholder/UserListAll/selectWallet""))",Chrome 114.0.0.0,,,2023-06-23 15:52:28,2023-06-23 15:52:28,0.384s,PASSED
+"verifyElementVisible(findTestObject(""User/Page_Dashboard/Shareholder/UserListAll/button_Search""))",Chrome 114.0.0.0,,,2023-06-23 15:52:28,2023-06-23 15:52:28,0.404s,PASSED
+"verifyElementVisible(findTestObject(""User/Page_Dashboard/Shareholder/UserListAll/button_Create Shareholder""))",Chrome 114.0.0.0,,,2023-06-23 15:52:28,2023-06-23 15:52:29,0.388s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""User/Page_Dashboard/Shareholder/UserListAll/select_102550100""))",Chrome 114.0.0.0,,,2023-06-23 15:52:29,2023-06-23 15:52:29,0.442s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""User/Page_Dashboard/Shareholder/UserListAll/span_Copy""))",Chrome 114.0.0.0,,,2023-06-23 15:52:29,2023-06-23 15:52:30,0.475s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""User/Page_Dashboard/Shareholder/UserListAll/span_CSV""))",Chrome 114.0.0.0,,,2023-06-23 15:52:30,2023-06-23 15:52:30,0.542s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""User/Page_Dashboard/Shareholder/UserListAll/span_Excel""))",Chrome 114.0.0.0,,,2023-06-23 15:52:30,2023-06-23 15:52:31,0.454s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""User/Page_Dashboard/Shareholder/UserListAll/span_PDF""))",Chrome 114.0.0.0,,,2023-06-23 15:52:31,2023-06-23 15:52:31,0.544s,PASSED
+"verifyElementVisible(findTestObject(""User/Page_Dashboard/Shareholder/UserListAll/span_Copy""))",Chrome 114.0.0.0,,,2023-06-23 15:52:31,2023-06-23 15:52:32,0.381s,PASSED
+"verifyElementVisible(findTestObject(""User/Page_Dashboard/Shareholder/UserListAll/span_CSV""))",Chrome 114.0.0.0,,,2023-06-23 15:52:32,2023-06-23 15:52:32,0.388s,PASSED
+"verifyElementVisible(findTestObject(""User/Page_Dashboard/Shareholder/UserListAll/span_Excel""))",Chrome 114.0.0.0,,,2023-06-23 15:52:32,2023-06-23 15:52:32,0.377s,PASSED
+"verifyElementVisible(findTestObject(""User/Page_Dashboard/Shareholder/UserListAll/span_PDF""))",Chrome 114.0.0.0,,,2023-06-23 15:52:32,2023-06-23 15:52:33,0.376s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""User/Page_Dashboard/Shareholder/UserListAll/input_Search_form-control form-control-sm""))",Chrome 114.0.0.0,,,2023-06-23 15:52:33,2023-06-23 15:52:33,0.431s,PASSED
+"verifyElementVisible(findTestObject(""User/Page_Dashboard/Shareholder/UserListAll/input_Search_form-control form-control-sm""))",Chrome 114.0.0.0,,,2023-06-23 15:52:33,2023-06-23 15:52:34,0.417s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""User/Page_Dashboard/Shareholder/UserListAll/th_No""))",Chrome 114.0.0.0,,,2023-06-23 15:52:34,2023-06-23 15:52:34,0.455s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""User/Page_Dashboard/Shareholder/UserListAll/th_Login Account""))",Chrome 114.0.0.0,,,2023-06-23 15:52:34,2023-06-23 15:52:35,0.483s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""User/Page_Dashboard/Shareholder/UserListAll/th_Full Name""))",Chrome 114.0.0.0,,,2023-06-23 15:52:35,2023-06-23 15:52:35,0.449s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""User/Page_Dashboard/Shareholder/UserListAll/th_Nickname""))",Chrome 114.0.0.0,,,2023-06-23 15:52:35,2023-06-23 15:52:35,0.420s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""User/Page_Dashboard/Shareholder/UserListAll/th_Currency""))",Chrome 114.0.0.0,,,2023-06-23 15:52:35,2023-06-23 15:52:36,0.422s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""User/Page_Dashboard/Shareholder/UserListAll/th_Role""))",Chrome 114.0.0.0,,,2023-06-23 15:52:36,2023-06-23 15:52:36,0.416s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""User/Page_Dashboard/Shareholder/UserListAll/th_Phone""))",Chrome 114.0.0.0,,,2023-06-23 15:52:36,2023-06-23 15:52:37,0.450s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""User/Page_Dashboard/Shareholder/UserListAll/th_Percentage""))",Chrome 114.0.0.0,,,2023-06-23 15:52:37,2023-06-23 15:52:37,0.433s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""User/Page_Dashboard/Shareholder/UserListAll/th_Status""))",Chrome 114.0.0.0,,,2023-06-23 15:52:37,2023-06-23 15:52:38,0.423s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""User/Page_Dashboard/Shareholder/UserListAll/th_Remarks""))",Chrome 114.0.0.0,,,2023-06-23 15:52:38,2023-06-23 15:52:38,0.442s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""User/Page_Dashboard/Shareholder/UserListAll/th_Cash""))",Chrome 114.0.0.0,,,2023-06-23 15:52:38,2023-06-23 15:52:38,0.433s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""User/Page_Dashboard/Shareholder/UserListAll/th_Password Otp""))",Chrome 114.0.0.0,,,2023-06-23 15:52:38,2023-06-23 15:52:39,0.435s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""User/Page_Dashboard/Shareholder/UserListAll/th_Phone Otp""))",Chrome 114.0.0.0,,,2023-06-23 15:52:39,2023-06-23 15:52:39,0.432s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""User/Page_Dashboard/Shareholder/UserListAll/th_Last login IP""))",Chrome 114.0.0.0,,,2023-06-23 15:52:39,2023-06-23 15:52:40,0.434s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""User/Page_Dashboard/Shareholder/UserListAll/th_Created Datetime""))",Chrome 114.0.0.0,,,2023-06-23 15:52:40,2023-06-23 15:52:40,0.440s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""User/Page_Dashboard/Shareholder/UserListAll/th_Last login time""))",Chrome 114.0.0.0,,,2023-06-23 15:52:40,2023-06-23 15:52:41,0.449s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""User/Page_Dashboard/Shareholder/UserListAll/th_App Type""))",Chrome 114.0.0.0,,,2023-06-23 15:52:41,2023-06-23 15:52:41,0.450s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""User/Page_Dashboard/Shareholder/UserListAll/th_Action""))",Chrome 114.0.0.0,,,2023-06-23 15:52:41,2023-06-23 15:52:42,0.479s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""User/Page_Dashboard/Shareholder/UserListAll/th_Upline""))",Chrome 114.0.0.0,,,2023-06-23 15:52:42,2023-06-23 15:52:42,0.436s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""User/Page_Dashboard/Shareholder/UserListAll/th_Main Line""))",Chrome 114.0.0.0,,,2023-06-23 15:52:42,2023-06-23 15:52:42,0.430s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""User/Page_Dashboard/Shareholder/UserListAll/tableUserList""))",Chrome 114.0.0.0,,,2023-06-23 15:52:42,2023-06-23 15:52:43,0.420s,PASSED
+"verifyElementVisible(findTestObject(""User/Page_Dashboard/Shareholder/UserListAll/th_No""))",Chrome 114.0.0.0,,,2023-06-23 15:52:43,2023-06-23 15:52:43,0.426s,PASSED
+"verifyElementVisible(findTestObject(""User/Page_Dashboard/Shareholder/UserListAll/th_Login Account""))",Chrome 114.0.0.0,,,2023-06-23 15:52:43,2023-06-23 15:52:44,0.391s,PASSED
+"verifyElementVisible(findTestObject(""User/Page_Dashboard/Shareholder/UserListAll/th_Full Name""))",Chrome 114.0.0.0,,,2023-06-23 15:52:44,2023-06-23 15:52:44,0.406s,PASSED
+"verifyElementVisible(findTestObject(""User/Page_Dashboard/Shareholder/UserListAll/th_Nickname""))",Chrome 114.0.0.0,,,2023-06-23 15:52:44,2023-06-23 15:52:44,0.405s,PASSED
+"verifyElementVisible(findTestObject(""User/Page_Dashboard/Shareholder/UserListAll/th_Currency""))",Chrome 114.0.0.0,,,2023-06-23 15:52:44,2023-06-23 15:52:45,0.382s,PASSED
+"verifyElementVisible(findTestObject(""User/Page_Dashboard/Shareholder/UserListAll/th_Role""))",Chrome 114.0.0.0,,,2023-06-23 15:52:45,2023-06-23 15:52:45,0.386s,PASSED
+"verifyElementVisible(findTestObject(""User/Page_Dashboard/Shareholder/UserListAll/th_Phone""))",Chrome 114.0.0.0,,,2023-06-23 15:52:45,2023-06-23 15:52:46,0.390s,PASSED
+"verifyElementVisible(findTestObject(""User/Page_Dashboard/Shareholder/UserListAll/th_Percentage""))",Chrome 114.0.0.0,,,2023-06-23 15:52:46,2023-06-23 15:52:46,0.400s,PASSED
+"verifyElementVisible(findTestObject(""User/Page_Dashboard/Shareholder/UserListAll/th_Status""))",Chrome 114.0.0.0,,,2023-06-23 15:52:46,2023-06-23 15:52:46,0.408s,PASSED
+"verifyElementVisible(findTestObject(""User/Page_Dashboard/Shareholder/UserListAll/th_Remarks""))",Chrome 114.0.0.0,,,2023-06-23 15:52:46,2023-06-23 15:52:47,0.422s,PASSED
+"verifyElementVisible(findTestObject(""User/Page_Dashboard/Shareholder/UserListAll/th_Cash""))",Chrome 114.0.0.0,,,2023-06-23 15:52:47,2023-06-23 15:52:47,0.374s,PASSED
+"verifyElementVisible(findTestObject(""User/Page_Dashboard/Shareholder/UserListAll/th_Password Otp""))",Chrome 114.0.0.0,,,2023-06-23 15:52:47,2023-06-23 15:52:48,0.381s,PASSED
+"verifyElementVisible(findTestObject(""User/Page_Dashboard/Shareholder/UserListAll/th_Phone Otp""))",Chrome 114.0.0.0,,,2023-06-23 15:52:48,2023-06-23 15:52:48,0.382s,PASSED
+"verifyElementVisible(findTestObject(""User/Page_Dashboard/Shareholder/UserListAll/th_Last login IP""))",Chrome 114.0.0.0,,,2023-06-23 15:52:48,2023-06-23 15:52:48,0.369s,PASSED
+"verifyElementVisible(findTestObject(""User/Page_Dashboard/Shareholder/UserListAll/th_Created Datetime""))",Chrome 114.0.0.0,,,2023-06-23 15:52:48,2023-06-23 15:52:49,0.372s,PASSED
+"verifyElementVisible(findTestObject(""User/Page_Dashboard/Shareholder/UserListAll/th_Last login time""))",Chrome 114.0.0.0,,,2023-06-23 15:52:49,2023-06-23 15:52:49,0.393s,PASSED
+"verifyElementVisible(findTestObject(""User/Page_Dashboard/Shareholder/UserListAll/th_App Type""))",Chrome 114.0.0.0,,,2023-06-23 15:52:49,2023-06-23 15:52:49,0.380s,PASSED
+"verifyElementVisible(findTestObject(""User/Page_Dashboard/Shareholder/UserListAll/th_Action""))",Chrome 114.0.0.0,,,2023-06-23 15:52:49,2023-06-23 15:52:50,0.404s,PASSED
+"verifyElementVisible(findTestObject(""User/Page_Dashboard/Shareholder/UserListAll/th_Upline""))",Chrome 114.0.0.0,,,2023-06-23 15:52:50,2023-06-23 15:52:50,0.391s,PASSED
+"verifyElementVisible(findTestObject(""User/Page_Dashboard/Shareholder/UserListAll/th_Main Line""))",Chrome 114.0.0.0,,,2023-06-23 15:52:50,2023-06-23 15:52:51,0.401s,PASSED
+"verifyElementVisible(findTestObject(""User/Page_Dashboard/Shareholder/UserListAll/tableUserList""))",Chrome 114.0.0.0,,,2023-06-23 15:52:51,2023-06-23 15:52:51,0.375s,PASSED

@@ -1,0 +1,249 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="Smoke" time="45.554" tests="7" failures="0" errors="0">
+   <testsuite name="Smoke" tests="7" failures="0" errors="0" time="45.554" skipped="0" timestamp="2023-06-14 16:30:22" hostname="hmacagba - PHPF1FXV0U.CSCMWS.CSCMWS.COM" id="Test Suites/Smoke">
+      <properties>
+         <property name="deviceName" value=""/>
+         <property name="devicePlatform" value=""/>
+         <property name="logFolder" value="C:\\Users\\hmacagba\\git\\AutomatedScripts\\Reports\\20230614_163013\\Smoke\\20230614_163013"/>
+         <property name="logFiles" value="C:\\Users\\hmacagba\\git\\AutomatedScripts\\Reports\\20230614_163013\\Smoke\\20230614_163013\\execution0.log"/>
+         <property name="attachments" value=""/>
+         <property name="hostName" value="hmacagba - PHPF1FXV0U.CSCMWS.CSCMWS.COM"/>
+         <property name="os" value="Windows 10 64bit"/>
+         <property name="katalonVersion" value="8.6.5.208"/>
+         <property name="browser" value="Chrome 114.0.0.0"/>
+         <property name="hostAddress" value="192.168.68.214"/>
+         <property name="sessionId" value="2a166f6bb210be204733e2a4c9f4bbbd"/>
+         <property name="seleniumVersion" value="3.141.59"/>
+         <property name="proxyInformation" value="ProxyInformation { proxyOption=NO_PROXY, proxyServerType=HTTP, username=, password=********, proxyServerAddress=, proxyServerPort=0, executionList=&quot;&quot;, isApplyToDesiredCapabilities=true }"/>
+         <property name="platform" value="Windows 10"/>
+      </properties>
+      <testcase name="Test Cases/User/Member/List" time="26.83" classname="Test Cases/User/Member/List" status="PASSED">
+         <system-out><![CDATA[2023-06-14 16:30:23 - [TEST_CASE][PASSED] - Test Cases/User/Member/List: Test Cases/User/Member/List
+
+2023-06-14 16:30:24 - [TEST_STEP][PASSED] - callTestCase(findTestCase("Login Admin"), [:], STOP_ON_FAILURE): Call Test Case 'Test Cases/Login Admin' successfully
+
+2023-06-14 16:30:24 - [TEST_CASE][PASSED] - Test Cases/Login Admin: Test Cases/Login Admin
+
+2023-06-14 16:30:25 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+2023-06-14 16:30:25 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+2023-06-14 16:30:25 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+2023-06-14 16:30:30 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+2023-06-14 16:30:30 - [TEST_STEP][PASSED] - maximizeWindow(): Current window maximized
+
+2023-06-14 16:30:30 - [MESSAGE][PASSED] - Current window maximized
+
+2023-06-14 16:30:30 - [TEST_STEP][PASSED] - navigateToUrl(URL): Navigate to 'http://admin.lkydev.site' successfully
+
+2023-06-14 16:30:34 - [MESSAGE][PASSED] - Navigate to 'http://admin.lkydev.site' successfully
+
+2023-06-14 16:30:34 - [TEST_STEP][PASSED] - verifyElementText(findTestObject("Object Repository/Login/Page_SUNCITY - Login/h3_Sign In To Admin System"), "Sign In To Admin System"): Actual text and expected text of test object 'Object Repository/Login/Page_SUNCITY - Login/h3_Sign In To Admin System' are matched.
+
+2023-06-14 16:30:35 - [MESSAGE][PASSED] - Actual text and expected text of test object 'Object Repository/Login/Page_SUNCITY - Login/h3_Sign In To Admin System' are matched.
+
+2023-06-14 16:30:35 - [TEST_STEP][PASSED] - com.reusableComponent.HighlightElement.run(findTestObject("Login/Page_SUNCITY - Login/h3_Sign In To Admin System")): com.reusableComponent.HighlightElement.run is PASSED
+
+2023-06-14 16:30:36 - [MESSAGE][PASSED] - com.reusableComponent.HighlightElement.run is PASSED
+
+2023-06-14 16:30:36 - [TEST_STEP][PASSED] - com.reusableComponent.HighlightElement.run(findTestObject("Login/Page_SUNCITY - Login/input_Sign In To Admin System_username")): com.reusableComponent.HighlightElement.run is PASSED
+
+2023-06-14 16:30:37 - [MESSAGE][PASSED] - com.reusableComponent.HighlightElement.run is PASSED
+
+2023-06-14 16:30:37 - [TEST_STEP][PASSED] - com.reusableComponent.HighlightElement.run(findTestObject("Login/Page_SUNCITY - Login/input_Sign In To Admin System_password")): com.reusableComponent.HighlightElement.run is PASSED
+
+2023-06-14 16:30:37 - [MESSAGE][PASSED] - com.reusableComponent.HighlightElement.run is PASSED
+
+2023-06-14 16:30:37 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/Login/Page_SUNCITY - Login/input_Sign In To Admin System_username"), Username): Text 'devbot' is set on object 'Object Repository/Login/Page_SUNCITY - Login/input_Sign In To Admin System_username'
+
+2023-06-14 16:30:38 - [MESSAGE][PASSED] - Text 'devbot' is set on object 'Object Repository/Login/Page_SUNCITY - Login/input_Sign In To Admin System_username'
+
+2023-06-14 16:30:38 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/Login/Page_SUNCITY - Login/input_Sign In To Admin System_password"), Password): Text '77889900' is set on object 'Object Repository/Login/Page_SUNCITY - Login/input_Sign In To Admin System_password'
+
+2023-06-14 16:30:39 - [MESSAGE][PASSED] - Text '77889900' is set on object 'Object Repository/Login/Page_SUNCITY - Login/input_Sign In To Admin System_password'
+
+2023-06-14 16:30:39 - [TEST_STEP][PASSED] - com.reusableComponent.HighlightElement.run(findTestObject("Login/Page_SUNCITY - Login/button_Next")): com.reusableComponent.HighlightElement.run is PASSED
+
+2023-06-14 16:30:40 - [MESSAGE][PASSED] - com.reusableComponent.HighlightElement.run is PASSED
+
+2023-06-14 16:30:40 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Login/Page_SUNCITY - Login/button_Next")): Object: 'Object Repository/Login/Page_SUNCITY - Login/button_Next' is clicked on
+
+2023-06-14 16:30:40 - [MESSAGE][PASSED] - Object: 'Object Repository/Login/Page_SUNCITY - Login/button_Next' is clicked on
+
+2023-06-14 16:30:40 - [TEST_STEP][PASSED] - com.reusableComponent.HighlightElement.run(findTestObject("Login/Page_SUNCITY - Login/input_Next_verificationCode")): com.reusableComponent.HighlightElement.run is PASSED
+
+2023-06-14 16:30:41 - [MESSAGE][PASSED] - com.reusableComponent.HighlightElement.run is PASSED
+
+2023-06-14 16:30:41 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/Login/Page_SUNCITY - Login/input_Next_verificationCode"), VerificationCode): Text '778899' is set on object 'Object Repository/Login/Page_SUNCITY - Login/input_Next_verificationCode'
+
+2023-06-14 16:30:42 - [MESSAGE][PASSED] - Text '778899' is set on object 'Object Repository/Login/Page_SUNCITY - Login/input_Next_verificationCode'
+
+2023-06-14 16:30:42 - [TEST_STEP][PASSED] - com.reusableComponent.HighlightElement.run(findTestObject("Login/Page_SUNCITY - Login/button_Sign In")): com.reusableComponent.HighlightElement.run is PASSED
+
+2023-06-14 16:30:43 - [MESSAGE][PASSED] - com.reusableComponent.HighlightElement.run is PASSED
+
+2023-06-14 16:30:43 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Login/Page_SUNCITY - Login/button_Sign In")): Object: 'Object Repository/Login/Page_SUNCITY - Login/button_Sign In' is clicked on
+
+2023-06-14 16:30:43 - [MESSAGE][PASSED] - Object: 'Object Repository/Login/Page_SUNCITY - Login/button_Sign In' is clicked on
+
+2023-06-14 16:30:43 - [TEST_STEP][PASSED] - com.reusableComponent.HighlightElement.run(findTestObject("Login/Page_Dashboard/h2_Login Success")): com.reusableComponent.HighlightElement.run is PASSED
+
+2023-06-14 16:30:46 - [MESSAGE][PASSED] - com.reusableComponent.HighlightElement.run is PASSED
+
+2023-06-14 16:30:46 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Login/Page_Dashboard/h2_Login Success")): Object: 'Object Repository/Login/Page_Dashboard/h2_Login Success' is clicked on
+
+2023-06-14 16:30:46 - [MESSAGE][PASSED] - Object: 'Object Repository/Login/Page_Dashboard/h2_Login Success' is clicked on
+
+2023-06-14 16:30:46 - [TEST_STEP][PASSED] - com.reusableComponent.HighlightElement.run(findTestObject("Login/Page_Dashboard/button_OK")): com.reusableComponent.HighlightElement.run is PASSED
+
+2023-06-14 16:30:47 - [MESSAGE][PASSED] - com.reusableComponent.HighlightElement.run is PASSED
+
+2023-06-14 16:30:47 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Login/Page_Dashboard/button_OK")): Object: 'Object Repository/Login/Page_Dashboard/button_OK' is clicked on
+
+2023-06-14 16:30:47 - [MESSAGE][PASSED] - Object: 'Object Repository/Login/Page_Dashboard/button_OK' is clicked on
+
+2023-06-14 16:30:47 - [MESSAGE][PASSED] - Call Test Case 'Test Cases/Login Admin' successfully
+
+2023-06-14 16:30:47 - [TEST_STEP][PASSED] - com.reusableComponent.HighlightElement.run(findTestObject("User/Page_Dashboard/Member/span_User")): com.reusableComponent.HighlightElement.run is PASSED
+
+2023-06-14 16:30:48 - [MESSAGE][PASSED] - com.reusableComponent.HighlightElement.run is PASSED
+
+2023-06-14 16:30:48 - [TEST_STEP][PASSED] - mouseOver(findTestObject("User/Page_Dashboard/Member/span_User")): Object: 'Object Repository/User/Page_Dashboard/Member/span_User' is hovered
+
+2023-06-14 16:30:49 - [MESSAGE][PASSED] - Object: 'Object Repository/User/Page_Dashboard/Member/span_User' is hovered
+
+2023-06-14 16:30:49 - [TEST_STEP][PASSED] - com.reusableComponent.HighlightElement.run(findTestObject("User/Page_Dashboard/Member/span_List")): com.reusableComponent.HighlightElement.run is PASSED
+
+2023-06-14 16:30:49 - [MESSAGE][PASSED] - com.reusableComponent.HighlightElement.run is PASSED
+
+2023-06-14 16:30:49 - [TEST_STEP][PASSED] - mouseOver(findTestObject("User/Page_Dashboard/Member/span_List")): Object: 'Object Repository/User/Page_Dashboard/Member/span_List' is hovered
+
+2023-06-14 16:30:50 - [MESSAGE][PASSED] - Object: 'Object Repository/User/Page_Dashboard/Member/span_List' is hovered]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/User/Member/Limited List" time="2.796" classname="Test Cases/User/Member/Limited List" status="PASSED">
+         <system-out><![CDATA[2023-06-14 16:30:50 - [TEST_CASE][PASSED] - Test Cases/User/Member/Limited List: Test Cases/User/Member/Limited List
+
+2023-06-14 16:30:50 - [TEST_STEP][PASSED] - com.reusableComponent.HighlightElement.run(findTestObject("User/Page_Dashboard/Member/span_User")): com.reusableComponent.HighlightElement.run is PASSED
+
+2023-06-14 16:30:51 - [MESSAGE][PASSED] - com.reusableComponent.HighlightElement.run is PASSED
+
+2023-06-14 16:30:51 - [TEST_STEP][PASSED] - mouseOver(findTestObject("User/Page_Dashboard/Member/span_User")): Object: 'Object Repository/User/Page_Dashboard/Member/span_User' is hovered
+
+2023-06-14 16:30:51 - [MESSAGE][PASSED] - Object: 'Object Repository/User/Page_Dashboard/Member/span_User' is hovered
+
+2023-06-14 16:30:51 - [TEST_STEP][PASSED] - com.reusableComponent.HighlightElement.run(findTestObject("User/Page_Dashboard/Member/span_Limited List")): com.reusableComponent.HighlightElement.run is PASSED
+
+2023-06-14 16:30:52 - [MESSAGE][PASSED] - com.reusableComponent.HighlightElement.run is PASSED
+
+2023-06-14 16:30:52 - [TEST_STEP][PASSED] - mouseOver(findTestObject("User/Page_Dashboard/Member/span_Limited List")): Object: 'Object Repository/User/Page_Dashboard/Member/span_Limited List' is hovered
+
+2023-06-14 16:30:52 - [MESSAGE][PASSED] - Object: 'Object Repository/User/Page_Dashboard/Member/span_Limited List' is hovered]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/User/Member/Search" time="2.676" classname="Test Cases/User/Member/Search" status="PASSED">
+         <system-out><![CDATA[2023-06-14 16:30:52 - [TEST_CASE][PASSED] - Test Cases/User/Member/Search: Test Cases/User/Member/Search
+
+2023-06-14 16:30:53 - [TEST_STEP][PASSED] - com.reusableComponent.HighlightElement.run(findTestObject("User/Page_Dashboard/Member/span_User")): com.reusableComponent.HighlightElement.run is PASSED
+
+2023-06-14 16:30:54 - [MESSAGE][PASSED] - com.reusableComponent.HighlightElement.run is PASSED
+
+2023-06-14 16:30:54 - [TEST_STEP][PASSED] - mouseOver(findTestObject("User/Page_Dashboard/Member/span_User")): Object: 'Object Repository/User/Page_Dashboard/Member/span_User' is hovered
+
+2023-06-14 16:30:54 - [MESSAGE][PASSED] - Object: 'Object Repository/User/Page_Dashboard/Member/span_User' is hovered
+
+2023-06-14 16:30:54 - [TEST_STEP][PASSED] - com.reusableComponent.HighlightElement.run(findTestObject("User/Page_Dashboard/Member/span_Search")): com.reusableComponent.HighlightElement.run is PASSED
+
+2023-06-14 16:30:55 - [MESSAGE][PASSED] - com.reusableComponent.HighlightElement.run is PASSED
+
+2023-06-14 16:30:55 - [TEST_STEP][PASSED] - mouseOver(findTestObject("User/Page_Dashboard/Member/span_Search")): Object: 'Object Repository/User/Page_Dashboard/Member/span_Search' is hovered
+
+2023-06-14 16:30:55 - [MESSAGE][PASSED] - Object: 'Object Repository/User/Page_Dashboard/Member/span_Search' is hovered]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/User/Member/Wallet Negative" time="2.78" classname="Test Cases/User/Member/Wallet Negative" status="PASSED">
+         <system-out><![CDATA[2023-06-14 16:30:55 - [TEST_CASE][PASSED] - Test Cases/User/Member/Wallet Negative: Test Cases/User/Member/Wallet Negative
+
+2023-06-14 16:30:56 - [TEST_STEP][PASSED] - com.reusableComponent.HighlightElement.run(findTestObject("User/Page_Dashboard/Member/span_User")): com.reusableComponent.HighlightElement.run is PASSED
+
+2023-06-14 16:30:56 - [MESSAGE][PASSED] - com.reusableComponent.HighlightElement.run is PASSED
+
+2023-06-14 16:30:56 - [TEST_STEP][PASSED] - mouseOver(findTestObject("User/Page_Dashboard/Member/span_User")): Object: 'Object Repository/User/Page_Dashboard/Member/span_User' is hovered
+
+2023-06-14 16:30:57 - [MESSAGE][PASSED] - Object: 'Object Repository/User/Page_Dashboard/Member/span_User' is hovered
+
+2023-06-14 16:30:57 - [TEST_STEP][PASSED] - com.reusableComponent.HighlightElement.run(findTestObject("User/Page_Dashboard/Member/span_Wallet Negative")): com.reusableComponent.HighlightElement.run is PASSED
+
+2023-06-14 16:30:57 - [MESSAGE][PASSED] - com.reusableComponent.HighlightElement.run is PASSED
+
+2023-06-14 16:30:57 - [TEST_STEP][PASSED] - mouseOver(findTestObject("User/Page_Dashboard/Member/span_Wallet Negative")): Object: 'Object Repository/User/Page_Dashboard/Member/span_Wallet Negative' is hovered
+
+2023-06-14 16:30:58 - [MESSAGE][PASSED] - Object: 'Object Repository/User/Page_Dashboard/Member/span_Wallet Negative' is hovered]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/User/Member/Wallet Positive" time="2.967" classname="Test Cases/User/Member/Wallet Positive" status="PASSED">
+         <system-out><![CDATA[2023-06-14 16:30:58 - [TEST_CASE][PASSED] - Test Cases/User/Member/Wallet Positive: Test Cases/User/Member/Wallet Positive
+
+2023-06-14 16:30:59 - [TEST_STEP][PASSED] - com.reusableComponent.HighlightElement.run(findTestObject("User/Page_Dashboard/Member/span_User")): com.reusableComponent.HighlightElement.run is PASSED
+
+2023-06-14 16:30:59 - [MESSAGE][PASSED] - com.reusableComponent.HighlightElement.run is PASSED
+
+2023-06-14 16:30:59 - [TEST_STEP][PASSED] - mouseOver(findTestObject("User/Page_Dashboard/Member/span_User")): Object: 'Object Repository/User/Page_Dashboard/Member/span_User' is hovered
+
+2023-06-14 16:31:00 - [MESSAGE][PASSED] - Object: 'Object Repository/User/Page_Dashboard/Member/span_User' is hovered
+
+2023-06-14 16:31:00 - [TEST_STEP][PASSED] - com.reusableComponent.HighlightElement.run(findTestObject("User/Page_Dashboard/Member/span_Wallet Positive")): com.reusableComponent.HighlightElement.run is PASSED
+
+2023-06-14 16:31:00 - [MESSAGE][PASSED] - com.reusableComponent.HighlightElement.run is PASSED
+
+2023-06-14 16:31:00 - [TEST_STEP][PASSED] - mouseOver(findTestObject("User/Page_Dashboard/Member/span_Wallet Positive")): Object: 'Object Repository/User/Page_Dashboard/Member/span_Wallet Positive' is hovered
+
+2023-06-14 16:31:01 - [MESSAGE][PASSED] - Object: 'Object Repository/User/Page_Dashboard/Member/span_Wallet Positive' is hovered]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/User/Member/Tracking" time="2.61" classname="Test Cases/User/Member/Tracking" status="PASSED">
+         <system-out><![CDATA[2023-06-14 16:31:01 - [TEST_CASE][PASSED] - Test Cases/User/Member/Tracking: Test Cases/User/Member/Tracking
+
+2023-06-14 16:31:02 - [TEST_STEP][PASSED] - com.reusableComponent.HighlightElement.run(findTestObject("User/Page_Dashboard/Member/span_User")): com.reusableComponent.HighlightElement.run is PASSED
+
+2023-06-14 16:31:02 - [MESSAGE][PASSED] - com.reusableComponent.HighlightElement.run is PASSED
+
+2023-06-14 16:31:02 - [TEST_STEP][PASSED] - mouseOver(findTestObject("User/Page_Dashboard/Member/span_User")): Object: 'Object Repository/User/Page_Dashboard/Member/span_User' is hovered
+
+2023-06-14 16:31:03 - [MESSAGE][PASSED] - Object: 'Object Repository/User/Page_Dashboard/Member/span_User' is hovered
+
+2023-06-14 16:31:03 - [TEST_STEP][PASSED] - com.reusableComponent.HighlightElement.run(findTestObject("User/Page_Dashboard/Member/span_Tracking")): com.reusableComponent.HighlightElement.run is PASSED
+
+2023-06-14 16:31:03 - [MESSAGE][PASSED] - com.reusableComponent.HighlightElement.run is PASSED
+
+2023-06-14 16:31:03 - [TEST_STEP][PASSED] - mouseOver(findTestObject("User/Page_Dashboard/Member/span_Tracking")): Object: 'Object Repository/User/Page_Dashboard/Member/span_Tracking' is hovered
+
+2023-06-14 16:31:04 - [MESSAGE][PASSED] - Object: 'Object Repository/User/Page_Dashboard/Member/span_Tracking' is hovered]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/User/Member/Duplicate IP Logins" time="4.358" classname="Test Cases/User/Member/Duplicate IP Logins" status="PASSED">
+         <system-out><![CDATA[2023-06-14 16:31:04 - [TEST_CASE][PASSED] - Test Cases/User/Member/Duplicate IP Logins: Test Cases/User/Member/Duplicate IP Logins
+
+2023-06-14 16:31:05 - [TEST_STEP][PASSED] - com.reusableComponent.HighlightElement.run(findTestObject("User/Page_Dashboard/Member/span_User")): com.reusableComponent.HighlightElement.run is PASSED
+
+2023-06-14 16:31:06 - [MESSAGE][PASSED] - com.reusableComponent.HighlightElement.run is PASSED
+
+2023-06-14 16:31:06 - [TEST_STEP][PASSED] - mouseOver(findTestObject("User/Page_Dashboard/Member/span_User")): Object: 'Object Repository/User/Page_Dashboard/Member/span_User' is hovered
+
+2023-06-14 16:31:07 - [MESSAGE][PASSED] - Object: 'Object Repository/User/Page_Dashboard/Member/span_User' is hovered
+
+2023-06-14 16:31:07 - [TEST_STEP][PASSED] - com.reusableComponent.HighlightElement.run(findTestObject("User/Page_Dashboard/Member/span_Duplicate IP Logins")): com.reusableComponent.HighlightElement.run is PASSED
+
+2023-06-14 16:31:07 - [MESSAGE][PASSED] - com.reusableComponent.HighlightElement.run is PASSED
+
+2023-06-14 16:31:07 - [TEST_STEP][PASSED] - mouseOver(findTestObject("User/Page_Dashboard/Member/span_Duplicate IP Logins")): Object: 'Object Repository/User/Page_Dashboard/Member/span_Duplicate IP Logins' is hovered
+
+2023-06-14 16:31:08 - [MESSAGE][PASSED] - Object: 'Object Repository/User/Page_Dashboard/Member/span_Duplicate IP Logins' is hovered]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <system-out><![CDATA[2023-06-14 16:30:22 - [TEST_SUITE][PASSED] - Smoke: Test Cases/User/Member/Duplicate IP Logins]]></system-out>
+      <system-err><![CDATA[]]></system-err>
+   </testsuite>
+</testsuites>

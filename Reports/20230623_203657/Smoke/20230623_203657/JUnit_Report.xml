@@ -1,0 +1,1935 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="Smoke" time="372.954" tests="12" failures="0" errors="0">
+   <testsuite name="Smoke" tests="12" failures="0" errors="0" time="372.954" skipped="0" timestamp="2023-06-23 20:37:09" hostname="hmacagba - PHPF1FXV0U.CSCMWS.CSCMWS.COM" id="Test Suites/Smoke">
+      <properties>
+         <property name="deviceName" value=""/>
+         <property name="devicePlatform" value=""/>
+         <property name="logFolder" value="C:\\Users\\hmacagba\\git\\AutomatedScripts\\Reports\\20230623_203657\\Smoke\\20230623_203657"/>
+         <property name="logFiles" value="C:\\Users\\hmacagba\\git\\AutomatedScripts\\Reports\\20230623_203657\\Smoke\\20230623_203657\\execution0.log"/>
+         <property name="attachments" value=""/>
+         <property name="hostName" value="hmacagba - PHPF1FXV0U.CSCMWS.CSCMWS.COM"/>
+         <property name="os" value="Windows 10 64bit"/>
+         <property name="katalonVersion" value="8.6.5.208"/>
+         <property name="browser" value="Chrome 114.0.0.0"/>
+         <property name="hostAddress" value="192.168.68.107"/>
+         <property name="sessionId" value="0dcba87b2b3a3ab507698afee43d176e"/>
+         <property name="seleniumVersion" value="3.141.59"/>
+         <property name="proxyInformation" value="ProxyInformation { proxyOption=NO_PROXY, proxyServerType=HTTP, username=, password=********, proxyServerAddress=, proxyServerPort=0, executionList=&quot;&quot;, isApplyToDesiredCapabilities=true }"/>
+         <property name="platform" value="Windows 10"/>
+      </properties>
+      <testcase name="Test Cases/User/Shareholder/Negative Wallet MYR" time="48.906" classname="Test Cases/User/Shareholder/Negative Wallet MYR" status="PASSED">
+         <system-out><![CDATA[2023-06-23 20:37:10 - [TEST_CASE][PASSED] - Test Cases/User/Shareholder/Negative Wallet MYR: Test Cases/User/Shareholder/Negative Wallet MYR
+
+2023-06-23 20:37:11 - [TEST_STEP][PASSED] - callTestCase(findTestCase("Login Admin"), [:], STOP_ON_FAILURE): Call Test Case 'Test Cases/Login Admin' successfully
+
+2023-06-23 20:37:11 - [TEST_CASE][PASSED] - Test Cases/Login Admin: Test Cases/Login Admin
+
+2023-06-23 20:37:12 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+2023-06-23 20:37:13 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+2023-06-23 20:37:13 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+2023-06-23 20:37:19 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+2023-06-23 20:37:19 - [TEST_STEP][PASSED] - maximizeWindow(): Current window maximized
+
+2023-06-23 20:37:19 - [MESSAGE][PASSED] - Current window maximized
+
+2023-06-23 20:37:19 - [TEST_STEP][PASSED] - navigateToUrl(URL): Navigate to 'http://admin.lkydev.site' successfully
+
+2023-06-23 20:37:23 - [MESSAGE][PASSED] - Navigate to 'http://admin.lkydev.site' successfully
+
+2023-06-23 20:37:23 - [TEST_STEP][PASSED] - verifyElementText(findTestObject("Object Repository/Login/Page_SUNCITY - Login/h3_Sign In To Admin System"), "Sign In To Admin System"): Actual text and expected text of test object 'Object Repository/Login/Page_SUNCITY - Login/h3_Sign In To Admin System' are matched.
+
+2023-06-23 20:37:24 - [MESSAGE][PASSED] - Actual text and expected text of test object 'Object Repository/Login/Page_SUNCITY - Login/h3_Sign In To Admin System' are matched.
+
+2023-06-23 20:37:24 - [TEST_STEP][PASSED] - com.reusableComponent.HighlightElement.run(findTestObject("Login/Page_SUNCITY - Login/h3_Sign In To Admin System")): com.reusableComponent.HighlightElement.run is PASSED
+
+2023-06-23 20:37:24 - [MESSAGE][PASSED] - com.reusableComponent.HighlightElement.run is PASSED
+
+2023-06-23 20:37:24 - [TEST_STEP][PASSED] - com.reusableComponent.HighlightElement.run(findTestObject("Login/Page_SUNCITY - Login/input_Sign In To Admin System_username")): com.reusableComponent.HighlightElement.run is PASSED
+
+2023-06-23 20:37:25 - [MESSAGE][PASSED] - com.reusableComponent.HighlightElement.run is PASSED
+
+2023-06-23 20:37:25 - [TEST_STEP][PASSED] - com.reusableComponent.HighlightElement.run(findTestObject("Login/Page_SUNCITY - Login/input_Sign In To Admin System_password")): com.reusableComponent.HighlightElement.run is PASSED
+
+2023-06-23 20:37:25 - [MESSAGE][PASSED] - com.reusableComponent.HighlightElement.run is PASSED
+
+2023-06-23 20:37:25 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/Login/Page_SUNCITY - Login/input_Sign In To Admin System_username"), Username): Text 'devbot' is set on object 'Object Repository/Login/Page_SUNCITY - Login/input_Sign In To Admin System_username'
+
+2023-06-23 20:37:27 - [MESSAGE][PASSED] - Text 'devbot' is set on object 'Object Repository/Login/Page_SUNCITY - Login/input_Sign In To Admin System_username'
+
+2023-06-23 20:37:27 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/Login/Page_SUNCITY - Login/input_Sign In To Admin System_password"), Password): Text '77889900' is set on object 'Object Repository/Login/Page_SUNCITY - Login/input_Sign In To Admin System_password'
+
+2023-06-23 20:37:28 - [MESSAGE][PASSED] - Text '77889900' is set on object 'Object Repository/Login/Page_SUNCITY - Login/input_Sign In To Admin System_password'
+
+2023-06-23 20:37:28 - [TEST_STEP][PASSED] - com.reusableComponent.HighlightElement.run(findTestObject("Login/Page_SUNCITY - Login/button_Next")): com.reusableComponent.HighlightElement.run is PASSED
+
+2023-06-23 20:37:28 - [MESSAGE][PASSED] - com.reusableComponent.HighlightElement.run is PASSED
+
+2023-06-23 20:37:28 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Login/Page_SUNCITY - Login/button_Next")): Object: 'Object Repository/Login/Page_SUNCITY - Login/button_Next' is clicked on
+
+2023-06-23 20:37:29 - [MESSAGE][PASSED] - Object: 'Object Repository/Login/Page_SUNCITY - Login/button_Next' is clicked on
+
+2023-06-23 20:37:29 - [TEST_STEP][PASSED] - com.reusableComponent.HighlightElement.run(findTestObject("Login/Page_SUNCITY - Login/input_Next_verificationCode")): com.reusableComponent.HighlightElement.run is PASSED
+
+2023-06-23 20:37:30 - [MESSAGE][PASSED] - com.reusableComponent.HighlightElement.run is PASSED
+
+2023-06-23 20:37:30 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/Login/Page_SUNCITY - Login/input_Next_verificationCode"), VerificationCode): Text '778899' is set on object 'Object Repository/Login/Page_SUNCITY - Login/input_Next_verificationCode'
+
+2023-06-23 20:37:31 - [MESSAGE][PASSED] - Text '778899' is set on object 'Object Repository/Login/Page_SUNCITY - Login/input_Next_verificationCode'
+
+2023-06-23 20:37:31 - [TEST_STEP][PASSED] - com.reusableComponent.HighlightElement.run(findTestObject("Login/Page_SUNCITY - Login/button_Sign In")): com.reusableComponent.HighlightElement.run is PASSED
+
+2023-06-23 20:37:32 - [MESSAGE][PASSED] - com.reusableComponent.HighlightElement.run is PASSED
+
+2023-06-23 20:37:32 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Login/Page_SUNCITY - Login/button_Sign In")): Object: 'Object Repository/Login/Page_SUNCITY - Login/button_Sign In' is clicked on
+
+2023-06-23 20:37:32 - [MESSAGE][PASSED] - Object: 'Object Repository/Login/Page_SUNCITY - Login/button_Sign In' is clicked on
+
+2023-06-23 20:37:32 - [TEST_STEP][PASSED] - com.reusableComponent.HighlightElement.run(findTestObject("Login/Page_Dashboard/h2_Login Success")): com.reusableComponent.HighlightElement.run is PASSED
+
+2023-06-23 20:37:35 - [MESSAGE][PASSED] - com.reusableComponent.HighlightElement.run is PASSED
+
+2023-06-23 20:37:35 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Login/Page_Dashboard/h2_Login Success")): Object: 'Object Repository/Login/Page_Dashboard/h2_Login Success' is clicked on
+
+2023-06-23 20:37:36 - [MESSAGE][PASSED] - Object: 'Object Repository/Login/Page_Dashboard/h2_Login Success' is clicked on
+
+2023-06-23 20:37:36 - [TEST_STEP][PASSED] - com.reusableComponent.HighlightElement.run(findTestObject("Login/Page_Dashboard/button_OK")): com.reusableComponent.HighlightElement.run is PASSED
+
+2023-06-23 20:37:36 - [MESSAGE][PASSED] - com.reusableComponent.HighlightElement.run is PASSED
+
+2023-06-23 20:37:36 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Login/Page_Dashboard/button_OK")): Object: 'Object Repository/Login/Page_Dashboard/button_OK' is clicked on
+
+2023-06-23 20:37:37 - [MESSAGE][PASSED] - Object: 'Object Repository/Login/Page_Dashboard/button_OK' is clicked on
+
+2023-06-23 20:37:37 - [MESSAGE][PASSED] - Call Test Case 'Test Cases/Login Admin' successfully
+
+2023-06-23 20:37:37 - [TEST_STEP][PASSED] - com.reusableComponent.HighlightElement.run(findTestObject("User/Page_Dashboard/Member/span_User")): com.reusableComponent.HighlightElement.run is PASSED
+
+2023-06-23 20:37:38 - [MESSAGE][PASSED] - com.reusableComponent.HighlightElement.run is PASSED
+
+2023-06-23 20:37:38 - [TEST_STEP][PASSED] - mouseOver(findTestObject("User/Page_Dashboard/Member/span_User")): Object: 'Object Repository/User/Page_Dashboard/Member/span_User' is hovered
+
+2023-06-23 20:37:38 - [MESSAGE][PASSED] - Object: 'Object Repository/User/Page_Dashboard/Member/span_User' is hovered
+
+2023-06-23 20:37:38 - [TEST_STEP][PASSED] - com.reusableComponent.HighlightElement.run(findTestObject("User/Page_Dashboard/Shareholder/span_Negative Wallet")): com.reusableComponent.HighlightElement.run is PASSED
+
+2023-06-23 20:37:39 - [MESSAGE][PASSED] - com.reusableComponent.HighlightElement.run is PASSED
+
+2023-06-23 20:37:39 - [TEST_STEP][PASSED] - mouseOver(findTestObject("User/Page_Dashboard/Shareholder/span_Negative Wallet")): Object: 'Object Repository/User/Page_Dashboard/Shareholder/span_Negative Wallet' is hovered
+
+2023-06-23 20:37:40 - [MESSAGE][PASSED] - Object: 'Object Repository/User/Page_Dashboard/Shareholder/span_Negative Wallet' is hovered
+
+2023-06-23 20:37:40 - [TEST_STEP][PASSED] - com.reusableComponent.HighlightElement.run(findTestObject("User/Page_Dashboard/Shareholder/Negative Wallet/span_MYR")): com.reusableComponent.HighlightElement.run is PASSED
+
+2023-06-23 20:37:40 - [MESSAGE][PASSED] - com.reusableComponent.HighlightElement.run is PASSED
+
+2023-06-23 20:37:40 - [TEST_STEP][PASSED] - mouseOver(findTestObject("User/Page_Dashboard/Shareholder/Negative Wallet/span_MYR")): Object: 'Object Repository/User/Page_Dashboard/Shareholder/Negative Wallet/span_MYR' is hovered
+
+2023-06-23 20:37:41 - [MESSAGE][PASSED] - Object: 'Object Repository/User/Page_Dashboard/Shareholder/Negative Wallet/span_MYR' is hovered
+
+2023-06-23 20:37:41 - [TEST_STEP][PASSED] - click(findTestObject("User/Page_Dashboard/Shareholder/Negative Wallet/span_MYR")): Object: 'Object Repository/User/Page_Dashboard/Shareholder/Negative Wallet/span_MYR' is clicked on
+
+2023-06-23 20:37:43 - [MESSAGE][PASSED] - Object: 'Object Repository/User/Page_Dashboard/Shareholder/Negative Wallet/span_MYR' is clicked on
+
+2023-06-23 20:37:43 - [TEST_STEP][PASSED] - waitForElementVisible(findTestObject("User/Page_Dashboard/Shareholder/Negative Wallet/h3_Shareholder Negative Report"), 0): Object 'Object Repository/User/Page_Dashboard/Shareholder/Negative Wallet/h3_Shareholder Negative Report' is visible
+
+2023-06-23 20:37:44 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+2023-06-23 20:37:45 - [MESSAGE][PASSED] - Object 'Object Repository/User/Page_Dashboard/Shareholder/Negative Wallet/h3_Shareholder Negative Report' is visible
+
+2023-06-23 20:37:45 - [TEST_STEP][PASSED] - com.reusableComponent.HighlightElement.run(findTestObject("User/Page_Dashboard/Shareholder/Negative Wallet/h3_Shareholder Negative Report")): com.reusableComponent.HighlightElement.run is PASSED
+
+2023-06-23 20:37:46 - [MESSAGE][PASSED] - com.reusableComponent.HighlightElement.run is PASSED
+
+2023-06-23 20:37:46 - [TEST_STEP][PASSED] - verifyElementVisible(findTestObject("User/Page_Dashboard/Shareholder/Negative Wallet/h3_Shareholder Negative Report")): Object 'Object Repository/User/Page_Dashboard/Shareholder/Negative Wallet/h3_Shareholder Negative Report' is visible
+
+2023-06-23 20:37:46 - [MESSAGE][PASSED] - Object 'Object Repository/User/Page_Dashboard/Shareholder/Negative Wallet/h3_Shareholder Negative Report' is visible
+
+2023-06-23 20:37:46 - [TEST_STEP][PASSED] - com.reusableComponent.HighlightElement.run(findTestObject("User/Page_Dashboard/Shareholder/Negative Wallet/select_1050100200All")): com.reusableComponent.HighlightElement.run is PASSED
+
+2023-06-23 20:37:47 - [MESSAGE][PASSED] - com.reusableComponent.HighlightElement.run is PASSED
+
+2023-06-23 20:37:47 - [TEST_STEP][PASSED] - com.reusableComponent.HighlightElement.run(findTestObject("User/Page_Dashboard/Shareholder/Negative Wallet/span_Copy")): com.reusableComponent.HighlightElement.run is PASSED
+
+2023-06-23 20:37:47 - [MESSAGE][PASSED] - com.reusableComponent.HighlightElement.run is PASSED
+
+2023-06-23 20:37:47 - [TEST_STEP][PASSED] - com.reusableComponent.HighlightElement.run(findTestObject("User/Page_Dashboard/Shareholder/Negative Wallet/span_CSV")): com.reusableComponent.HighlightElement.run is PASSED
+
+2023-06-23 20:37:48 - [MESSAGE][PASSED] - com.reusableComponent.HighlightElement.run is PASSED
+
+2023-06-23 20:37:48 - [TEST_STEP][PASSED] - com.reusableComponent.HighlightElement.run(findTestObject("User/Page_Dashboard/Shareholder/Negative Wallet/span_Excel")): com.reusableComponent.HighlightElement.run is PASSED
+
+2023-06-23 20:37:48 - [MESSAGE][PASSED] - com.reusableComponent.HighlightElement.run is PASSED
+
+2023-06-23 20:37:48 - [TEST_STEP][PASSED] - com.reusableComponent.HighlightElement.run(findTestObject("User/Page_Dashboard/Shareholder/Negative Wallet/span_PDF")): com.reusableComponent.HighlightElement.run is PASSED
+
+2023-06-23 20:37:49 - [MESSAGE][PASSED] - com.reusableComponent.HighlightElement.run is PASSED
+
+2023-06-23 20:37:49 - [TEST_STEP][PASSED] - verifyElementVisible(findTestObject("User/Page_Dashboard/Shareholder/Negative Wallet/select_1050100200All")): Object 'Object Repository/User/Page_Dashboard/Shareholder/Negative Wallet/select_1050100200All' is visible
+
+2023-06-23 20:37:49 - [MESSAGE][PASSED] - Object 'Object Repository/User/Page_Dashboard/Shareholder/Negative Wallet/select_1050100200All' is visible
+
+2023-06-23 20:37:49 - [TEST_STEP][PASSED] - verifyElementVisible(findTestObject("User/Page_Dashboard/Shareholder/Negative Wallet/span_Copy")): Object 'Object Repository/User/Page_Dashboard/Shareholder/Negative Wallet/span_Copy' is visible
+
+2023-06-23 20:37:50 - [MESSAGE][PASSED] - Object 'Object Repository/User/Page_Dashboard/Shareholder/Negative Wallet/span_Copy' is visible
+
+2023-06-23 20:37:50 - [TEST_STEP][PASSED] - verifyElementVisible(findTestObject("User/Page_Dashboard/Shareholder/Negative Wallet/span_CSV")): Object 'Object Repository/User/Page_Dashboard/Shareholder/Negative Wallet/span_CSV' is visible
+
+2023-06-23 20:37:50 - [MESSAGE][PASSED] - Object 'Object Repository/User/Page_Dashboard/Shareholder/Negative Wallet/span_CSV' is visible
+
+2023-06-23 20:37:50 - [TEST_STEP][PASSED] - verifyElementVisible(findTestObject("User/Page_Dashboard/Shareholder/Negative Wallet/span_Excel")): Object 'Object Repository/User/Page_Dashboard/Shareholder/Negative Wallet/span_Excel' is visible
+
+2023-06-23 20:37:50 - [MESSAGE][PASSED] - Object 'Object Repository/User/Page_Dashboard/Shareholder/Negative Wallet/span_Excel' is visible
+
+2023-06-23 20:37:50 - [TEST_STEP][PASSED] - verifyElementVisible(findTestObject("User/Page_Dashboard/Shareholder/Negative Wallet/span_PDF")): Object 'Object Repository/User/Page_Dashboard/Shareholder/Negative Wallet/span_PDF' is visible
+
+2023-06-23 20:37:51 - [MESSAGE][PASSED] - Object 'Object Repository/User/Page_Dashboard/Shareholder/Negative Wallet/span_PDF' is visible
+
+2023-06-23 20:37:51 - [TEST_STEP][PASSED] - com.reusableComponent.HighlightElement.run(findTestObject("User/Page_Dashboard/Shareholder/User List/input_Search_form-control form-control-sm")): com.reusableComponent.HighlightElement.run is PASSED
+
+2023-06-23 20:37:51 - [MESSAGE][PASSED] - com.reusableComponent.HighlightElement.run is PASSED
+
+2023-06-23 20:37:51 - [TEST_STEP][PASSED] - verifyElementVisible(findTestObject("User/Page_Dashboard/Shareholder/User List/input_Search_form-control form-control-sm")): Object 'Object Repository/User/Page_Dashboard/Shareholder/User List/input_Search_form-control form-control-sm' is visible
+
+2023-06-23 20:37:52 - [MESSAGE][PASSED] - Object 'Object Repository/User/Page_Dashboard/Shareholder/User List/input_Search_form-control form-control-sm' is visible
+
+2023-06-23 20:37:52 - [TEST_STEP][PASSED] - com.reusableComponent.HighlightElement.run(findTestObject("User/Page_Dashboard/Shareholder/User Wallets/th_Shareholder name")): com.reusableComponent.HighlightElement.run is PASSED
+
+2023-06-23 20:37:53 - [MESSAGE][PASSED] - com.reusableComponent.HighlightElement.run is PASSED
+
+2023-06-23 20:37:53 - [TEST_STEP][PASSED] - com.reusableComponent.HighlightElement.run(findTestObject("User/Page_Dashboard/Shareholder/User Wallets/th_Wallet Negative")): com.reusableComponent.HighlightElement.run is PASSED
+
+2023-06-23 20:37:53 - [MESSAGE][PASSED] - com.reusableComponent.HighlightElement.run is PASSED
+
+2023-06-23 20:37:53 - [TEST_STEP][PASSED] - com.reusableComponent.HighlightElement.run(findTestObject("User/Page_Dashboard/Shareholder/User Wallets/th_Wallet Last Update")): com.reusableComponent.HighlightElement.run is PASSED
+
+2023-06-23 20:37:54 - [MESSAGE][PASSED] - com.reusableComponent.HighlightElement.run is PASSED
+
+2023-06-23 20:37:54 - [TEST_STEP][PASSED] - com.reusableComponent.HighlightElement.run(findTestObject("User/Page_Dashboard/Shareholder/User Wallets/th_Action")): com.reusableComponent.HighlightElement.run is PASSED
+
+2023-06-23 20:37:54 - [MESSAGE][PASSED] - com.reusableComponent.HighlightElement.run is PASSED
+
+2023-06-23 20:37:54 - [TEST_STEP][PASSED] - com.reusableComponent.HighlightElement.run(findTestObject("User/Page_Dashboard/Shareholder/User Wallets/table_Shareholder name")): com.reusableComponent.HighlightElement.run is PASSED
+
+2023-06-23 20:37:55 - [MESSAGE][PASSED] - com.reusableComponent.HighlightElement.run is PASSED
+
+2023-06-23 20:37:55 - [TEST_STEP][PASSED] - verifyElementVisible(findTestObject("User/Page_Dashboard/Shareholder/User Wallets/th_Shareholder name")): Object 'Object Repository/User/Page_Dashboard/Shareholder/User Wallets/th_Shareholder name' is visible
+
+2023-06-23 20:37:55 - [MESSAGE][PASSED] - Object 'Object Repository/User/Page_Dashboard/Shareholder/User Wallets/th_Shareholder name' is visible
+
+2023-06-23 20:37:55 - [TEST_STEP][PASSED] - verifyElementVisible(findTestObject("User/Page_Dashboard/Shareholder/User Wallets/th_Wallet Negative")): Object 'Object Repository/User/Page_Dashboard/Shareholder/User Wallets/th_Wallet Negative' is visible
+
+2023-06-23 20:37:56 - [MESSAGE][PASSED] - Object 'Object Repository/User/Page_Dashboard/Shareholder/User Wallets/th_Wallet Negative' is visible
+
+2023-06-23 20:37:56 - [TEST_STEP][PASSED] - verifyElementVisible(findTestObject("User/Page_Dashboard/Shareholder/User Wallets/th_Wallet Last Update")): Object 'Object Repository/User/Page_Dashboard/Shareholder/User Wallets/th_Wallet Last Update' is visible
+
+2023-06-23 20:37:56 - [MESSAGE][PASSED] - Object 'Object Repository/User/Page_Dashboard/Shareholder/User Wallets/th_Wallet Last Update' is visible
+
+2023-06-23 20:37:56 - [TEST_STEP][PASSED] - verifyElementVisible(findTestObject("User/Page_Dashboard/Shareholder/User Wallets/th_Action")): Object 'Object Repository/User/Page_Dashboard/Shareholder/User Wallets/th_Action' is visible
+
+2023-06-23 20:37:56 - [MESSAGE][PASSED] - Object 'Object Repository/User/Page_Dashboard/Shareholder/User Wallets/th_Action' is visible
+
+2023-06-23 20:37:56 - [TEST_STEP][PASSED] - verifyElementVisible(findTestObject("User/Page_Dashboard/Shareholder/User Wallets/table_Shareholder name")): Object 'Object Repository/User/Page_Dashboard/Shareholder/User Wallets/table_Shareholder name' is visible
+
+2023-06-23 20:37:57 - [MESSAGE][PASSED] - Object 'Object Repository/User/Page_Dashboard/Shareholder/User Wallets/table_Shareholder name' is visible
+
+2023-06-23 20:37:57 - [TEST_STEP][PASSED] - com.reusableComponent.HighlightElement.run(findTestObject("User/Page_Dashboard/Shareholder/User Wallets/li_Previous")): com.reusableComponent.HighlightElement.run is PASSED
+
+2023-06-23 20:37:57 - [MESSAGE][PASSED] - com.reusableComponent.HighlightElement.run is PASSED
+
+2023-06-23 20:37:57 - [TEST_STEP][PASSED] - com.reusableComponent.HighlightElement.run(findTestObject("User/Page_Dashboard/Shareholder/User Wallets/a_Next")): com.reusableComponent.HighlightElement.run is PASSED
+
+2023-06-23 20:37:58 - [MESSAGE][PASSED] - com.reusableComponent.HighlightElement.run is PASSED
+
+2023-06-23 20:37:58 - [TEST_STEP][PASSED] - verifyElementVisible(findTestObject("User/Page_Dashboard/Shareholder/User Wallets/li_Previous")): Object 'Object Repository/User/Page_Dashboard/Shareholder/User Wallets/li_Previous' is visible
+
+2023-06-23 20:37:58 - [MESSAGE][PASSED] - Object 'Object Repository/User/Page_Dashboard/Shareholder/User Wallets/li_Previous' is visible
+
+2023-06-23 20:37:58 - [TEST_STEP][PASSED] - verifyElementVisible(findTestObject("User/Page_Dashboard/Shareholder/User Wallets/a_Next")): Object 'Object Repository/User/Page_Dashboard/Shareholder/User Wallets/a_Next' is visible
+
+2023-06-23 20:37:59 - [MESSAGE][PASSED] - Object 'Object Repository/User/Page_Dashboard/Shareholder/User Wallets/a_Next' is visible]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/User/Shareholder/Negative Wallet IDR" time="19.278" classname="Test Cases/User/Shareholder/Negative Wallet IDR" status="PASSED">
+         <system-out><![CDATA[2023-06-23 20:37:59 - [TEST_CASE][PASSED] - Test Cases/User/Shareholder/Negative Wallet IDR: Test Cases/User/Shareholder/Negative Wallet IDR
+
+2023-06-23 20:38:00 - [TEST_STEP][PASSED] - com.reusableComponent.HighlightElement.run(findTestObject("User/Page_Dashboard/Member/span_User")): com.reusableComponent.HighlightElement.run is PASSED
+
+2023-06-23 20:38:00 - [MESSAGE][PASSED] - com.reusableComponent.HighlightElement.run is PASSED
+
+2023-06-23 20:38:00 - [TEST_STEP][PASSED] - mouseOver(findTestObject("User/Page_Dashboard/Member/span_User")): Object: 'Object Repository/User/Page_Dashboard/Member/span_User' is hovered
+
+2023-06-23 20:38:01 - [MESSAGE][PASSED] - Object: 'Object Repository/User/Page_Dashboard/Member/span_User' is hovered
+
+2023-06-23 20:38:01 - [TEST_STEP][PASSED] - com.reusableComponent.HighlightElement.run(findTestObject("User/Page_Dashboard/Shareholder/span_Negative Wallet")): com.reusableComponent.HighlightElement.run is PASSED
+
+2023-06-23 20:38:01 - [MESSAGE][PASSED] - com.reusableComponent.HighlightElement.run is PASSED
+
+2023-06-23 20:38:01 - [TEST_STEP][PASSED] - mouseOver(findTestObject("User/Page_Dashboard/Shareholder/span_Negative Wallet")): Object: 'Object Repository/User/Page_Dashboard/Shareholder/span_Negative Wallet' is hovered
+
+2023-06-23 20:38:02 - [MESSAGE][PASSED] - Object: 'Object Repository/User/Page_Dashboard/Shareholder/span_Negative Wallet' is hovered
+
+2023-06-23 20:38:02 - [TEST_STEP][PASSED] - com.reusableComponent.HighlightElement.run(findTestObject("User/Page_Dashboard/Shareholder/Negative Wallet/span_IDR")): com.reusableComponent.HighlightElement.run is PASSED
+
+2023-06-23 20:38:02 - [MESSAGE][PASSED] - com.reusableComponent.HighlightElement.run is PASSED
+
+2023-06-23 20:38:02 - [TEST_STEP][PASSED] - mouseOver(findTestObject("User/Page_Dashboard/Shareholder/Negative Wallet/span_IDR")): Object: 'Object Repository/User/Page_Dashboard/Shareholder/Negative Wallet/span_IDR' is hovered
+
+2023-06-23 20:38:03 - [MESSAGE][PASSED] - Object: 'Object Repository/User/Page_Dashboard/Shareholder/Negative Wallet/span_IDR' is hovered
+
+2023-06-23 20:38:03 - [TEST_STEP][PASSED] - click(findTestObject("User/Page_Dashboard/Shareholder/Negative Wallet/span_IDR")): Object: 'Object Repository/User/Page_Dashboard/Shareholder/Negative Wallet/span_IDR' is clicked on
+
+2023-06-23 20:38:05 - [MESSAGE][PASSED] - Object: 'Object Repository/User/Page_Dashboard/Shareholder/Negative Wallet/span_IDR' is clicked on
+
+2023-06-23 20:38:05 - [TEST_STEP][PASSED] - waitForElementVisible(findTestObject("User/Page_Dashboard/Shareholder/Negative Wallet/h3_Shareholder Negative Report"), 0): Object 'Object Repository/User/Page_Dashboard/Shareholder/Negative Wallet/h3_Shareholder Negative Report' is visible
+
+2023-06-23 20:38:05 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+2023-06-23 20:38:06 - [MESSAGE][PASSED] - Object 'Object Repository/User/Page_Dashboard/Shareholder/Negative Wallet/h3_Shareholder Negative Report' is visible
+
+2023-06-23 20:38:06 - [TEST_STEP][PASSED] - com.reusableComponent.HighlightElement.run(findTestObject("User/Page_Dashboard/Shareholder/Negative Wallet/h3_Shareholder Negative Report")): com.reusableComponent.HighlightElement.run is PASSED
+
+2023-06-23 20:38:06 - [MESSAGE][PASSED] - com.reusableComponent.HighlightElement.run is PASSED
+
+2023-06-23 20:38:06 - [TEST_STEP][PASSED] - verifyElementVisible(findTestObject("User/Page_Dashboard/Shareholder/Negative Wallet/h3_Shareholder Negative Report")): Object 'Object Repository/User/Page_Dashboard/Shareholder/Negative Wallet/h3_Shareholder Negative Report' is visible
+
+2023-06-23 20:38:07 - [MESSAGE][PASSED] - Object 'Object Repository/User/Page_Dashboard/Shareholder/Negative Wallet/h3_Shareholder Negative Report' is visible
+
+2023-06-23 20:38:07 - [TEST_STEP][PASSED] - com.reusableComponent.HighlightElement.run(findTestObject("User/Page_Dashboard/Shareholder/Negative Wallet/select_1050100200All")): com.reusableComponent.HighlightElement.run is PASSED
+
+2023-06-23 20:38:07 - [MESSAGE][PASSED] - com.reusableComponent.HighlightElement.run is PASSED
+
+2023-06-23 20:38:07 - [TEST_STEP][PASSED] - com.reusableComponent.HighlightElement.run(findTestObject("User/Page_Dashboard/Shareholder/Negative Wallet/span_Copy")): com.reusableComponent.HighlightElement.run is PASSED
+
+2023-06-23 20:38:08 - [MESSAGE][PASSED] - com.reusableComponent.HighlightElement.run is PASSED
+
+2023-06-23 20:38:08 - [TEST_STEP][PASSED] - com.reusableComponent.HighlightElement.run(findTestObject("User/Page_Dashboard/Shareholder/Negative Wallet/span_CSV")): com.reusableComponent.HighlightElement.run is PASSED
+
+2023-06-23 20:38:08 - [MESSAGE][PASSED] - com.reusableComponent.HighlightElement.run is PASSED
+
+2023-06-23 20:38:08 - [TEST_STEP][PASSED] - com.reusableComponent.HighlightElement.run(findTestObject("User/Page_Dashboard/Shareholder/Negative Wallet/span_Excel")): com.reusableComponent.HighlightElement.run is PASSED
+
+2023-06-23 20:38:09 - [MESSAGE][PASSED] - com.reusableComponent.HighlightElement.run is PASSED
+
+2023-06-23 20:38:09 - [TEST_STEP][PASSED] - com.reusableComponent.HighlightElement.run(findTestObject("User/Page_Dashboard/Shareholder/Negative Wallet/span_PDF")): com.reusableComponent.HighlightElement.run is PASSED
+
+2023-06-23 20:38:09 - [MESSAGE][PASSED] - com.reusableComponent.HighlightElement.run is PASSED
+
+2023-06-23 20:38:09 - [TEST_STEP][PASSED] - verifyElementVisible(findTestObject("User/Page_Dashboard/Shareholder/Negative Wallet/select_1050100200All")): Object 'Object Repository/User/Page_Dashboard/Shareholder/Negative Wallet/select_1050100200All' is visible
+
+2023-06-23 20:38:10 - [MESSAGE][PASSED] - Object 'Object Repository/User/Page_Dashboard/Shareholder/Negative Wallet/select_1050100200All' is visible
+
+2023-06-23 20:38:10 - [TEST_STEP][PASSED] - verifyElementVisible(findTestObject("User/Page_Dashboard/Shareholder/Negative Wallet/span_Copy")): Object 'Object Repository/User/Page_Dashboard/Shareholder/Negative Wallet/span_Copy' is visible
+
+2023-06-23 20:38:10 - [MESSAGE][PASSED] - Object 'Object Repository/User/Page_Dashboard/Shareholder/Negative Wallet/span_Copy' is visible
+
+2023-06-23 20:38:10 - [TEST_STEP][PASSED] - verifyElementVisible(findTestObject("User/Page_Dashboard/Shareholder/Negative Wallet/span_CSV")): Object 'Object Repository/User/Page_Dashboard/Shareholder/Negative Wallet/span_CSV' is visible
+
+2023-06-23 20:38:10 - [MESSAGE][PASSED] - Object 'Object Repository/User/Page_Dashboard/Shareholder/Negative Wallet/span_CSV' is visible
+
+2023-06-23 20:38:10 - [TEST_STEP][PASSED] - verifyElementVisible(findTestObject("User/Page_Dashboard/Shareholder/Negative Wallet/span_Excel")): Object 'Object Repository/User/Page_Dashboard/Shareholder/Negative Wallet/span_Excel' is visible
+
+2023-06-23 20:38:11 - [MESSAGE][PASSED] - Object 'Object Repository/User/Page_Dashboard/Shareholder/Negative Wallet/span_Excel' is visible
+
+2023-06-23 20:38:11 - [TEST_STEP][PASSED] - verifyElementVisible(findTestObject("User/Page_Dashboard/Shareholder/Negative Wallet/span_PDF")): Object 'Object Repository/User/Page_Dashboard/Shareholder/Negative Wallet/span_PDF' is visible
+
+2023-06-23 20:38:11 - [MESSAGE][PASSED] - Object 'Object Repository/User/Page_Dashboard/Shareholder/Negative Wallet/span_PDF' is visible
+
+2023-06-23 20:38:11 - [TEST_STEP][PASSED] - com.reusableComponent.HighlightElement.run(findTestObject("User/Page_Dashboard/Shareholder/User List/input_Search_form-control form-control-sm")): com.reusableComponent.HighlightElement.run is PASSED
+
+2023-06-23 20:38:12 - [MESSAGE][PASSED] - com.reusableComponent.HighlightElement.run is PASSED
+
+2023-06-23 20:38:12 - [TEST_STEP][PASSED] - verifyElementVisible(findTestObject("User/Page_Dashboard/Shareholder/User List/input_Search_form-control form-control-sm")): Object 'Object Repository/User/Page_Dashboard/Shareholder/User List/input_Search_form-control form-control-sm' is visible
+
+2023-06-23 20:38:12 - [MESSAGE][PASSED] - Object 'Object Repository/User/Page_Dashboard/Shareholder/User List/input_Search_form-control form-control-sm' is visible
+
+2023-06-23 20:38:12 - [TEST_STEP][PASSED] - com.reusableComponent.HighlightElement.run(findTestObject("User/Page_Dashboard/Shareholder/User Wallets/th_Shareholder name")): com.reusableComponent.HighlightElement.run is PASSED
+
+2023-06-23 20:38:13 - [MESSAGE][PASSED] - com.reusableComponent.HighlightElement.run is PASSED
+
+2023-06-23 20:38:13 - [TEST_STEP][PASSED] - com.reusableComponent.HighlightElement.run(findTestObject("User/Page_Dashboard/Shareholder/User Wallets/th_Wallet Negative")): com.reusableComponent.HighlightElement.run is PASSED
+
+2023-06-23 20:38:13 - [MESSAGE][PASSED] - com.reusableComponent.HighlightElement.run is PASSED
+
+2023-06-23 20:38:13 - [TEST_STEP][PASSED] - com.reusableComponent.HighlightElement.run(findTestObject("User/Page_Dashboard/Shareholder/User Wallets/th_Wallet Last Update")): com.reusableComponent.HighlightElement.run is PASSED
+
+2023-06-23 20:38:13 - [MESSAGE][PASSED] - com.reusableComponent.HighlightElement.run is PASSED
+
+2023-06-23 20:38:13 - [TEST_STEP][PASSED] - com.reusableComponent.HighlightElement.run(findTestObject("User/Page_Dashboard/Shareholder/User Wallets/th_Action")): com.reusableComponent.HighlightElement.run is PASSED
+
+2023-06-23 20:38:14 - [MESSAGE][PASSED] - com.reusableComponent.HighlightElement.run is PASSED
+
+2023-06-23 20:38:14 - [TEST_STEP][PASSED] - com.reusableComponent.HighlightElement.run(findTestObject("User/Page_Dashboard/Shareholder/User Wallets/table_Shareholder name")): com.reusableComponent.HighlightElement.run is PASSED
+
+2023-06-23 20:38:14 - [MESSAGE][PASSED] - com.reusableComponent.HighlightElement.run is PASSED
+
+2023-06-23 20:38:14 - [TEST_STEP][PASSED] - verifyElementVisible(findTestObject("User/Page_Dashboard/Shareholder/User Wallets/th_Shareholder name")): Object 'Object Repository/User/Page_Dashboard/Shareholder/User Wallets/th_Shareholder name' is visible
+
+2023-06-23 20:38:15 - [MESSAGE][PASSED] - Object 'Object Repository/User/Page_Dashboard/Shareholder/User Wallets/th_Shareholder name' is visible
+
+2023-06-23 20:38:15 - [TEST_STEP][PASSED] - verifyElementVisible(findTestObject("User/Page_Dashboard/Shareholder/User Wallets/th_Wallet Negative")): Object 'Object Repository/User/Page_Dashboard/Shareholder/User Wallets/th_Wallet Negative' is visible
+
+2023-06-23 20:38:15 - [MESSAGE][PASSED] - Object 'Object Repository/User/Page_Dashboard/Shareholder/User Wallets/th_Wallet Negative' is visible
+
+2023-06-23 20:38:15 - [TEST_STEP][PASSED] - verifyElementVisible(findTestObject("User/Page_Dashboard/Shareholder/User Wallets/th_Wallet Last Update")): Object 'Object Repository/User/Page_Dashboard/Shareholder/User Wallets/th_Wallet Last Update' is visible
+
+2023-06-23 20:38:16 - [MESSAGE][PASSED] - Object 'Object Repository/User/Page_Dashboard/Shareholder/User Wallets/th_Wallet Last Update' is visible
+
+2023-06-23 20:38:16 - [TEST_STEP][PASSED] - verifyElementVisible(findTestObject("User/Page_Dashboard/Shareholder/User Wallets/th_Action")): Object 'Object Repository/User/Page_Dashboard/Shareholder/User Wallets/th_Action' is visible
+
+2023-06-23 20:38:16 - [MESSAGE][PASSED] - Object 'Object Repository/User/Page_Dashboard/Shareholder/User Wallets/th_Action' is visible
+
+2023-06-23 20:38:16 - [TEST_STEP][PASSED] - verifyElementVisible(findTestObject("User/Page_Dashboard/Shareholder/User Wallets/table_Shareholder name")): Object 'Object Repository/User/Page_Dashboard/Shareholder/User Wallets/table_Shareholder name' is visible
+
+2023-06-23 20:38:16 - [MESSAGE][PASSED] - Object 'Object Repository/User/Page_Dashboard/Shareholder/User Wallets/table_Shareholder name' is visible
+
+2023-06-23 20:38:16 - [TEST_STEP][PASSED] - com.reusableComponent.HighlightElement.run(findTestObject("User/Page_Dashboard/Shareholder/User Wallets/li_Previous")): com.reusableComponent.HighlightElement.run is PASSED
+
+2023-06-23 20:38:17 - [MESSAGE][PASSED] - com.reusableComponent.HighlightElement.run is PASSED
+
+2023-06-23 20:38:17 - [TEST_STEP][PASSED] - com.reusableComponent.HighlightElement.run(findTestObject("User/Page_Dashboard/Shareholder/User Wallets/a_Next")): com.reusableComponent.HighlightElement.run is PASSED
+
+2023-06-23 20:38:17 - [MESSAGE][PASSED] - com.reusableComponent.HighlightElement.run is PASSED
+
+2023-06-23 20:38:17 - [TEST_STEP][PASSED] - verifyElementVisible(findTestObject("User/Page_Dashboard/Shareholder/User Wallets/li_Previous")): Object 'Object Repository/User/Page_Dashboard/Shareholder/User Wallets/li_Previous' is visible
+
+2023-06-23 20:38:18 - [MESSAGE][PASSED] - Object 'Object Repository/User/Page_Dashboard/Shareholder/User Wallets/li_Previous' is visible
+
+2023-06-23 20:38:18 - [TEST_STEP][PASSED] - verifyElementVisible(findTestObject("User/Page_Dashboard/Shareholder/User Wallets/a_Next")): Object 'Object Repository/User/Page_Dashboard/Shareholder/User Wallets/a_Next' is visible
+
+2023-06-23 20:38:18 - [MESSAGE][PASSED] - Object 'Object Repository/User/Page_Dashboard/Shareholder/User Wallets/a_Next' is visible]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/User/Shareholder/Negative Wallet MMK" time="20.231" classname="Test Cases/User/Shareholder/Negative Wallet MMK" status="PASSED">
+         <system-out><![CDATA[2023-06-23 20:38:18 - [TEST_CASE][PASSED] - Test Cases/User/Shareholder/Negative Wallet MMK: Test Cases/User/Shareholder/Negative Wallet MMK
+
+2023-06-23 20:38:19 - [TEST_STEP][PASSED] - com.reusableComponent.HighlightElement.run(findTestObject("User/Page_Dashboard/Member/span_User")): com.reusableComponent.HighlightElement.run is PASSED
+
+2023-06-23 20:38:19 - [MESSAGE][PASSED] - com.reusableComponent.HighlightElement.run is PASSED
+
+2023-06-23 20:38:19 - [TEST_STEP][PASSED] - mouseOver(findTestObject("User/Page_Dashboard/Member/span_User")): Object: 'Object Repository/User/Page_Dashboard/Member/span_User' is hovered
+
+2023-06-23 20:38:20 - [MESSAGE][PASSED] - Object: 'Object Repository/User/Page_Dashboard/Member/span_User' is hovered
+
+2023-06-23 20:38:20 - [TEST_STEP][PASSED] - com.reusableComponent.HighlightElement.run(findTestObject("User/Page_Dashboard/Shareholder/span_Negative Wallet")): com.reusableComponent.HighlightElement.run is PASSED
+
+2023-06-23 20:38:21 - [MESSAGE][PASSED] - com.reusableComponent.HighlightElement.run is PASSED
+
+2023-06-23 20:38:21 - [TEST_STEP][PASSED] - mouseOver(findTestObject("User/Page_Dashboard/Shareholder/span_Negative Wallet")): Object: 'Object Repository/User/Page_Dashboard/Shareholder/span_Negative Wallet' is hovered
+
+2023-06-23 20:38:21 - [MESSAGE][PASSED] - Object: 'Object Repository/User/Page_Dashboard/Shareholder/span_Negative Wallet' is hovered
+
+2023-06-23 20:38:21 - [TEST_STEP][PASSED] - com.reusableComponent.HighlightElement.run(findTestObject("User/Page_Dashboard/Shareholder/Negative Wallet/span_MMK")): com.reusableComponent.HighlightElement.run is PASSED
+
+2023-06-23 20:38:22 - [MESSAGE][PASSED] - com.reusableComponent.HighlightElement.run is PASSED
+
+2023-06-23 20:38:22 - [TEST_STEP][PASSED] - mouseOver(findTestObject("User/Page_Dashboard/Shareholder/Negative Wallet/span_MMK")): Object: 'Object Repository/User/Page_Dashboard/Shareholder/Negative Wallet/span_MMK' is hovered
+
+2023-06-23 20:38:22 - [MESSAGE][PASSED] - Object: 'Object Repository/User/Page_Dashboard/Shareholder/Negative Wallet/span_MMK' is hovered
+
+2023-06-23 20:38:22 - [TEST_STEP][PASSED] - click(findTestObject("User/Page_Dashboard/Shareholder/Negative Wallet/span_MMK")): Object: 'Object Repository/User/Page_Dashboard/Shareholder/Negative Wallet/span_MMK' is clicked on
+
+2023-06-23 20:38:25 - [MESSAGE][PASSED] - Object: 'Object Repository/User/Page_Dashboard/Shareholder/Negative Wallet/span_MMK' is clicked on
+
+2023-06-23 20:38:25 - [TEST_STEP][PASSED] - waitForElementVisible(findTestObject("User/Page_Dashboard/Shareholder/Negative Wallet/h3_Shareholder Negative Report"), 0): Object 'Object Repository/User/Page_Dashboard/Shareholder/Negative Wallet/h3_Shareholder Negative Report' is visible
+
+2023-06-23 20:38:25 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+2023-06-23 20:38:26 - [MESSAGE][PASSED] - Object 'Object Repository/User/Page_Dashboard/Shareholder/Negative Wallet/h3_Shareholder Negative Report' is visible
+
+2023-06-23 20:38:26 - [TEST_STEP][PASSED] - com.reusableComponent.HighlightElement.run(findTestObject("User/Page_Dashboard/Shareholder/Negative Wallet/h3_Shareholder Negative Report")): com.reusableComponent.HighlightElement.run is PASSED
+
+2023-06-23 20:38:26 - [MESSAGE][PASSED] - com.reusableComponent.HighlightElement.run is PASSED
+
+2023-06-23 20:38:26 - [TEST_STEP][PASSED] - verifyElementVisible(findTestObject("User/Page_Dashboard/Shareholder/Negative Wallet/h3_Shareholder Negative Report")): Object 'Object Repository/User/Page_Dashboard/Shareholder/Negative Wallet/h3_Shareholder Negative Report' is visible
+
+2023-06-23 20:38:27 - [MESSAGE][PASSED] - Object 'Object Repository/User/Page_Dashboard/Shareholder/Negative Wallet/h3_Shareholder Negative Report' is visible
+
+2023-06-23 20:38:27 - [TEST_STEP][PASSED] - com.reusableComponent.HighlightElement.run(findTestObject("User/Page_Dashboard/Shareholder/Negative Wallet/select_1050100200All")): com.reusableComponent.HighlightElement.run is PASSED
+
+2023-06-23 20:38:27 - [MESSAGE][PASSED] - com.reusableComponent.HighlightElement.run is PASSED
+
+2023-06-23 20:38:27 - [TEST_STEP][PASSED] - com.reusableComponent.HighlightElement.run(findTestObject("User/Page_Dashboard/Shareholder/Negative Wallet/span_Copy")): com.reusableComponent.HighlightElement.run is PASSED
+
+2023-06-23 20:38:28 - [MESSAGE][PASSED] - com.reusableComponent.HighlightElement.run is PASSED
+
+2023-06-23 20:38:28 - [TEST_STEP][PASSED] - com.reusableComponent.HighlightElement.run(findTestObject("User/Page_Dashboard/Shareholder/Negative Wallet/span_CSV")): com.reusableComponent.HighlightElement.run is PASSED
+
+2023-06-23 20:38:28 - [MESSAGE][PASSED] - com.reusableComponent.HighlightElement.run is PASSED
+
+2023-06-23 20:38:28 - [TEST_STEP][PASSED] - com.reusableComponent.HighlightElement.run(findTestObject("User/Page_Dashboard/Shareholder/Negative Wallet/span_Excel")): com.reusableComponent.HighlightElement.run is PASSED
+
+2023-06-23 20:38:29 - [MESSAGE][PASSED] - com.reusableComponent.HighlightElement.run is PASSED
+
+2023-06-23 20:38:29 - [TEST_STEP][PASSED] - com.reusableComponent.HighlightElement.run(findTestObject("User/Page_Dashboard/Shareholder/Negative Wallet/span_PDF")): com.reusableComponent.HighlightElement.run is PASSED
+
+2023-06-23 20:38:29 - [MESSAGE][PASSED] - com.reusableComponent.HighlightElement.run is PASSED
+
+2023-06-23 20:38:29 - [TEST_STEP][PASSED] - verifyElementVisible(findTestObject("User/Page_Dashboard/Shareholder/Negative Wallet/select_1050100200All")): Object 'Object Repository/User/Page_Dashboard/Shareholder/Negative Wallet/select_1050100200All' is visible
+
+2023-06-23 20:38:30 - [MESSAGE][PASSED] - Object 'Object Repository/User/Page_Dashboard/Shareholder/Negative Wallet/select_1050100200All' is visible
+
+2023-06-23 20:38:30 - [TEST_STEP][PASSED] - verifyElementVisible(findTestObject("User/Page_Dashboard/Shareholder/Negative Wallet/span_Copy")): Object 'Object Repository/User/Page_Dashboard/Shareholder/Negative Wallet/span_Copy' is visible
+
+2023-06-23 20:38:30 - [MESSAGE][PASSED] - Object 'Object Repository/User/Page_Dashboard/Shareholder/Negative Wallet/span_Copy' is visible
+
+2023-06-23 20:38:30 - [TEST_STEP][PASSED] - verifyElementVisible(findTestObject("User/Page_Dashboard/Shareholder/Negative Wallet/span_CSV")): Object 'Object Repository/User/Page_Dashboard/Shareholder/Negative Wallet/span_CSV' is visible
+
+2023-06-23 20:38:31 - [MESSAGE][PASSED] - Object 'Object Repository/User/Page_Dashboard/Shareholder/Negative Wallet/span_CSV' is visible
+
+2023-06-23 20:38:31 - [TEST_STEP][PASSED] - verifyElementVisible(findTestObject("User/Page_Dashboard/Shareholder/Negative Wallet/span_Excel")): Object 'Object Repository/User/Page_Dashboard/Shareholder/Negative Wallet/span_Excel' is visible
+
+2023-06-23 20:38:31 - [MESSAGE][PASSED] - Object 'Object Repository/User/Page_Dashboard/Shareholder/Negative Wallet/span_Excel' is visible
+
+2023-06-23 20:38:31 - [TEST_STEP][PASSED] - verifyElementVisible(findTestObject("User/Page_Dashboard/Shareholder/Negative Wallet/span_PDF")): Object 'Object Repository/User/Page_Dashboard/Shareholder/Negative Wallet/span_PDF' is visible
+
+2023-06-23 20:38:31 - [MESSAGE][PASSED] - Object 'Object Repository/User/Page_Dashboard/Shareholder/Negative Wallet/span_PDF' is visible
+
+2023-06-23 20:38:31 - [TEST_STEP][PASSED] - com.reusableComponent.HighlightElement.run(findTestObject("User/Page_Dashboard/Shareholder/User List/input_Search_form-control form-control-sm")): com.reusableComponent.HighlightElement.run is PASSED
+
+2023-06-23 20:38:32 - [MESSAGE][PASSED] - com.reusableComponent.HighlightElement.run is PASSED
+
+2023-06-23 20:38:32 - [TEST_STEP][PASSED] - verifyElementVisible(findTestObject("User/Page_Dashboard/Shareholder/User List/input_Search_form-control form-control-sm")): Object 'Object Repository/User/Page_Dashboard/Shareholder/User List/input_Search_form-control form-control-sm' is visible
+
+2023-06-23 20:38:32 - [MESSAGE][PASSED] - Object 'Object Repository/User/Page_Dashboard/Shareholder/User List/input_Search_form-control form-control-sm' is visible
+
+2023-06-23 20:38:32 - [TEST_STEP][PASSED] - com.reusableComponent.HighlightElement.run(findTestObject("User/Page_Dashboard/Shareholder/User Wallets/th_Shareholder name")): com.reusableComponent.HighlightElement.run is PASSED
+
+2023-06-23 20:38:33 - [MESSAGE][PASSED] - com.reusableComponent.HighlightElement.run is PASSED
+
+2023-06-23 20:38:33 - [TEST_STEP][PASSED] - com.reusableComponent.HighlightElement.run(findTestObject("User/Page_Dashboard/Shareholder/User Wallets/th_Wallet Negative")): com.reusableComponent.HighlightElement.run is PASSED
+
+2023-06-23 20:38:33 - [MESSAGE][PASSED] - com.reusableComponent.HighlightElement.run is PASSED
+
+2023-06-23 20:38:33 - [TEST_STEP][PASSED] - com.reusableComponent.HighlightElement.run(findTestObject("User/Page_Dashboard/Shareholder/User Wallets/th_Wallet Last Update")): com.reusableComponent.HighlightElement.run is PASSED
+
+2023-06-23 20:38:34 - [MESSAGE][PASSED] - com.reusableComponent.HighlightElement.run is PASSED
+
+2023-06-23 20:38:34 - [TEST_STEP][PASSED] - com.reusableComponent.HighlightElement.run(findTestObject("User/Page_Dashboard/Shareholder/User Wallets/th_Action")): com.reusableComponent.HighlightElement.run is PASSED
+
+2023-06-23 20:38:34 - [MESSAGE][PASSED] - com.reusableComponent.HighlightElement.run is PASSED
+
+2023-06-23 20:38:34 - [TEST_STEP][PASSED] - com.reusableComponent.HighlightElement.run(findTestObject("User/Page_Dashboard/Shareholder/User Wallets/table_Shareholder name")): com.reusableComponent.HighlightElement.run is PASSED
+
+2023-06-23 20:38:35 - [MESSAGE][PASSED] - com.reusableComponent.HighlightElement.run is PASSED
+
+2023-06-23 20:38:35 - [TEST_STEP][PASSED] - verifyElementVisible(findTestObject("User/Page_Dashboard/Shareholder/User Wallets/th_Shareholder name")): Object 'Object Repository/User/Page_Dashboard/Shareholder/User Wallets/th_Shareholder name' is visible
+
+2023-06-23 20:38:35 - [MESSAGE][PASSED] - Object 'Object Repository/User/Page_Dashboard/Shareholder/User Wallets/th_Shareholder name' is visible
+
+2023-06-23 20:38:35 - [TEST_STEP][PASSED] - verifyElementVisible(findTestObject("User/Page_Dashboard/Shareholder/User Wallets/th_Wallet Negative")): Object 'Object Repository/User/Page_Dashboard/Shareholder/User Wallets/th_Wallet Negative' is visible
+
+2023-06-23 20:38:35 - [MESSAGE][PASSED] - Object 'Object Repository/User/Page_Dashboard/Shareholder/User Wallets/th_Wallet Negative' is visible
+
+2023-06-23 20:38:35 - [TEST_STEP][PASSED] - verifyElementVisible(findTestObject("User/Page_Dashboard/Shareholder/User Wallets/th_Wallet Last Update")): Object 'Object Repository/User/Page_Dashboard/Shareholder/User Wallets/th_Wallet Last Update' is visible
+
+2023-06-23 20:38:36 - [MESSAGE][PASSED] - Object 'Object Repository/User/Page_Dashboard/Shareholder/User Wallets/th_Wallet Last Update' is visible
+
+2023-06-23 20:38:36 - [TEST_STEP][PASSED] - verifyElementVisible(findTestObject("User/Page_Dashboard/Shareholder/User Wallets/th_Action")): Object 'Object Repository/User/Page_Dashboard/Shareholder/User Wallets/th_Action' is visible
+
+2023-06-23 20:38:36 - [MESSAGE][PASSED] - Object 'Object Repository/User/Page_Dashboard/Shareholder/User Wallets/th_Action' is visible
+
+2023-06-23 20:38:36 - [TEST_STEP][PASSED] - verifyElementVisible(findTestObject("User/Page_Dashboard/Shareholder/User Wallets/table_Shareholder name")): Object 'Object Repository/User/Page_Dashboard/Shareholder/User Wallets/table_Shareholder name' is visible
+
+2023-06-23 20:38:37 - [MESSAGE][PASSED] - Object 'Object Repository/User/Page_Dashboard/Shareholder/User Wallets/table_Shareholder name' is visible
+
+2023-06-23 20:38:37 - [TEST_STEP][PASSED] - com.reusableComponent.HighlightElement.run(findTestObject("User/Page_Dashboard/Shareholder/User Wallets/li_Previous")): com.reusableComponent.HighlightElement.run is PASSED
+
+2023-06-23 20:38:37 - [MESSAGE][PASSED] - com.reusableComponent.HighlightElement.run is PASSED
+
+2023-06-23 20:38:37 - [TEST_STEP][PASSED] - com.reusableComponent.HighlightElement.run(findTestObject("User/Page_Dashboard/Shareholder/User Wallets/a_Next")): com.reusableComponent.HighlightElement.run is PASSED
+
+2023-06-23 20:38:37 - [MESSAGE][PASSED] - com.reusableComponent.HighlightElement.run is PASSED
+
+2023-06-23 20:38:37 - [TEST_STEP][PASSED] - verifyElementVisible(findTestObject("User/Page_Dashboard/Shareholder/User Wallets/li_Previous")): Object 'Object Repository/User/Page_Dashboard/Shareholder/User Wallets/li_Previous' is visible
+
+2023-06-23 20:38:38 - [MESSAGE][PASSED] - Object 'Object Repository/User/Page_Dashboard/Shareholder/User Wallets/li_Previous' is visible
+
+2023-06-23 20:38:38 - [TEST_STEP][PASSED] - verifyElementVisible(findTestObject("User/Page_Dashboard/Shareholder/User Wallets/a_Next")): Object 'Object Repository/User/Page_Dashboard/Shareholder/User Wallets/a_Next' is visible
+
+2023-06-23 20:38:38 - [MESSAGE][PASSED] - Object 'Object Repository/User/Page_Dashboard/Shareholder/User Wallets/a_Next' is visible]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/User/Shareholder/Negative Wallet RMB" time="19.06" classname="Test Cases/User/Shareholder/Negative Wallet RMB" status="PASSED">
+         <system-out><![CDATA[2023-06-23 20:38:38 - [TEST_CASE][PASSED] - Test Cases/User/Shareholder/Negative Wallet RMB: Test Cases/User/Shareholder/Negative Wallet RMB
+
+2023-06-23 20:38:39 - [TEST_STEP][PASSED] - com.reusableComponent.HighlightElement.run(findTestObject("User/Page_Dashboard/Member/span_User")): com.reusableComponent.HighlightElement.run is PASSED
+
+2023-06-23 20:38:39 - [MESSAGE][PASSED] - com.reusableComponent.HighlightElement.run is PASSED
+
+2023-06-23 20:38:39 - [TEST_STEP][PASSED] - mouseOver(findTestObject("User/Page_Dashboard/Member/span_User")): Object: 'Object Repository/User/Page_Dashboard/Member/span_User' is hovered
+
+2023-06-23 20:38:40 - [MESSAGE][PASSED] - Object: 'Object Repository/User/Page_Dashboard/Member/span_User' is hovered
+
+2023-06-23 20:38:40 - [TEST_STEP][PASSED] - com.reusableComponent.HighlightElement.run(findTestObject("User/Page_Dashboard/Shareholder/span_Negative Wallet")): com.reusableComponent.HighlightElement.run is PASSED
+
+2023-06-23 20:38:40 - [MESSAGE][PASSED] - com.reusableComponent.HighlightElement.run is PASSED
+
+2023-06-23 20:38:40 - [TEST_STEP][PASSED] - mouseOver(findTestObject("User/Page_Dashboard/Shareholder/span_Negative Wallet")): Object: 'Object Repository/User/Page_Dashboard/Shareholder/span_Negative Wallet' is hovered
+
+2023-06-23 20:38:41 - [MESSAGE][PASSED] - Object: 'Object Repository/User/Page_Dashboard/Shareholder/span_Negative Wallet' is hovered
+
+2023-06-23 20:38:41 - [TEST_STEP][PASSED] - com.reusableComponent.HighlightElement.run(findTestObject("User/Page_Dashboard/Shareholder/Negative Wallet/span_RMB")): com.reusableComponent.HighlightElement.run is PASSED
+
+2023-06-23 20:38:41 - [MESSAGE][PASSED] - com.reusableComponent.HighlightElement.run is PASSED
+
+2023-06-23 20:38:41 - [TEST_STEP][PASSED] - mouseOver(findTestObject("User/Page_Dashboard/Shareholder/Negative Wallet/span_RMB")): Object: 'Object Repository/User/Page_Dashboard/Shareholder/Negative Wallet/span_RMB' is hovered
+
+2023-06-23 20:38:42 - [MESSAGE][PASSED] - Object: 'Object Repository/User/Page_Dashboard/Shareholder/Negative Wallet/span_RMB' is hovered
+
+2023-06-23 20:38:42 - [TEST_STEP][PASSED] - click(findTestObject("User/Page_Dashboard/Shareholder/Negative Wallet/span_RMB")): Object: 'Object Repository/User/Page_Dashboard/Shareholder/Negative Wallet/span_RMB' is clicked on
+
+2023-06-23 20:38:44 - [MESSAGE][PASSED] - Object: 'Object Repository/User/Page_Dashboard/Shareholder/Negative Wallet/span_RMB' is clicked on
+
+2023-06-23 20:38:44 - [TEST_STEP][PASSED] - waitForElementVisible(findTestObject("User/Page_Dashboard/Shareholder/Negative Wallet/h3_Shareholder Negative Report"), 0): Object 'Object Repository/User/Page_Dashboard/Shareholder/Negative Wallet/h3_Shareholder Negative Report' is visible
+
+2023-06-23 20:38:44 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+2023-06-23 20:38:45 - [MESSAGE][PASSED] - Object 'Object Repository/User/Page_Dashboard/Shareholder/Negative Wallet/h3_Shareholder Negative Report' is visible
+
+2023-06-23 20:38:45 - [TEST_STEP][PASSED] - com.reusableComponent.HighlightElement.run(findTestObject("User/Page_Dashboard/Shareholder/Negative Wallet/h3_Shareholder Negative Report")): com.reusableComponent.HighlightElement.run is PASSED
+
+2023-06-23 20:38:46 - [MESSAGE][PASSED] - com.reusableComponent.HighlightElement.run is PASSED
+
+2023-06-23 20:38:46 - [TEST_STEP][PASSED] - verifyElementVisible(findTestObject("User/Page_Dashboard/Shareholder/Negative Wallet/h3_Shareholder Negative Report")): Object 'Object Repository/User/Page_Dashboard/Shareholder/Negative Wallet/h3_Shareholder Negative Report' is visible
+
+2023-06-23 20:38:46 - [MESSAGE][PASSED] - Object 'Object Repository/User/Page_Dashboard/Shareholder/Negative Wallet/h3_Shareholder Negative Report' is visible
+
+2023-06-23 20:38:46 - [TEST_STEP][PASSED] - com.reusableComponent.HighlightElement.run(findTestObject("User/Page_Dashboard/Shareholder/Negative Wallet/select_1050100200All")): com.reusableComponent.HighlightElement.run is PASSED
+
+2023-06-23 20:38:47 - [MESSAGE][PASSED] - com.reusableComponent.HighlightElement.run is PASSED
+
+2023-06-23 20:38:47 - [TEST_STEP][PASSED] - com.reusableComponent.HighlightElement.run(findTestObject("User/Page_Dashboard/Shareholder/Negative Wallet/span_Copy")): com.reusableComponent.HighlightElement.run is PASSED
+
+2023-06-23 20:38:47 - [MESSAGE][PASSED] - com.reusableComponent.HighlightElement.run is PASSED
+
+2023-06-23 20:38:47 - [TEST_STEP][PASSED] - com.reusableComponent.HighlightElement.run(findTestObject("User/Page_Dashboard/Shareholder/Negative Wallet/span_CSV")): com.reusableComponent.HighlightElement.run is PASSED
+
+2023-06-23 20:38:47 - [MESSAGE][PASSED] - com.reusableComponent.HighlightElement.run is PASSED
+
+2023-06-23 20:38:47 - [TEST_STEP][PASSED] - com.reusableComponent.HighlightElement.run(findTestObject("User/Page_Dashboard/Shareholder/Negative Wallet/span_Excel")): com.reusableComponent.HighlightElement.run is PASSED
+
+2023-06-23 20:38:48 - [MESSAGE][PASSED] - com.reusableComponent.HighlightElement.run is PASSED
+
+2023-06-23 20:38:48 - [TEST_STEP][PASSED] - com.reusableComponent.HighlightElement.run(findTestObject("User/Page_Dashboard/Shareholder/Negative Wallet/span_PDF")): com.reusableComponent.HighlightElement.run is PASSED
+
+2023-06-23 20:38:48 - [MESSAGE][PASSED] - com.reusableComponent.HighlightElement.run is PASSED
+
+2023-06-23 20:38:48 - [TEST_STEP][PASSED] - verifyElementVisible(findTestObject("User/Page_Dashboard/Shareholder/Negative Wallet/select_1050100200All")): Object 'Object Repository/User/Page_Dashboard/Shareholder/Negative Wallet/select_1050100200All' is visible
+
+2023-06-23 20:38:49 - [MESSAGE][PASSED] - Object 'Object Repository/User/Page_Dashboard/Shareholder/Negative Wallet/select_1050100200All' is visible
+
+2023-06-23 20:38:49 - [TEST_STEP][PASSED] - verifyElementVisible(findTestObject("User/Page_Dashboard/Shareholder/Negative Wallet/span_Copy")): Object 'Object Repository/User/Page_Dashboard/Shareholder/Negative Wallet/span_Copy' is visible
+
+2023-06-23 20:38:49 - [MESSAGE][PASSED] - Object 'Object Repository/User/Page_Dashboard/Shareholder/Negative Wallet/span_Copy' is visible
+
+2023-06-23 20:38:49 - [TEST_STEP][PASSED] - verifyElementVisible(findTestObject("User/Page_Dashboard/Shareholder/Negative Wallet/span_CSV")): Object 'Object Repository/User/Page_Dashboard/Shareholder/Negative Wallet/span_CSV' is visible
+
+2023-06-23 20:38:50 - [MESSAGE][PASSED] - Object 'Object Repository/User/Page_Dashboard/Shareholder/Negative Wallet/span_CSV' is visible
+
+2023-06-23 20:38:50 - [TEST_STEP][PASSED] - verifyElementVisible(findTestObject("User/Page_Dashboard/Shareholder/Negative Wallet/span_Excel")): Object 'Object Repository/User/Page_Dashboard/Shareholder/Negative Wallet/span_Excel' is visible
+
+2023-06-23 20:38:50 - [MESSAGE][PASSED] - Object 'Object Repository/User/Page_Dashboard/Shareholder/Negative Wallet/span_Excel' is visible
+
+2023-06-23 20:38:50 - [TEST_STEP][PASSED] - verifyElementVisible(findTestObject("User/Page_Dashboard/Shareholder/Negative Wallet/span_PDF")): Object 'Object Repository/User/Page_Dashboard/Shareholder/Negative Wallet/span_PDF' is visible
+
+2023-06-23 20:38:50 - [MESSAGE][PASSED] - Object 'Object Repository/User/Page_Dashboard/Shareholder/Negative Wallet/span_PDF' is visible
+
+2023-06-23 20:38:50 - [TEST_STEP][PASSED] - com.reusableComponent.HighlightElement.run(findTestObject("User/Page_Dashboard/Shareholder/User List/input_Search_form-control form-control-sm")): com.reusableComponent.HighlightElement.run is PASSED
+
+2023-06-23 20:38:51 - [MESSAGE][PASSED] - com.reusableComponent.HighlightElement.run is PASSED
+
+2023-06-23 20:38:51 - [TEST_STEP][PASSED] - verifyElementVisible(findTestObject("User/Page_Dashboard/Shareholder/User List/input_Search_form-control form-control-sm")): Object 'Object Repository/User/Page_Dashboard/Shareholder/User List/input_Search_form-control form-control-sm' is visible
+
+2023-06-23 20:38:51 - [MESSAGE][PASSED] - Object 'Object Repository/User/Page_Dashboard/Shareholder/User List/input_Search_form-control form-control-sm' is visible
+
+2023-06-23 20:38:51 - [TEST_STEP][PASSED] - com.reusableComponent.HighlightElement.run(findTestObject("User/Page_Dashboard/Shareholder/User Wallets/th_Shareholder name")): com.reusableComponent.HighlightElement.run is PASSED
+
+2023-06-23 20:38:52 - [MESSAGE][PASSED] - com.reusableComponent.HighlightElement.run is PASSED
+
+2023-06-23 20:38:52 - [TEST_STEP][PASSED] - com.reusableComponent.HighlightElement.run(findTestObject("User/Page_Dashboard/Shareholder/User Wallets/th_Wallet Negative")): com.reusableComponent.HighlightElement.run is PASSED
+
+2023-06-23 20:38:52 - [MESSAGE][PASSED] - com.reusableComponent.HighlightElement.run is PASSED
+
+2023-06-23 20:38:52 - [TEST_STEP][PASSED] - com.reusableComponent.HighlightElement.run(findTestObject("User/Page_Dashboard/Shareholder/User Wallets/th_Wallet Last Update")): com.reusableComponent.HighlightElement.run is PASSED
+
+2023-06-23 20:38:53 - [MESSAGE][PASSED] - com.reusableComponent.HighlightElement.run is PASSED
+
+2023-06-23 20:38:53 - [TEST_STEP][PASSED] - com.reusableComponent.HighlightElement.run(findTestObject("User/Page_Dashboard/Shareholder/User Wallets/th_Action")): com.reusableComponent.HighlightElement.run is PASSED
+
+2023-06-23 20:38:53 - [MESSAGE][PASSED] - com.reusableComponent.HighlightElement.run is PASSED
+
+2023-06-23 20:38:53 - [TEST_STEP][PASSED] - com.reusableComponent.HighlightElement.run(findTestObject("User/Page_Dashboard/Shareholder/User Wallets/table_Shareholder name")): com.reusableComponent.HighlightElement.run is PASSED
+
+2023-06-23 20:38:54 - [MESSAGE][PASSED] - com.reusableComponent.HighlightElement.run is PASSED
+
+2023-06-23 20:38:54 - [TEST_STEP][PASSED] - verifyElementVisible(findTestObject("User/Page_Dashboard/Shareholder/User Wallets/th_Shareholder name")): Object 'Object Repository/User/Page_Dashboard/Shareholder/User Wallets/th_Shareholder name' is visible
+
+2023-06-23 20:38:54 - [MESSAGE][PASSED] - Object 'Object Repository/User/Page_Dashboard/Shareholder/User Wallets/th_Shareholder name' is visible
+
+2023-06-23 20:38:54 - [TEST_STEP][PASSED] - verifyElementVisible(findTestObject("User/Page_Dashboard/Shareholder/User Wallets/th_Wallet Negative")): Object 'Object Repository/User/Page_Dashboard/Shareholder/User Wallets/th_Wallet Negative' is visible
+
+2023-06-23 20:38:55 - [MESSAGE][PASSED] - Object 'Object Repository/User/Page_Dashboard/Shareholder/User Wallets/th_Wallet Negative' is visible
+
+2023-06-23 20:38:55 - [TEST_STEP][PASSED] - verifyElementVisible(findTestObject("User/Page_Dashboard/Shareholder/User Wallets/th_Wallet Last Update")): Object 'Object Repository/User/Page_Dashboard/Shareholder/User Wallets/th_Wallet Last Update' is visible
+
+2023-06-23 20:38:55 - [MESSAGE][PASSED] - Object 'Object Repository/User/Page_Dashboard/Shareholder/User Wallets/th_Wallet Last Update' is visible
+
+2023-06-23 20:38:55 - [TEST_STEP][PASSED] - verifyElementVisible(findTestObject("User/Page_Dashboard/Shareholder/User Wallets/th_Action")): Object 'Object Repository/User/Page_Dashboard/Shareholder/User Wallets/th_Action' is visible
+
+2023-06-23 20:38:55 - [MESSAGE][PASSED] - Object 'Object Repository/User/Page_Dashboard/Shareholder/User Wallets/th_Action' is visible
+
+2023-06-23 20:38:55 - [TEST_STEP][PASSED] - verifyElementVisible(findTestObject("User/Page_Dashboard/Shareholder/User Wallets/table_Shareholder name")): Object 'Object Repository/User/Page_Dashboard/Shareholder/User Wallets/table_Shareholder name' is visible
+
+2023-06-23 20:38:56 - [MESSAGE][PASSED] - Object 'Object Repository/User/Page_Dashboard/Shareholder/User Wallets/table_Shareholder name' is visible
+
+2023-06-23 20:38:56 - [TEST_STEP][PASSED] - com.reusableComponent.HighlightElement.run(findTestObject("User/Page_Dashboard/Shareholder/User Wallets/li_Previous")): com.reusableComponent.HighlightElement.run is PASSED
+
+2023-06-23 20:38:56 - [MESSAGE][PASSED] - com.reusableComponent.HighlightElement.run is PASSED
+
+2023-06-23 20:38:56 - [TEST_STEP][PASSED] - com.reusableComponent.HighlightElement.run(findTestObject("User/Page_Dashboard/Shareholder/User Wallets/a_Next")): com.reusableComponent.HighlightElement.run is PASSED
+
+2023-06-23 20:38:57 - [MESSAGE][PASSED] - com.reusableComponent.HighlightElement.run is PASSED
+
+2023-06-23 20:38:57 - [TEST_STEP][PASSED] - verifyElementVisible(findTestObject("User/Page_Dashboard/Shareholder/User Wallets/li_Previous")): Object 'Object Repository/User/Page_Dashboard/Shareholder/User Wallets/li_Previous' is visible
+
+2023-06-23 20:38:57 - [MESSAGE][PASSED] - Object 'Object Repository/User/Page_Dashboard/Shareholder/User Wallets/li_Previous' is visible
+
+2023-06-23 20:38:57 - [TEST_STEP][PASSED] - verifyElementVisible(findTestObject("User/Page_Dashboard/Shareholder/User Wallets/a_Next")): Object 'Object Repository/User/Page_Dashboard/Shareholder/User Wallets/a_Next' is visible
+
+2023-06-23 20:38:57 - [MESSAGE][PASSED] - Object 'Object Repository/User/Page_Dashboard/Shareholder/User Wallets/a_Next' is visible]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/User/Shareholder/Negative Wallet USD" time="21.907" classname="Test Cases/User/Shareholder/Negative Wallet USD" status="PASSED">
+         <system-out><![CDATA[2023-06-23 20:38:57 - [TEST_CASE][PASSED] - Test Cases/User/Shareholder/Negative Wallet USD: Test Cases/User/Shareholder/Negative Wallet USD
+
+2023-06-23 20:38:58 - [TEST_STEP][PASSED] - com.reusableComponent.HighlightElement.run(findTestObject("User/Page_Dashboard/Member/span_User")): com.reusableComponent.HighlightElement.run is PASSED
+
+2023-06-23 20:38:59 - [MESSAGE][PASSED] - com.reusableComponent.HighlightElement.run is PASSED
+
+2023-06-23 20:38:59 - [TEST_STEP][PASSED] - mouseOver(findTestObject("User/Page_Dashboard/Member/span_User")): Object: 'Object Repository/User/Page_Dashboard/Member/span_User' is hovered
+
+2023-06-23 20:38:59 - [MESSAGE][PASSED] - Object: 'Object Repository/User/Page_Dashboard/Member/span_User' is hovered
+
+2023-06-23 20:38:59 - [TEST_STEP][PASSED] - com.reusableComponent.HighlightElement.run(findTestObject("User/Page_Dashboard/Shareholder/span_Negative Wallet")): com.reusableComponent.HighlightElement.run is PASSED
+
+2023-06-23 20:39:00 - [MESSAGE][PASSED] - com.reusableComponent.HighlightElement.run is PASSED
+
+2023-06-23 20:39:00 - [TEST_STEP][PASSED] - mouseOver(findTestObject("User/Page_Dashboard/Shareholder/span_Negative Wallet")): Object: 'Object Repository/User/Page_Dashboard/Shareholder/span_Negative Wallet' is hovered
+
+2023-06-23 20:39:00 - [MESSAGE][PASSED] - Object: 'Object Repository/User/Page_Dashboard/Shareholder/span_Negative Wallet' is hovered
+
+2023-06-23 20:39:00 - [TEST_STEP][PASSED] - com.reusableComponent.HighlightElement.run(findTestObject("User/Page_Dashboard/Shareholder/Negative Wallet/span_USD")): com.reusableComponent.HighlightElement.run is PASSED
+
+2023-06-23 20:39:01 - [MESSAGE][PASSED] - com.reusableComponent.HighlightElement.run is PASSED
+
+2023-06-23 20:39:01 - [TEST_STEP][PASSED] - mouseOver(findTestObject("User/Page_Dashboard/Shareholder/Negative Wallet/span_USD")): Object: 'Object Repository/User/Page_Dashboard/Shareholder/Negative Wallet/span_USD' is hovered
+
+2023-06-23 20:39:01 - [MESSAGE][PASSED] - Object: 'Object Repository/User/Page_Dashboard/Shareholder/Negative Wallet/span_USD' is hovered
+
+2023-06-23 20:39:01 - [TEST_STEP][PASSED] - click(findTestObject("User/Page_Dashboard/Shareholder/Negative Wallet/span_USD")): Object: 'Object Repository/User/Page_Dashboard/Shareholder/Negative Wallet/span_USD' is clicked on
+
+2023-06-23 20:39:06 - [MESSAGE][PASSED] - Object: 'Object Repository/User/Page_Dashboard/Shareholder/Negative Wallet/span_USD' is clicked on
+
+2023-06-23 20:39:06 - [TEST_STEP][PASSED] - waitForElementVisible(findTestObject("User/Page_Dashboard/Shareholder/Negative Wallet/h3_Shareholder Negative Report"), 0): Object 'Object Repository/User/Page_Dashboard/Shareholder/Negative Wallet/h3_Shareholder Negative Report' is visible
+
+2023-06-23 20:39:06 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+2023-06-23 20:39:07 - [MESSAGE][PASSED] - Object 'Object Repository/User/Page_Dashboard/Shareholder/Negative Wallet/h3_Shareholder Negative Report' is visible
+
+2023-06-23 20:39:07 - [TEST_STEP][PASSED] - com.reusableComponent.HighlightElement.run(findTestObject("User/Page_Dashboard/Shareholder/Negative Wallet/h3_Shareholder Negative Report")): com.reusableComponent.HighlightElement.run is PASSED
+
+2023-06-23 20:39:08 - [MESSAGE][PASSED] - com.reusableComponent.HighlightElement.run is PASSED
+
+2023-06-23 20:39:08 - [TEST_STEP][PASSED] - verifyElementVisible(findTestObject("User/Page_Dashboard/Shareholder/Negative Wallet/h3_Shareholder Negative Report")): Object 'Object Repository/User/Page_Dashboard/Shareholder/Negative Wallet/h3_Shareholder Negative Report' is visible
+
+2023-06-23 20:39:08 - [MESSAGE][PASSED] - Object 'Object Repository/User/Page_Dashboard/Shareholder/Negative Wallet/h3_Shareholder Negative Report' is visible
+
+2023-06-23 20:39:08 - [TEST_STEP][PASSED] - com.reusableComponent.HighlightElement.run(findTestObject("User/Page_Dashboard/Shareholder/Negative Wallet/select_1050100200All")): com.reusableComponent.HighlightElement.run is PASSED
+
+2023-06-23 20:39:08 - [MESSAGE][PASSED] - com.reusableComponent.HighlightElement.run is PASSED
+
+2023-06-23 20:39:08 - [TEST_STEP][PASSED] - com.reusableComponent.HighlightElement.run(findTestObject("User/Page_Dashboard/Shareholder/Negative Wallet/span_Copy")): com.reusableComponent.HighlightElement.run is PASSED
+
+2023-06-23 20:39:09 - [MESSAGE][PASSED] - com.reusableComponent.HighlightElement.run is PASSED
+
+2023-06-23 20:39:09 - [TEST_STEP][PASSED] - com.reusableComponent.HighlightElement.run(findTestObject("User/Page_Dashboard/Shareholder/Negative Wallet/span_CSV")): com.reusableComponent.HighlightElement.run is PASSED
+
+2023-06-23 20:39:09 - [MESSAGE][PASSED] - com.reusableComponent.HighlightElement.run is PASSED
+
+2023-06-23 20:39:09 - [TEST_STEP][PASSED] - com.reusableComponent.HighlightElement.run(findTestObject("User/Page_Dashboard/Shareholder/Negative Wallet/span_Excel")): com.reusableComponent.HighlightElement.run is PASSED
+
+2023-06-23 20:39:10 - [MESSAGE][PASSED] - com.reusableComponent.HighlightElement.run is PASSED
+
+2023-06-23 20:39:10 - [TEST_STEP][PASSED] - com.reusableComponent.HighlightElement.run(findTestObject("User/Page_Dashboard/Shareholder/Negative Wallet/span_PDF")): com.reusableComponent.HighlightElement.run is PASSED
+
+2023-06-23 20:39:10 - [MESSAGE][PASSED] - com.reusableComponent.HighlightElement.run is PASSED
+
+2023-06-23 20:39:10 - [TEST_STEP][PASSED] - verifyElementVisible(findTestObject("User/Page_Dashboard/Shareholder/Negative Wallet/select_1050100200All")): Object 'Object Repository/User/Page_Dashboard/Shareholder/Negative Wallet/select_1050100200All' is visible
+
+2023-06-23 20:39:11 - [MESSAGE][PASSED] - Object 'Object Repository/User/Page_Dashboard/Shareholder/Negative Wallet/select_1050100200All' is visible
+
+2023-06-23 20:39:11 - [TEST_STEP][PASSED] - verifyElementVisible(findTestObject("User/Page_Dashboard/Shareholder/Negative Wallet/span_Copy")): Object 'Object Repository/User/Page_Dashboard/Shareholder/Negative Wallet/span_Copy' is visible
+
+2023-06-23 20:39:11 - [MESSAGE][PASSED] - Object 'Object Repository/User/Page_Dashboard/Shareholder/Negative Wallet/span_Copy' is visible
+
+2023-06-23 20:39:11 - [TEST_STEP][PASSED] - verifyElementVisible(findTestObject("User/Page_Dashboard/Shareholder/Negative Wallet/span_CSV")): Object 'Object Repository/User/Page_Dashboard/Shareholder/Negative Wallet/span_CSV' is visible
+
+2023-06-23 20:39:11 - [MESSAGE][PASSED] - Object 'Object Repository/User/Page_Dashboard/Shareholder/Negative Wallet/span_CSV' is visible
+
+2023-06-23 20:39:11 - [TEST_STEP][PASSED] - verifyElementVisible(findTestObject("User/Page_Dashboard/Shareholder/Negative Wallet/span_Excel")): Object 'Object Repository/User/Page_Dashboard/Shareholder/Negative Wallet/span_Excel' is visible
+
+2023-06-23 20:39:12 - [MESSAGE][PASSED] - Object 'Object Repository/User/Page_Dashboard/Shareholder/Negative Wallet/span_Excel' is visible
+
+2023-06-23 20:39:12 - [TEST_STEP][PASSED] - verifyElementVisible(findTestObject("User/Page_Dashboard/Shareholder/Negative Wallet/span_PDF")): Object 'Object Repository/User/Page_Dashboard/Shareholder/Negative Wallet/span_PDF' is visible
+
+2023-06-23 20:39:12 - [MESSAGE][PASSED] - Object 'Object Repository/User/Page_Dashboard/Shareholder/Negative Wallet/span_PDF' is visible
+
+2023-06-23 20:39:12 - [TEST_STEP][PASSED] - com.reusableComponent.HighlightElement.run(findTestObject("User/Page_Dashboard/Shareholder/User List/input_Search_form-control form-control-sm")): com.reusableComponent.HighlightElement.run is PASSED
+
+2023-06-23 20:39:13 - [MESSAGE][PASSED] - com.reusableComponent.HighlightElement.run is PASSED
+
+2023-06-23 20:39:13 - [TEST_STEP][PASSED] - verifyElementVisible(findTestObject("User/Page_Dashboard/Shareholder/User List/input_Search_form-control form-control-sm")): Object 'Object Repository/User/Page_Dashboard/Shareholder/User List/input_Search_form-control form-control-sm' is visible
+
+2023-06-23 20:39:13 - [MESSAGE][PASSED] - Object 'Object Repository/User/Page_Dashboard/Shareholder/User List/input_Search_form-control form-control-sm' is visible
+
+2023-06-23 20:39:13 - [TEST_STEP][PASSED] - com.reusableComponent.HighlightElement.run(findTestObject("User/Page_Dashboard/Shareholder/User Wallets/th_Shareholder name")): com.reusableComponent.HighlightElement.run is PASSED
+
+2023-06-23 20:39:14 - [MESSAGE][PASSED] - com.reusableComponent.HighlightElement.run is PASSED
+
+2023-06-23 20:39:14 - [TEST_STEP][PASSED] - com.reusableComponent.HighlightElement.run(findTestObject("User/Page_Dashboard/Shareholder/User Wallets/th_Wallet Negative")): com.reusableComponent.HighlightElement.run is PASSED
+
+2023-06-23 20:39:14 - [MESSAGE][PASSED] - com.reusableComponent.HighlightElement.run is PASSED
+
+2023-06-23 20:39:14 - [TEST_STEP][PASSED] - com.reusableComponent.HighlightElement.run(findTestObject("User/Page_Dashboard/Shareholder/User Wallets/th_Wallet Last Update")): com.reusableComponent.HighlightElement.run is PASSED
+
+2023-06-23 20:39:15 - [MESSAGE][PASSED] - com.reusableComponent.HighlightElement.run is PASSED
+
+2023-06-23 20:39:15 - [TEST_STEP][PASSED] - com.reusableComponent.HighlightElement.run(findTestObject("User/Page_Dashboard/Shareholder/User Wallets/th_Action")): com.reusableComponent.HighlightElement.run is PASSED
+
+2023-06-23 20:39:15 - [MESSAGE][PASSED] - com.reusableComponent.HighlightElement.run is PASSED
+
+2023-06-23 20:39:15 - [TEST_STEP][PASSED] - com.reusableComponent.HighlightElement.run(findTestObject("User/Page_Dashboard/Shareholder/User Wallets/table_Shareholder name")): com.reusableComponent.HighlightElement.run is PASSED
+
+2023-06-23 20:39:16 - [MESSAGE][PASSED] - com.reusableComponent.HighlightElement.run is PASSED
+
+2023-06-23 20:39:16 - [TEST_STEP][PASSED] - verifyElementVisible(findTestObject("User/Page_Dashboard/Shareholder/User Wallets/th_Shareholder name")): Object 'Object Repository/User/Page_Dashboard/Shareholder/User Wallets/th_Shareholder name' is visible
+
+2023-06-23 20:39:16 - [MESSAGE][PASSED] - Object 'Object Repository/User/Page_Dashboard/Shareholder/User Wallets/th_Shareholder name' is visible
+
+2023-06-23 20:39:16 - [TEST_STEP][PASSED] - verifyElementVisible(findTestObject("User/Page_Dashboard/Shareholder/User Wallets/th_Wallet Negative")): Object 'Object Repository/User/Page_Dashboard/Shareholder/User Wallets/th_Wallet Negative' is visible
+
+2023-06-23 20:39:16 - [MESSAGE][PASSED] - Object 'Object Repository/User/Page_Dashboard/Shareholder/User Wallets/th_Wallet Negative' is visible
+
+2023-06-23 20:39:16 - [TEST_STEP][PASSED] - verifyElementVisible(findTestObject("User/Page_Dashboard/Shareholder/User Wallets/th_Wallet Last Update")): Object 'Object Repository/User/Page_Dashboard/Shareholder/User Wallets/th_Wallet Last Update' is visible
+
+2023-06-23 20:39:17 - [MESSAGE][PASSED] - Object 'Object Repository/User/Page_Dashboard/Shareholder/User Wallets/th_Wallet Last Update' is visible
+
+2023-06-23 20:39:17 - [TEST_STEP][PASSED] - verifyElementVisible(findTestObject("User/Page_Dashboard/Shareholder/User Wallets/th_Action")): Object 'Object Repository/User/Page_Dashboard/Shareholder/User Wallets/th_Action' is visible
+
+2023-06-23 20:39:17 - [MESSAGE][PASSED] - Object 'Object Repository/User/Page_Dashboard/Shareholder/User Wallets/th_Action' is visible
+
+2023-06-23 20:39:17 - [TEST_STEP][PASSED] - verifyElementVisible(findTestObject("User/Page_Dashboard/Shareholder/User Wallets/table_Shareholder name")): Object 'Object Repository/User/Page_Dashboard/Shareholder/User Wallets/table_Shareholder name' is visible
+
+2023-06-23 20:39:18 - [MESSAGE][PASSED] - Object 'Object Repository/User/Page_Dashboard/Shareholder/User Wallets/table_Shareholder name' is visible
+
+2023-06-23 20:39:18 - [TEST_STEP][PASSED] - com.reusableComponent.HighlightElement.run(findTestObject("User/Page_Dashboard/Shareholder/User Wallets/li_Previous")): com.reusableComponent.HighlightElement.run is PASSED
+
+2023-06-23 20:39:18 - [MESSAGE][PASSED] - com.reusableComponent.HighlightElement.run is PASSED
+
+2023-06-23 20:39:18 - [TEST_STEP][PASSED] - com.reusableComponent.HighlightElement.run(findTestObject("User/Page_Dashboard/Shareholder/User Wallets/a_Next")): com.reusableComponent.HighlightElement.run is PASSED
+
+2023-06-23 20:39:19 - [MESSAGE][PASSED] - com.reusableComponent.HighlightElement.run is PASSED
+
+2023-06-23 20:39:19 - [TEST_STEP][PASSED] - verifyElementVisible(findTestObject("User/Page_Dashboard/Shareholder/User Wallets/li_Previous")): Object 'Object Repository/User/Page_Dashboard/Shareholder/User Wallets/li_Previous' is visible
+
+2023-06-23 20:39:19 - [MESSAGE][PASSED] - Object 'Object Repository/User/Page_Dashboard/Shareholder/User Wallets/li_Previous' is visible
+
+2023-06-23 20:39:19 - [TEST_STEP][PASSED] - verifyElementVisible(findTestObject("User/Page_Dashboard/Shareholder/User Wallets/a_Next")): Object 'Object Repository/User/Page_Dashboard/Shareholder/User Wallets/a_Next' is visible
+
+2023-06-23 20:39:19 - [MESSAGE][PASSED] - Object 'Object Repository/User/Page_Dashboard/Shareholder/User Wallets/a_Next' is visible]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/User/Shareholder/Positive Wallet MYR" time="19.603" classname="Test Cases/User/Shareholder/Positive Wallet MYR" status="PASSED">
+         <system-out><![CDATA[2023-06-23 20:39:19 - [TEST_CASE][PASSED] - Test Cases/User/Shareholder/Positive Wallet MYR: Test Cases/User/Shareholder/Positive Wallet MYR
+
+2023-06-23 20:39:20 - [TEST_STEP][PASSED] - com.reusableComponent.HighlightElement.run(findTestObject("User/Page_Dashboard/Member/span_User")): com.reusableComponent.HighlightElement.run is PASSED
+
+2023-06-23 20:39:20 - [MESSAGE][PASSED] - com.reusableComponent.HighlightElement.run is PASSED
+
+2023-06-23 20:39:20 - [TEST_STEP][PASSED] - mouseOver(findTestObject("User/Page_Dashboard/Member/span_User")): Object: 'Object Repository/User/Page_Dashboard/Member/span_User' is hovered
+
+2023-06-23 20:39:21 - [MESSAGE][PASSED] - Object: 'Object Repository/User/Page_Dashboard/Member/span_User' is hovered
+
+2023-06-23 20:39:21 - [TEST_STEP][PASSED] - com.reusableComponent.HighlightElement.run(findTestObject("User/Page_Dashboard/Shareholder/span_Positive Wallet")): com.reusableComponent.HighlightElement.run is PASSED
+
+2023-06-23 20:39:22 - [MESSAGE][PASSED] - com.reusableComponent.HighlightElement.run is PASSED
+
+2023-06-23 20:39:22 - [TEST_STEP][PASSED] - mouseOver(findTestObject("User/Page_Dashboard/Shareholder/span_Positive Wallet")): Object: 'Object Repository/User/Page_Dashboard/Shareholder/span_Positive Wallet' is hovered
+
+2023-06-23 20:39:22 - [MESSAGE][PASSED] - Object: 'Object Repository/User/Page_Dashboard/Shareholder/span_Positive Wallet' is hovered
+
+2023-06-23 20:39:22 - [TEST_STEP][PASSED] - com.reusableComponent.HighlightElement.run(findTestObject("User/Page_Dashboard/Shareholder/Positive Wallet/span_MYR")): com.reusableComponent.HighlightElement.run is PASSED
+
+2023-06-23 20:39:23 - [MESSAGE][PASSED] - com.reusableComponent.HighlightElement.run is PASSED
+
+2023-06-23 20:39:23 - [TEST_STEP][PASSED] - mouseOver(findTestObject("User/Page_Dashboard/Shareholder/Positive Wallet/span_MYR")): Object: 'Object Repository/User/Page_Dashboard/Shareholder/Positive Wallet/span_MYR' is hovered
+
+2023-06-23 20:39:23 - [MESSAGE][PASSED] - Object: 'Object Repository/User/Page_Dashboard/Shareholder/Positive Wallet/span_MYR' is hovered
+
+2023-06-23 20:39:23 - [TEST_STEP][PASSED] - click(findTestObject("User/Page_Dashboard/Shareholder/Positive Wallet/span_MYR")): Object: 'Object Repository/User/Page_Dashboard/Shareholder/Positive Wallet/span_MYR' is clicked on
+
+2023-06-23 20:39:25 - [MESSAGE][PASSED] - Object: 'Object Repository/User/Page_Dashboard/Shareholder/Positive Wallet/span_MYR' is clicked on
+
+2023-06-23 20:39:25 - [TEST_STEP][PASSED] - waitForElementVisible(findTestObject("User/Page_Dashboard/Shareholder/Positive Wallet/h3_Shareholder Positive Report"), 0): Object 'Object Repository/User/Page_Dashboard/Shareholder/Positive Wallet/h3_Shareholder Positive Report' is visible
+
+2023-06-23 20:39:25 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+2023-06-23 20:39:26 - [MESSAGE][PASSED] - Object 'Object Repository/User/Page_Dashboard/Shareholder/Positive Wallet/h3_Shareholder Positive Report' is visible
+
+2023-06-23 20:39:26 - [TEST_STEP][PASSED] - com.reusableComponent.HighlightElement.run(findTestObject("User/Page_Dashboard/Shareholder/Positive Wallet/h3_Shareholder Positive Report")): com.reusableComponent.HighlightElement.run is PASSED
+
+2023-06-23 20:39:27 - [MESSAGE][PASSED] - com.reusableComponent.HighlightElement.run is PASSED
+
+2023-06-23 20:39:27 - [TEST_STEP][PASSED] - verifyElementVisible(findTestObject("User/Page_Dashboard/Shareholder/Positive Wallet/h3_Shareholder Positive Report")): Object 'Object Repository/User/Page_Dashboard/Shareholder/Positive Wallet/h3_Shareholder Positive Report' is visible
+
+2023-06-23 20:39:27 - [MESSAGE][PASSED] - Object 'Object Repository/User/Page_Dashboard/Shareholder/Positive Wallet/h3_Shareholder Positive Report' is visible
+
+2023-06-23 20:39:27 - [TEST_STEP][PASSED] - com.reusableComponent.HighlightElement.run(findTestObject("User/Page_Dashboard/Shareholder/Positive Wallet/select_1050100200All")): com.reusableComponent.HighlightElement.run is PASSED
+
+2023-06-23 20:39:28 - [MESSAGE][PASSED] - com.reusableComponent.HighlightElement.run is PASSED
+
+2023-06-23 20:39:28 - [TEST_STEP][PASSED] - com.reusableComponent.HighlightElement.run(findTestObject("User/Page_Dashboard/Shareholder/Positive Wallet/span_Copy")): com.reusableComponent.HighlightElement.run is PASSED
+
+2023-06-23 20:39:28 - [MESSAGE][PASSED] - com.reusableComponent.HighlightElement.run is PASSED
+
+2023-06-23 20:39:28 - [TEST_STEP][PASSED] - com.reusableComponent.HighlightElement.run(findTestObject("User/Page_Dashboard/Shareholder/Positive Wallet/span_CSV")): com.reusableComponent.HighlightElement.run is PASSED
+
+2023-06-23 20:39:29 - [MESSAGE][PASSED] - com.reusableComponent.HighlightElement.run is PASSED
+
+2023-06-23 20:39:29 - [TEST_STEP][PASSED] - com.reusableComponent.HighlightElement.run(findTestObject("User/Page_Dashboard/Shareholder/Positive Wallet/span_Excel")): com.reusableComponent.HighlightElement.run is PASSED
+
+2023-06-23 20:39:29 - [MESSAGE][PASSED] - com.reusableComponent.HighlightElement.run is PASSED
+
+2023-06-23 20:39:29 - [TEST_STEP][PASSED] - com.reusableComponent.HighlightElement.run(findTestObject("User/Page_Dashboard/Shareholder/Positive Wallet/span_PDF")): com.reusableComponent.HighlightElement.run is PASSED
+
+2023-06-23 20:39:30 - [MESSAGE][PASSED] - com.reusableComponent.HighlightElement.run is PASSED
+
+2023-06-23 20:39:30 - [TEST_STEP][PASSED] - verifyElementVisible(findTestObject("User/Page_Dashboard/Shareholder/Positive Wallet/select_1050100200All")): Object 'Object Repository/User/Page_Dashboard/Shareholder/Positive Wallet/select_1050100200All' is visible
+
+2023-06-23 20:39:30 - [MESSAGE][PASSED] - Object 'Object Repository/User/Page_Dashboard/Shareholder/Positive Wallet/select_1050100200All' is visible
+
+2023-06-23 20:39:30 - [TEST_STEP][PASSED] - verifyElementVisible(findTestObject("User/Page_Dashboard/Shareholder/Positive Wallet/span_Copy")): Object 'Object Repository/User/Page_Dashboard/Shareholder/Positive Wallet/span_Copy' is visible
+
+2023-06-23 20:39:31 - [MESSAGE][PASSED] - Object 'Object Repository/User/Page_Dashboard/Shareholder/Positive Wallet/span_Copy' is visible
+
+2023-06-23 20:39:31 - [TEST_STEP][PASSED] - verifyElementVisible(findTestObject("User/Page_Dashboard/Shareholder/Positive Wallet/span_CSV")): Object 'Object Repository/User/Page_Dashboard/Shareholder/Positive Wallet/span_CSV' is visible
+
+2023-06-23 20:39:31 - [MESSAGE][PASSED] - Object 'Object Repository/User/Page_Dashboard/Shareholder/Positive Wallet/span_CSV' is visible
+
+2023-06-23 20:39:31 - [TEST_STEP][PASSED] - verifyElementVisible(findTestObject("User/Page_Dashboard/Shareholder/Positive Wallet/span_Excel")): Object 'Object Repository/User/Page_Dashboard/Shareholder/Positive Wallet/span_Excel' is visible
+
+2023-06-23 20:39:31 - [MESSAGE][PASSED] - Object 'Object Repository/User/Page_Dashboard/Shareholder/Positive Wallet/span_Excel' is visible
+
+2023-06-23 20:39:31 - [TEST_STEP][PASSED] - verifyElementVisible(findTestObject("User/Page_Dashboard/Shareholder/Positive Wallet/span_PDF")): Object 'Object Repository/User/Page_Dashboard/Shareholder/Positive Wallet/span_PDF' is visible
+
+2023-06-23 20:39:32 - [MESSAGE][PASSED] - Object 'Object Repository/User/Page_Dashboard/Shareholder/Positive Wallet/span_PDF' is visible
+
+2023-06-23 20:39:32 - [TEST_STEP][PASSED] - com.reusableComponent.HighlightElement.run(findTestObject("User/Page_Dashboard/Shareholder/Positive Wallet/input_Search_form-control form-control-sm")): com.reusableComponent.HighlightElement.run is PASSED
+
+2023-06-23 20:39:32 - [MESSAGE][PASSED] - com.reusableComponent.HighlightElement.run is PASSED
+
+2023-06-23 20:39:32 - [TEST_STEP][PASSED] - verifyElementVisible(findTestObject("User/Page_Dashboard/Shareholder/Positive Wallet/input_Search_form-control form-control-sm")): Object 'Object Repository/User/Page_Dashboard/Shareholder/Positive Wallet/input_Search_form-control form-control-sm' is visible
+
+2023-06-23 20:39:33 - [MESSAGE][PASSED] - Object 'Object Repository/User/Page_Dashboard/Shareholder/Positive Wallet/input_Search_form-control form-control-sm' is visible
+
+2023-06-23 20:39:33 - [TEST_STEP][PASSED] - com.reusableComponent.HighlightElement.run(findTestObject("User/Page_Dashboard/Shareholder/Positive Wallet/th_Shareholder name")): com.reusableComponent.HighlightElement.run is PASSED
+
+2023-06-23 20:39:33 - [MESSAGE][PASSED] - com.reusableComponent.HighlightElement.run is PASSED
+
+2023-06-23 20:39:33 - [TEST_STEP][PASSED] - com.reusableComponent.HighlightElement.run(findTestObject("User/Page_Dashboard/Shareholder/Positive Wallet/th_Wallet Positive")): com.reusableComponent.HighlightElement.run is PASSED
+
+2023-06-23 20:39:34 - [MESSAGE][PASSED] - com.reusableComponent.HighlightElement.run is PASSED
+
+2023-06-23 20:39:34 - [TEST_STEP][PASSED] - com.reusableComponent.HighlightElement.run(findTestObject("User/Page_Dashboard/Shareholder/Positive Wallet/th_Wallet Last Update")): com.reusableComponent.HighlightElement.run is PASSED
+
+2023-06-23 20:39:34 - [MESSAGE][PASSED] - com.reusableComponent.HighlightElement.run is PASSED
+
+2023-06-23 20:39:34 - [TEST_STEP][PASSED] - com.reusableComponent.HighlightElement.run(findTestObject("User/Page_Dashboard/Shareholder/Positive Wallet/th_Action")): com.reusableComponent.HighlightElement.run is PASSED
+
+2023-06-23 20:39:35 - [MESSAGE][PASSED] - com.reusableComponent.HighlightElement.run is PASSED
+
+2023-06-23 20:39:35 - [TEST_STEP][PASSED] - com.reusableComponent.HighlightElement.run(findTestObject("User/Page_Dashboard/Shareholder/Positive Wallet/table_Shareholder name")): com.reusableComponent.HighlightElement.run is PASSED
+
+2023-06-23 20:39:35 - [MESSAGE][PASSED] - com.reusableComponent.HighlightElement.run is PASSED
+
+2023-06-23 20:39:35 - [TEST_STEP][PASSED] - verifyElementVisible(findTestObject("User/Page_Dashboard/Shareholder/Positive Wallet/th_Shareholder name")): Object 'Object Repository/User/Page_Dashboard/Shareholder/Positive Wallet/th_Shareholder name' is visible
+
+2023-06-23 20:39:36 - [MESSAGE][PASSED] - Object 'Object Repository/User/Page_Dashboard/Shareholder/Positive Wallet/th_Shareholder name' is visible
+
+2023-06-23 20:39:36 - [TEST_STEP][PASSED] - verifyElementVisible(findTestObject("User/Page_Dashboard/Shareholder/Positive Wallet/th_Wallet Positive")): Object 'Object Repository/User/Page_Dashboard/Shareholder/Positive Wallet/th_Wallet Positive' is visible
+
+2023-06-23 20:39:36 - [MESSAGE][PASSED] - Object 'Object Repository/User/Page_Dashboard/Shareholder/Positive Wallet/th_Wallet Positive' is visible
+
+2023-06-23 20:39:36 - [TEST_STEP][PASSED] - verifyElementVisible(findTestObject("User/Page_Dashboard/Shareholder/Positive Wallet/th_Wallet Last Update")): Object 'Object Repository/User/Page_Dashboard/Shareholder/Positive Wallet/th_Wallet Last Update' is visible
+
+2023-06-23 20:39:36 - [MESSAGE][PASSED] - Object 'Object Repository/User/Page_Dashboard/Shareholder/Positive Wallet/th_Wallet Last Update' is visible
+
+2023-06-23 20:39:36 - [TEST_STEP][PASSED] - verifyElementVisible(findTestObject("User/Page_Dashboard/Shareholder/Positive Wallet/th_Action")): Object 'Object Repository/User/Page_Dashboard/Shareholder/Positive Wallet/th_Action' is visible
+
+2023-06-23 20:39:37 - [MESSAGE][PASSED] - Object 'Object Repository/User/Page_Dashboard/Shareholder/Positive Wallet/th_Action' is visible
+
+2023-06-23 20:39:37 - [TEST_STEP][PASSED] - verifyElementVisible(findTestObject("User/Page_Dashboard/Shareholder/Positive Wallet/table_Shareholder name")): Object 'Object Repository/User/Page_Dashboard/Shareholder/Positive Wallet/table_Shareholder name' is visible
+
+2023-06-23 20:39:37 - [MESSAGE][PASSED] - Object 'Object Repository/User/Page_Dashboard/Shareholder/Positive Wallet/table_Shareholder name' is visible
+
+2023-06-23 20:39:37 - [TEST_STEP][PASSED] - com.reusableComponent.HighlightElement.run(findTestObject("User/Page_Dashboard/Shareholder/User Wallets/li_Previous")): com.reusableComponent.HighlightElement.run is PASSED
+
+2023-06-23 20:39:38 - [MESSAGE][PASSED] - com.reusableComponent.HighlightElement.run is PASSED
+
+2023-06-23 20:39:38 - [TEST_STEP][PASSED] - com.reusableComponent.HighlightElement.run(findTestObject("User/Page_Dashboard/Shareholder/User Wallets/a_Next")): com.reusableComponent.HighlightElement.run is PASSED
+
+2023-06-23 20:39:38 - [MESSAGE][PASSED] - com.reusableComponent.HighlightElement.run is PASSED
+
+2023-06-23 20:39:38 - [TEST_STEP][PASSED] - verifyElementVisible(findTestObject("User/Page_Dashboard/Shareholder/User Wallets/li_Previous")): Object 'Object Repository/User/Page_Dashboard/Shareholder/User Wallets/li_Previous' is visible
+
+2023-06-23 20:39:39 - [MESSAGE][PASSED] - Object 'Object Repository/User/Page_Dashboard/Shareholder/User Wallets/li_Previous' is visible
+
+2023-06-23 20:39:39 - [TEST_STEP][PASSED] - verifyElementVisible(findTestObject("User/Page_Dashboard/Shareholder/User Wallets/a_Next")): Object 'Object Repository/User/Page_Dashboard/Shareholder/User Wallets/a_Next' is visible
+
+2023-06-23 20:39:39 - [MESSAGE][PASSED] - Object 'Object Repository/User/Page_Dashboard/Shareholder/User Wallets/a_Next' is visible]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/User/Shareholder/Positive Wallet THB" time="19.496" classname="Test Cases/User/Shareholder/Positive Wallet THB" status="PASSED">
+         <system-out><![CDATA[2023-06-23 20:39:39 - [TEST_CASE][PASSED] - Test Cases/User/Shareholder/Positive Wallet THB: Test Cases/User/Shareholder/Positive Wallet THB
+
+2023-06-23 20:39:40 - [TEST_STEP][PASSED] - com.reusableComponent.HighlightElement.run(findTestObject("User/Page_Dashboard/Member/span_User")): com.reusableComponent.HighlightElement.run is PASSED
+
+2023-06-23 20:39:40 - [MESSAGE][PASSED] - com.reusableComponent.HighlightElement.run is PASSED
+
+2023-06-23 20:39:40 - [TEST_STEP][PASSED] - mouseOver(findTestObject("User/Page_Dashboard/Member/span_User")): Object: 'Object Repository/User/Page_Dashboard/Member/span_User' is hovered
+
+2023-06-23 20:39:41 - [MESSAGE][PASSED] - Object: 'Object Repository/User/Page_Dashboard/Member/span_User' is hovered
+
+2023-06-23 20:39:41 - [TEST_STEP][PASSED] - com.reusableComponent.HighlightElement.run(findTestObject("User/Page_Dashboard/Shareholder/span_Positive Wallet")): com.reusableComponent.HighlightElement.run is PASSED
+
+2023-06-23 20:39:41 - [MESSAGE][PASSED] - com.reusableComponent.HighlightElement.run is PASSED
+
+2023-06-23 20:39:41 - [TEST_STEP][PASSED] - mouseOver(findTestObject("User/Page_Dashboard/Shareholder/span_Positive Wallet")): Object: 'Object Repository/User/Page_Dashboard/Shareholder/span_Positive Wallet' is hovered
+
+2023-06-23 20:39:42 - [MESSAGE][PASSED] - Object: 'Object Repository/User/Page_Dashboard/Shareholder/span_Positive Wallet' is hovered
+
+2023-06-23 20:39:42 - [TEST_STEP][PASSED] - com.reusableComponent.HighlightElement.run(findTestObject("User/Page_Dashboard/Shareholder/Positive Wallet/span_THB")): com.reusableComponent.HighlightElement.run is PASSED
+
+2023-06-23 20:39:42 - [MESSAGE][PASSED] - com.reusableComponent.HighlightElement.run is PASSED
+
+2023-06-23 20:39:42 - [TEST_STEP][PASSED] - mouseOver(findTestObject("User/Page_Dashboard/Shareholder/Positive Wallet/span_THB")): Object: 'Object Repository/User/Page_Dashboard/Shareholder/Positive Wallet/span_THB' is hovered
+
+2023-06-23 20:39:43 - [MESSAGE][PASSED] - Object: 'Object Repository/User/Page_Dashboard/Shareholder/Positive Wallet/span_THB' is hovered
+
+2023-06-23 20:39:43 - [TEST_STEP][PASSED] - click(findTestObject("User/Page_Dashboard/Shareholder/Positive Wallet/span_THB")): Object: 'Object Repository/User/Page_Dashboard/Shareholder/Positive Wallet/span_THB' is clicked on
+
+2023-06-23 20:39:45 - [MESSAGE][PASSED] - Object: 'Object Repository/User/Page_Dashboard/Shareholder/Positive Wallet/span_THB' is clicked on
+
+2023-06-23 20:39:45 - [TEST_STEP][PASSED] - waitForElementVisible(findTestObject("User/Page_Dashboard/Shareholder/Positive Wallet/h3_Shareholder Positive Report"), 0): Object 'Object Repository/User/Page_Dashboard/Shareholder/Positive Wallet/h3_Shareholder Positive Report' is visible
+
+2023-06-23 20:39:45 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+2023-06-23 20:39:46 - [MESSAGE][PASSED] - Object 'Object Repository/User/Page_Dashboard/Shareholder/Positive Wallet/h3_Shareholder Positive Report' is visible
+
+2023-06-23 20:39:46 - [TEST_STEP][PASSED] - com.reusableComponent.HighlightElement.run(findTestObject("User/Page_Dashboard/Shareholder/Positive Wallet/h3_Shareholder Positive Report")): com.reusableComponent.HighlightElement.run is PASSED
+
+2023-06-23 20:39:46 - [MESSAGE][PASSED] - com.reusableComponent.HighlightElement.run is PASSED
+
+2023-06-23 20:39:46 - [TEST_STEP][PASSED] - verifyElementVisible(findTestObject("User/Page_Dashboard/Shareholder/Positive Wallet/h3_Shareholder Positive Report")): Object 'Object Repository/User/Page_Dashboard/Shareholder/Positive Wallet/h3_Shareholder Positive Report' is visible
+
+2023-06-23 20:39:47 - [MESSAGE][PASSED] - Object 'Object Repository/User/Page_Dashboard/Shareholder/Positive Wallet/h3_Shareholder Positive Report' is visible
+
+2023-06-23 20:39:47 - [TEST_STEP][PASSED] - com.reusableComponent.HighlightElement.run(findTestObject("User/Page_Dashboard/Shareholder/Positive Wallet/select_1050100200All")): com.reusableComponent.HighlightElement.run is PASSED
+
+2023-06-23 20:39:47 - [MESSAGE][PASSED] - com.reusableComponent.HighlightElement.run is PASSED
+
+2023-06-23 20:39:47 - [TEST_STEP][PASSED] - com.reusableComponent.HighlightElement.run(findTestObject("User/Page_Dashboard/Shareholder/Positive Wallet/span_Copy")): com.reusableComponent.HighlightElement.run is PASSED
+
+2023-06-23 20:39:48 - [MESSAGE][PASSED] - com.reusableComponent.HighlightElement.run is PASSED
+
+2023-06-23 20:39:48 - [TEST_STEP][PASSED] - com.reusableComponent.HighlightElement.run(findTestObject("User/Page_Dashboard/Shareholder/Positive Wallet/span_CSV")): com.reusableComponent.HighlightElement.run is PASSED
+
+2023-06-23 20:39:48 - [MESSAGE][PASSED] - com.reusableComponent.HighlightElement.run is PASSED
+
+2023-06-23 20:39:48 - [TEST_STEP][PASSED] - com.reusableComponent.HighlightElement.run(findTestObject("User/Page_Dashboard/Shareholder/Positive Wallet/span_Excel")): com.reusableComponent.HighlightElement.run is PASSED
+
+2023-06-23 20:39:49 - [MESSAGE][PASSED] - com.reusableComponent.HighlightElement.run is PASSED
+
+2023-06-23 20:39:49 - [TEST_STEP][PASSED] - com.reusableComponent.HighlightElement.run(findTestObject("User/Page_Dashboard/Shareholder/Positive Wallet/span_PDF")): com.reusableComponent.HighlightElement.run is PASSED
+
+2023-06-23 20:39:49 - [MESSAGE][PASSED] - com.reusableComponent.HighlightElement.run is PASSED
+
+2023-06-23 20:39:49 - [TEST_STEP][PASSED] - verifyElementVisible(findTestObject("User/Page_Dashboard/Shareholder/Positive Wallet/select_1050100200All")): Object 'Object Repository/User/Page_Dashboard/Shareholder/Positive Wallet/select_1050100200All' is visible
+
+2023-06-23 20:39:50 - [MESSAGE][PASSED] - Object 'Object Repository/User/Page_Dashboard/Shareholder/Positive Wallet/select_1050100200All' is visible
+
+2023-06-23 20:39:50 - [TEST_STEP][PASSED] - verifyElementVisible(findTestObject("User/Page_Dashboard/Shareholder/Positive Wallet/span_Copy")): Object 'Object Repository/User/Page_Dashboard/Shareholder/Positive Wallet/span_Copy' is visible
+
+2023-06-23 20:39:50 - [MESSAGE][PASSED] - Object 'Object Repository/User/Page_Dashboard/Shareholder/Positive Wallet/span_Copy' is visible
+
+2023-06-23 20:39:50 - [TEST_STEP][PASSED] - verifyElementVisible(findTestObject("User/Page_Dashboard/Shareholder/Positive Wallet/span_CSV")): Object 'Object Repository/User/Page_Dashboard/Shareholder/Positive Wallet/span_CSV' is visible
+
+2023-06-23 20:39:51 - [MESSAGE][PASSED] - Object 'Object Repository/User/Page_Dashboard/Shareholder/Positive Wallet/span_CSV' is visible
+
+2023-06-23 20:39:51 - [TEST_STEP][PASSED] - verifyElementVisible(findTestObject("User/Page_Dashboard/Shareholder/Positive Wallet/span_Excel")): Object 'Object Repository/User/Page_Dashboard/Shareholder/Positive Wallet/span_Excel' is visible
+
+2023-06-23 20:39:51 - [MESSAGE][PASSED] - Object 'Object Repository/User/Page_Dashboard/Shareholder/Positive Wallet/span_Excel' is visible
+
+2023-06-23 20:39:51 - [TEST_STEP][PASSED] - verifyElementVisible(findTestObject("User/Page_Dashboard/Shareholder/Positive Wallet/span_PDF")): Object 'Object Repository/User/Page_Dashboard/Shareholder/Positive Wallet/span_PDF' is visible
+
+2023-06-23 20:39:51 - [MESSAGE][PASSED] - Object 'Object Repository/User/Page_Dashboard/Shareholder/Positive Wallet/span_PDF' is visible
+
+2023-06-23 20:39:51 - [TEST_STEP][PASSED] - com.reusableComponent.HighlightElement.run(findTestObject("User/Page_Dashboard/Shareholder/Positive Wallet/input_Search_form-control form-control-sm")): com.reusableComponent.HighlightElement.run is PASSED
+
+2023-06-23 20:39:52 - [MESSAGE][PASSED] - com.reusableComponent.HighlightElement.run is PASSED
+
+2023-06-23 20:39:52 - [TEST_STEP][PASSED] - verifyElementVisible(findTestObject("User/Page_Dashboard/Shareholder/Positive Wallet/input_Search_form-control form-control-sm")): Object 'Object Repository/User/Page_Dashboard/Shareholder/Positive Wallet/input_Search_form-control form-control-sm' is visible
+
+2023-06-23 20:39:52 - [MESSAGE][PASSED] - Object 'Object Repository/User/Page_Dashboard/Shareholder/Positive Wallet/input_Search_form-control form-control-sm' is visible
+
+2023-06-23 20:39:52 - [TEST_STEP][PASSED] - com.reusableComponent.HighlightElement.run(findTestObject("User/Page_Dashboard/Shareholder/Positive Wallet/th_Shareholder name")): com.reusableComponent.HighlightElement.run is PASSED
+
+2023-06-23 20:39:53 - [MESSAGE][PASSED] - com.reusableComponent.HighlightElement.run is PASSED
+
+2023-06-23 20:39:53 - [TEST_STEP][PASSED] - com.reusableComponent.HighlightElement.run(findTestObject("User/Page_Dashboard/Shareholder/Positive Wallet/th_Wallet Positive")): com.reusableComponent.HighlightElement.run is PASSED
+
+2023-06-23 20:39:53 - [MESSAGE][PASSED] - com.reusableComponent.HighlightElement.run is PASSED
+
+2023-06-23 20:39:53 - [TEST_STEP][PASSED] - com.reusableComponent.HighlightElement.run(findTestObject("User/Page_Dashboard/Shareholder/Positive Wallet/th_Wallet Last Update")): com.reusableComponent.HighlightElement.run is PASSED
+
+2023-06-23 20:39:54 - [MESSAGE][PASSED] - com.reusableComponent.HighlightElement.run is PASSED
+
+2023-06-23 20:39:54 - [TEST_STEP][PASSED] - com.reusableComponent.HighlightElement.run(findTestObject("User/Page_Dashboard/Shareholder/Positive Wallet/th_Action")): com.reusableComponent.HighlightElement.run is PASSED
+
+2023-06-23 20:39:54 - [MESSAGE][PASSED] - com.reusableComponent.HighlightElement.run is PASSED
+
+2023-06-23 20:39:54 - [TEST_STEP][PASSED] - com.reusableComponent.HighlightElement.run(findTestObject("User/Page_Dashboard/Shareholder/Positive Wallet/table_Shareholder name")): com.reusableComponent.HighlightElement.run is PASSED
+
+2023-06-23 20:39:55 - [MESSAGE][PASSED] - com.reusableComponent.HighlightElement.run is PASSED
+
+2023-06-23 20:39:55 - [TEST_STEP][PASSED] - verifyElementVisible(findTestObject("User/Page_Dashboard/Shareholder/Positive Wallet/th_Shareholder name")): Object 'Object Repository/User/Page_Dashboard/Shareholder/Positive Wallet/th_Shareholder name' is visible
+
+2023-06-23 20:39:55 - [MESSAGE][PASSED] - Object 'Object Repository/User/Page_Dashboard/Shareholder/Positive Wallet/th_Shareholder name' is visible
+
+2023-06-23 20:39:55 - [TEST_STEP][PASSED] - verifyElementVisible(findTestObject("User/Page_Dashboard/Shareholder/Positive Wallet/th_Wallet Positive")): Object 'Object Repository/User/Page_Dashboard/Shareholder/Positive Wallet/th_Wallet Positive' is visible
+
+2023-06-23 20:39:55 - [MESSAGE][PASSED] - Object 'Object Repository/User/Page_Dashboard/Shareholder/Positive Wallet/th_Wallet Positive' is visible
+
+2023-06-23 20:39:55 - [TEST_STEP][PASSED] - verifyElementVisible(findTestObject("User/Page_Dashboard/Shareholder/Positive Wallet/th_Wallet Last Update")): Object 'Object Repository/User/Page_Dashboard/Shareholder/Positive Wallet/th_Wallet Last Update' is visible
+
+2023-06-23 20:39:56 - [MESSAGE][PASSED] - Object 'Object Repository/User/Page_Dashboard/Shareholder/Positive Wallet/th_Wallet Last Update' is visible
+
+2023-06-23 20:39:56 - [TEST_STEP][PASSED] - verifyElementVisible(findTestObject("User/Page_Dashboard/Shareholder/Positive Wallet/th_Action")): Object 'Object Repository/User/Page_Dashboard/Shareholder/Positive Wallet/th_Action' is visible
+
+2023-06-23 20:39:56 - [MESSAGE][PASSED] - Object 'Object Repository/User/Page_Dashboard/Shareholder/Positive Wallet/th_Action' is visible
+
+2023-06-23 20:39:56 - [TEST_STEP][PASSED] - verifyElementVisible(findTestObject("User/Page_Dashboard/Shareholder/Positive Wallet/table_Shareholder name")): Object 'Object Repository/User/Page_Dashboard/Shareholder/Positive Wallet/table_Shareholder name' is visible
+
+2023-06-23 20:39:57 - [MESSAGE][PASSED] - Object 'Object Repository/User/Page_Dashboard/Shareholder/Positive Wallet/table_Shareholder name' is visible
+
+2023-06-23 20:39:57 - [TEST_STEP][PASSED] - com.reusableComponent.HighlightElement.run(findTestObject("User/Page_Dashboard/Shareholder/User Wallets/li_Previous")): com.reusableComponent.HighlightElement.run is PASSED
+
+2023-06-23 20:39:57 - [MESSAGE][PASSED] - com.reusableComponent.HighlightElement.run is PASSED
+
+2023-06-23 20:39:57 - [TEST_STEP][PASSED] - com.reusableComponent.HighlightElement.run(findTestObject("User/Page_Dashboard/Shareholder/User Wallets/a_Next")): com.reusableComponent.HighlightElement.run is PASSED
+
+2023-06-23 20:39:58 - [MESSAGE][PASSED] - com.reusableComponent.HighlightElement.run is PASSED
+
+2023-06-23 20:39:58 - [TEST_STEP][PASSED] - verifyElementVisible(findTestObject("User/Page_Dashboard/Shareholder/User Wallets/li_Previous")): Object 'Object Repository/User/Page_Dashboard/Shareholder/User Wallets/li_Previous' is visible
+
+2023-06-23 20:39:58 - [MESSAGE][PASSED] - Object 'Object Repository/User/Page_Dashboard/Shareholder/User Wallets/li_Previous' is visible
+
+2023-06-23 20:39:58 - [TEST_STEP][PASSED] - verifyElementVisible(findTestObject("User/Page_Dashboard/Shareholder/User Wallets/a_Next")): Object 'Object Repository/User/Page_Dashboard/Shareholder/User Wallets/a_Next' is visible
+
+2023-06-23 20:39:58 - [MESSAGE][PASSED] - Object 'Object Repository/User/Page_Dashboard/Shareholder/User Wallets/a_Next' is visible]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/User/Shareholder/Positive Wallet IDR" time="21.286" classname="Test Cases/User/Shareholder/Positive Wallet IDR" status="PASSED">
+         <system-out><![CDATA[2023-06-23 20:39:58 - [TEST_CASE][PASSED] - Test Cases/User/Shareholder/Positive Wallet IDR: Test Cases/User/Shareholder/Positive Wallet IDR
+
+2023-06-23 20:39:59 - [TEST_STEP][PASSED] - com.reusableComponent.HighlightElement.run(findTestObject("User/Page_Dashboard/Member/span_User")): com.reusableComponent.HighlightElement.run is PASSED
+
+2023-06-23 20:39:59 - [MESSAGE][PASSED] - com.reusableComponent.HighlightElement.run is PASSED
+
+2023-06-23 20:39:59 - [TEST_STEP][PASSED] - mouseOver(findTestObject("User/Page_Dashboard/Member/span_User")): Object: 'Object Repository/User/Page_Dashboard/Member/span_User' is hovered
+
+2023-06-23 20:40:00 - [MESSAGE][PASSED] - Object: 'Object Repository/User/Page_Dashboard/Member/span_User' is hovered
+
+2023-06-23 20:40:00 - [TEST_STEP][PASSED] - com.reusableComponent.HighlightElement.run(findTestObject("User/Page_Dashboard/Shareholder/span_Positive Wallet")): com.reusableComponent.HighlightElement.run is PASSED
+
+2023-06-23 20:40:01 - [MESSAGE][PASSED] - com.reusableComponent.HighlightElement.run is PASSED
+
+2023-06-23 20:40:01 - [TEST_STEP][PASSED] - mouseOver(findTestObject("User/Page_Dashboard/Shareholder/span_Positive Wallet")): Object: 'Object Repository/User/Page_Dashboard/Shareholder/span_Positive Wallet' is hovered
+
+2023-06-23 20:40:01 - [MESSAGE][PASSED] - Object: 'Object Repository/User/Page_Dashboard/Shareholder/span_Positive Wallet' is hovered
+
+2023-06-23 20:40:01 - [TEST_STEP][PASSED] - com.reusableComponent.HighlightElement.run(findTestObject("User/Page_Dashboard/Shareholder/Positive Wallet/span_IDR")): com.reusableComponent.HighlightElement.run is PASSED
+
+2023-06-23 20:40:02 - [MESSAGE][PASSED] - com.reusableComponent.HighlightElement.run is PASSED
+
+2023-06-23 20:40:02 - [TEST_STEP][PASSED] - mouseOver(findTestObject("User/Page_Dashboard/Shareholder/Positive Wallet/span_IDR")): Object: 'Object Repository/User/Page_Dashboard/Shareholder/Positive Wallet/span_IDR' is hovered
+
+2023-06-23 20:40:02 - [MESSAGE][PASSED] - Object: 'Object Repository/User/Page_Dashboard/Shareholder/Positive Wallet/span_IDR' is hovered
+
+2023-06-23 20:40:02 - [TEST_STEP][PASSED] - click(findTestObject("User/Page_Dashboard/Shareholder/Positive Wallet/span_IDR")): Object: 'Object Repository/User/Page_Dashboard/Shareholder/Positive Wallet/span_IDR' is clicked on
+
+2023-06-23 20:40:06 - [MESSAGE][PASSED] - Object: 'Object Repository/User/Page_Dashboard/Shareholder/Positive Wallet/span_IDR' is clicked on
+
+2023-06-23 20:40:06 - [TEST_STEP][PASSED] - waitForElementVisible(findTestObject("User/Page_Dashboard/Shareholder/Positive Wallet/h3_Shareholder Positive Report"), 0): Object 'Object Repository/User/Page_Dashboard/Shareholder/Positive Wallet/h3_Shareholder Positive Report' is visible
+
+2023-06-23 20:40:06 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+2023-06-23 20:40:08 - [MESSAGE][PASSED] - Object 'Object Repository/User/Page_Dashboard/Shareholder/Positive Wallet/h3_Shareholder Positive Report' is visible
+
+2023-06-23 20:40:08 - [TEST_STEP][PASSED] - com.reusableComponent.HighlightElement.run(findTestObject("User/Page_Dashboard/Shareholder/Positive Wallet/h3_Shareholder Positive Report")): com.reusableComponent.HighlightElement.run is PASSED
+
+2023-06-23 20:40:08 - [MESSAGE][PASSED] - com.reusableComponent.HighlightElement.run is PASSED
+
+2023-06-23 20:40:08 - [TEST_STEP][PASSED] - verifyElementVisible(findTestObject("User/Page_Dashboard/Shareholder/Positive Wallet/h3_Shareholder Positive Report")): Object 'Object Repository/User/Page_Dashboard/Shareholder/Positive Wallet/h3_Shareholder Positive Report' is visible
+
+2023-06-23 20:40:08 - [MESSAGE][PASSED] - Object 'Object Repository/User/Page_Dashboard/Shareholder/Positive Wallet/h3_Shareholder Positive Report' is visible
+
+2023-06-23 20:40:08 - [TEST_STEP][PASSED] - com.reusableComponent.HighlightElement.run(findTestObject("User/Page_Dashboard/Shareholder/Positive Wallet/select_1050100200All")): com.reusableComponent.HighlightElement.run is PASSED
+
+2023-06-23 20:40:09 - [MESSAGE][PASSED] - com.reusableComponent.HighlightElement.run is PASSED
+
+2023-06-23 20:40:09 - [TEST_STEP][PASSED] - com.reusableComponent.HighlightElement.run(findTestObject("User/Page_Dashboard/Shareholder/Positive Wallet/span_Copy")): com.reusableComponent.HighlightElement.run is PASSED
+
+2023-06-23 20:40:09 - [MESSAGE][PASSED] - com.reusableComponent.HighlightElement.run is PASSED
+
+2023-06-23 20:40:09 - [TEST_STEP][PASSED] - com.reusableComponent.HighlightElement.run(findTestObject("User/Page_Dashboard/Shareholder/Positive Wallet/span_CSV")): com.reusableComponent.HighlightElement.run is PASSED
+
+2023-06-23 20:40:10 - [MESSAGE][PASSED] - com.reusableComponent.HighlightElement.run is PASSED
+
+2023-06-23 20:40:10 - [TEST_STEP][PASSED] - com.reusableComponent.HighlightElement.run(findTestObject("User/Page_Dashboard/Shareholder/Positive Wallet/span_Excel")): com.reusableComponent.HighlightElement.run is PASSED
+
+2023-06-23 20:40:10 - [MESSAGE][PASSED] - com.reusableComponent.HighlightElement.run is PASSED
+
+2023-06-23 20:40:10 - [TEST_STEP][PASSED] - com.reusableComponent.HighlightElement.run(findTestObject("User/Page_Dashboard/Shareholder/Positive Wallet/span_PDF")): com.reusableComponent.HighlightElement.run is PASSED
+
+2023-06-23 20:40:11 - [MESSAGE][PASSED] - com.reusableComponent.HighlightElement.run is PASSED
+
+2023-06-23 20:40:11 - [TEST_STEP][PASSED] - verifyElementVisible(findTestObject("User/Page_Dashboard/Shareholder/Positive Wallet/select_1050100200All")): Object 'Object Repository/User/Page_Dashboard/Shareholder/Positive Wallet/select_1050100200All' is visible
+
+2023-06-23 20:40:11 - [MESSAGE][PASSED] - Object 'Object Repository/User/Page_Dashboard/Shareholder/Positive Wallet/select_1050100200All' is visible
+
+2023-06-23 20:40:11 - [TEST_STEP][PASSED] - verifyElementVisible(findTestObject("User/Page_Dashboard/Shareholder/Positive Wallet/span_Copy")): Object 'Object Repository/User/Page_Dashboard/Shareholder/Positive Wallet/span_Copy' is visible
+
+2023-06-23 20:40:12 - [MESSAGE][PASSED] - Object 'Object Repository/User/Page_Dashboard/Shareholder/Positive Wallet/span_Copy' is visible
+
+2023-06-23 20:40:12 - [TEST_STEP][PASSED] - verifyElementVisible(findTestObject("User/Page_Dashboard/Shareholder/Positive Wallet/span_CSV")): Object 'Object Repository/User/Page_Dashboard/Shareholder/Positive Wallet/span_CSV' is visible
+
+2023-06-23 20:40:12 - [MESSAGE][PASSED] - Object 'Object Repository/User/Page_Dashboard/Shareholder/Positive Wallet/span_CSV' is visible
+
+2023-06-23 20:40:12 - [TEST_STEP][PASSED] - verifyElementVisible(findTestObject("User/Page_Dashboard/Shareholder/Positive Wallet/span_Excel")): Object 'Object Repository/User/Page_Dashboard/Shareholder/Positive Wallet/span_Excel' is visible
+
+2023-06-23 20:40:12 - [MESSAGE][PASSED] - Object 'Object Repository/User/Page_Dashboard/Shareholder/Positive Wallet/span_Excel' is visible
+
+2023-06-23 20:40:12 - [TEST_STEP][PASSED] - verifyElementVisible(findTestObject("User/Page_Dashboard/Shareholder/Positive Wallet/span_PDF")): Object 'Object Repository/User/Page_Dashboard/Shareholder/Positive Wallet/span_PDF' is visible
+
+2023-06-23 20:40:13 - [MESSAGE][PASSED] - Object 'Object Repository/User/Page_Dashboard/Shareholder/Positive Wallet/span_PDF' is visible
+
+2023-06-23 20:40:13 - [TEST_STEP][PASSED] - com.reusableComponent.HighlightElement.run(findTestObject("User/Page_Dashboard/Shareholder/Positive Wallet/input_Search_form-control form-control-sm")): com.reusableComponent.HighlightElement.run is PASSED
+
+2023-06-23 20:40:13 - [MESSAGE][PASSED] - com.reusableComponent.HighlightElement.run is PASSED
+
+2023-06-23 20:40:13 - [TEST_STEP][PASSED] - verifyElementVisible(findTestObject("User/Page_Dashboard/Shareholder/Positive Wallet/input_Search_form-control form-control-sm")): Object 'Object Repository/User/Page_Dashboard/Shareholder/Positive Wallet/input_Search_form-control form-control-sm' is visible
+
+2023-06-23 20:40:14 - [MESSAGE][PASSED] - Object 'Object Repository/User/Page_Dashboard/Shareholder/Positive Wallet/input_Search_form-control form-control-sm' is visible
+
+2023-06-23 20:40:14 - [TEST_STEP][PASSED] - com.reusableComponent.HighlightElement.run(findTestObject("User/Page_Dashboard/Shareholder/Positive Wallet/th_Shareholder name")): com.reusableComponent.HighlightElement.run is PASSED
+
+2023-06-23 20:40:14 - [MESSAGE][PASSED] - com.reusableComponent.HighlightElement.run is PASSED
+
+2023-06-23 20:40:14 - [TEST_STEP][PASSED] - com.reusableComponent.HighlightElement.run(findTestObject("User/Page_Dashboard/Shareholder/Positive Wallet/th_Wallet Positive")): com.reusableComponent.HighlightElement.run is PASSED
+
+2023-06-23 20:40:15 - [MESSAGE][PASSED] - com.reusableComponent.HighlightElement.run is PASSED
+
+2023-06-23 20:40:15 - [TEST_STEP][PASSED] - com.reusableComponent.HighlightElement.run(findTestObject("User/Page_Dashboard/Shareholder/Positive Wallet/th_Wallet Last Update")): com.reusableComponent.HighlightElement.run is PASSED
+
+2023-06-23 20:40:15 - [MESSAGE][PASSED] - com.reusableComponent.HighlightElement.run is PASSED
+
+2023-06-23 20:40:15 - [TEST_STEP][PASSED] - com.reusableComponent.HighlightElement.run(findTestObject("User/Page_Dashboard/Shareholder/Positive Wallet/th_Action")): com.reusableComponent.HighlightElement.run is PASSED
+
+2023-06-23 20:40:16 - [MESSAGE][PASSED] - com.reusableComponent.HighlightElement.run is PASSED
+
+2023-06-23 20:40:16 - [TEST_STEP][PASSED] - com.reusableComponent.HighlightElement.run(findTestObject("User/Page_Dashboard/Shareholder/Positive Wallet/table_Shareholder name")): com.reusableComponent.HighlightElement.run is PASSED
+
+2023-06-23 20:40:16 - [MESSAGE][PASSED] - com.reusableComponent.HighlightElement.run is PASSED
+
+2023-06-23 20:40:16 - [TEST_STEP][PASSED] - verifyElementVisible(findTestObject("User/Page_Dashboard/Shareholder/Positive Wallet/th_Shareholder name")): Object 'Object Repository/User/Page_Dashboard/Shareholder/Positive Wallet/th_Shareholder name' is visible
+
+2023-06-23 20:40:16 - [MESSAGE][PASSED] - Object 'Object Repository/User/Page_Dashboard/Shareholder/Positive Wallet/th_Shareholder name' is visible
+
+2023-06-23 20:40:16 - [TEST_STEP][PASSED] - verifyElementVisible(findTestObject("User/Page_Dashboard/Shareholder/Positive Wallet/th_Wallet Positive")): Object 'Object Repository/User/Page_Dashboard/Shareholder/Positive Wallet/th_Wallet Positive' is visible
+
+2023-06-23 20:40:17 - [MESSAGE][PASSED] - Object 'Object Repository/User/Page_Dashboard/Shareholder/Positive Wallet/th_Wallet Positive' is visible
+
+2023-06-23 20:40:17 - [TEST_STEP][PASSED] - verifyElementVisible(findTestObject("User/Page_Dashboard/Shareholder/Positive Wallet/th_Wallet Last Update")): Object 'Object Repository/User/Page_Dashboard/Shareholder/Positive Wallet/th_Wallet Last Update' is visible
+
+2023-06-23 20:40:17 - [MESSAGE][PASSED] - Object 'Object Repository/User/Page_Dashboard/Shareholder/Positive Wallet/th_Wallet Last Update' is visible
+
+2023-06-23 20:40:17 - [TEST_STEP][PASSED] - verifyElementVisible(findTestObject("User/Page_Dashboard/Shareholder/Positive Wallet/th_Action")): Object 'Object Repository/User/Page_Dashboard/Shareholder/Positive Wallet/th_Action' is visible
+
+2023-06-23 20:40:18 - [MESSAGE][PASSED] - Object 'Object Repository/User/Page_Dashboard/Shareholder/Positive Wallet/th_Action' is visible
+
+2023-06-23 20:40:18 - [TEST_STEP][PASSED] - verifyElementVisible(findTestObject("User/Page_Dashboard/Shareholder/Positive Wallet/table_Shareholder name")): Object 'Object Repository/User/Page_Dashboard/Shareholder/Positive Wallet/table_Shareholder name' is visible
+
+2023-06-23 20:40:18 - [MESSAGE][PASSED] - Object 'Object Repository/User/Page_Dashboard/Shareholder/Positive Wallet/table_Shareholder name' is visible
+
+2023-06-23 20:40:18 - [TEST_STEP][PASSED] - com.reusableComponent.HighlightElement.run(findTestObject("User/Page_Dashboard/Shareholder/User Wallets/li_Previous")): com.reusableComponent.HighlightElement.run is PASSED
+
+2023-06-23 20:40:18 - [MESSAGE][PASSED] - com.reusableComponent.HighlightElement.run is PASSED
+
+2023-06-23 20:40:18 - [TEST_STEP][PASSED] - com.reusableComponent.HighlightElement.run(findTestObject("User/Page_Dashboard/Shareholder/User Wallets/a_Next")): com.reusableComponent.HighlightElement.run is PASSED
+
+2023-06-23 20:40:19 - [MESSAGE][PASSED] - com.reusableComponent.HighlightElement.run is PASSED
+
+2023-06-23 20:40:19 - [TEST_STEP][PASSED] - verifyElementVisible(findTestObject("User/Page_Dashboard/Shareholder/User Wallets/li_Previous")): Object 'Object Repository/User/Page_Dashboard/Shareholder/User Wallets/li_Previous' is visible
+
+2023-06-23 20:40:19 - [MESSAGE][PASSED] - Object 'Object Repository/User/Page_Dashboard/Shareholder/User Wallets/li_Previous' is visible
+
+2023-06-23 20:40:19 - [TEST_STEP][PASSED] - verifyElementVisible(findTestObject("User/Page_Dashboard/Shareholder/User Wallets/a_Next")): Object 'Object Repository/User/Page_Dashboard/Shareholder/User Wallets/a_Next' is visible
+
+2023-06-23 20:40:20 - [MESSAGE][PASSED] - Object 'Object Repository/User/Page_Dashboard/Shareholder/User Wallets/a_Next' is visible]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/User/Shareholder/Positive Wallet MMK" time="19.364" classname="Test Cases/User/Shareholder/Positive Wallet MMK" status="PASSED">
+         <system-out><![CDATA[2023-06-23 20:40:20 - [TEST_CASE][PASSED] - Test Cases/User/Shareholder/Positive Wallet MMK: Test Cases/User/Shareholder/Positive Wallet MMK
+
+2023-06-23 20:40:20 - [TEST_STEP][PASSED] - com.reusableComponent.HighlightElement.run(findTestObject("User/Page_Dashboard/Member/span_User")): com.reusableComponent.HighlightElement.run is PASSED
+
+2023-06-23 20:40:21 - [MESSAGE][PASSED] - com.reusableComponent.HighlightElement.run is PASSED
+
+2023-06-23 20:40:21 - [TEST_STEP][PASSED] - mouseOver(findTestObject("User/Page_Dashboard/Member/span_User")): Object: 'Object Repository/User/Page_Dashboard/Member/span_User' is hovered
+
+2023-06-23 20:40:21 - [MESSAGE][PASSED] - Object: 'Object Repository/User/Page_Dashboard/Member/span_User' is hovered
+
+2023-06-23 20:40:21 - [TEST_STEP][PASSED] - com.reusableComponent.HighlightElement.run(findTestObject("User/Page_Dashboard/Shareholder/span_Positive Wallet")): com.reusableComponent.HighlightElement.run is PASSED
+
+2023-06-23 20:40:22 - [MESSAGE][PASSED] - com.reusableComponent.HighlightElement.run is PASSED
+
+2023-06-23 20:40:22 - [TEST_STEP][PASSED] - mouseOver(findTestObject("User/Page_Dashboard/Shareholder/span_Positive Wallet")): Object: 'Object Repository/User/Page_Dashboard/Shareholder/span_Positive Wallet' is hovered
+
+2023-06-23 20:40:22 - [MESSAGE][PASSED] - Object: 'Object Repository/User/Page_Dashboard/Shareholder/span_Positive Wallet' is hovered
+
+2023-06-23 20:40:22 - [TEST_STEP][PASSED] - com.reusableComponent.HighlightElement.run(findTestObject("User/Page_Dashboard/Shareholder/Positive Wallet/span_MMK")): com.reusableComponent.HighlightElement.run is PASSED
+
+2023-06-23 20:40:23 - [MESSAGE][PASSED] - com.reusableComponent.HighlightElement.run is PASSED
+
+2023-06-23 20:40:23 - [TEST_STEP][PASSED] - mouseOver(findTestObject("User/Page_Dashboard/Shareholder/Positive Wallet/span_MMK")): Object: 'Object Repository/User/Page_Dashboard/Shareholder/Positive Wallet/span_MMK' is hovered
+
+2023-06-23 20:40:23 - [MESSAGE][PASSED] - Object: 'Object Repository/User/Page_Dashboard/Shareholder/Positive Wallet/span_MMK' is hovered
+
+2023-06-23 20:40:23 - [TEST_STEP][PASSED] - click(findTestObject("User/Page_Dashboard/Shareholder/Positive Wallet/span_MMK")): Object: 'Object Repository/User/Page_Dashboard/Shareholder/Positive Wallet/span_MMK' is clicked on
+
+2023-06-23 20:40:25 - [MESSAGE][PASSED] - Object: 'Object Repository/User/Page_Dashboard/Shareholder/Positive Wallet/span_MMK' is clicked on
+
+2023-06-23 20:40:25 - [TEST_STEP][PASSED] - waitForElementVisible(findTestObject("User/Page_Dashboard/Shareholder/Positive Wallet/h3_Shareholder Positive Report"), 0): Object 'Object Repository/User/Page_Dashboard/Shareholder/Positive Wallet/h3_Shareholder Positive Report' is visible
+
+2023-06-23 20:40:25 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+2023-06-23 20:40:27 - [MESSAGE][PASSED] - Object 'Object Repository/User/Page_Dashboard/Shareholder/Positive Wallet/h3_Shareholder Positive Report' is visible
+
+2023-06-23 20:40:27 - [TEST_STEP][PASSED] - com.reusableComponent.HighlightElement.run(findTestObject("User/Page_Dashboard/Shareholder/Positive Wallet/h3_Shareholder Positive Report")): com.reusableComponent.HighlightElement.run is PASSED
+
+2023-06-23 20:40:27 - [MESSAGE][PASSED] - com.reusableComponent.HighlightElement.run is PASSED
+
+2023-06-23 20:40:27 - [TEST_STEP][PASSED] - verifyElementVisible(findTestObject("User/Page_Dashboard/Shareholder/Positive Wallet/h3_Shareholder Positive Report")): Object 'Object Repository/User/Page_Dashboard/Shareholder/Positive Wallet/h3_Shareholder Positive Report' is visible
+
+2023-06-23 20:40:28 - [MESSAGE][PASSED] - Object 'Object Repository/User/Page_Dashboard/Shareholder/Positive Wallet/h3_Shareholder Positive Report' is visible
+
+2023-06-23 20:40:28 - [TEST_STEP][PASSED] - com.reusableComponent.HighlightElement.run(findTestObject("User/Page_Dashboard/Shareholder/Positive Wallet/select_1050100200All")): com.reusableComponent.HighlightElement.run is PASSED
+
+2023-06-23 20:40:28 - [MESSAGE][PASSED] - com.reusableComponent.HighlightElement.run is PASSED
+
+2023-06-23 20:40:28 - [TEST_STEP][PASSED] - com.reusableComponent.HighlightElement.run(findTestObject("User/Page_Dashboard/Shareholder/Positive Wallet/span_Copy")): com.reusableComponent.HighlightElement.run is PASSED
+
+2023-06-23 20:40:29 - [MESSAGE][PASSED] - com.reusableComponent.HighlightElement.run is PASSED
+
+2023-06-23 20:40:29 - [TEST_STEP][PASSED] - com.reusableComponent.HighlightElement.run(findTestObject("User/Page_Dashboard/Shareholder/Positive Wallet/span_CSV")): com.reusableComponent.HighlightElement.run is PASSED
+
+2023-06-23 20:40:29 - [MESSAGE][PASSED] - com.reusableComponent.HighlightElement.run is PASSED
+
+2023-06-23 20:40:29 - [TEST_STEP][PASSED] - com.reusableComponent.HighlightElement.run(findTestObject("User/Page_Dashboard/Shareholder/Positive Wallet/span_Excel")): com.reusableComponent.HighlightElement.run is PASSED
+
+2023-06-23 20:40:30 - [MESSAGE][PASSED] - com.reusableComponent.HighlightElement.run is PASSED
+
+2023-06-23 20:40:30 - [TEST_STEP][PASSED] - com.reusableComponent.HighlightElement.run(findTestObject("User/Page_Dashboard/Shareholder/Positive Wallet/span_PDF")): com.reusableComponent.HighlightElement.run is PASSED
+
+2023-06-23 20:40:30 - [MESSAGE][PASSED] - com.reusableComponent.HighlightElement.run is PASSED
+
+2023-06-23 20:40:30 - [TEST_STEP][PASSED] - verifyElementVisible(findTestObject("User/Page_Dashboard/Shareholder/Positive Wallet/select_1050100200All")): Object 'Object Repository/User/Page_Dashboard/Shareholder/Positive Wallet/select_1050100200All' is visible
+
+2023-06-23 20:40:30 - [MESSAGE][PASSED] - Object 'Object Repository/User/Page_Dashboard/Shareholder/Positive Wallet/select_1050100200All' is visible
+
+2023-06-23 20:40:30 - [TEST_STEP][PASSED] - verifyElementVisible(findTestObject("User/Page_Dashboard/Shareholder/Positive Wallet/span_Copy")): Object 'Object Repository/User/Page_Dashboard/Shareholder/Positive Wallet/span_Copy' is visible
+
+2023-06-23 20:40:31 - [MESSAGE][PASSED] - Object 'Object Repository/User/Page_Dashboard/Shareholder/Positive Wallet/span_Copy' is visible
+
+2023-06-23 20:40:31 - [TEST_STEP][PASSED] - verifyElementVisible(findTestObject("User/Page_Dashboard/Shareholder/Positive Wallet/span_CSV")): Object 'Object Repository/User/Page_Dashboard/Shareholder/Positive Wallet/span_CSV' is visible
+
+2023-06-23 20:40:31 - [MESSAGE][PASSED] - Object 'Object Repository/User/Page_Dashboard/Shareholder/Positive Wallet/span_CSV' is visible
+
+2023-06-23 20:40:31 - [TEST_STEP][PASSED] - verifyElementVisible(findTestObject("User/Page_Dashboard/Shareholder/Positive Wallet/span_Excel")): Object 'Object Repository/User/Page_Dashboard/Shareholder/Positive Wallet/span_Excel' is visible
+
+2023-06-23 20:40:32 - [MESSAGE][PASSED] - Object 'Object Repository/User/Page_Dashboard/Shareholder/Positive Wallet/span_Excel' is visible
+
+2023-06-23 20:40:32 - [TEST_STEP][PASSED] - verifyElementVisible(findTestObject("User/Page_Dashboard/Shareholder/Positive Wallet/span_PDF")): Object 'Object Repository/User/Page_Dashboard/Shareholder/Positive Wallet/span_PDF' is visible
+
+2023-06-23 20:40:32 - [MESSAGE][PASSED] - Object 'Object Repository/User/Page_Dashboard/Shareholder/Positive Wallet/span_PDF' is visible
+
+2023-06-23 20:40:32 - [TEST_STEP][PASSED] - com.reusableComponent.HighlightElement.run(findTestObject("User/Page_Dashboard/Shareholder/Positive Wallet/input_Search_form-control form-control-sm")): com.reusableComponent.HighlightElement.run is PASSED
+
+2023-06-23 20:40:32 - [MESSAGE][PASSED] - com.reusableComponent.HighlightElement.run is PASSED
+
+2023-06-23 20:40:32 - [TEST_STEP][PASSED] - verifyElementVisible(findTestObject("User/Page_Dashboard/Shareholder/Positive Wallet/input_Search_form-control form-control-sm")): Object 'Object Repository/User/Page_Dashboard/Shareholder/Positive Wallet/input_Search_form-control form-control-sm' is visible
+
+2023-06-23 20:40:33 - [MESSAGE][PASSED] - Object 'Object Repository/User/Page_Dashboard/Shareholder/Positive Wallet/input_Search_form-control form-control-sm' is visible
+
+2023-06-23 20:40:33 - [TEST_STEP][PASSED] - com.reusableComponent.HighlightElement.run(findTestObject("User/Page_Dashboard/Shareholder/Positive Wallet/th_Shareholder name")): com.reusableComponent.HighlightElement.run is PASSED
+
+2023-06-23 20:40:33 - [MESSAGE][PASSED] - com.reusableComponent.HighlightElement.run is PASSED
+
+2023-06-23 20:40:33 - [TEST_STEP][PASSED] - com.reusableComponent.HighlightElement.run(findTestObject("User/Page_Dashboard/Shareholder/Positive Wallet/th_Wallet Positive")): com.reusableComponent.HighlightElement.run is PASSED
+
+2023-06-23 20:40:34 - [MESSAGE][PASSED] - com.reusableComponent.HighlightElement.run is PASSED
+
+2023-06-23 20:40:34 - [TEST_STEP][PASSED] - com.reusableComponent.HighlightElement.run(findTestObject("User/Page_Dashboard/Shareholder/Positive Wallet/th_Wallet Last Update")): com.reusableComponent.HighlightElement.run is PASSED
+
+2023-06-23 20:40:34 - [MESSAGE][PASSED] - com.reusableComponent.HighlightElement.run is PASSED
+
+2023-06-23 20:40:34 - [TEST_STEP][PASSED] - com.reusableComponent.HighlightElement.run(findTestObject("User/Page_Dashboard/Shareholder/Positive Wallet/th_Action")): com.reusableComponent.HighlightElement.run is PASSED
+
+2023-06-23 20:40:35 - [MESSAGE][PASSED] - com.reusableComponent.HighlightElement.run is PASSED
+
+2023-06-23 20:40:35 - [TEST_STEP][PASSED] - com.reusableComponent.HighlightElement.run(findTestObject("User/Page_Dashboard/Shareholder/Positive Wallet/table_Shareholder name")): com.reusableComponent.HighlightElement.run is PASSED
+
+2023-06-23 20:40:35 - [MESSAGE][PASSED] - com.reusableComponent.HighlightElement.run is PASSED
+
+2023-06-23 20:40:35 - [TEST_STEP][PASSED] - verifyElementVisible(findTestObject("User/Page_Dashboard/Shareholder/Positive Wallet/th_Shareholder name")): Object 'Object Repository/User/Page_Dashboard/Shareholder/Positive Wallet/th_Shareholder name' is visible
+
+2023-06-23 20:40:36 - [MESSAGE][PASSED] - Object 'Object Repository/User/Page_Dashboard/Shareholder/Positive Wallet/th_Shareholder name' is visible
+
+2023-06-23 20:40:36 - [TEST_STEP][PASSED] - verifyElementVisible(findTestObject("User/Page_Dashboard/Shareholder/Positive Wallet/th_Wallet Positive")): Object 'Object Repository/User/Page_Dashboard/Shareholder/Positive Wallet/th_Wallet Positive' is visible
+
+2023-06-23 20:40:36 - [MESSAGE][PASSED] - Object 'Object Repository/User/Page_Dashboard/Shareholder/Positive Wallet/th_Wallet Positive' is visible
+
+2023-06-23 20:40:36 - [TEST_STEP][PASSED] - verifyElementVisible(findTestObject("User/Page_Dashboard/Shareholder/Positive Wallet/th_Wallet Last Update")): Object 'Object Repository/User/Page_Dashboard/Shareholder/Positive Wallet/th_Wallet Last Update' is visible
+
+2023-06-23 20:40:36 - [MESSAGE][PASSED] - Object 'Object Repository/User/Page_Dashboard/Shareholder/Positive Wallet/th_Wallet Last Update' is visible
+
+2023-06-23 20:40:36 - [TEST_STEP][PASSED] - verifyElementVisible(findTestObject("User/Page_Dashboard/Shareholder/Positive Wallet/th_Action")): Object 'Object Repository/User/Page_Dashboard/Shareholder/Positive Wallet/th_Action' is visible
+
+2023-06-23 20:40:37 - [MESSAGE][PASSED] - Object 'Object Repository/User/Page_Dashboard/Shareholder/Positive Wallet/th_Action' is visible
+
+2023-06-23 20:40:37 - [TEST_STEP][PASSED] - verifyElementVisible(findTestObject("User/Page_Dashboard/Shareholder/Positive Wallet/table_Shareholder name")): Object 'Object Repository/User/Page_Dashboard/Shareholder/Positive Wallet/table_Shareholder name' is visible
+
+2023-06-23 20:40:37 - [MESSAGE][PASSED] - Object 'Object Repository/User/Page_Dashboard/Shareholder/Positive Wallet/table_Shareholder name' is visible
+
+2023-06-23 20:40:37 - [TEST_STEP][PASSED] - com.reusableComponent.HighlightElement.run(findTestObject("User/Page_Dashboard/Shareholder/User Wallets/li_Previous")): com.reusableComponent.HighlightElement.run is PASSED
+
+2023-06-23 20:40:38 - [MESSAGE][PASSED] - com.reusableComponent.HighlightElement.run is PASSED
+
+2023-06-23 20:40:38 - [TEST_STEP][PASSED] - com.reusableComponent.HighlightElement.run(findTestObject("User/Page_Dashboard/Shareholder/User Wallets/a_Next")): com.reusableComponent.HighlightElement.run is PASSED
+
+2023-06-23 20:40:38 - [MESSAGE][PASSED] - com.reusableComponent.HighlightElement.run is PASSED
+
+2023-06-23 20:40:38 - [TEST_STEP][PASSED] - verifyElementVisible(findTestObject("User/Page_Dashboard/Shareholder/User Wallets/li_Previous")): Object 'Object Repository/User/Page_Dashboard/Shareholder/User Wallets/li_Previous' is visible
+
+2023-06-23 20:40:39 - [MESSAGE][PASSED] - Object 'Object Repository/User/Page_Dashboard/Shareholder/User Wallets/li_Previous' is visible
+
+2023-06-23 20:40:39 - [TEST_STEP][PASSED] - verifyElementVisible(findTestObject("User/Page_Dashboard/Shareholder/User Wallets/a_Next")): Object 'Object Repository/User/Page_Dashboard/Shareholder/User Wallets/a_Next' is visible
+
+2023-06-23 20:40:39 - [MESSAGE][PASSED] - Object 'Object Repository/User/Page_Dashboard/Shareholder/User Wallets/a_Next' is visible]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/User/Shareholder/Positive Wallet RMB" time="19.415" classname="Test Cases/User/Shareholder/Positive Wallet RMB" status="PASSED">
+         <system-out><![CDATA[2023-06-23 20:40:39 - [TEST_CASE][PASSED] - Test Cases/User/Shareholder/Positive Wallet RMB: Test Cases/User/Shareholder/Positive Wallet RMB
+
+2023-06-23 20:40:40 - [TEST_STEP][PASSED] - com.reusableComponent.HighlightElement.run(findTestObject("User/Page_Dashboard/Member/span_User")): com.reusableComponent.HighlightElement.run is PASSED
+
+2023-06-23 20:40:40 - [MESSAGE][PASSED] - com.reusableComponent.HighlightElement.run is PASSED
+
+2023-06-23 20:40:40 - [TEST_STEP][PASSED] - mouseOver(findTestObject("User/Page_Dashboard/Member/span_User")): Object: 'Object Repository/User/Page_Dashboard/Member/span_User' is hovered
+
+2023-06-23 20:40:41 - [MESSAGE][PASSED] - Object: 'Object Repository/User/Page_Dashboard/Member/span_User' is hovered
+
+2023-06-23 20:40:41 - [TEST_STEP][PASSED] - com.reusableComponent.HighlightElement.run(findTestObject("User/Page_Dashboard/Shareholder/span_Positive Wallet")): com.reusableComponent.HighlightElement.run is PASSED
+
+2023-06-23 20:40:41 - [MESSAGE][PASSED] - com.reusableComponent.HighlightElement.run is PASSED
+
+2023-06-23 20:40:41 - [TEST_STEP][PASSED] - mouseOver(findTestObject("User/Page_Dashboard/Shareholder/span_Positive Wallet")): Object: 'Object Repository/User/Page_Dashboard/Shareholder/span_Positive Wallet' is hovered
+
+2023-06-23 20:40:42 - [MESSAGE][PASSED] - Object: 'Object Repository/User/Page_Dashboard/Shareholder/span_Positive Wallet' is hovered
+
+2023-06-23 20:40:42 - [TEST_STEP][PASSED] - com.reusableComponent.HighlightElement.run(findTestObject("User/Page_Dashboard/Shareholder/Positive Wallet/span_RMB")): com.reusableComponent.HighlightElement.run is PASSED
+
+2023-06-23 20:40:42 - [MESSAGE][PASSED] - com.reusableComponent.HighlightElement.run is PASSED
+
+2023-06-23 20:40:42 - [TEST_STEP][PASSED] - mouseOver(findTestObject("User/Page_Dashboard/Shareholder/Positive Wallet/span_RMB")): Object: 'Object Repository/User/Page_Dashboard/Shareholder/Positive Wallet/span_RMB' is hovered
+
+2023-06-23 20:40:43 - [MESSAGE][PASSED] - Object: 'Object Repository/User/Page_Dashboard/Shareholder/Positive Wallet/span_RMB' is hovered
+
+2023-06-23 20:40:43 - [TEST_STEP][PASSED] - click(findTestObject("User/Page_Dashboard/Shareholder/Positive Wallet/span_RMB")): Object: 'Object Repository/User/Page_Dashboard/Shareholder/Positive Wallet/span_RMB' is clicked on
+
+2023-06-23 20:40:45 - [MESSAGE][PASSED] - Object: 'Object Repository/User/Page_Dashboard/Shareholder/Positive Wallet/span_RMB' is clicked on
+
+2023-06-23 20:40:45 - [TEST_STEP][PASSED] - waitForElementVisible(findTestObject("User/Page_Dashboard/Shareholder/Positive Wallet/h3_Shareholder Positive Report"), 0): Object 'Object Repository/User/Page_Dashboard/Shareholder/Positive Wallet/h3_Shareholder Positive Report' is visible
+
+2023-06-23 20:40:45 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+2023-06-23 20:40:46 - [MESSAGE][PASSED] - Object 'Object Repository/User/Page_Dashboard/Shareholder/Positive Wallet/h3_Shareholder Positive Report' is visible
+
+2023-06-23 20:40:46 - [TEST_STEP][PASSED] - com.reusableComponent.HighlightElement.run(findTestObject("User/Page_Dashboard/Shareholder/Positive Wallet/h3_Shareholder Positive Report")): com.reusableComponent.HighlightElement.run is PASSED
+
+2023-06-23 20:40:47 - [MESSAGE][PASSED] - com.reusableComponent.HighlightElement.run is PASSED
+
+2023-06-23 20:40:47 - [TEST_STEP][PASSED] - verifyElementVisible(findTestObject("User/Page_Dashboard/Shareholder/Positive Wallet/h3_Shareholder Positive Report")): Object 'Object Repository/User/Page_Dashboard/Shareholder/Positive Wallet/h3_Shareholder Positive Report' is visible
+
+2023-06-23 20:40:47 - [MESSAGE][PASSED] - Object 'Object Repository/User/Page_Dashboard/Shareholder/Positive Wallet/h3_Shareholder Positive Report' is visible
+
+2023-06-23 20:40:47 - [TEST_STEP][PASSED] - com.reusableComponent.HighlightElement.run(findTestObject("User/Page_Dashboard/Shareholder/Positive Wallet/select_1050100200All")): com.reusableComponent.HighlightElement.run is PASSED
+
+2023-06-23 20:40:48 - [MESSAGE][PASSED] - com.reusableComponent.HighlightElement.run is PASSED
+
+2023-06-23 20:40:48 - [TEST_STEP][PASSED] - com.reusableComponent.HighlightElement.run(findTestObject("User/Page_Dashboard/Shareholder/Positive Wallet/span_Copy")): com.reusableComponent.HighlightElement.run is PASSED
+
+2023-06-23 20:40:48 - [MESSAGE][PASSED] - com.reusableComponent.HighlightElement.run is PASSED
+
+2023-06-23 20:40:48 - [TEST_STEP][PASSED] - com.reusableComponent.HighlightElement.run(findTestObject("User/Page_Dashboard/Shareholder/Positive Wallet/span_CSV")): com.reusableComponent.HighlightElement.run is PASSED
+
+2023-06-23 20:40:48 - [MESSAGE][PASSED] - com.reusableComponent.HighlightElement.run is PASSED
+
+2023-06-23 20:40:48 - [TEST_STEP][PASSED] - com.reusableComponent.HighlightElement.run(findTestObject("User/Page_Dashboard/Shareholder/Positive Wallet/span_Excel")): com.reusableComponent.HighlightElement.run is PASSED
+
+2023-06-23 20:40:49 - [MESSAGE][PASSED] - com.reusableComponent.HighlightElement.run is PASSED
+
+2023-06-23 20:40:49 - [TEST_STEP][PASSED] - com.reusableComponent.HighlightElement.run(findTestObject("User/Page_Dashboard/Shareholder/Positive Wallet/span_PDF")): com.reusableComponent.HighlightElement.run is PASSED
+
+2023-06-23 20:40:49 - [MESSAGE][PASSED] - com.reusableComponent.HighlightElement.run is PASSED
+
+2023-06-23 20:40:49 - [TEST_STEP][PASSED] - verifyElementVisible(findTestObject("User/Page_Dashboard/Shareholder/Positive Wallet/select_1050100200All")): Object 'Object Repository/User/Page_Dashboard/Shareholder/Positive Wallet/select_1050100200All' is visible
+
+2023-06-23 20:40:50 - [MESSAGE][PASSED] - Object 'Object Repository/User/Page_Dashboard/Shareholder/Positive Wallet/select_1050100200All' is visible
+
+2023-06-23 20:40:50 - [TEST_STEP][PASSED] - verifyElementVisible(findTestObject("User/Page_Dashboard/Shareholder/Positive Wallet/span_Copy")): Object 'Object Repository/User/Page_Dashboard/Shareholder/Positive Wallet/span_Copy' is visible
+
+2023-06-23 20:40:50 - [MESSAGE][PASSED] - Object 'Object Repository/User/Page_Dashboard/Shareholder/Positive Wallet/span_Copy' is visible
+
+2023-06-23 20:40:50 - [TEST_STEP][PASSED] - verifyElementVisible(findTestObject("User/Page_Dashboard/Shareholder/Positive Wallet/span_CSV")): Object 'Object Repository/User/Page_Dashboard/Shareholder/Positive Wallet/span_CSV' is visible
+
+2023-06-23 20:40:51 - [MESSAGE][PASSED] - Object 'Object Repository/User/Page_Dashboard/Shareholder/Positive Wallet/span_CSV' is visible
+
+2023-06-23 20:40:51 - [TEST_STEP][PASSED] - verifyElementVisible(findTestObject("User/Page_Dashboard/Shareholder/Positive Wallet/span_Excel")): Object 'Object Repository/User/Page_Dashboard/Shareholder/Positive Wallet/span_Excel' is visible
+
+2023-06-23 20:40:51 - [MESSAGE][PASSED] - Object 'Object Repository/User/Page_Dashboard/Shareholder/Positive Wallet/span_Excel' is visible
+
+2023-06-23 20:40:51 - [TEST_STEP][PASSED] - verifyElementVisible(findTestObject("User/Page_Dashboard/Shareholder/Positive Wallet/span_PDF")): Object 'Object Repository/User/Page_Dashboard/Shareholder/Positive Wallet/span_PDF' is visible
+
+2023-06-23 20:40:52 - [MESSAGE][PASSED] - Object 'Object Repository/User/Page_Dashboard/Shareholder/Positive Wallet/span_PDF' is visible
+
+2023-06-23 20:40:52 - [TEST_STEP][PASSED] - com.reusableComponent.HighlightElement.run(findTestObject("User/Page_Dashboard/Shareholder/Positive Wallet/input_Search_form-control form-control-sm")): com.reusableComponent.HighlightElement.run is PASSED
+
+2023-06-23 20:40:52 - [MESSAGE][PASSED] - com.reusableComponent.HighlightElement.run is PASSED
+
+2023-06-23 20:40:52 - [TEST_STEP][PASSED] - verifyElementVisible(findTestObject("User/Page_Dashboard/Shareholder/Positive Wallet/input_Search_form-control form-control-sm")): Object 'Object Repository/User/Page_Dashboard/Shareholder/Positive Wallet/input_Search_form-control form-control-sm' is visible
+
+2023-06-23 20:40:52 - [MESSAGE][PASSED] - Object 'Object Repository/User/Page_Dashboard/Shareholder/Positive Wallet/input_Search_form-control form-control-sm' is visible
+
+2023-06-23 20:40:52 - [TEST_STEP][PASSED] - com.reusableComponent.HighlightElement.run(findTestObject("User/Page_Dashboard/Shareholder/Positive Wallet/th_Shareholder name")): com.reusableComponent.HighlightElement.run is PASSED
+
+2023-06-23 20:40:53 - [MESSAGE][PASSED] - com.reusableComponent.HighlightElement.run is PASSED
+
+2023-06-23 20:40:53 - [TEST_STEP][PASSED] - com.reusableComponent.HighlightElement.run(findTestObject("User/Page_Dashboard/Shareholder/Positive Wallet/th_Wallet Positive")): com.reusableComponent.HighlightElement.run is PASSED
+
+2023-06-23 20:40:53 - [MESSAGE][PASSED] - com.reusableComponent.HighlightElement.run is PASSED
+
+2023-06-23 20:40:53 - [TEST_STEP][PASSED] - com.reusableComponent.HighlightElement.run(findTestObject("User/Page_Dashboard/Shareholder/Positive Wallet/th_Wallet Last Update")): com.reusableComponent.HighlightElement.run is PASSED
+
+2023-06-23 20:40:54 - [MESSAGE][PASSED] - com.reusableComponent.HighlightElement.run is PASSED
+
+2023-06-23 20:40:54 - [TEST_STEP][PASSED] - com.reusableComponent.HighlightElement.run(findTestObject("User/Page_Dashboard/Shareholder/Positive Wallet/th_Action")): com.reusableComponent.HighlightElement.run is PASSED
+
+2023-06-23 20:40:54 - [MESSAGE][PASSED] - com.reusableComponent.HighlightElement.run is PASSED
+
+2023-06-23 20:40:54 - [TEST_STEP][PASSED] - com.reusableComponent.HighlightElement.run(findTestObject("User/Page_Dashboard/Shareholder/Positive Wallet/table_Shareholder name")): com.reusableComponent.HighlightElement.run is PASSED
+
+2023-06-23 20:40:55 - [MESSAGE][PASSED] - com.reusableComponent.HighlightElement.run is PASSED
+
+2023-06-23 20:40:55 - [TEST_STEP][PASSED] - verifyElementVisible(findTestObject("User/Page_Dashboard/Shareholder/Positive Wallet/th_Shareholder name")): Object 'Object Repository/User/Page_Dashboard/Shareholder/Positive Wallet/th_Shareholder name' is visible
+
+2023-06-23 20:40:55 - [MESSAGE][PASSED] - Object 'Object Repository/User/Page_Dashboard/Shareholder/Positive Wallet/th_Shareholder name' is visible
+
+2023-06-23 20:40:55 - [TEST_STEP][PASSED] - verifyElementVisible(findTestObject("User/Page_Dashboard/Shareholder/Positive Wallet/th_Wallet Positive")): Object 'Object Repository/User/Page_Dashboard/Shareholder/Positive Wallet/th_Wallet Positive' is visible
+
+2023-06-23 20:40:56 - [MESSAGE][PASSED] - Object 'Object Repository/User/Page_Dashboard/Shareholder/Positive Wallet/th_Wallet Positive' is visible
+
+2023-06-23 20:40:56 - [TEST_STEP][PASSED] - verifyElementVisible(findTestObject("User/Page_Dashboard/Shareholder/Positive Wallet/th_Wallet Last Update")): Object 'Object Repository/User/Page_Dashboard/Shareholder/Positive Wallet/th_Wallet Last Update' is visible
+
+2023-06-23 20:40:56 - [MESSAGE][PASSED] - Object 'Object Repository/User/Page_Dashboard/Shareholder/Positive Wallet/th_Wallet Last Update' is visible
+
+2023-06-23 20:40:56 - [TEST_STEP][PASSED] - verifyElementVisible(findTestObject("User/Page_Dashboard/Shareholder/Positive Wallet/th_Action")): Object 'Object Repository/User/Page_Dashboard/Shareholder/Positive Wallet/th_Action' is visible
+
+2023-06-23 20:40:56 - [MESSAGE][PASSED] - Object 'Object Repository/User/Page_Dashboard/Shareholder/Positive Wallet/th_Action' is visible
+
+2023-06-23 20:40:56 - [TEST_STEP][PASSED] - verifyElementVisible(findTestObject("User/Page_Dashboard/Shareholder/Positive Wallet/table_Shareholder name")): Object 'Object Repository/User/Page_Dashboard/Shareholder/Positive Wallet/table_Shareholder name' is visible
+
+2023-06-23 20:40:57 - [MESSAGE][PASSED] - Object 'Object Repository/User/Page_Dashboard/Shareholder/Positive Wallet/table_Shareholder name' is visible
+
+2023-06-23 20:40:57 - [TEST_STEP][PASSED] - com.reusableComponent.HighlightElement.run(findTestObject("User/Page_Dashboard/Shareholder/User Wallets/li_Previous")): com.reusableComponent.HighlightElement.run is PASSED
+
+2023-06-23 20:40:57 - [MESSAGE][PASSED] - com.reusableComponent.HighlightElement.run is PASSED
+
+2023-06-23 20:40:57 - [TEST_STEP][PASSED] - com.reusableComponent.HighlightElement.run(findTestObject("User/Page_Dashboard/Shareholder/User Wallets/a_Next")): com.reusableComponent.HighlightElement.run is PASSED
+
+2023-06-23 20:40:58 - [MESSAGE][PASSED] - com.reusableComponent.HighlightElement.run is PASSED
+
+2023-06-23 20:40:58 - [TEST_STEP][PASSED] - verifyElementVisible(findTestObject("User/Page_Dashboard/Shareholder/User Wallets/li_Previous")): Object 'Object Repository/User/Page_Dashboard/Shareholder/User Wallets/li_Previous' is visible
+
+2023-06-23 20:40:58 - [MESSAGE][PASSED] - Object 'Object Repository/User/Page_Dashboard/Shareholder/User Wallets/li_Previous' is visible
+
+2023-06-23 20:40:58 - [TEST_STEP][PASSED] - verifyElementVisible(findTestObject("User/Page_Dashboard/Shareholder/User Wallets/a_Next")): Object 'Object Repository/User/Page_Dashboard/Shareholder/User Wallets/a_Next' is visible
+
+2023-06-23 20:40:59 - [MESSAGE][PASSED] - Object 'Object Repository/User/Page_Dashboard/Shareholder/User Wallets/a_Next' is visible]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/User/Shareholder/Positive Wallet USD" time="19.606" classname="Test Cases/User/Shareholder/Positive Wallet USD" status="PASSED">
+         <system-out><![CDATA[2023-06-23 20:40:59 - [TEST_CASE][PASSED] - Test Cases/User/Shareholder/Positive Wallet USD: Test Cases/User/Shareholder/Positive Wallet USD
+
+2023-06-23 20:40:59 - [TEST_STEP][PASSED] - com.reusableComponent.HighlightElement.run(findTestObject("User/Page_Dashboard/Member/span_User")): com.reusableComponent.HighlightElement.run is PASSED
+
+2023-06-23 20:41:00 - [MESSAGE][PASSED] - com.reusableComponent.HighlightElement.run is PASSED
+
+2023-06-23 20:41:00 - [TEST_STEP][PASSED] - mouseOver(findTestObject("User/Page_Dashboard/Member/span_User")): Object: 'Object Repository/User/Page_Dashboard/Member/span_User' is hovered
+
+2023-06-23 20:41:00 - [MESSAGE][PASSED] - Object: 'Object Repository/User/Page_Dashboard/Member/span_User' is hovered
+
+2023-06-23 20:41:00 - [TEST_STEP][PASSED] - com.reusableComponent.HighlightElement.run(findTestObject("User/Page_Dashboard/Shareholder/span_Positive Wallet")): com.reusableComponent.HighlightElement.run is PASSED
+
+2023-06-23 20:41:01 - [MESSAGE][PASSED] - com.reusableComponent.HighlightElement.run is PASSED
+
+2023-06-23 20:41:01 - [TEST_STEP][PASSED] - mouseOver(findTestObject("User/Page_Dashboard/Shareholder/span_Positive Wallet")): Object: 'Object Repository/User/Page_Dashboard/Shareholder/span_Positive Wallet' is hovered
+
+2023-06-23 20:41:01 - [MESSAGE][PASSED] - Object: 'Object Repository/User/Page_Dashboard/Shareholder/span_Positive Wallet' is hovered
+
+2023-06-23 20:41:01 - [TEST_STEP][PASSED] - com.reusableComponent.HighlightElement.run(findTestObject("User/Page_Dashboard/Shareholder/Positive Wallet/span_USD")): com.reusableComponent.HighlightElement.run is PASSED
+
+2023-06-23 20:41:02 - [MESSAGE][PASSED] - com.reusableComponent.HighlightElement.run is PASSED
+
+2023-06-23 20:41:02 - [TEST_STEP][PASSED] - mouseOver(findTestObject("User/Page_Dashboard/Shareholder/Positive Wallet/span_USD")): Object: 'Object Repository/User/Page_Dashboard/Shareholder/Positive Wallet/span_USD' is hovered
+
+2023-06-23 20:41:02 - [MESSAGE][PASSED] - Object: 'Object Repository/User/Page_Dashboard/Shareholder/Positive Wallet/span_USD' is hovered
+
+2023-06-23 20:41:02 - [TEST_STEP][PASSED] - click(findTestObject("User/Page_Dashboard/Shareholder/Positive Wallet/span_USD")): Object: 'Object Repository/User/Page_Dashboard/Shareholder/Positive Wallet/span_USD' is clicked on
+
+2023-06-23 20:41:04 - [MESSAGE][PASSED] - Object: 'Object Repository/User/Page_Dashboard/Shareholder/Positive Wallet/span_USD' is clicked on
+
+2023-06-23 20:41:04 - [TEST_STEP][PASSED] - waitForElementVisible(findTestObject("User/Page_Dashboard/Shareholder/Positive Wallet/h3_Shareholder Positive Report"), 0): Object 'Object Repository/User/Page_Dashboard/Shareholder/Positive Wallet/h3_Shareholder Positive Report' is visible
+
+2023-06-23 20:41:05 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+2023-06-23 20:41:06 - [MESSAGE][PASSED] - Object 'Object Repository/User/Page_Dashboard/Shareholder/Positive Wallet/h3_Shareholder Positive Report' is visible
+
+2023-06-23 20:41:06 - [TEST_STEP][PASSED] - com.reusableComponent.HighlightElement.run(findTestObject("User/Page_Dashboard/Shareholder/Positive Wallet/h3_Shareholder Positive Report")): com.reusableComponent.HighlightElement.run is PASSED
+
+2023-06-23 20:41:06 - [MESSAGE][PASSED] - com.reusableComponent.HighlightElement.run is PASSED
+
+2023-06-23 20:41:06 - [TEST_STEP][PASSED] - verifyElementVisible(findTestObject("User/Page_Dashboard/Shareholder/Positive Wallet/h3_Shareholder Positive Report")): Object 'Object Repository/User/Page_Dashboard/Shareholder/Positive Wallet/h3_Shareholder Positive Report' is visible
+
+2023-06-23 20:41:07 - [MESSAGE][PASSED] - Object 'Object Repository/User/Page_Dashboard/Shareholder/Positive Wallet/h3_Shareholder Positive Report' is visible
+
+2023-06-23 20:41:07 - [TEST_STEP][PASSED] - com.reusableComponent.HighlightElement.run(findTestObject("User/Page_Dashboard/Shareholder/Positive Wallet/select_1050100200All")): com.reusableComponent.HighlightElement.run is PASSED
+
+2023-06-23 20:41:07 - [MESSAGE][PASSED] - com.reusableComponent.HighlightElement.run is PASSED
+
+2023-06-23 20:41:07 - [TEST_STEP][PASSED] - com.reusableComponent.HighlightElement.run(findTestObject("User/Page_Dashboard/Shareholder/Positive Wallet/span_Copy")): com.reusableComponent.HighlightElement.run is PASSED
+
+2023-06-23 20:41:08 - [MESSAGE][PASSED] - com.reusableComponent.HighlightElement.run is PASSED
+
+2023-06-23 20:41:08 - [TEST_STEP][PASSED] - com.reusableComponent.HighlightElement.run(findTestObject("User/Page_Dashboard/Shareholder/Positive Wallet/span_CSV")): com.reusableComponent.HighlightElement.run is PASSED
+
+2023-06-23 20:41:08 - [MESSAGE][PASSED] - com.reusableComponent.HighlightElement.run is PASSED
+
+2023-06-23 20:41:08 - [TEST_STEP][PASSED] - com.reusableComponent.HighlightElement.run(findTestObject("User/Page_Dashboard/Shareholder/Positive Wallet/span_Excel")): com.reusableComponent.HighlightElement.run is PASSED
+
+2023-06-23 20:41:09 - [MESSAGE][PASSED] - com.reusableComponent.HighlightElement.run is PASSED
+
+2023-06-23 20:41:09 - [TEST_STEP][PASSED] - com.reusableComponent.HighlightElement.run(findTestObject("User/Page_Dashboard/Shareholder/Positive Wallet/span_PDF")): com.reusableComponent.HighlightElement.run is PASSED
+
+2023-06-23 20:41:09 - [MESSAGE][PASSED] - com.reusableComponent.HighlightElement.run is PASSED
+
+2023-06-23 20:41:09 - [TEST_STEP][PASSED] - verifyElementVisible(findTestObject("User/Page_Dashboard/Shareholder/Positive Wallet/select_1050100200All")): Object 'Object Repository/User/Page_Dashboard/Shareholder/Positive Wallet/select_1050100200All' is visible
+
+2023-06-23 20:41:10 - [MESSAGE][PASSED] - Object 'Object Repository/User/Page_Dashboard/Shareholder/Positive Wallet/select_1050100200All' is visible
+
+2023-06-23 20:41:10 - [TEST_STEP][PASSED] - verifyElementVisible(findTestObject("User/Page_Dashboard/Shareholder/Positive Wallet/span_Copy")): Object 'Object Repository/User/Page_Dashboard/Shareholder/Positive Wallet/span_Copy' is visible
+
+2023-06-23 20:41:10 - [MESSAGE][PASSED] - Object 'Object Repository/User/Page_Dashboard/Shareholder/Positive Wallet/span_Copy' is visible
+
+2023-06-23 20:41:10 - [TEST_STEP][PASSED] - verifyElementVisible(findTestObject("User/Page_Dashboard/Shareholder/Positive Wallet/span_CSV")): Object 'Object Repository/User/Page_Dashboard/Shareholder/Positive Wallet/span_CSV' is visible
+
+2023-06-23 20:41:10 - [MESSAGE][PASSED] - Object 'Object Repository/User/Page_Dashboard/Shareholder/Positive Wallet/span_CSV' is visible
+
+2023-06-23 20:41:10 - [TEST_STEP][PASSED] - verifyElementVisible(findTestObject("User/Page_Dashboard/Shareholder/Positive Wallet/span_Excel")): Object 'Object Repository/User/Page_Dashboard/Shareholder/Positive Wallet/span_Excel' is visible
+
+2023-06-23 20:41:11 - [MESSAGE][PASSED] - Object 'Object Repository/User/Page_Dashboard/Shareholder/Positive Wallet/span_Excel' is visible
+
+2023-06-23 20:41:11 - [TEST_STEP][PASSED] - verifyElementVisible(findTestObject("User/Page_Dashboard/Shareholder/Positive Wallet/span_PDF")): Object 'Object Repository/User/Page_Dashboard/Shareholder/Positive Wallet/span_PDF' is visible
+
+2023-06-23 20:41:11 - [MESSAGE][PASSED] - Object 'Object Repository/User/Page_Dashboard/Shareholder/Positive Wallet/span_PDF' is visible
+
+2023-06-23 20:41:11 - [TEST_STEP][PASSED] - com.reusableComponent.HighlightElement.run(findTestObject("User/Page_Dashboard/Shareholder/Positive Wallet/input_Search_form-control form-control-sm")): com.reusableComponent.HighlightElement.run is PASSED
+
+2023-06-23 20:41:12 - [MESSAGE][PASSED] - com.reusableComponent.HighlightElement.run is PASSED
+
+2023-06-23 20:41:12 - [TEST_STEP][PASSED] - verifyElementVisible(findTestObject("User/Page_Dashboard/Shareholder/Positive Wallet/input_Search_form-control form-control-sm")): Object 'Object Repository/User/Page_Dashboard/Shareholder/Positive Wallet/input_Search_form-control form-control-sm' is visible
+
+2023-06-23 20:41:12 - [MESSAGE][PASSED] - Object 'Object Repository/User/Page_Dashboard/Shareholder/Positive Wallet/input_Search_form-control form-control-sm' is visible
+
+2023-06-23 20:41:12 - [TEST_STEP][PASSED] - com.reusableComponent.HighlightElement.run(findTestObject("User/Page_Dashboard/Shareholder/Positive Wallet/th_Shareholder name")): com.reusableComponent.HighlightElement.run is PASSED
+
+2023-06-23 20:41:12 - [MESSAGE][PASSED] - com.reusableComponent.HighlightElement.run is PASSED
+
+2023-06-23 20:41:12 - [TEST_STEP][PASSED] - com.reusableComponent.HighlightElement.run(findTestObject("User/Page_Dashboard/Shareholder/Positive Wallet/th_Wallet Positive")): com.reusableComponent.HighlightElement.run is PASSED
+
+2023-06-23 20:41:13 - [MESSAGE][PASSED] - com.reusableComponent.HighlightElement.run is PASSED
+
+2023-06-23 20:41:13 - [TEST_STEP][PASSED] - com.reusableComponent.HighlightElement.run(findTestObject("User/Page_Dashboard/Shareholder/Positive Wallet/th_Wallet Last Update")): com.reusableComponent.HighlightElement.run is PASSED
+
+2023-06-23 20:41:13 - [MESSAGE][PASSED] - com.reusableComponent.HighlightElement.run is PASSED
+
+2023-06-23 20:41:13 - [TEST_STEP][PASSED] - com.reusableComponent.HighlightElement.run(findTestObject("User/Page_Dashboard/Shareholder/Positive Wallet/th_Action")): com.reusableComponent.HighlightElement.run is PASSED
+
+2023-06-23 20:41:14 - [MESSAGE][PASSED] - com.reusableComponent.HighlightElement.run is PASSED
+
+2023-06-23 20:41:14 - [TEST_STEP][PASSED] - com.reusableComponent.HighlightElement.run(findTestObject("User/Page_Dashboard/Shareholder/Positive Wallet/table_Shareholder name")): com.reusableComponent.HighlightElement.run is PASSED
+
+2023-06-23 20:41:14 - [MESSAGE][PASSED] - com.reusableComponent.HighlightElement.run is PASSED
+
+2023-06-23 20:41:14 - [TEST_STEP][PASSED] - verifyElementVisible(findTestObject("User/Page_Dashboard/Shareholder/Positive Wallet/th_Shareholder name")): Object 'Object Repository/User/Page_Dashboard/Shareholder/Positive Wallet/th_Shareholder name' is visible
+
+2023-06-23 20:41:15 - [MESSAGE][PASSED] - Object 'Object Repository/User/Page_Dashboard/Shareholder/Positive Wallet/th_Shareholder name' is visible
+
+2023-06-23 20:41:15 - [TEST_STEP][PASSED] - verifyElementVisible(findTestObject("User/Page_Dashboard/Shareholder/Positive Wallet/th_Wallet Positive")): Object 'Object Repository/User/Page_Dashboard/Shareholder/Positive Wallet/th_Wallet Positive' is visible
+
+2023-06-23 20:41:15 - [MESSAGE][PASSED] - Object 'Object Repository/User/Page_Dashboard/Shareholder/Positive Wallet/th_Wallet Positive' is visible
+
+2023-06-23 20:41:15 - [TEST_STEP][PASSED] - verifyElementVisible(findTestObject("User/Page_Dashboard/Shareholder/Positive Wallet/th_Wallet Last Update")): Object 'Object Repository/User/Page_Dashboard/Shareholder/Positive Wallet/th_Wallet Last Update' is visible
+
+2023-06-23 20:41:16 - [MESSAGE][PASSED] - Object 'Object Repository/User/Page_Dashboard/Shareholder/Positive Wallet/th_Wallet Last Update' is visible
+
+2023-06-23 20:41:16 - [TEST_STEP][PASSED] - verifyElementVisible(findTestObject("User/Page_Dashboard/Shareholder/Positive Wallet/th_Action")): Object 'Object Repository/User/Page_Dashboard/Shareholder/Positive Wallet/th_Action' is visible
+
+2023-06-23 20:41:16 - [MESSAGE][PASSED] - Object 'Object Repository/User/Page_Dashboard/Shareholder/Positive Wallet/th_Action' is visible
+
+2023-06-23 20:41:16 - [TEST_STEP][PASSED] - verifyElementVisible(findTestObject("User/Page_Dashboard/Shareholder/Positive Wallet/table_Shareholder name")): Object 'Object Repository/User/Page_Dashboard/Shareholder/Positive Wallet/table_Shareholder name' is visible
+
+2023-06-23 20:41:16 - [MESSAGE][PASSED] - Object 'Object Repository/User/Page_Dashboard/Shareholder/Positive Wallet/table_Shareholder name' is visible
+
+2023-06-23 20:41:16 - [TEST_STEP][PASSED] - com.reusableComponent.HighlightElement.run(findTestObject("User/Page_Dashboard/Shareholder/User Wallets/li_Previous")): com.reusableComponent.HighlightElement.run is PASSED
+
+2023-06-23 20:41:17 - [MESSAGE][PASSED] - com.reusableComponent.HighlightElement.run is PASSED
+
+2023-06-23 20:41:17 - [TEST_STEP][PASSED] - com.reusableComponent.HighlightElement.run(findTestObject("User/Page_Dashboard/Shareholder/User Wallets/a_Next")): com.reusableComponent.HighlightElement.run is PASSED
+
+2023-06-23 20:41:17 - [MESSAGE][PASSED] - com.reusableComponent.HighlightElement.run is PASSED
+
+2023-06-23 20:41:17 - [TEST_STEP][PASSED] - verifyElementVisible(findTestObject("User/Page_Dashboard/Shareholder/User Wallets/li_Previous")): Object 'Object Repository/User/Page_Dashboard/Shareholder/User Wallets/li_Previous' is visible
+
+2023-06-23 20:41:18 - [MESSAGE][PASSED] - Object 'Object Repository/User/Page_Dashboard/Shareholder/User Wallets/li_Previous' is visible
+
+2023-06-23 20:41:18 - [TEST_STEP][PASSED] - verifyElementVisible(findTestObject("User/Page_Dashboard/Shareholder/User Wallets/a_Next")): Object 'Object Repository/User/Page_Dashboard/Shareholder/User Wallets/a_Next' is visible
+
+2023-06-23 20:41:18 - [MESSAGE][PASSED] - Object 'Object Repository/User/Page_Dashboard/Shareholder/User Wallets/a_Next' is visible]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/User/Shareholder/Duplicate IP Logins" time="124.096" classname="Test Cases/User/Shareholder/Duplicate IP Logins" status="PASSED">
+         <system-out><![CDATA[2023-06-23 20:41:18 - [TEST_CASE][PASSED] - Test Cases/User/Shareholder/Duplicate IP Logins: Test Cases/User/Shareholder/Duplicate IP Logins
+
+2023-06-23 20:41:19 - [TEST_STEP][PASSED] - com.reusableComponent.HighlightElement.run(findTestObject("User/Page_Dashboard/Member/span_User")): com.reusableComponent.HighlightElement.run is PASSED
+
+2023-06-23 20:41:19 - [MESSAGE][PASSED] - com.reusableComponent.HighlightElement.run is PASSED
+
+2023-06-23 20:41:19 - [TEST_STEP][PASSED] - mouseOver(findTestObject("User/Page_Dashboard/Member/span_User")): Object: 'Object Repository/User/Page_Dashboard/Member/span_User' is hovered
+
+2023-06-23 20:41:20 - [MESSAGE][PASSED] - Object: 'Object Repository/User/Page_Dashboard/Member/span_User' is hovered
+
+2023-06-23 20:41:20 - [TEST_STEP][PASSED] - com.reusableComponent.HighlightElement.run(findTestObject("User/Page_Dashboard/Shareholder/span_Duplicate IP Logins")): com.reusableComponent.HighlightElement.run is PASSED
+
+2023-06-23 20:41:20 - [MESSAGE][PASSED] - com.reusableComponent.HighlightElement.run is PASSED
+
+2023-06-23 20:41:20 - [TEST_STEP][PASSED] - mouseOver(findTestObject("User/Page_Dashboard/Shareholder/span_Duplicate IP Logins")): Object: 'Object Repository/User/Page_Dashboard/Shareholder/span_Duplicate IP Logins' is hovered
+
+2023-06-23 20:41:21 - [MESSAGE][PASSED] - Object: 'Object Repository/User/Page_Dashboard/Shareholder/span_Duplicate IP Logins' is hovered
+
+2023-06-23 20:41:21 - [TEST_STEP][PASSED] - click(findTestObject("User/Page_Dashboard/Shareholder/span_Duplicate IP Logins")): Object: 'Object Repository/User/Page_Dashboard/Shareholder/span_Duplicate IP Logins' is clicked on
+
+2023-06-23 20:41:23 - [MESSAGE][PASSED] - Object: 'Object Repository/User/Page_Dashboard/Shareholder/span_Duplicate IP Logins' is clicked on
+
+2023-06-23 20:41:23 - [TEST_STEP][PASSED] - com.reusableComponent.HighlightElement.run(findTestObject("User/Page_Dashboard/Shareholder/User List/h3_Shareholder Duplicate IP Logins")): com.reusableComponent.HighlightElement.run is PASSED
+
+2023-06-23 20:41:24 - [MESSAGE][PASSED] - com.reusableComponent.HighlightElement.run is PASSED
+
+2023-06-23 20:41:24 - [TEST_STEP][PASSED] - com.reusableComponent.HighlightElement.run(findTestObject("Sub Admin/Page_Admin Duplicate IP Logins/label_Date Range")): com.reusableComponent.HighlightElement.run is PASSED
+
+2023-06-23 20:41:45 - [MESSAGE][INFO] - Unable to find the element located by 'By.xpath: //div[@id='adminDuplicateIpLoginsLayout']/div/div/div[2]/div/form/div/label'. Please recheck the objects properties to make sure the desired element is located. 
+
+2023-06-23 20:41:45 - [MESSAGE][WARNING] - [SELF-HEALING] Failed to find element with id 'Object Repository/Sub Admin/Page_Admin Duplicate IP Logins/label_Date Range'. Try using Self-healing.
+
+2023-06-23 20:41:45 - [MESSAGE][INFO] - [SELF-HEALING] Failed Locator: '//div[@id='adminDuplicateIpLoginsLayout']/div/div/div[2]/div/form/div/label'.
+
+2023-06-23 20:41:46 - [MESSAGE][INFO] - [SELF-HEALING] Failed Locator: '(.//*[normalize-space(text()) and normalize-space(.)='Admin Duplicate IP Logins'])[3]/following::label[1]'.
+
+2023-06-23 20:41:46 - [MESSAGE][INFO] - [SELF-HEALING] Working Locator: '(.//*[normalize-space(text()) and normalize-space(.)='Unlock'])[1]/following::label[1]'.
+
+2023-06-23 20:41:46 - [MESSAGE][INFO] - [SELF-HEALING] Screenshot: C:/Users/hmacagba/git/AutomatedScripts/Reports/Self-healing/Object Repository/Sub Admin/Page_Admin Duplicate IP Logins/label_Date Range_neighbor.png
+
+2023-06-23 20:41:46 - [MESSAGE][WARNING] - [SELF-HEALING] The current locator of test object 'Object Repository/Sub Admin/Page_Admin Duplicate IP Logins/label_Date Range' was broken. Propose an alternative one: '(.//*[normalize-space(text()) and normalize-space(.)='Unlock'])[1]/following::label[1]'.
+
+2023-06-23 20:41:46 - [MESSAGE][PASSED] - com.reusableComponent.HighlightElement.run is PASSED
+
+2023-06-23 20:41:46 - [TEST_STEP][PASSED] - com.reusableComponent.HighlightElement.run(findTestObject("Sub Admin/Page_Admin Duplicate IP Logins/input_Date Range_form-control date_range")): com.reusableComponent.HighlightElement.run is PASSED
+
+2023-06-23 20:42:08 - [MESSAGE][INFO] - Unable to find the element located by 'By.xpath: //input[@value='21-06-2023 - 21-06-2023']'. Please recheck the objects properties to make sure the desired element is located. 
+
+2023-06-23 20:42:08 - [MESSAGE][WARNING] - [SELF-HEALING] Failed to find element with id 'Object Repository/Sub Admin/Page_Admin Duplicate IP Logins/input_Date Range_form-control date_range'. Try using Self-healing.
+
+2023-06-23 20:42:08 - [MESSAGE][INFO] - [SELF-HEALING] Failed Locator: '//input[@value='21-06-2023 - 21-06-2023']'.
+
+2023-06-23 20:42:08 - [MESSAGE][INFO] - [SELF-HEALING] Failed Locator: '//div[@id='adminDuplicateIpLoginsLayout']/div/div/div[2]/div/form/div/input'.
+
+2023-06-23 20:42:09 - [MESSAGE][INFO] - [SELF-HEALING] Working Locator: '//form/div/input'.
+
+2023-06-23 20:42:09 - [MESSAGE][INFO] - [SELF-HEALING] Screenshot: C:/Users/hmacagba/git/AutomatedScripts/Reports/Self-healing/Object Repository/Sub Admin/Page_Admin Duplicate IP Logins/input_Date Range_form-control date_range_position.png
+
+2023-06-23 20:42:09 - [MESSAGE][WARNING] - [SELF-HEALING] The current locator of test object 'Object Repository/Sub Admin/Page_Admin Duplicate IP Logins/input_Date Range_form-control date_range' was broken. Propose an alternative one: '//form/div/input'.
+
+2023-06-23 20:42:09 - [MESSAGE][PASSED] - com.reusableComponent.HighlightElement.run is PASSED
+
+2023-06-23 20:42:09 - [TEST_STEP][PASSED] - com.reusableComponent.HighlightElement.run(findTestObject("Sub Admin/Page_Admin Duplicate IP Logins/button_Search")): com.reusableComponent.HighlightElement.run is PASSED
+
+2023-06-23 20:42:09 - [MESSAGE][PASSED] - com.reusableComponent.HighlightElement.run is PASSED
+
+2023-06-23 20:42:09 - [TEST_STEP][PASSED] - verifyElementVisible(findTestObject("User/Page_Dashboard/Shareholder/User List/h3_Shareholder Duplicate IP Logins")): Object 'Object Repository/User/Page_Dashboard/Shareholder/User List/h3_Shareholder Duplicate IP Logins' is visible
+
+2023-06-23 20:42:10 - [MESSAGE][PASSED] - Object 'Object Repository/User/Page_Dashboard/Shareholder/User List/h3_Shareholder Duplicate IP Logins' is visible
+
+2023-06-23 20:42:10 - [TEST_STEP][PASSED] - verifyElementVisible(findTestObject("Sub Admin/Page_Admin Duplicate IP Logins/label_Date Range")): Object 'Object Repository/Sub Admin/Page_Admin Duplicate IP Logins/label_Date Range' is visible
+
+2023-06-23 20:42:41 - [MESSAGE][INFO] - Unable to find the element located by 'By.xpath: //div[@id='adminDuplicateIpLoginsLayout']/div/div/div[2]/div/form/div/label'. Please recheck the objects properties to make sure the desired element is located. 
+
+2023-06-23 20:42:41 - [MESSAGE][WARNING] - [SELF-HEALING] Failed to find element with id 'Object Repository/Sub Admin/Page_Admin Duplicate IP Logins/label_Date Range'. Try using Self-healing.
+
+2023-06-23 20:42:41 - [MESSAGE][WARNING] - [SELF-HEALING] The current locator of test object 'Object Repository/Sub Admin/Page_Admin Duplicate IP Logins/label_Date Range' was broken. Propose an alternative one: '(.//*[normalize-space(text()) and normalize-space(.)='Unlock'])[1]/following::label[1]'.
+
+2023-06-23 20:42:41 - [MESSAGE][PASSED] - Object 'Object Repository/Sub Admin/Page_Admin Duplicate IP Logins/label_Date Range' is visible
+
+2023-06-23 20:42:41 - [TEST_STEP][PASSED] - verifyElementVisible(findTestObject("Sub Admin/Page_Admin Duplicate IP Logins/input_Date Range_form-control date_range")): Object 'Object Repository/Sub Admin/Page_Admin Duplicate IP Logins/input_Date Range_form-control date_range' is visible
+
+2023-06-23 20:43:12 - [MESSAGE][INFO] - Unable to find the element located by 'By.xpath: //input[@value='21-06-2023 - 21-06-2023']'. Please recheck the objects properties to make sure the desired element is located. 
+
+2023-06-23 20:43:12 - [MESSAGE][WARNING] - [SELF-HEALING] Failed to find element with id 'Object Repository/Sub Admin/Page_Admin Duplicate IP Logins/input_Date Range_form-control date_range'. Try using Self-healing.
+
+2023-06-23 20:43:13 - [MESSAGE][WARNING] - [SELF-HEALING] The current locator of test object 'Object Repository/Sub Admin/Page_Admin Duplicate IP Logins/input_Date Range_form-control date_range' was broken. Propose an alternative one: '//form/div/input'.
+
+2023-06-23 20:43:13 - [MESSAGE][PASSED] - Object 'Object Repository/Sub Admin/Page_Admin Duplicate IP Logins/input_Date Range_form-control date_range' is visible
+
+2023-06-23 20:43:13 - [TEST_STEP][PASSED] - verifyElementVisible(findTestObject("Sub Admin/Page_Admin Duplicate IP Logins/button_Search")): Object 'Object Repository/Sub Admin/Page_Admin Duplicate IP Logins/button_Search' is visible
+
+2023-06-23 20:43:13 - [MESSAGE][PASSED] - Object 'Object Repository/Sub Admin/Page_Admin Duplicate IP Logins/button_Search' is visible
+
+2023-06-23 20:43:13 - [TEST_STEP][PASSED] - com.reusableComponent.HighlightElement.run(findTestObject("Sub Admin/Page_Admin Duplicate IP Logins/span_Copy")): com.reusableComponent.HighlightElement.run is PASSED
+
+2023-06-23 20:43:14 - [MESSAGE][PASSED] - com.reusableComponent.HighlightElement.run is PASSED
+
+2023-06-23 20:43:14 - [TEST_STEP][PASSED] - com.reusableComponent.HighlightElement.run(findTestObject("Sub Admin/Page_Admin Duplicate IP Logins/span_CSV")): com.reusableComponent.HighlightElement.run is PASSED
+
+2023-06-23 20:43:14 - [MESSAGE][PASSED] - com.reusableComponent.HighlightElement.run is PASSED
+
+2023-06-23 20:43:14 - [TEST_STEP][PASSED] - com.reusableComponent.HighlightElement.run(findTestObject("Sub Admin/Page_Admin Duplicate IP Logins/span_Excel")): com.reusableComponent.HighlightElement.run is PASSED
+
+2023-06-23 20:43:15 - [MESSAGE][PASSED] - com.reusableComponent.HighlightElement.run is PASSED
+
+2023-06-23 20:43:15 - [TEST_STEP][PASSED] - com.reusableComponent.HighlightElement.run(findTestObject("Sub Admin/Page_Admin Duplicate IP Logins/span_PDF")): com.reusableComponent.HighlightElement.run is PASSED
+
+2023-06-23 20:43:15 - [MESSAGE][PASSED] - com.reusableComponent.HighlightElement.run is PASSED
+
+2023-06-23 20:43:15 - [TEST_STEP][PASSED] - verifyElementVisible(findTestObject("Sub Admin/Page_Admin Duplicate IP Logins/span_Copy")): Object 'Object Repository/Sub Admin/Page_Admin Duplicate IP Logins/span_Copy' is visible
+
+2023-06-23 20:43:16 - [MESSAGE][PASSED] - Object 'Object Repository/Sub Admin/Page_Admin Duplicate IP Logins/span_Copy' is visible
+
+2023-06-23 20:43:16 - [TEST_STEP][PASSED] - verifyElementVisible(findTestObject("Sub Admin/Page_Admin Duplicate IP Logins/span_CSV")): Object 'Object Repository/Sub Admin/Page_Admin Duplicate IP Logins/span_CSV' is visible
+
+2023-06-23 20:43:16 - [MESSAGE][PASSED] - Object 'Object Repository/Sub Admin/Page_Admin Duplicate IP Logins/span_CSV' is visible
+
+2023-06-23 20:43:16 - [TEST_STEP][PASSED] - verifyElementVisible(findTestObject("Sub Admin/Page_Admin Duplicate IP Logins/span_Excel")): Object 'Object Repository/Sub Admin/Page_Admin Duplicate IP Logins/span_Excel' is visible
+
+2023-06-23 20:43:16 - [MESSAGE][PASSED] - Object 'Object Repository/Sub Admin/Page_Admin Duplicate IP Logins/span_Excel' is visible
+
+2023-06-23 20:43:16 - [TEST_STEP][PASSED] - verifyElementVisible(findTestObject("Sub Admin/Page_Admin Duplicate IP Logins/span_PDF")): Object 'Object Repository/Sub Admin/Page_Admin Duplicate IP Logins/span_PDF' is visible
+
+2023-06-23 20:43:17 - [MESSAGE][PASSED] - Object 'Object Repository/Sub Admin/Page_Admin Duplicate IP Logins/span_PDF' is visible
+
+2023-06-23 20:43:17 - [TEST_STEP][PASSED] - com.reusableComponent.HighlightElement.run(findTestObject("Sub Admin/Page_Admin Duplicate IP Logins/input_Search_form-control form-control-sm")): com.reusableComponent.HighlightElement.run is PASSED
+
+2023-06-23 20:43:17 - [MESSAGE][PASSED] - com.reusableComponent.HighlightElement.run is PASSED
+
+2023-06-23 20:43:17 - [TEST_STEP][PASSED] - com.reusableComponent.HighlightElement.run(findTestObject("Sub Admin/Page_Admin Duplicate IP Logins/th_IP Address")): com.reusableComponent.HighlightElement.run is PASSED
+
+2023-06-23 20:43:18 - [MESSAGE][PASSED] - com.reusableComponent.HighlightElement.run is PASSED
+
+2023-06-23 20:43:18 - [TEST_STEP][PASSED] - com.reusableComponent.HighlightElement.run(findTestObject("User/Page_Dashboard/Shareholder/User List/th_Username")): com.reusableComponent.HighlightElement.run is PASSED
+
+2023-06-23 20:43:18 - [MESSAGE][PASSED] - com.reusableComponent.HighlightElement.run is PASSED
+
+2023-06-23 20:43:18 - [TEST_STEP][PASSED] - com.reusableComponent.HighlightElement.run(findTestObject("Sub Admin/Page_Admin Duplicate IP Logins/table_IP AddressUsernames                                                                    No data available in table")): com.reusableComponent.HighlightElement.run is PASSED
+
+2023-06-23 20:43:19 - [MESSAGE][PASSED] - com.reusableComponent.HighlightElement.run is PASSED
+
+2023-06-23 20:43:19 - [TEST_STEP][PASSED] - com.reusableComponent.HighlightElement.run(findTestObject("Sub Admin/Page_Admin Duplicate IP Logins/li_Previous")): com.reusableComponent.HighlightElement.run is PASSED
+
+2023-06-23 20:43:19 - [MESSAGE][PASSED] - com.reusableComponent.HighlightElement.run is PASSED
+
+2023-06-23 20:43:19 - [TEST_STEP][PASSED] - com.reusableComponent.HighlightElement.run(findTestObject("Sub Admin/Page_Admin Duplicate IP Logins/li_Next")): com.reusableComponent.HighlightElement.run is PASSED
+
+2023-06-23 20:43:20 - [MESSAGE][PASSED] - com.reusableComponent.HighlightElement.run is PASSED
+
+2023-06-23 20:43:20 - [TEST_STEP][PASSED] - verifyElementVisible(findTestObject("Sub Admin/Page_Admin Duplicate IP Logins/input_Search_form-control form-control-sm")): Object 'Object Repository/Sub Admin/Page_Admin Duplicate IP Logins/input_Search_form-control form-control-sm' is visible
+
+2023-06-23 20:43:20 - [MESSAGE][PASSED] - Object 'Object Repository/Sub Admin/Page_Admin Duplicate IP Logins/input_Search_form-control form-control-sm' is visible
+
+2023-06-23 20:43:20 - [TEST_STEP][PASSED] - verifyElementVisible(findTestObject("Sub Admin/Page_Admin Duplicate IP Logins/th_IP Address")): Object 'Object Repository/Sub Admin/Page_Admin Duplicate IP Logins/th_IP Address' is visible
+
+2023-06-23 20:43:21 - [MESSAGE][PASSED] - Object 'Object Repository/Sub Admin/Page_Admin Duplicate IP Logins/th_IP Address' is visible
+
+2023-06-23 20:43:21 - [TEST_STEP][PASSED] - verifyElementVisible(findTestObject("User/Page_Dashboard/Shareholder/User List/th_Username")): Object 'Object Repository/User/Page_Dashboard/Shareholder/User List/th_Username' is visible
+
+2023-06-23 20:43:21 - [MESSAGE][PASSED] - Object 'Object Repository/User/Page_Dashboard/Shareholder/User List/th_Username' is visible
+
+2023-06-23 20:43:21 - [TEST_STEP][PASSED] - verifyElementVisible(findTestObject("Sub Admin/Page_Admin Duplicate IP Logins/table_IP AddressUsernames                                                                    No data available in table")): Object 'Object Repository/Sub Admin/Page_Admin Duplicate IP Logins/table_IP AddressUsernames                                                                    No data available in table' is visible
+
+2023-06-23 20:43:21 - [MESSAGE][PASSED] - Object 'Object Repository/Sub Admin/Page_Admin Duplicate IP Logins/table_IP AddressUsernames                                                                    No data available in table' is visible
+
+2023-06-23 20:43:21 - [TEST_STEP][PASSED] - verifyElementVisible(findTestObject("Sub Admin/Page_Admin Duplicate IP Logins/li_Previous")): Object 'Object Repository/Sub Admin/Page_Admin Duplicate IP Logins/li_Previous' is visible
+
+2023-06-23 20:43:22 - [MESSAGE][PASSED] - Object 'Object Repository/Sub Admin/Page_Admin Duplicate IP Logins/li_Previous' is visible
+
+2023-06-23 20:43:22 - [TEST_STEP][PASSED] - verifyElementVisible(findTestObject("Sub Admin/Page_Admin Duplicate IP Logins/li_Next")): Object 'Object Repository/Sub Admin/Page_Admin Duplicate IP Logins/li_Next' is visible
+
+2023-06-23 20:43:22 - [MESSAGE][PASSED] - Object 'Object Repository/Sub Admin/Page_Admin Duplicate IP Logins/li_Next' is visible]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <system-out><![CDATA[2023-06-23 20:37:09 - [TEST_SUITE][PASSED] - Smoke: Test Cases/User/Shareholder/Duplicate IP Logins]]></system-out>
+      <system-err><![CDATA[]]></system-err>
+   </testsuite>
+</testsuites>

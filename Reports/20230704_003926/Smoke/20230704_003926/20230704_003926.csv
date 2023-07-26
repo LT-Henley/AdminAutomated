@@ -1,0 +1,298 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+Smoke,Chrome 114.0.0.0,,,2023-07-04 00:39:35,2023-07-04 00:42:23,2m - 47.425s,PASSED
+,,,,,,,
+Test Cases/Transaction/Finance Details MYR,Chrome 114.0.0.0,,,2023-07-04 00:39:36,2023-07-04 00:40:29,53.248s,PASSED
+"callTestCase(findTestCase(""Login Admin""), [:], STOP_ON_FAILURE)",Chrome 114.0.0.0,,,2023-07-04 00:39:36,2023-07-04 00:39:59,22.052s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""Transaction/Page_Dashboard/span_Transaction""))",Chrome 114.0.0.0,,,2023-07-04 00:39:59,2023-07-04 00:39:59,0.728s,PASSED
+"mouseOver(findTestObject(""Transaction/Page_Dashboard/span_Transaction""))",Chrome 114.0.0.0,,,2023-07-04 00:39:59,2023-07-04 00:40:00,0.612s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""Transaction/Page_Dashboard/span_Finance Details""))",Chrome 114.0.0.0,,,2023-07-04 00:40:00,2023-07-04 00:40:00,0.489s,PASSED
+"mouseOver(findTestObject(""Transaction/Page_Dashboard/span_Finance Details""))",Chrome 114.0.0.0,,,2023-07-04 00:40:00,2023-07-04 00:40:01,0.630s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""Transaction/Finance Details/span_MYR""))",Chrome 114.0.0.0,,,2023-07-04 00:40:01,2023-07-04 00:40:01,0.490s,PASSED
+"mouseOver(findTestObject(""Transaction/Finance Details/span_MYR""))",Chrome 114.0.0.0,,,2023-07-04 00:40:01,2023-07-04 00:40:02,0.570s,PASSED
+"click(findTestObject(""Transaction/Finance Details/span_MYR""))",Chrome 114.0.0.0,,,2023-07-04 00:40:02,2023-07-04 00:40:06,4.318s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""Transaction/Finance Details/h3_Finance Details""))",Chrome 114.0.0.0,,,2023-07-04 00:40:06,2023-07-04 00:40:07,0.925s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""Transaction/Finance Details/select_All""))",Chrome 114.0.0.0,,,2023-07-04 00:40:07,2023-07-04 00:40:08,0.465s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""Transaction/Finance Details/select_All_adjustment""))",Chrome 114.0.0.0,,,2023-07-04 00:40:08,2023-07-04 00:40:08,0.481s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""Transaction/Finance Details/input_Date Range_form-control date_range""))",Chrome 114.0.0.0,,,2023-07-04 00:40:08,2023-07-04 00:40:09,0.496s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""Transaction/Finance Details/button_Search""))",Chrome 114.0.0.0,,,2023-07-04 00:40:09,2023-07-04 00:40:09,0.468s,PASSED
+"verifyElementVisible(findTestObject(""Transaction/Finance Details/h3_Finance Details""))",Chrome 114.0.0.0,,,2023-07-04 00:40:09,2023-07-04 00:40:10,0.439s,PASSED
+"verifyElementVisible(findTestObject(""Transaction/Finance Details/select_All""))",Chrome 114.0.0.0,,,2023-07-04 00:40:10,2023-07-04 00:40:10,0.387s,PASSED
+"verifyElementVisible(findTestObject(""Transaction/Finance Details/select_All_adjustment""))",Chrome 114.0.0.0,,,2023-07-04 00:40:10,2023-07-04 00:40:10,0.399s,PASSED
+"verifyElementVisible(findTestObject(""Transaction/Finance Details/input_Date Range_form-control date_range""))",Chrome 114.0.0.0,,,2023-07-04 00:40:10,2023-07-04 00:40:11,0.404s,PASSED
+"verifyElementVisible(findTestObject(""Transaction/Finance Details/button_Search""))",Chrome 114.0.0.0,,,2023-07-04 00:40:11,2023-07-04 00:40:11,0.405s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""Transaction/Finance Details/select_102550100""))",Chrome 114.0.0.0,,,2023-07-04 00:40:11,2023-07-04 00:40:12,0.473s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""Transaction/Finance Details/span_Copy""))",Chrome 114.0.0.0,,,2023-07-04 00:40:12,2023-07-04 00:40:12,0.477s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""Transaction/Finance Details/span_CSV""))",Chrome 114.0.0.0,,,2023-07-04 00:40:12,2023-07-04 00:40:13,0.484s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""Transaction/Finance Details/span_Excel""))",Chrome 114.0.0.0,,,2023-07-04 00:40:13,2023-07-04 00:40:13,0.478s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""Transaction/Finance Details/span_PDF""))",Chrome 114.0.0.0,,,2023-07-04 00:40:13,2023-07-04 00:40:14,0.480s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""Transaction/Finance Details/input_Search_form-control form-control-sm""))",Chrome 114.0.0.0,,,2023-07-04 00:40:14,2023-07-04 00:40:14,0.461s,PASSED
+"verifyElementVisible(findTestObject(""Transaction/Finance Details/select_102550100""))",Chrome 114.0.0.0,,,2023-07-04 00:40:14,2023-07-04 00:40:15,0.494s,PASSED
+"verifyElementVisible(findTestObject(""Transaction/Finance Details/span_Copy""))",Chrome 114.0.0.0,,,2023-07-04 00:40:15,2023-07-04 00:40:15,0.422s,PASSED
+"verifyElementVisible(findTestObject(""Transaction/Finance Details/span_CSV""))",Chrome 114.0.0.0,,,2023-07-04 00:40:15,2023-07-04 00:40:15,0.425s,PASSED
+"verifyElementVisible(findTestObject(""Transaction/Finance Details/span_Excel""))",Chrome 114.0.0.0,,,2023-07-04 00:40:15,2023-07-04 00:40:16,0.402s,PASSED
+"verifyElementVisible(findTestObject(""Transaction/Finance Details/span_PDF""))",Chrome 114.0.0.0,,,2023-07-04 00:40:16,2023-07-04 00:40:16,0.405s,PASSED
+"verifyElementVisible(findTestObject(""Transaction/Finance Details/input_Search_form-control form-control-sm""))",Chrome 114.0.0.0,,,2023-07-04 00:40:16,2023-07-04 00:40:17,0.407s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""Transaction/Finance Details/th_Type""))",Chrome 114.0.0.0,,,2023-07-04 00:40:17,2023-07-04 00:40:17,0.466s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""Transaction/Finance Details/th_Username""))",Chrome 114.0.0.0,,,2023-07-04 00:40:17,2023-07-04 00:40:18,0.452s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""Transaction/Finance Details/th_Currency""))",Chrome 114.0.0.0,,,2023-07-04 00:40:18,2023-07-04 00:40:18,0.449s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""Transaction/Finance Details/th_Amount""))",Chrome 114.0.0.0,,,2023-07-04 00:40:18,2023-07-04 00:40:18,0.469s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""Transaction/Finance Details/th_Before""))",Chrome 114.0.0.0,,,2023-07-04 00:40:18,2023-07-04 00:40:19,0.464s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""Transaction/Finance Details/th_After""))",Chrome 114.0.0.0,,,2023-07-04 00:40:19,2023-07-04 00:40:19,0.467s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""Transaction/Finance Details/th_Remark""))",Chrome 114.0.0.0,,,2023-07-04 00:40:19,2023-07-04 00:40:20,0.477s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""Transaction/Finance Details/th_CoinCash""))",Chrome 114.0.0.0,,,2023-07-04 00:40:20,2023-07-04 00:40:20,0.435s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""Transaction/Finance Details/th_Method""))",Chrome 114.0.0.0,,,2023-07-04 00:40:20,2023-07-04 00:40:21,0.468s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""Transaction/Finance Details/th_IP Address""))",Chrome 114.0.0.0,,,2023-07-04 00:40:21,2023-07-04 00:40:21,0.439s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""Transaction/Finance Details/th_Time""))",Chrome 114.0.0.0,,,2023-07-04 00:40:21,2023-07-04 00:40:22,0.454s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""Transaction/Finance Details/table_TypeUsername""))",Chrome 114.0.0.0,,,2023-07-04 00:40:22,2023-07-04 00:40:22,0.485s,PASSED
+"verifyElementVisible(findTestObject(""Transaction/Finance Details/th_Type""))",Chrome 114.0.0.0,,,2023-07-04 00:40:22,2023-07-04 00:40:23,0.413s,PASSED
+"verifyElementVisible(findTestObject(""Transaction/Finance Details/th_Username""))",Chrome 114.0.0.0,,,2023-07-04 00:40:23,2023-07-04 00:40:23,0.388s,PASSED
+"verifyElementVisible(findTestObject(""Transaction/Finance Details/th_Currency""))",Chrome 114.0.0.0,,,2023-07-04 00:40:23,2023-07-04 00:40:23,0.407s,PASSED
+"verifyElementVisible(findTestObject(""Transaction/Finance Details/th_Amount""))",Chrome 114.0.0.0,,,2023-07-04 00:40:23,2023-07-04 00:40:24,0.415s,PASSED
+"verifyElementVisible(findTestObject(""Transaction/Finance Details/th_Before""))",Chrome 114.0.0.0,,,2023-07-04 00:40:24,2023-07-04 00:40:24,0.406s,PASSED
+"verifyElementVisible(findTestObject(""Transaction/Finance Details/th_After""))",Chrome 114.0.0.0,,,2023-07-04 00:40:24,2023-07-04 00:40:25,0.405s,PASSED
+"verifyElementVisible(findTestObject(""Transaction/Finance Details/th_Remark""))",Chrome 114.0.0.0,,,2023-07-04 00:40:25,2023-07-04 00:40:25,0.389s,PASSED
+"verifyElementVisible(findTestObject(""Transaction/Finance Details/th_CoinCash""))",Chrome 114.0.0.0,,,2023-07-04 00:40:25,2023-07-04 00:40:25,0.420s,PASSED
+"verifyElementVisible(findTestObject(""Transaction/Finance Details/th_Method""))",Chrome 114.0.0.0,,,2023-07-04 00:40:25,2023-07-04 00:40:26,0.419s,PASSED
+"verifyElementVisible(findTestObject(""Transaction/Finance Details/th_IP Address""))",Chrome 114.0.0.0,,,2023-07-04 00:40:26,2023-07-04 00:40:26,0.398s,PASSED
+"verifyElementVisible(findTestObject(""Transaction/Finance Details/th_Time""))",Chrome 114.0.0.0,,,2023-07-04 00:40:26,2023-07-04 00:40:27,0.390s,PASSED
+"verifyElementVisible(findTestObject(""Transaction/Finance Details/table_TypeUsername""))",Chrome 114.0.0.0,,,2023-07-04 00:40:27,2023-07-04 00:40:27,0.419s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""Transaction/Finance Details/li_Previous""))",Chrome 114.0.0.0,,,2023-07-04 00:40:27,2023-07-04 00:40:28,0.461s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""Transaction/Finance Details/li_Next""))",Chrome 114.0.0.0,,,2023-07-04 00:40:28,2023-07-04 00:40:28,0.579s,PASSED
+"verifyElementVisible(findTestObject(""Transaction/Finance Details/li_Previous""))",Chrome 114.0.0.0,,,2023-07-04 00:40:28,2023-07-04 00:40:29,0.414s,PASSED
+"verifyElementVisible(findTestObject(""Transaction/Finance Details/li_Next""))",Chrome 114.0.0.0,,,2023-07-04 00:40:29,2023-07-04 00:40:29,0.402s,PASSED
+,,,,,,,
+Test Cases/Transaction/Finance Details THB,Chrome 114.0.0.0,,,2023-07-04 00:40:29,2023-07-04 00:40:57,28.343s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""Transaction/Page_Dashboard/span_Transaction""))",Chrome 114.0.0.0,,,2023-07-04 00:40:30,2023-07-04 00:40:30,0.478s,PASSED
+"mouseOver(findTestObject(""Transaction/Page_Dashboard/span_Transaction""))",Chrome 114.0.0.0,,,2023-07-04 00:40:30,2023-07-04 00:40:31,0.547s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""Transaction/Page_Dashboard/span_Finance Details""))",Chrome 114.0.0.0,,,2023-07-04 00:40:31,2023-07-04 00:40:31,0.487s,PASSED
+"mouseOver(findTestObject(""Transaction/Page_Dashboard/span_Finance Details""))",Chrome 114.0.0.0,,,2023-07-04 00:40:31,2023-07-04 00:40:32,0.528s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""Transaction/Finance Details/span_THB""))",Chrome 114.0.0.0,,,2023-07-04 00:40:32,2023-07-04 00:40:32,0.463s,PASSED
+"mouseOver(findTestObject(""Transaction/Finance Details/span_THB""))",Chrome 114.0.0.0,,,2023-07-04 00:40:32,2023-07-04 00:40:33,0.555s,PASSED
+"click(findTestObject(""Transaction/Finance Details/span_THB""))",Chrome 114.0.0.0,,,2023-07-04 00:40:33,2023-07-04 00:40:35,2.521s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""Transaction/Finance Details/h3_Finance Details""))",Chrome 114.0.0.0,,,2023-07-04 00:40:35,2023-07-04 00:40:36,0.704s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""Transaction/Finance Details/select_All""))",Chrome 114.0.0.0,,,2023-07-04 00:40:36,2023-07-04 00:40:36,0.459s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""Transaction/Finance Details/select_All_adjustment""))",Chrome 114.0.0.0,,,2023-07-04 00:40:36,2023-07-04 00:40:37,0.449s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""Transaction/Finance Details/input_Date Range_form-control date_range""))",Chrome 114.0.0.0,,,2023-07-04 00:40:37,2023-07-04 00:40:37,0.563s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""Transaction/Finance Details/button_Search""))",Chrome 114.0.0.0,,,2023-07-04 00:40:37,2023-07-04 00:40:38,0.470s,PASSED
+"verifyElementVisible(findTestObject(""Transaction/Finance Details/h3_Finance Details""))",Chrome 114.0.0.0,,,2023-07-04 00:40:38,2023-07-04 00:40:38,0.427s,PASSED
+"verifyElementVisible(findTestObject(""Transaction/Finance Details/select_All""))",Chrome 114.0.0.0,,,2023-07-04 00:40:38,2023-07-04 00:40:39,0.403s,PASSED
+"verifyElementVisible(findTestObject(""Transaction/Finance Details/select_All_adjustment""))",Chrome 114.0.0.0,,,2023-07-04 00:40:39,2023-07-04 00:40:39,0.392s,PASSED
+"verifyElementVisible(findTestObject(""Transaction/Finance Details/input_Date Range_form-control date_range""))",Chrome 114.0.0.0,,,2023-07-04 00:40:39,2023-07-04 00:40:39,0.403s,PASSED
+"verifyElementVisible(findTestObject(""Transaction/Finance Details/button_Search""))",Chrome 114.0.0.0,,,2023-07-04 00:40:39,2023-07-04 00:40:40,0.401s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""Transaction/Finance Details/select_102550100""))",Chrome 114.0.0.0,,,2023-07-04 00:40:40,2023-07-04 00:40:40,0.458s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""Transaction/Finance Details/span_Copy""))",Chrome 114.0.0.0,,,2023-07-04 00:40:40,2023-07-04 00:40:41,0.575s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""Transaction/Finance Details/span_CSV""))",Chrome 114.0.0.0,,,2023-07-04 00:40:41,2023-07-04 00:40:41,0.453s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""Transaction/Finance Details/span_Excel""))",Chrome 114.0.0.0,,,2023-07-04 00:40:41,2023-07-04 00:40:42,0.547s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""Transaction/Finance Details/span_PDF""))",Chrome 114.0.0.0,,,2023-07-04 00:40:42,2023-07-04 00:40:42,0.464s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""Transaction/Finance Details/input_Search_form-control form-control-sm""))",Chrome 114.0.0.0,,,2023-07-04 00:40:42,2023-07-04 00:40:43,0.560s,PASSED
+"verifyElementVisible(findTestObject(""Transaction/Finance Details/select_102550100""))",Chrome 114.0.0.0,,,2023-07-04 00:40:43,2023-07-04 00:40:43,0.417s,PASSED
+"verifyElementVisible(findTestObject(""Transaction/Finance Details/span_Copy""))",Chrome 114.0.0.0,,,2023-07-04 00:40:43,2023-07-04 00:40:44,0.405s,PASSED
+"verifyElementVisible(findTestObject(""Transaction/Finance Details/span_CSV""))",Chrome 114.0.0.0,,,2023-07-04 00:40:44,2023-07-04 00:40:44,0.403s,PASSED
+"verifyElementVisible(findTestObject(""Transaction/Finance Details/span_Excel""))",Chrome 114.0.0.0,,,2023-07-04 00:40:44,2023-07-04 00:40:45,0.398s,PASSED
+"verifyElementVisible(findTestObject(""Transaction/Finance Details/span_PDF""))",Chrome 114.0.0.0,,,2023-07-04 00:40:45,2023-07-04 00:40:45,0.392s,PASSED
+"verifyElementVisible(findTestObject(""Transaction/Finance Details/input_Search_form-control form-control-sm""))",Chrome 114.0.0.0,,,2023-07-04 00:40:45,2023-07-04 00:40:45,0.397s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""Transaction/Finance Details/th_Type""))",Chrome 114.0.0.0,,,2023-07-04 00:40:45,2023-07-04 00:40:46,0.460s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""Transaction/Finance Details/th_Username""))",Chrome 114.0.0.0,,,2023-07-04 00:40:46,2023-07-04 00:40:46,0.448s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""Transaction/Finance Details/th_Currency""))",Chrome 114.0.0.0,,,2023-07-04 00:40:46,2023-07-04 00:40:47,0.451s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""Transaction/Finance Details/th_Amount""))",Chrome 114.0.0.0,,,2023-07-04 00:40:47,2023-07-04 00:40:47,0.435s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""Transaction/Finance Details/th_Before""))",Chrome 114.0.0.0,,,2023-07-04 00:40:47,2023-07-04 00:40:48,0.450s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""Transaction/Finance Details/th_After""))",Chrome 114.0.0.0,,,2023-07-04 00:40:48,2023-07-04 00:40:48,0.455s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""Transaction/Finance Details/th_Remark""))",Chrome 114.0.0.0,,,2023-07-04 00:40:48,2023-07-04 00:40:48,0.440s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""Transaction/Finance Details/th_CoinCash""))",Chrome 114.0.0.0,,,2023-07-04 00:40:48,2023-07-04 00:40:49,0.424s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""Transaction/Finance Details/th_Method""))",Chrome 114.0.0.0,,,2023-07-04 00:40:49,2023-07-04 00:40:49,0.455s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""Transaction/Finance Details/th_IP Address""))",Chrome 114.0.0.0,,,2023-07-04 00:40:49,2023-07-04 00:40:50,0.436s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""Transaction/Finance Details/th_Time""))",Chrome 114.0.0.0,,,2023-07-04 00:40:50,2023-07-04 00:40:50,0.453s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""Transaction/Finance Details/table_TypeUsername""))",Chrome 114.0.0.0,,,2023-07-04 00:40:50,2023-07-04 00:40:51,0.426s,PASSED
+"verifyElementVisible(findTestObject(""Transaction/Finance Details/th_Type""))",Chrome 114.0.0.0,,,2023-07-04 00:40:51,2023-07-04 00:40:51,0.417s,PASSED
+"verifyElementVisible(findTestObject(""Transaction/Finance Details/th_Username""))",Chrome 114.0.0.0,,,2023-07-04 00:40:51,2023-07-04 00:40:51,0.402s,PASSED
+"verifyElementVisible(findTestObject(""Transaction/Finance Details/th_Currency""))",Chrome 114.0.0.0,,,2023-07-04 00:40:51,2023-07-04 00:40:52,0.421s,PASSED
+"verifyElementVisible(findTestObject(""Transaction/Finance Details/th_Amount""))",Chrome 114.0.0.0,,,2023-07-04 00:40:52,2023-07-04 00:40:52,0.382s,PASSED
+"verifyElementVisible(findTestObject(""Transaction/Finance Details/th_Before""))",Chrome 114.0.0.0,,,2023-07-04 00:40:52,2023-07-04 00:40:53,0.401s,PASSED
+"verifyElementVisible(findTestObject(""Transaction/Finance Details/th_After""))",Chrome 114.0.0.0,,,2023-07-04 00:40:53,2023-07-04 00:40:53,0.420s,PASSED
+"verifyElementVisible(findTestObject(""Transaction/Finance Details/th_Remark""))",Chrome 114.0.0.0,,,2023-07-04 00:40:53,2023-07-04 00:40:53,0.390s,PASSED
+"verifyElementVisible(findTestObject(""Transaction/Finance Details/th_CoinCash""))",Chrome 114.0.0.0,,,2023-07-04 00:40:53,2023-07-04 00:40:54,0.380s,PASSED
+"verifyElementVisible(findTestObject(""Transaction/Finance Details/th_Method""))",Chrome 114.0.0.0,,,2023-07-04 00:40:54,2023-07-04 00:40:54,0.392s,PASSED
+"verifyElementVisible(findTestObject(""Transaction/Finance Details/th_IP Address""))",Chrome 114.0.0.0,,,2023-07-04 00:40:54,2023-07-04 00:40:55,0.418s,PASSED
+"verifyElementVisible(findTestObject(""Transaction/Finance Details/th_Time""))",Chrome 114.0.0.0,,,2023-07-04 00:40:55,2023-07-04 00:40:55,0.391s,PASSED
+"verifyElementVisible(findTestObject(""Transaction/Finance Details/table_TypeUsername""))",Chrome 114.0.0.0,,,2023-07-04 00:40:55,2023-07-04 00:40:55,0.405s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""Transaction/Finance Details/li_Previous""))",Chrome 114.0.0.0,,,2023-07-04 00:40:55,2023-07-04 00:40:56,0.433s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""Transaction/Finance Details/li_Next""))",Chrome 114.0.0.0,,,2023-07-04 00:40:56,2023-07-04 00:40:56,0.557s,PASSED
+"verifyElementVisible(findTestObject(""Transaction/Finance Details/li_Previous""))",Chrome 114.0.0.0,,,2023-07-04 00:40:56,2023-07-04 00:40:57,0.412s,PASSED
+"verifyElementVisible(findTestObject(""Transaction/Finance Details/li_Next""))",Chrome 114.0.0.0,,,2023-07-04 00:40:57,2023-07-04 00:40:57,0.406s,PASSED
+,,,,,,,
+Test Cases/Transaction/Finance Details IDR,Chrome 114.0.0.0,,,2023-07-04 00:40:57,2023-07-04 00:41:26,28.694s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""Transaction/Page_Dashboard/span_Transaction""))",Chrome 114.0.0.0,,,2023-07-04 00:40:58,2023-07-04 00:40:58,0.486s,PASSED
+"mouseOver(findTestObject(""Transaction/Page_Dashboard/span_Transaction""))",Chrome 114.0.0.0,,,2023-07-04 00:40:58,2023-07-04 00:40:59,0.524s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""Transaction/Page_Dashboard/span_Finance Details""))",Chrome 114.0.0.0,,,2023-07-04 00:40:59,2023-07-04 00:40:59,0.446s,PASSED
+"mouseOver(findTestObject(""Transaction/Page_Dashboard/span_Finance Details""))",Chrome 114.0.0.0,,,2023-07-04 00:40:59,2023-07-04 00:41:00,0.553s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""Transaction/Finance Details/span_IDR""))",Chrome 114.0.0.0,,,2023-07-04 00:41:00,2023-07-04 00:41:00,0.453s,PASSED
+"mouseOver(findTestObject(""Transaction/Finance Details/span_IDR""))",Chrome 114.0.0.0,,,2023-07-04 00:41:00,2023-07-04 00:41:01,0.549s,PASSED
+"click(findTestObject(""Transaction/Finance Details/span_IDR""))",Chrome 114.0.0.0,,,2023-07-04 00:41:01,2023-07-04 00:41:03,2.648s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""Transaction/Finance Details/h3_Finance Details""))",Chrome 114.0.0.0,,,2023-07-04 00:41:03,2023-07-04 00:41:04,0.704s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""Transaction/Finance Details/select_All""))",Chrome 114.0.0.0,,,2023-07-04 00:41:04,2023-07-04 00:41:05,0.533s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""Transaction/Finance Details/select_All_adjustment""))",Chrome 114.0.0.0,,,2023-07-04 00:41:05,2023-07-04 00:41:05,0.450s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""Transaction/Finance Details/input_Date Range_form-control date_range""))",Chrome 114.0.0.0,,,2023-07-04 00:41:05,2023-07-04 00:41:06,0.474s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""Transaction/Finance Details/button_Search""))",Chrome 114.0.0.0,,,2023-07-04 00:41:06,2023-07-04 00:41:06,0.464s,PASSED
+"verifyElementVisible(findTestObject(""Transaction/Finance Details/h3_Finance Details""))",Chrome 114.0.0.0,,,2023-07-04 00:41:06,2023-07-04 00:41:07,0.421s,PASSED
+"verifyElementVisible(findTestObject(""Transaction/Finance Details/select_All""))",Chrome 114.0.0.0,,,2023-07-04 00:41:07,2023-07-04 00:41:07,0.402s,PASSED
+"verifyElementVisible(findTestObject(""Transaction/Finance Details/select_All_adjustment""))",Chrome 114.0.0.0,,,2023-07-04 00:41:07,2023-07-04 00:41:07,0.421s,PASSED
+"verifyElementVisible(findTestObject(""Transaction/Finance Details/input_Date Range_form-control date_range""))",Chrome 114.0.0.0,,,2023-07-04 00:41:07,2023-07-04 00:41:08,0.387s,PASSED
+"verifyElementVisible(findTestObject(""Transaction/Finance Details/button_Search""))",Chrome 114.0.0.0,,,2023-07-04 00:41:08,2023-07-04 00:41:08,0.392s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""Transaction/Finance Details/select_102550100""))",Chrome 114.0.0.0,,,2023-07-04 00:41:08,2023-07-04 00:41:09,0.465s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""Transaction/Finance Details/span_Copy""))",Chrome 114.0.0.0,,,2023-07-04 00:41:09,2023-07-04 00:41:09,0.532s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""Transaction/Finance Details/span_CSV""))",Chrome 114.0.0.0,,,2023-07-04 00:41:09,2023-07-04 00:41:10,0.544s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""Transaction/Finance Details/span_Excel""))",Chrome 114.0.0.0,,,2023-07-04 00:41:10,2023-07-04 00:41:10,0.553s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""Transaction/Finance Details/span_PDF""))",Chrome 114.0.0.0,,,2023-07-04 00:41:10,2023-07-04 00:41:11,0.542s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""Transaction/Finance Details/input_Search_form-control form-control-sm""))",Chrome 114.0.0.0,,,2023-07-04 00:41:11,2023-07-04 00:41:11,0.553s,PASSED
+"verifyElementVisible(findTestObject(""Transaction/Finance Details/select_102550100""))",Chrome 114.0.0.0,,,2023-07-04 00:41:11,2023-07-04 00:41:12,0.504s,PASSED
+"verifyElementVisible(findTestObject(""Transaction/Finance Details/span_Copy""))",Chrome 114.0.0.0,,,2023-07-04 00:41:12,2023-07-04 00:41:12,0.422s,PASSED
+"verifyElementVisible(findTestObject(""Transaction/Finance Details/span_CSV""))",Chrome 114.0.0.0,,,2023-07-04 00:41:12,2023-07-04 00:41:13,0.392s,PASSED
+"verifyElementVisible(findTestObject(""Transaction/Finance Details/span_Excel""))",Chrome 114.0.0.0,,,2023-07-04 00:41:13,2023-07-04 00:41:13,0.410s,PASSED
+"verifyElementVisible(findTestObject(""Transaction/Finance Details/span_PDF""))",Chrome 114.0.0.0,,,2023-07-04 00:41:13,2023-07-04 00:41:13,0.374s,PASSED
+"verifyElementVisible(findTestObject(""Transaction/Finance Details/input_Search_form-control form-control-sm""))",Chrome 114.0.0.0,,,2023-07-04 00:41:13,2023-07-04 00:41:14,0.416s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""Transaction/Finance Details/th_Type""))",Chrome 114.0.0.0,,,2023-07-04 00:41:14,2023-07-04 00:41:14,0.446s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""Transaction/Finance Details/th_Username""))",Chrome 114.0.0.0,,,2023-07-04 00:41:14,2023-07-04 00:41:15,0.453s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""Transaction/Finance Details/th_Currency""))",Chrome 114.0.0.0,,,2023-07-04 00:41:15,2023-07-04 00:41:15,0.440s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""Transaction/Finance Details/th_Amount""))",Chrome 114.0.0.0,,,2023-07-04 00:41:15,2023-07-04 00:41:16,0.429s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""Transaction/Finance Details/th_Before""))",Chrome 114.0.0.0,,,2023-07-04 00:41:16,2023-07-04 00:41:16,0.465s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""Transaction/Finance Details/th_After""))",Chrome 114.0.0.0,,,2023-07-04 00:41:16,2023-07-04 00:41:17,0.450s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""Transaction/Finance Details/th_Remark""))",Chrome 114.0.0.0,,,2023-07-04 00:41:17,2023-07-04 00:41:17,0.443s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""Transaction/Finance Details/th_CoinCash""))",Chrome 114.0.0.0,,,2023-07-04 00:41:17,2023-07-04 00:41:17,0.453s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""Transaction/Finance Details/th_Method""))",Chrome 114.0.0.0,,,2023-07-04 00:41:17,2023-07-04 00:41:18,0.453s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""Transaction/Finance Details/th_IP Address""))",Chrome 114.0.0.0,,,2023-07-04 00:41:18,2023-07-04 00:41:18,0.432s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""Transaction/Finance Details/th_Time""))",Chrome 114.0.0.0,,,2023-07-04 00:41:18,2023-07-04 00:41:19,0.432s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""Transaction/Finance Details/table_TypeUsername""))",Chrome 114.0.0.0,,,2023-07-04 00:41:19,2023-07-04 00:41:19,0.443s,PASSED
+"verifyElementVisible(findTestObject(""Transaction/Finance Details/th_Type""))",Chrome 114.0.0.0,,,2023-07-04 00:41:19,2023-07-04 00:41:20,0.487s,PASSED
+"verifyElementVisible(findTestObject(""Transaction/Finance Details/th_Username""))",Chrome 114.0.0.0,,,2023-07-04 00:41:20,2023-07-04 00:41:20,0.401s,PASSED
+"verifyElementVisible(findTestObject(""Transaction/Finance Details/th_Currency""))",Chrome 114.0.0.0,,,2023-07-04 00:41:20,2023-07-04 00:41:20,0.406s,PASSED
+"verifyElementVisible(findTestObject(""Transaction/Finance Details/th_Amount""))",Chrome 114.0.0.0,,,2023-07-04 00:41:20,2023-07-04 00:41:21,0.394s,PASSED
+"verifyElementVisible(findTestObject(""Transaction/Finance Details/th_Before""))",Chrome 114.0.0.0,,,2023-07-04 00:41:21,2023-07-04 00:41:21,0.384s,PASSED
+"verifyElementVisible(findTestObject(""Transaction/Finance Details/th_After""))",Chrome 114.0.0.0,,,2023-07-04 00:41:21,2023-07-04 00:41:22,0.386s,PASSED
+"verifyElementVisible(findTestObject(""Transaction/Finance Details/th_Remark""))",Chrome 114.0.0.0,,,2023-07-04 00:41:22,2023-07-04 00:41:22,0.393s,PASSED
+"verifyElementVisible(findTestObject(""Transaction/Finance Details/th_CoinCash""))",Chrome 114.0.0.0,,,2023-07-04 00:41:22,2023-07-04 00:41:22,0.417s,PASSED
+"verifyElementVisible(findTestObject(""Transaction/Finance Details/th_Method""))",Chrome 114.0.0.0,,,2023-07-04 00:41:22,2023-07-04 00:41:23,0.412s,PASSED
+"verifyElementVisible(findTestObject(""Transaction/Finance Details/th_IP Address""))",Chrome 114.0.0.0,,,2023-07-04 00:41:23,2023-07-04 00:41:23,0.394s,PASSED
+"verifyElementVisible(findTestObject(""Transaction/Finance Details/th_Time""))",Chrome 114.0.0.0,,,2023-07-04 00:41:23,2023-07-04 00:41:24,0.403s,PASSED
+"verifyElementVisible(findTestObject(""Transaction/Finance Details/table_TypeUsername""))",Chrome 114.0.0.0,,,2023-07-04 00:41:24,2023-07-04 00:41:24,0.393s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""Transaction/Finance Details/li_Previous""))",Chrome 114.0.0.0,,,2023-07-04 00:41:24,2023-07-04 00:41:25,0.445s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""Transaction/Finance Details/li_Next""))",Chrome 114.0.0.0,,,2023-07-04 00:41:25,2023-07-04 00:41:25,0.556s,PASSED
+"verifyElementVisible(findTestObject(""Transaction/Finance Details/li_Previous""))",Chrome 114.0.0.0,,,2023-07-04 00:41:25,2023-07-04 00:41:26,0.501s,PASSED
+"verifyElementVisible(findTestObject(""Transaction/Finance Details/li_Next""))",Chrome 114.0.0.0,,,2023-07-04 00:41:26,2023-07-04 00:41:26,0.402s,PASSED
+,,,,,,,
+Test Cases/Transaction/Finance Details MMK,Chrome 114.0.0.0,,,2023-07-04 00:41:26,2023-07-04 00:41:54,28.223s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""Transaction/Page_Dashboard/span_Transaction""))",Chrome 114.0.0.0,,,2023-07-04 00:41:26,2023-07-04 00:41:27,0.461s,PASSED
+"mouseOver(findTestObject(""Transaction/Page_Dashboard/span_Transaction""))",Chrome 114.0.0.0,,,2023-07-04 00:41:27,2023-07-04 00:41:27,0.530s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""Transaction/Page_Dashboard/span_Finance Details""))",Chrome 114.0.0.0,,,2023-07-04 00:41:27,2023-07-04 00:41:28,0.463s,PASSED
+"mouseOver(findTestObject(""Transaction/Page_Dashboard/span_Finance Details""))",Chrome 114.0.0.0,,,2023-07-04 00:41:28,2023-07-04 00:41:29,0.603s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""Transaction/Finance Details/span_MMK""))",Chrome 114.0.0.0,,,2023-07-04 00:41:29,2023-07-04 00:41:29,0.499s,PASSED
+"mouseOver(findTestObject(""Transaction/Finance Details/span_MMK""))",Chrome 114.0.0.0,,,2023-07-04 00:41:29,2023-07-04 00:41:30,0.553s,PASSED
+"click(findTestObject(""Transaction/Finance Details/span_MMK""))",Chrome 114.0.0.0,,,2023-07-04 00:41:30,2023-07-04 00:41:32,2.562s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""Transaction/Finance Details/h3_Finance Details""))",Chrome 114.0.0.0,,,2023-07-04 00:41:32,2023-07-04 00:41:33,0.568s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""Transaction/Finance Details/select_All""))",Chrome 114.0.0.0,,,2023-07-04 00:41:33,2023-07-04 00:41:33,0.545s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""Transaction/Finance Details/select_All_adjustment""))",Chrome 114.0.0.0,,,2023-07-04 00:41:33,2023-07-04 00:41:34,0.559s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""Transaction/Finance Details/input_Date Range_form-control date_range""))",Chrome 114.0.0.0,,,2023-07-04 00:41:34,2023-07-04 00:41:34,0.452s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""Transaction/Finance Details/button_Search""))",Chrome 114.0.0.0,,,2023-07-04 00:41:34,2023-07-04 00:41:35,0.455s,PASSED
+"verifyElementVisible(findTestObject(""Transaction/Finance Details/h3_Finance Details""))",Chrome 114.0.0.0,,,2023-07-04 00:41:35,2023-07-04 00:41:35,0.511s,PASSED
+"verifyElementVisible(findTestObject(""Transaction/Finance Details/select_All""))",Chrome 114.0.0.0,,,2023-07-04 00:41:35,2023-07-04 00:41:36,0.420s,PASSED
+"verifyElementVisible(findTestObject(""Transaction/Finance Details/select_All_adjustment""))",Chrome 114.0.0.0,,,2023-07-04 00:41:36,2023-07-04 00:41:36,0.426s,PASSED
+"verifyElementVisible(findTestObject(""Transaction/Finance Details/input_Date Range_form-control date_range""))",Chrome 114.0.0.0,,,2023-07-04 00:41:36,2023-07-04 00:41:36,0.407s,PASSED
+"verifyElementVisible(findTestObject(""Transaction/Finance Details/button_Search""))",Chrome 114.0.0.0,,,2023-07-04 00:41:36,2023-07-04 00:41:37,0.395s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""Transaction/Finance Details/select_102550100""))",Chrome 114.0.0.0,,,2023-07-04 00:41:37,2023-07-04 00:41:37,0.473s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""Transaction/Finance Details/span_Copy""))",Chrome 114.0.0.0,,,2023-07-04 00:41:37,2023-07-04 00:41:38,0.447s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""Transaction/Finance Details/span_CSV""))",Chrome 114.0.0.0,,,2023-07-04 00:41:38,2023-07-04 00:41:38,0.544s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""Transaction/Finance Details/span_Excel""))",Chrome 114.0.0.0,,,2023-07-04 00:41:38,2023-07-04 00:41:39,0.452s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""Transaction/Finance Details/span_PDF""))",Chrome 114.0.0.0,,,2023-07-04 00:41:39,2023-07-04 00:41:39,0.450s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""Transaction/Finance Details/input_Search_form-control form-control-sm""))",Chrome 114.0.0.0,,,2023-07-04 00:41:39,2023-07-04 00:41:40,0.525s,PASSED
+"verifyElementVisible(findTestObject(""Transaction/Finance Details/select_102550100""))",Chrome 114.0.0.0,,,2023-07-04 00:41:40,2023-07-04 00:41:40,0.404s,PASSED
+"verifyElementVisible(findTestObject(""Transaction/Finance Details/span_Copy""))",Chrome 114.0.0.0,,,2023-07-04 00:41:40,2023-07-04 00:41:41,0.404s,PASSED
+"verifyElementVisible(findTestObject(""Transaction/Finance Details/span_CSV""))",Chrome 114.0.0.0,,,2023-07-04 00:41:41,2023-07-04 00:41:41,0.397s,PASSED
+"verifyElementVisible(findTestObject(""Transaction/Finance Details/span_Excel""))",Chrome 114.0.0.0,,,2023-07-04 00:41:41,2023-07-04 00:41:41,0.406s,PASSED
+"verifyElementVisible(findTestObject(""Transaction/Finance Details/span_PDF""))",Chrome 114.0.0.0,,,2023-07-04 00:41:41,2023-07-04 00:41:42,0.394s,PASSED
+"verifyElementVisible(findTestObject(""Transaction/Finance Details/input_Search_form-control form-control-sm""))",Chrome 114.0.0.0,,,2023-07-04 00:41:42,2023-07-04 00:41:42,0.433s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""Transaction/Finance Details/th_Type""))",Chrome 114.0.0.0,,,2023-07-04 00:41:42,2023-07-04 00:41:43,0.471s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""Transaction/Finance Details/th_Username""))",Chrome 114.0.0.0,,,2023-07-04 00:41:43,2023-07-04 00:41:43,0.465s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""Transaction/Finance Details/th_Currency""))",Chrome 114.0.0.0,,,2023-07-04 00:41:43,2023-07-04 00:41:44,0.440s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""Transaction/Finance Details/th_Amount""))",Chrome 114.0.0.0,,,2023-07-04 00:41:44,2023-07-04 00:41:44,0.454s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""Transaction/Finance Details/th_Before""))",Chrome 114.0.0.0,,,2023-07-04 00:41:44,2023-07-04 00:41:44,0.420s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""Transaction/Finance Details/th_After""))",Chrome 114.0.0.0,,,2023-07-04 00:41:44,2023-07-04 00:41:45,0.428s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""Transaction/Finance Details/th_Remark""))",Chrome 114.0.0.0,,,2023-07-04 00:41:45,2023-07-04 00:41:45,0.433s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""Transaction/Finance Details/th_CoinCash""))",Chrome 114.0.0.0,,,2023-07-04 00:41:45,2023-07-04 00:41:46,0.417s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""Transaction/Finance Details/th_Method""))",Chrome 114.0.0.0,,,2023-07-04 00:41:46,2023-07-04 00:41:46,0.432s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""Transaction/Finance Details/th_IP Address""))",Chrome 114.0.0.0,,,2023-07-04 00:41:46,2023-07-04 00:41:47,0.450s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""Transaction/Finance Details/th_Time""))",Chrome 114.0.0.0,,,2023-07-04 00:41:47,2023-07-04 00:41:47,0.451s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""Transaction/Finance Details/table_TypeUsername""))",Chrome 114.0.0.0,,,2023-07-04 00:41:47,2023-07-04 00:41:48,0.446s,PASSED
+"verifyElementVisible(findTestObject(""Transaction/Finance Details/th_Type""))",Chrome 114.0.0.0,,,2023-07-04 00:41:48,2023-07-04 00:41:48,0.498s,PASSED
+"verifyElementVisible(findTestObject(""Transaction/Finance Details/th_Username""))",Chrome 114.0.0.0,,,2023-07-04 00:41:48,2023-07-04 00:41:48,0.403s,PASSED
+"verifyElementVisible(findTestObject(""Transaction/Finance Details/th_Currency""))",Chrome 114.0.0.0,,,2023-07-04 00:41:48,2023-07-04 00:41:49,0.362s,PASSED
+"verifyElementVisible(findTestObject(""Transaction/Finance Details/th_Amount""))",Chrome 114.0.0.0,,,2023-07-04 00:41:49,2023-07-04 00:41:49,0.420s,PASSED
+"verifyElementVisible(findTestObject(""Transaction/Finance Details/th_Before""))",Chrome 114.0.0.0,,,2023-07-04 00:41:49,2023-07-04 00:41:50,0.387s,PASSED
+"verifyElementVisible(findTestObject(""Transaction/Finance Details/th_After""))",Chrome 114.0.0.0,,,2023-07-04 00:41:50,2023-07-04 00:41:50,0.378s,PASSED
+"verifyElementVisible(findTestObject(""Transaction/Finance Details/th_Remark""))",Chrome 114.0.0.0,,,2023-07-04 00:41:50,2023-07-04 00:41:50,0.420s,PASSED
+"verifyElementVisible(findTestObject(""Transaction/Finance Details/th_CoinCash""))",Chrome 114.0.0.0,,,2023-07-04 00:41:50,2023-07-04 00:41:51,0.410s,PASSED
+"verifyElementVisible(findTestObject(""Transaction/Finance Details/th_Method""))",Chrome 114.0.0.0,,,2023-07-04 00:41:51,2023-07-04 00:41:51,0.407s,PASSED
+"verifyElementVisible(findTestObject(""Transaction/Finance Details/th_IP Address""))",Chrome 114.0.0.0,,,2023-07-04 00:41:51,2023-07-04 00:41:52,0.410s,PASSED
+"verifyElementVisible(findTestObject(""Transaction/Finance Details/th_Time""))",Chrome 114.0.0.0,,,2023-07-04 00:41:52,2023-07-04 00:41:52,0.387s,PASSED
+"verifyElementVisible(findTestObject(""Transaction/Finance Details/table_TypeUsername""))",Chrome 114.0.0.0,,,2023-07-04 00:41:52,2023-07-04 00:41:52,0.402s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""Transaction/Finance Details/li_Previous""))",Chrome 114.0.0.0,,,2023-07-04 00:41:52,2023-07-04 00:41:53,0.449s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""Transaction/Finance Details/li_Next""))",Chrome 114.0.0.0,,,2023-07-04 00:41:53,2023-07-04 00:41:53,0.529s,PASSED
+"verifyElementVisible(findTestObject(""Transaction/Finance Details/li_Previous""))",Chrome 114.0.0.0,,,2023-07-04 00:41:53,2023-07-04 00:41:54,0.406s,PASSED
+"verifyElementVisible(findTestObject(""Transaction/Finance Details/li_Next""))",Chrome 114.0.0.0,,,2023-07-04 00:41:54,2023-07-04 00:41:54,0.390s,PASSED
+,,,,,,,
+Test Cases/Transaction/Finance Details RMB,Chrome 114.0.0.0,,,2023-07-04 00:41:54,2023-07-04 00:42:23,28.426s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""Transaction/Page_Dashboard/span_Transaction""))",Chrome 114.0.0.0,,,2023-07-04 00:41:55,2023-07-04 00:41:55,0.479s,PASSED
+"mouseOver(findTestObject(""Transaction/Page_Dashboard/span_Transaction""))",Chrome 114.0.0.0,,,2023-07-04 00:41:55,2023-07-04 00:41:56,0.532s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""Transaction/Page_Dashboard/span_Finance Details""))",Chrome 114.0.0.0,,,2023-07-04 00:41:56,2023-07-04 00:41:56,0.469s,PASSED
+"mouseOver(findTestObject(""Transaction/Page_Dashboard/span_Finance Details""))",Chrome 114.0.0.0,,,2023-07-04 00:41:56,2023-07-04 00:41:57,0.497s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""Transaction/Finance Details/span_RMB""))",Chrome 114.0.0.0,,,2023-07-04 00:41:57,2023-07-04 00:41:57,0.430s,PASSED
+"mouseOver(findTestObject(""Transaction/Finance Details/span_RMB""))",Chrome 114.0.0.0,,,2023-07-04 00:41:57,2023-07-04 00:41:58,0.529s,PASSED
+"click(findTestObject(""Transaction/Finance Details/span_RMB""))",Chrome 114.0.0.0,,,2023-07-04 00:41:58,2023-07-04 00:42:00,2.645s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""Transaction/Finance Details/h3_Finance Details""))",Chrome 114.0.0.0,,,2023-07-04 00:42:00,2023-07-04 00:42:01,0.677s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""Transaction/Finance Details/select_All""))",Chrome 114.0.0.0,,,2023-07-04 00:42:01,2023-07-04 00:42:01,0.453s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""Transaction/Finance Details/select_All_adjustment""))",Chrome 114.0.0.0,,,2023-07-04 00:42:01,2023-07-04 00:42:02,0.457s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""Transaction/Finance Details/input_Date Range_form-control date_range""))",Chrome 114.0.0.0,,,2023-07-04 00:42:02,2023-07-04 00:42:02,0.451s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""Transaction/Finance Details/button_Search""))",Chrome 114.0.0.0,,,2023-07-04 00:42:02,2023-07-04 00:42:03,0.460s,PASSED
+"verifyElementVisible(findTestObject(""Transaction/Finance Details/h3_Finance Details""))",Chrome 114.0.0.0,,,2023-07-04 00:42:03,2023-07-04 00:42:03,0.427s,PASSED
+"verifyElementVisible(findTestObject(""Transaction/Finance Details/select_All""))",Chrome 114.0.0.0,,,2023-07-04 00:42:03,2023-07-04 00:42:04,0.402s,PASSED
+"verifyElementVisible(findTestObject(""Transaction/Finance Details/select_All_adjustment""))",Chrome 114.0.0.0,,,2023-07-04 00:42:04,2023-07-04 00:42:04,0.389s,PASSED
+"verifyElementVisible(findTestObject(""Transaction/Finance Details/input_Date Range_form-control date_range""))",Chrome 114.0.0.0,,,2023-07-04 00:42:04,2023-07-04 00:42:04,0.420s,PASSED
+"verifyElementVisible(findTestObject(""Transaction/Finance Details/button_Search""))",Chrome 114.0.0.0,,,2023-07-04 00:42:04,2023-07-04 00:42:05,0.405s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""Transaction/Finance Details/select_102550100""))",Chrome 114.0.0.0,,,2023-07-04 00:42:05,2023-07-04 00:42:05,0.438s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""Transaction/Finance Details/span_Copy""))",Chrome 114.0.0.0,,,2023-07-04 00:42:05,2023-07-04 00:42:06,0.440s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""Transaction/Finance Details/span_CSV""))",Chrome 114.0.0.0,,,2023-07-04 00:42:06,2023-07-04 00:42:06,0.549s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""Transaction/Finance Details/span_Excel""))",Chrome 114.0.0.0,,,2023-07-04 00:42:06,2023-07-04 00:42:07,0.545s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""Transaction/Finance Details/span_PDF""))",Chrome 114.0.0.0,,,2023-07-04 00:42:07,2023-07-04 00:42:07,0.556s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""Transaction/Finance Details/input_Search_form-control form-control-sm""))",Chrome 114.0.0.0,,,2023-07-04 00:42:07,2023-07-04 00:42:08,0.540s,PASSED
+"verifyElementVisible(findTestObject(""Transaction/Finance Details/select_102550100""))",Chrome 114.0.0.0,,,2023-07-04 00:42:08,2023-07-04 00:42:08,0.405s,PASSED
+"verifyElementVisible(findTestObject(""Transaction/Finance Details/span_Copy""))",Chrome 114.0.0.0,,,2023-07-04 00:42:08,2023-07-04 00:42:09,0.424s,PASSED
+"verifyElementVisible(findTestObject(""Transaction/Finance Details/span_CSV""))",Chrome 114.0.0.0,,,2023-07-04 00:42:09,2023-07-04 00:42:09,0.406s,PASSED
+"verifyElementVisible(findTestObject(""Transaction/Finance Details/span_Excel""))",Chrome 114.0.0.0,,,2023-07-04 00:42:09,2023-07-04 00:42:10,0.412s,PASSED
+"verifyElementVisible(findTestObject(""Transaction/Finance Details/span_PDF""))",Chrome 114.0.0.0,,,2023-07-04 00:42:10,2023-07-04 00:42:10,0.392s,PASSED
+"verifyElementVisible(findTestObject(""Transaction/Finance Details/input_Search_form-control form-control-sm""))",Chrome 114.0.0.0,,,2023-07-04 00:42:10,2023-07-04 00:42:10,0.365s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""Transaction/Finance Details/th_Type""))",Chrome 114.0.0.0,,,2023-07-04 00:42:10,2023-07-04 00:42:11,0.443s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""Transaction/Finance Details/th_Username""))",Chrome 114.0.0.0,,,2023-07-04 00:42:11,2023-07-04 00:42:11,0.452s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""Transaction/Finance Details/th_Currency""))",Chrome 114.0.0.0,,,2023-07-04 00:42:11,2023-07-04 00:42:12,0.451s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""Transaction/Finance Details/th_Amount""))",Chrome 114.0.0.0,,,2023-07-04 00:42:12,2023-07-04 00:42:12,0.452s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""Transaction/Finance Details/th_Before""))",Chrome 114.0.0.0,,,2023-07-04 00:42:12,2023-07-04 00:42:13,0.461s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""Transaction/Finance Details/th_After""))",Chrome 114.0.0.0,,,2023-07-04 00:42:13,2023-07-04 00:42:13,0.450s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""Transaction/Finance Details/th_Remark""))",Chrome 114.0.0.0,,,2023-07-04 00:42:13,2023-07-04 00:42:13,0.451s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""Transaction/Finance Details/th_CoinCash""))",Chrome 114.0.0.0,,,2023-07-04 00:42:13,2023-07-04 00:42:14,0.448s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""Transaction/Finance Details/th_Method""))",Chrome 114.0.0.0,,,2023-07-04 00:42:14,2023-07-04 00:42:14,0.424s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""Transaction/Finance Details/th_IP Address""))",Chrome 114.0.0.0,,,2023-07-04 00:42:14,2023-07-04 00:42:15,0.442s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""Transaction/Finance Details/th_Time""))",Chrome 114.0.0.0,,,2023-07-04 00:42:15,2023-07-04 00:42:15,0.438s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""Transaction/Finance Details/table_TypeUsername""))",Chrome 114.0.0.0,,,2023-07-04 00:42:15,2023-07-04 00:42:16,0.439s,PASSED
+"verifyElementVisible(findTestObject(""Transaction/Finance Details/th_Type""))",Chrome 114.0.0.0,,,2023-07-04 00:42:16,2023-07-04 00:42:16,0.501s,PASSED
+"verifyElementVisible(findTestObject(""Transaction/Finance Details/th_Username""))",Chrome 114.0.0.0,,,2023-07-04 00:42:16,2023-07-04 00:42:17,0.417s,PASSED
+"verifyElementVisible(findTestObject(""Transaction/Finance Details/th_Currency""))",Chrome 114.0.0.0,,,2023-07-04 00:42:17,2023-07-04 00:42:17,0.389s,PASSED
+"verifyElementVisible(findTestObject(""Transaction/Finance Details/th_Amount""))",Chrome 114.0.0.0,,,2023-07-04 00:42:17,2023-07-04 00:42:17,0.407s,PASSED
+"verifyElementVisible(findTestObject(""Transaction/Finance Details/th_Before""))",Chrome 114.0.0.0,,,2023-07-04 00:42:17,2023-07-04 00:42:18,0.439s,PASSED
+"verifyElementVisible(findTestObject(""Transaction/Finance Details/th_After""))",Chrome 114.0.0.0,,,2023-07-04 00:42:18,2023-07-04 00:42:18,0.411s,PASSED
+"verifyElementVisible(findTestObject(""Transaction/Finance Details/th_Remark""))",Chrome 114.0.0.0,,,2023-07-04 00:42:18,2023-07-04 00:42:19,0.413s,PASSED
+"verifyElementVisible(findTestObject(""Transaction/Finance Details/th_CoinCash""))",Chrome 114.0.0.0,,,2023-07-04 00:42:19,2023-07-04 00:42:19,0.387s,PASSED
+"verifyElementVisible(findTestObject(""Transaction/Finance Details/th_Method""))",Chrome 114.0.0.0,,,2023-07-04 00:42:19,2023-07-04 00:42:19,0.408s,PASSED
+"verifyElementVisible(findTestObject(""Transaction/Finance Details/th_IP Address""))",Chrome 114.0.0.0,,,2023-07-04 00:42:19,2023-07-04 00:42:20,0.425s,PASSED
+"verifyElementVisible(findTestObject(""Transaction/Finance Details/th_Time""))",Chrome 114.0.0.0,,,2023-07-04 00:42:20,2023-07-04 00:42:20,0.395s,PASSED
+"verifyElementVisible(findTestObject(""Transaction/Finance Details/table_TypeUsername""))",Chrome 114.0.0.0,,,2023-07-04 00:42:20,2023-07-04 00:42:21,0.421s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""Transaction/Finance Details/li_Previous""))",Chrome 114.0.0.0,,,2023-07-04 00:42:21,2023-07-04 00:42:21,0.445s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""Transaction/Finance Details/li_Next""))",Chrome 114.0.0.0,,,2023-07-04 00:42:21,2023-07-04 00:42:22,0.561s,PASSED
+"verifyElementVisible(findTestObject(""Transaction/Finance Details/li_Previous""))",Chrome 114.0.0.0,,,2023-07-04 00:42:22,2023-07-04 00:42:22,0.518s,PASSED
+"verifyElementVisible(findTestObject(""Transaction/Finance Details/li_Next""))",Chrome 114.0.0.0,,,2023-07-04 00:42:22,2023-07-04 00:42:23,0.393s,PASSED

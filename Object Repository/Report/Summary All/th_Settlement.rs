@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>th_Settlement</name>
+   <tag></tag>
+   <elementGuidId>9d0873d5-377a-4511-95e7-1c8f85dbbb68</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='instantSummaryLayout']/div/div[2]/table/thead/tr/th[7]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>th:nth-of-type(7)</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>th</value>
+      <webElementGuid>d0b40fe9-7807-4f6f-b7ab-0fea9fc9ed43</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Settlement</value>
+      <webElementGuid>48423b42-6d3c-4c21-adef-32b848a0b542</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;instantSummaryLayout&quot;)/div[@class=&quot;kt-portlet kt-portlet--mobile&quot;]/div[@class=&quot;kt-portlet__body&quot;]/table[@class=&quot;table table-striped- table-bordered table-hover table-checkable table-responsive w-100 d-block d-md-table datatableCustomTop&quot;]/thead[1]/tr[1]/th[7]</value>
+      <webElementGuid>659b8ef3-4141-4b22-8862-a7c8ffc79e6b</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='instantSummaryLayout']/div/div[2]/table/thead/tr/th[7]</value>
+      <webElementGuid>254fd20e-88fc-42db-9312-6f082d9d7684</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Win Loss'])[1]/following::th[1]</value>
+      <webElementGuid>0978932c-cf44-46c3-a273-31a3094d6bb0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Payout'])[1]/following::th[2]</value>
+      <webElementGuid>d6eafce4-8a34-475c-ae6e-b211b7120ba7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Commission'])[2]/preceding::th[1]</value>
+      <webElementGuid>19f47f9b-ed81-40b4-b9d7-46921ba86fc4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Chip'])[1]/preceding::th[2]</value>
+      <webElementGuid>6bd623b6-8922-4698-85db-e71c6082288a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//th[7]</value>
+      <webElementGuid>ee66fb7d-a53a-4fa8-abf9-7af9ef7f55bf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//th[(text() = 'Settlement' or . = 'Settlement')]</value>
+      <webElementGuid>f3803659-d224-4f2b-817e-e918530917c4</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

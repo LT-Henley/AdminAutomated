@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>select_All</name>
+   <tag></tag>
+   <elementGuidId>823277f3-4578-4b35-a38b-fca4f2e94e5b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#wallet_filter</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//select[@id='wallet_filter']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>select</value>
+      <webElementGuid>d8eb0d54-3c1f-4797-8276-b1d5f9a2f592</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>wallet_filter</value>
+      <webElementGuid>ba60e706-0245-4cf5-a93d-69bf204c32a5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>wallet_filter</value>
+      <webElementGuid>8648b905-e257-4c73-b959-1f85ead9e4a5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>form-control</value>
+      <webElementGuid>2576257a-2dbb-46ee-99f5-e563fa1543e9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+                            All
+                            Negative Balance
+                            Positive Balance
+                        </value>
+      <webElementGuid>14e2f5e5-6c11-429d-b268-022619483f01</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;wallet_filter&quot;)</value>
+      <webElementGuid>ab4ffc3d-3ad3-4f38-94f9-701e88de68b4</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//select[@id='wallet_filter']</value>
+      <webElementGuid>6e177e24-e7fb-4685-93bd-b3e2d787e825</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='memberListLayout']/div/div/div[2]/form/div[4]/select</value>
+      <webElementGuid>1290e35a-6325-4037-abe1-71fbbb7e844d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Wallet Filter'])[1]/following::select[1]</value>
+      <webElementGuid>71d211e4-5a13-46ad-afe8-df190800baf7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Phone'])[1]/following::select[1]</value>
+      <webElementGuid>743c7c98-fd83-47a6-91f3-e4720908c0ee</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Member Level'])[1]/preceding::select[1]</value>
+      <webElementGuid>270a689f-edf5-420b-b0f0-ab01db816e09</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Search'])[2]/preceding::select[2]</value>
+      <webElementGuid>3329c03f-f383-4e4c-93b2-b58b1e70c875</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//select</value>
+      <webElementGuid>928c7962-4cd7-4d08-af9f-a54d4df602e8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//select[@name = 'wallet_filter' and @id = 'wallet_filter' and (text() = '
+                            All
+                            Negative Balance
+                            Positive Balance
+                        ' or . = '
+                            All
+                            Negative Balance
+                            Positive Balance
+                        ')]</value>
+      <webElementGuid>d70f7ddc-8331-4c8f-8040-b6e982075ebd</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

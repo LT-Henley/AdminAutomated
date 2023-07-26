@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>select_All                            Player                            Super Player                            Member</name>
+   <tag></tag>
+   <elementGuidId>deab59c4-f16e-4cff-8c71-b82f07f5d20c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#member_level</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//select[@id='member_level']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>select</value>
+      <webElementGuid>23341769-1eb2-4996-8d6b-257723501ddd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>member_level</value>
+      <webElementGuid>7a62aa1e-4c25-49ff-a20e-dc3efe1cdd42</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>member_level</value>
+      <webElementGuid>414e6dc1-c468-4c6c-ba1a-ecb9681b3ca4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>form-control</value>
+      <webElementGuid>588237b2-d212-472d-a954-41c62ac4d3ea</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+                            All
+                            Player
+                            Super Player
+                            Member
+                        </value>
+      <webElementGuid>af46ff33-718d-489a-8968-fb999bf2c39d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;member_level&quot;)</value>
+      <webElementGuid>bb44c325-1d44-4986-9bb0-6db3f03a0df6</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//select[@id='member_level']</value>
+      <webElementGuid>d49374bd-2c3e-440f-9d9c-e9a29b17838d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='memberListLayout']/div/div/div[2]/form/div[5]/select</value>
+      <webElementGuid>6870fac0-3002-4529-a4fd-03bbeb77f48c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Member Level'])[1]/following::select[1]</value>
+      <webElementGuid>c39ab145-dde5-4ac5-9746-5c209cd2185b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Wallet Filter'])[1]/following::select[2]</value>
+      <webElementGuid>2a936915-ce91-4202-9b89-d2c0ce2b364d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Search'])[2]/preceding::select[1]</value>
+      <webElementGuid>d4c993b3-ca58-45f5-8fe8-e5353949ba16</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='devbot'])[2]/preceding::select[1]</value>
+      <webElementGuid>ca9b5033-9233-43ae-9d9f-7c94bd989382</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[5]/select</value>
+      <webElementGuid>977dd88c-7aae-43f2-991f-2d72a3e48342</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//select[@name = 'member_level' and @id = 'member_level' and (text() = '
+                            All
+                            Player
+                            Super Player
+                            Member
+                        ' or . = '
+                            All
+                            Player
+                            Super Player
+                            Member
+                        ')]</value>
+      <webElementGuid>d5954bb3-8b9b-47c3-89bc-fa7a066f296d</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

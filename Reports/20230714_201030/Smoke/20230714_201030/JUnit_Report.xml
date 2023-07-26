@@ -1,0 +1,949 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="Smoke" time="167.081" tests="5" failures="0" errors="0">
+   <testsuite name="Smoke" tests="5" failures="0" errors="0" time="167.081" skipped="0" timestamp="2023-07-14 20:10:40" hostname="hmacagba - PHPF1FXV0U.CSCMWS.CSCMWS.COM" id="Test Suites/Smoke">
+      <properties>
+         <property name="deviceName" value=""/>
+         <property name="devicePlatform" value=""/>
+         <property name="logFolder" value="C:\\Users\\hmacagba\\git\\AutomatedScripts\\Reports\\20230714_201030\\Smoke\\20230714_201030"/>
+         <property name="logFiles" value="C:\\Users\\hmacagba\\git\\AutomatedScripts\\Reports\\20230714_201030\\Smoke\\20230714_201030\\execution0.log"/>
+         <property name="attachments" value=""/>
+         <property name="hostName" value="hmacagba - PHPF1FXV0U.CSCMWS.CSCMWS.COM"/>
+         <property name="os" value="Windows 10 64bit"/>
+         <property name="katalonVersion" value="8.6.5.208"/>
+         <property name="browser" value="Chrome 114.0.0.0"/>
+         <property name="hostAddress" value="192.168.68.106"/>
+         <property name="sessionId" value="964aae93b1bbf9513f6e59622a92b3bf"/>
+         <property name="seleniumVersion" value="3.141.59"/>
+         <property name="proxyInformation" value="ProxyInformation { proxyOption=NO_PROXY, proxyServerType=HTTP, username=, password=********, proxyServerAddress=, proxyServerPort=0, executionList=&quot;&quot;, isApplyToDesiredCapabilities=true }"/>
+         <property name="platform" value="Windows 10"/>
+      </properties>
+      <testcase name="Test Cases/Leaderboard/Ranking MYR" time="63.611" classname="Test Cases/Leaderboard/Ranking MYR" status="PASSED">
+         <system-out><![CDATA[2023-07-14 20:10:41 - [TEST_CASE][PASSED] - Test Cases/Leaderboard/Ranking MYR: Test Cases/Leaderboard/Ranking MYR
+
+2023-07-14 20:10:41 - [TEST_STEP][PASSED] - callTestCase(findTestCase("Login Admin"), [:], STOP_ON_FAILURE): Call Test Case 'Test Cases/Login Admin' successfully
+
+2023-07-14 20:10:42 - [TEST_CASE][PASSED] - Test Cases/Login Admin: Test Cases/Login Admin
+
+2023-07-14 20:10:42 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+2023-07-14 20:10:43 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+2023-07-14 20:10:43 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+2023-07-14 20:10:47 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+2023-07-14 20:10:47 - [TEST_STEP][PASSED] - maximizeWindow(): Current window maximized
+
+2023-07-14 20:10:47 - [MESSAGE][PASSED] - Current window maximized
+
+2023-07-14 20:10:47 - [TEST_STEP][PASSED] - navigateToUrl(URL): Navigate to 'http://admin.lkydev.site' successfully
+
+2023-07-14 20:10:51 - [MESSAGE][PASSED] - Navigate to 'http://admin.lkydev.site' successfully
+
+2023-07-14 20:10:51 - [TEST_STEP][PASSED] - verifyElementText(findTestObject("Object Repository/Login/Page_SUNCITY - Login/h3_Sign In To Admin System"), "Sign In To Admin System"): Actual text and expected text of test object 'Object Repository/Login/Page_SUNCITY - Login/h3_Sign In To Admin System' are matched.
+
+2023-07-14 20:10:52 - [MESSAGE][PASSED] - Actual text and expected text of test object 'Object Repository/Login/Page_SUNCITY - Login/h3_Sign In To Admin System' are matched.
+
+2023-07-14 20:10:52 - [TEST_STEP][PASSED] - com.reusableComponent.HighlightElement.run(findTestObject("Login/Page_SUNCITY - Login/h3_Sign In To Admin System")): com.reusableComponent.HighlightElement.run is PASSED
+
+2023-07-14 20:10:53 - [MESSAGE][PASSED] - com.reusableComponent.HighlightElement.run is PASSED
+
+2023-07-14 20:10:53 - [TEST_STEP][PASSED] - com.reusableComponent.HighlightElement.run(findTestObject("Login/Page_SUNCITY - Login/input_Sign In To Admin System_username")): com.reusableComponent.HighlightElement.run is PASSED
+
+2023-07-14 20:10:53 - [MESSAGE][PASSED] - com.reusableComponent.HighlightElement.run is PASSED
+
+2023-07-14 20:10:53 - [TEST_STEP][PASSED] - com.reusableComponent.HighlightElement.run(findTestObject("Login/Page_SUNCITY - Login/input_Sign In To Admin System_password")): com.reusableComponent.HighlightElement.run is PASSED
+
+2023-07-14 20:10:54 - [MESSAGE][PASSED] - com.reusableComponent.HighlightElement.run is PASSED
+
+2023-07-14 20:10:54 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/Login/Page_SUNCITY - Login/input_Sign In To Admin System_username"), Username): Text 'devbot' is set on object 'Object Repository/Login/Page_SUNCITY - Login/input_Sign In To Admin System_username'
+
+2023-07-14 20:10:55 - [MESSAGE][PASSED] - Text 'devbot' is set on object 'Object Repository/Login/Page_SUNCITY - Login/input_Sign In To Admin System_username'
+
+2023-07-14 20:10:55 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/Login/Page_SUNCITY - Login/input_Sign In To Admin System_password"), Password): Text '77889900' is set on object 'Object Repository/Login/Page_SUNCITY - Login/input_Sign In To Admin System_password'
+
+2023-07-14 20:10:56 - [MESSAGE][PASSED] - Text '77889900' is set on object 'Object Repository/Login/Page_SUNCITY - Login/input_Sign In To Admin System_password'
+
+2023-07-14 20:10:56 - [TEST_STEP][PASSED] - com.reusableComponent.HighlightElement.run(findTestObject("Login/Page_SUNCITY - Login/button_Next")): com.reusableComponent.HighlightElement.run is PASSED
+
+2023-07-14 20:10:56 - [MESSAGE][PASSED] - com.reusableComponent.HighlightElement.run is PASSED
+
+2023-07-14 20:10:56 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Login/Page_SUNCITY - Login/button_Next")): Object: 'Object Repository/Login/Page_SUNCITY - Login/button_Next' is clicked on
+
+2023-07-14 20:10:57 - [MESSAGE][PASSED] - Object: 'Object Repository/Login/Page_SUNCITY - Login/button_Next' is clicked on
+
+2023-07-14 20:10:57 - [TEST_STEP][PASSED] - com.reusableComponent.HighlightElement.run(findTestObject("Login/Page_SUNCITY - Login/input_Next_verificationCode")): com.reusableComponent.HighlightElement.run is PASSED
+
+2023-07-14 20:10:58 - [MESSAGE][PASSED] - com.reusableComponent.HighlightElement.run is PASSED
+
+2023-07-14 20:10:58 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/Login/Page_SUNCITY - Login/input_Next_verificationCode"), VerificationCode): Text '778899' is set on object 'Object Repository/Login/Page_SUNCITY - Login/input_Next_verificationCode'
+
+2023-07-14 20:10:59 - [MESSAGE][PASSED] - Text '778899' is set on object 'Object Repository/Login/Page_SUNCITY - Login/input_Next_verificationCode'
+
+2023-07-14 20:10:59 - [TEST_STEP][PASSED] - com.reusableComponent.HighlightElement.run(findTestObject("Login/Page_SUNCITY - Login/button_Sign In")): com.reusableComponent.HighlightElement.run is PASSED
+
+2023-07-14 20:10:59 - [MESSAGE][PASSED] - com.reusableComponent.HighlightElement.run is PASSED
+
+2023-07-14 20:10:59 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Login/Page_SUNCITY - Login/button_Sign In")): Object: 'Object Repository/Login/Page_SUNCITY - Login/button_Sign In' is clicked on
+
+2023-07-14 20:10:59 - [MESSAGE][PASSED] - Object: 'Object Repository/Login/Page_SUNCITY - Login/button_Sign In' is clicked on
+
+2023-07-14 20:10:59 - [TEST_STEP][PASSED] - com.reusableComponent.HighlightElement.run(findTestObject("Login/Page_Dashboard/h2_Login Success")): com.reusableComponent.HighlightElement.run is PASSED
+
+2023-07-14 20:11:03 - [MESSAGE][PASSED] - com.reusableComponent.HighlightElement.run is PASSED
+
+2023-07-14 20:11:03 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Login/Page_Dashboard/h2_Login Success")): Object: 'Object Repository/Login/Page_Dashboard/h2_Login Success' is clicked on
+
+2023-07-14 20:11:04 - [MESSAGE][PASSED] - Object: 'Object Repository/Login/Page_Dashboard/h2_Login Success' is clicked on
+
+2023-07-14 20:11:04 - [TEST_STEP][PASSED] - com.reusableComponent.HighlightElement.run(findTestObject("Login/Page_Dashboard/button_OK")): com.reusableComponent.HighlightElement.run is PASSED
+
+2023-07-14 20:11:04 - [MESSAGE][PASSED] - com.reusableComponent.HighlightElement.run is PASSED
+
+2023-07-14 20:11:04 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Login/Page_Dashboard/button_OK")): Object: 'Object Repository/Login/Page_Dashboard/button_OK' is clicked on
+
+2023-07-14 20:11:05 - [MESSAGE][PASSED] - Object: 'Object Repository/Login/Page_Dashboard/button_OK' is clicked on
+
+2023-07-14 20:11:05 - [MESSAGE][PASSED] - Call Test Case 'Test Cases/Login Admin' successfully
+
+2023-07-14 20:11:05 - [TEST_STEP][PASSED] - com.reusableComponent.HighlightElement.run(findTestObject("Leaderboard/Page_Dashboard/span_leaderboard")): com.reusableComponent.HighlightElement.run is PASSED
+
+2023-07-14 20:11:05 - [MESSAGE][PASSED] - com.reusableComponent.HighlightElement.run is PASSED
+
+2023-07-14 20:11:05 - [TEST_STEP][PASSED] - mouseOver(findTestObject("Leaderboard/Page_Dashboard/span_leaderboard")): Object: 'Object Repository/Leaderboard/Page_Dashboard/span_leaderboard' is hovered
+
+2023-07-14 20:11:06 - [MESSAGE][PASSED] - Object: 'Object Repository/Leaderboard/Page_Dashboard/span_leaderboard' is hovered
+
+2023-07-14 20:11:06 - [TEST_STEP][PASSED] - com.reusableComponent.HighlightElement.run(findTestObject("Leaderboard/Page_Dashboard/span_Ranking")): com.reusableComponent.HighlightElement.run is PASSED
+
+2023-07-14 20:11:07 - [MESSAGE][PASSED] - com.reusableComponent.HighlightElement.run is PASSED
+
+2023-07-14 20:11:07 - [TEST_STEP][PASSED] - mouseOver(findTestObject("Leaderboard/Page_Dashboard/span_Ranking")): Object: 'Object Repository/Leaderboard/Page_Dashboard/span_Ranking' is hovered
+
+2023-07-14 20:11:07 - [MESSAGE][PASSED] - Object: 'Object Repository/Leaderboard/Page_Dashboard/span_Ranking' is hovered
+
+2023-07-14 20:11:07 - [TEST_STEP][PASSED] - com.reusableComponent.HighlightElement.run(findTestObject("Leaderboard/Leaderboard Ranking/span_MYR")): com.reusableComponent.HighlightElement.run is PASSED
+
+2023-07-14 20:11:08 - [MESSAGE][PASSED] - com.reusableComponent.HighlightElement.run is PASSED
+
+2023-07-14 20:11:08 - [TEST_STEP][PASSED] - mouseOver(findTestObject("Leaderboard/Leaderboard Ranking/span_MYR")): Object: 'Object Repository/Leaderboard/Leaderboard Ranking/span_MYR' is hovered
+
+2023-07-14 20:11:08 - [MESSAGE][PASSED] - Object: 'Object Repository/Leaderboard/Leaderboard Ranking/span_MYR' is hovered
+
+2023-07-14 20:11:08 - [TEST_STEP][PASSED] - click(findTestObject("Leaderboard/Leaderboard Ranking/span_MYR")): Object: 'Object Repository/Leaderboard/Leaderboard Ranking/span_MYR' is clicked on
+
+2023-07-14 20:11:27 - [MESSAGE][PASSED] - Object: 'Object Repository/Leaderboard/Leaderboard Ranking/span_MYR' is clicked on
+
+2023-07-14 20:11:27 - [TEST_STEP][PASSED] - com.reusableComponent.HighlightElement.run(findTestObject("Leaderboard/Leaderboard Ranking/h3_Leaderboard List")): com.reusableComponent.HighlightElement.run is PASSED
+
+2023-07-14 20:11:28 - [MESSAGE][PASSED] - com.reusableComponent.HighlightElement.run is PASSED
+
+2023-07-14 20:11:28 - [TEST_STEP][PASSED] - com.reusableComponent.HighlightElement.run(findTestObject("Leaderboard/Leaderboard Ranking/select_May 2021")): com.reusableComponent.HighlightElement.run is PASSED
+
+2023-07-14 20:11:28 - [MESSAGE][PASSED] - com.reusableComponent.HighlightElement.run is PASSED
+
+2023-07-14 20:11:28 - [TEST_STEP][PASSED] - com.reusableComponent.HighlightElement.run(findTestObject("Leaderboard/Leaderboard Ranking/button_Search")): com.reusableComponent.HighlightElement.run is PASSED
+
+2023-07-14 20:11:29 - [MESSAGE][PASSED] - com.reusableComponent.HighlightElement.run is PASSED
+
+2023-07-14 20:11:29 - [TEST_STEP][PASSED] - verifyElementVisible(findTestObject("Leaderboard/Leaderboard Ranking/h3_Leaderboard List")): Object 'Object Repository/Leaderboard/Leaderboard Ranking/h3_Leaderboard List' is visible
+
+2023-07-14 20:11:29 - [MESSAGE][PASSED] - Object 'Object Repository/Leaderboard/Leaderboard Ranking/h3_Leaderboard List' is visible
+
+2023-07-14 20:11:29 - [TEST_STEP][PASSED] - verifyElementVisible(findTestObject("Leaderboard/Leaderboard Ranking/select_May 2021")): Object 'Object Repository/Leaderboard/Leaderboard Ranking/select_May 2021' is visible
+
+2023-07-14 20:11:30 - [MESSAGE][PASSED] - Object 'Object Repository/Leaderboard/Leaderboard Ranking/select_May 2021' is visible
+
+2023-07-14 20:11:30 - [TEST_STEP][PASSED] - verifyElementVisible(findTestObject("Leaderboard/Leaderboard Ranking/button_Search")): Object 'Object Repository/Leaderboard/Leaderboard Ranking/button_Search' is visible
+
+2023-07-14 20:11:30 - [MESSAGE][PASSED] - Object 'Object Repository/Leaderboard/Leaderboard Ranking/button_Search' is visible
+
+2023-07-14 20:11:30 - [TEST_STEP][PASSED] - com.reusableComponent.HighlightElement.run(findTestObject("Leaderboard/Leaderboard Ranking/select_102550100")): com.reusableComponent.HighlightElement.run is PASSED
+
+2023-07-14 20:11:31 - [MESSAGE][PASSED] - com.reusableComponent.HighlightElement.run is PASSED
+
+2023-07-14 20:11:31 - [TEST_STEP][PASSED] - com.reusableComponent.HighlightElement.run(findTestObject("Leaderboard/Leaderboard Ranking/span_Copy")): com.reusableComponent.HighlightElement.run is PASSED
+
+2023-07-14 20:11:31 - [MESSAGE][PASSED] - com.reusableComponent.HighlightElement.run is PASSED
+
+2023-07-14 20:11:31 - [TEST_STEP][PASSED] - com.reusableComponent.HighlightElement.run(findTestObject("Leaderboard/Leaderboard Ranking/span_CSV")): com.reusableComponent.HighlightElement.run is PASSED
+
+2023-07-14 20:11:32 - [MESSAGE][PASSED] - com.reusableComponent.HighlightElement.run is PASSED
+
+2023-07-14 20:11:32 - [TEST_STEP][PASSED] - com.reusableComponent.HighlightElement.run(findTestObject("Leaderboard/Leaderboard Ranking/span_Excel")): com.reusableComponent.HighlightElement.run is PASSED
+
+2023-07-14 20:11:32 - [MESSAGE][PASSED] - com.reusableComponent.HighlightElement.run is PASSED
+
+2023-07-14 20:11:32 - [TEST_STEP][PASSED] - com.reusableComponent.HighlightElement.run(findTestObject("Leaderboard/Leaderboard Ranking/span_PDF")): com.reusableComponent.HighlightElement.run is PASSED
+
+2023-07-14 20:11:33 - [MESSAGE][PASSED] - com.reusableComponent.HighlightElement.run is PASSED
+
+2023-07-14 20:11:33 - [TEST_STEP][PASSED] - com.reusableComponent.HighlightElement.run(findTestObject("Leaderboard/Leaderboard Ranking/input_Search_form-control form-control-sm")): com.reusableComponent.HighlightElement.run is PASSED
+
+2023-07-14 20:11:33 - [MESSAGE][PASSED] - com.reusableComponent.HighlightElement.run is PASSED
+
+2023-07-14 20:11:33 - [TEST_STEP][PASSED] - verifyElementVisible(findTestObject("Leaderboard/Leaderboard Ranking/select_102550100")): Object 'Object Repository/Leaderboard/Leaderboard Ranking/select_102550100' is visible
+
+2023-07-14 20:11:34 - [MESSAGE][PASSED] - Object 'Object Repository/Leaderboard/Leaderboard Ranking/select_102550100' is visible
+
+2023-07-14 20:11:34 - [TEST_STEP][PASSED] - verifyElementVisible(findTestObject("Leaderboard/Leaderboard Ranking/span_Copy")): Object 'Object Repository/Leaderboard/Leaderboard Ranking/span_Copy' is visible
+
+2023-07-14 20:11:35 - [MESSAGE][PASSED] - Object 'Object Repository/Leaderboard/Leaderboard Ranking/span_Copy' is visible
+
+2023-07-14 20:11:35 - [TEST_STEP][PASSED] - verifyElementVisible(findTestObject("Leaderboard/Leaderboard Ranking/span_CSV")): Object 'Object Repository/Leaderboard/Leaderboard Ranking/span_CSV' is visible
+
+2023-07-14 20:11:35 - [MESSAGE][PASSED] - Object 'Object Repository/Leaderboard/Leaderboard Ranking/span_CSV' is visible
+
+2023-07-14 20:11:35 - [TEST_STEP][PASSED] - verifyElementVisible(findTestObject("Leaderboard/Leaderboard Ranking/span_Excel")): Object 'Object Repository/Leaderboard/Leaderboard Ranking/span_Excel' is visible
+
+2023-07-14 20:11:36 - [MESSAGE][PASSED] - Object 'Object Repository/Leaderboard/Leaderboard Ranking/span_Excel' is visible
+
+2023-07-14 20:11:36 - [TEST_STEP][PASSED] - verifyElementVisible(findTestObject("Leaderboard/Leaderboard Ranking/span_PDF")): Object 'Object Repository/Leaderboard/Leaderboard Ranking/span_PDF' is visible
+
+2023-07-14 20:11:36 - [MESSAGE][PASSED] - Object 'Object Repository/Leaderboard/Leaderboard Ranking/span_PDF' is visible
+
+2023-07-14 20:11:36 - [TEST_STEP][PASSED] - verifyElementVisible(findTestObject("Leaderboard/Leaderboard Ranking/input_Search_form-control form-control-sm")): Object 'Object Repository/Leaderboard/Leaderboard Ranking/input_Search_form-control form-control-sm' is visible
+
+2023-07-14 20:11:37 - [MESSAGE][PASSED] - Object 'Object Repository/Leaderboard/Leaderboard Ranking/input_Search_form-control form-control-sm' is visible
+
+2023-07-14 20:11:37 - [TEST_STEP][PASSED] - com.reusableComponent.HighlightElement.run(findTestObject("Leaderboard/Leaderboard Ranking/th_Rank")): com.reusableComponent.HighlightElement.run is PASSED
+
+2023-07-14 20:11:37 - [MESSAGE][PASSED] - com.reusableComponent.HighlightElement.run is PASSED
+
+2023-07-14 20:11:37 - [TEST_STEP][PASSED] - com.reusableComponent.HighlightElement.run(findTestObject("Leaderboard/Leaderboard Ranking/th_Username")): com.reusableComponent.HighlightElement.run is PASSED
+
+2023-07-14 20:11:38 - [MESSAGE][PASSED] - com.reusableComponent.HighlightElement.run is PASSED
+
+2023-07-14 20:11:38 - [TEST_STEP][PASSED] - com.reusableComponent.HighlightElement.run(findTestObject("Leaderboard/Leaderboard Ranking/th_Amount")): com.reusableComponent.HighlightElement.run is PASSED
+
+2023-07-14 20:11:38 - [MESSAGE][PASSED] - com.reusableComponent.HighlightElement.run is PASSED
+
+2023-07-14 20:11:38 - [TEST_STEP][PASSED] - com.reusableComponent.HighlightElement.run(findTestObject("Leaderboard/Leaderboard Ranking/th_Phone Number")): com.reusableComponent.HighlightElement.run is PASSED
+
+2023-07-14 20:11:39 - [MESSAGE][PASSED] - com.reusableComponent.HighlightElement.run is PASSED
+
+2023-07-14 20:11:39 - [TEST_STEP][PASSED] - com.reusableComponent.HighlightElement.run(findTestObject("Leaderboard/Leaderboard Ranking/th_Action")): com.reusableComponent.HighlightElement.run is PASSED
+
+2023-07-14 20:11:39 - [MESSAGE][PASSED] - com.reusableComponent.HighlightElement.run is PASSED
+
+2023-07-14 20:11:39 - [TEST_STEP][PASSED] - com.reusableComponent.HighlightElement.run(findTestObject("Leaderboard/Leaderboard Ranking/table_RankUsername")): com.reusableComponent.HighlightElement.run is PASSED
+
+2023-07-14 20:11:40 - [MESSAGE][PASSED] - com.reusableComponent.HighlightElement.run is PASSED
+
+2023-07-14 20:11:40 - [TEST_STEP][PASSED] - verifyElementVisible(findTestObject("Leaderboard/Leaderboard Ranking/th_Rank")): Object 'Object Repository/Leaderboard/Leaderboard Ranking/th_Rank' is visible
+
+2023-07-14 20:11:40 - [MESSAGE][PASSED] - Object 'Object Repository/Leaderboard/Leaderboard Ranking/th_Rank' is visible
+
+2023-07-14 20:11:40 - [TEST_STEP][PASSED] - verifyElementVisible(findTestObject("Leaderboard/Leaderboard Ranking/th_Username")): Object 'Object Repository/Leaderboard/Leaderboard Ranking/th_Username' is visible
+
+2023-07-14 20:11:41 - [MESSAGE][PASSED] - Object 'Object Repository/Leaderboard/Leaderboard Ranking/th_Username' is visible
+
+2023-07-14 20:11:41 - [TEST_STEP][PASSED] - verifyElementVisible(findTestObject("Leaderboard/Leaderboard Ranking/th_Amount")): Object 'Object Repository/Leaderboard/Leaderboard Ranking/th_Amount' is visible
+
+2023-07-14 20:11:41 - [MESSAGE][PASSED] - Object 'Object Repository/Leaderboard/Leaderboard Ranking/th_Amount' is visible
+
+2023-07-14 20:11:41 - [TEST_STEP][PASSED] - verifyElementVisible(findTestObject("Leaderboard/Leaderboard Ranking/th_Phone Number")): Object 'Object Repository/Leaderboard/Leaderboard Ranking/th_Phone Number' is visible
+
+2023-07-14 20:11:42 - [MESSAGE][PASSED] - Object 'Object Repository/Leaderboard/Leaderboard Ranking/th_Phone Number' is visible
+
+2023-07-14 20:11:42 - [TEST_STEP][PASSED] - verifyElementVisible(findTestObject("Leaderboard/Leaderboard Ranking/th_Action")): Object 'Object Repository/Leaderboard/Leaderboard Ranking/th_Action' is visible
+
+2023-07-14 20:11:42 - [MESSAGE][PASSED] - Object 'Object Repository/Leaderboard/Leaderboard Ranking/th_Action' is visible
+
+2023-07-14 20:11:42 - [TEST_STEP][PASSED] - verifyElementVisible(findTestObject("Leaderboard/Leaderboard Ranking/table_RankUsername")): Object 'Object Repository/Leaderboard/Leaderboard Ranking/table_RankUsername' is visible
+
+2023-07-14 20:11:42 - [MESSAGE][PASSED] - Object 'Object Repository/Leaderboard/Leaderboard Ranking/table_RankUsername' is visible
+
+2023-07-14 20:11:42 - [TEST_STEP][PASSED] - com.reusableComponent.HighlightElement.run(findTestObject("Leaderboard/Leaderboard Ranking/li_Previous")): com.reusableComponent.HighlightElement.run is PASSED
+
+2023-07-14 20:11:43 - [MESSAGE][PASSED] - com.reusableComponent.HighlightElement.run is PASSED
+
+2023-07-14 20:11:43 - [TEST_STEP][PASSED] - com.reusableComponent.HighlightElement.run(findTestObject("Leaderboard/Leaderboard Ranking/a_Next")): com.reusableComponent.HighlightElement.run is PASSED
+
+2023-07-14 20:11:43 - [MESSAGE][PASSED] - com.reusableComponent.HighlightElement.run is PASSED
+
+2023-07-14 20:11:43 - [TEST_STEP][PASSED] - verifyElementVisible(findTestObject("Leaderboard/Leaderboard Ranking/li_Previous")): Object 'Object Repository/Leaderboard/Leaderboard Ranking/li_Previous' is visible
+
+2023-07-14 20:11:44 - [MESSAGE][PASSED] - Object 'Object Repository/Leaderboard/Leaderboard Ranking/li_Previous' is visible
+
+2023-07-14 20:11:44 - [TEST_STEP][PASSED] - verifyElementVisible(findTestObject("Leaderboard/Leaderboard Ranking/a_Next")): Object 'Object Repository/Leaderboard/Leaderboard Ranking/a_Next' is visible
+
+2023-07-14 20:11:44 - [MESSAGE][PASSED] - Object 'Object Repository/Leaderboard/Leaderboard Ranking/a_Next' is visible]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/Leaderboard/Ranking THB" time="38.277" classname="Test Cases/Leaderboard/Ranking THB" status="PASSED">
+         <system-out><![CDATA[2023-07-14 20:11:44 - [TEST_CASE][PASSED] - Test Cases/Leaderboard/Ranking THB: Test Cases/Leaderboard/Ranking THB
+
+2023-07-14 20:11:46 - [TEST_STEP][PASSED] - com.reusableComponent.HighlightElement.run(findTestObject("Leaderboard/Page_Dashboard/span_leaderboard")): com.reusableComponent.HighlightElement.run is PASSED
+
+2023-07-14 20:11:46 - [MESSAGE][PASSED] - com.reusableComponent.HighlightElement.run is PASSED
+
+2023-07-14 20:11:46 - [TEST_STEP][PASSED] - mouseOver(findTestObject("Leaderboard/Page_Dashboard/span_leaderboard")): Object: 'Object Repository/Leaderboard/Page_Dashboard/span_leaderboard' is hovered
+
+2023-07-14 20:11:47 - [MESSAGE][PASSED] - Object: 'Object Repository/Leaderboard/Page_Dashboard/span_leaderboard' is hovered
+
+2023-07-14 20:11:47 - [TEST_STEP][PASSED] - com.reusableComponent.HighlightElement.run(findTestObject("Leaderboard/Page_Dashboard/span_Ranking")): com.reusableComponent.HighlightElement.run is PASSED
+
+2023-07-14 20:11:47 - [MESSAGE][PASSED] - com.reusableComponent.HighlightElement.run is PASSED
+
+2023-07-14 20:11:47 - [TEST_STEP][PASSED] - mouseOver(findTestObject("Leaderboard/Page_Dashboard/span_Ranking")): Object: 'Object Repository/Leaderboard/Page_Dashboard/span_Ranking' is hovered
+
+2023-07-14 20:11:54 - [MESSAGE][PASSED] - Object: 'Object Repository/Leaderboard/Page_Dashboard/span_Ranking' is hovered
+
+2023-07-14 20:11:54 - [TEST_STEP][PASSED] - com.reusableComponent.HighlightElement.run(findTestObject("Leaderboard/Leaderboard Ranking/span_THB")): com.reusableComponent.HighlightElement.run is PASSED
+
+2023-07-14 20:11:54 - [MESSAGE][PASSED] - com.reusableComponent.HighlightElement.run is PASSED
+
+2023-07-14 20:11:54 - [TEST_STEP][PASSED] - mouseOver(findTestObject("Leaderboard/Leaderboard Ranking/span_THB")): Object: 'Object Repository/Leaderboard/Leaderboard Ranking/span_THB' is hovered
+
+2023-07-14 20:11:55 - [MESSAGE][PASSED] - Object: 'Object Repository/Leaderboard/Leaderboard Ranking/span_THB' is hovered
+
+2023-07-14 20:11:55 - [TEST_STEP][PASSED] - click(findTestObject("Leaderboard/Leaderboard Ranking/span_THB")): Object: 'Object Repository/Leaderboard/Leaderboard Ranking/span_THB' is clicked on
+
+2023-07-14 20:12:07 - [MESSAGE][PASSED] - Object: 'Object Repository/Leaderboard/Leaderboard Ranking/span_THB' is clicked on
+
+2023-07-14 20:12:07 - [TEST_STEP][PASSED] - com.reusableComponent.HighlightElement.run(findTestObject("Leaderboard/Leaderboard Ranking/h3_Leaderboard List")): com.reusableComponent.HighlightElement.run is PASSED
+
+2023-07-14 20:12:08 - [MESSAGE][PASSED] - com.reusableComponent.HighlightElement.run is PASSED
+
+2023-07-14 20:12:08 - [TEST_STEP][PASSED] - com.reusableComponent.HighlightElement.run(findTestObject("Leaderboard/Leaderboard Ranking/select_May 2021")): com.reusableComponent.HighlightElement.run is PASSED
+
+2023-07-14 20:12:08 - [MESSAGE][PASSED] - com.reusableComponent.HighlightElement.run is PASSED
+
+2023-07-14 20:12:08 - [TEST_STEP][PASSED] - com.reusableComponent.HighlightElement.run(findTestObject("Leaderboard/Leaderboard Ranking/button_Search")): com.reusableComponent.HighlightElement.run is PASSED
+
+2023-07-14 20:12:08 - [MESSAGE][PASSED] - com.reusableComponent.HighlightElement.run is PASSED
+
+2023-07-14 20:12:08 - [TEST_STEP][PASSED] - verifyElementVisible(findTestObject("Leaderboard/Leaderboard Ranking/h3_Leaderboard List")): Object 'Object Repository/Leaderboard/Leaderboard Ranking/h3_Leaderboard List' is visible
+
+2023-07-14 20:12:09 - [MESSAGE][PASSED] - Object 'Object Repository/Leaderboard/Leaderboard Ranking/h3_Leaderboard List' is visible
+
+2023-07-14 20:12:09 - [TEST_STEP][PASSED] - verifyElementVisible(findTestObject("Leaderboard/Leaderboard Ranking/select_May 2021")): Object 'Object Repository/Leaderboard/Leaderboard Ranking/select_May 2021' is visible
+
+2023-07-14 20:12:09 - [MESSAGE][PASSED] - Object 'Object Repository/Leaderboard/Leaderboard Ranking/select_May 2021' is visible
+
+2023-07-14 20:12:09 - [TEST_STEP][PASSED] - verifyElementVisible(findTestObject("Leaderboard/Leaderboard Ranking/button_Search")): Object 'Object Repository/Leaderboard/Leaderboard Ranking/button_Search' is visible
+
+2023-07-14 20:12:10 - [MESSAGE][PASSED] - Object 'Object Repository/Leaderboard/Leaderboard Ranking/button_Search' is visible
+
+2023-07-14 20:12:10 - [TEST_STEP][PASSED] - com.reusableComponent.HighlightElement.run(findTestObject("Leaderboard/Leaderboard Ranking/select_102550100")): com.reusableComponent.HighlightElement.run is PASSED
+
+2023-07-14 20:12:10 - [MESSAGE][PASSED] - com.reusableComponent.HighlightElement.run is PASSED
+
+2023-07-14 20:12:10 - [TEST_STEP][PASSED] - com.reusableComponent.HighlightElement.run(findTestObject("Leaderboard/Leaderboard Ranking/span_Copy")): com.reusableComponent.HighlightElement.run is PASSED
+
+2023-07-14 20:12:11 - [MESSAGE][PASSED] - com.reusableComponent.HighlightElement.run is PASSED
+
+2023-07-14 20:12:11 - [TEST_STEP][PASSED] - com.reusableComponent.HighlightElement.run(findTestObject("Leaderboard/Leaderboard Ranking/span_CSV")): com.reusableComponent.HighlightElement.run is PASSED
+
+2023-07-14 20:12:11 - [MESSAGE][PASSED] - com.reusableComponent.HighlightElement.run is PASSED
+
+2023-07-14 20:12:11 - [TEST_STEP][PASSED] - com.reusableComponent.HighlightElement.run(findTestObject("Leaderboard/Leaderboard Ranking/span_Excel")): com.reusableComponent.HighlightElement.run is PASSED
+
+2023-07-14 20:12:12 - [MESSAGE][PASSED] - com.reusableComponent.HighlightElement.run is PASSED
+
+2023-07-14 20:12:12 - [TEST_STEP][PASSED] - com.reusableComponent.HighlightElement.run(findTestObject("Leaderboard/Leaderboard Ranking/span_PDF")): com.reusableComponent.HighlightElement.run is PASSED
+
+2023-07-14 20:12:12 - [MESSAGE][PASSED] - com.reusableComponent.HighlightElement.run is PASSED
+
+2023-07-14 20:12:12 - [TEST_STEP][PASSED] - com.reusableComponent.HighlightElement.run(findTestObject("Leaderboard/Leaderboard Ranking/input_Search_form-control form-control-sm")): com.reusableComponent.HighlightElement.run is PASSED
+
+2023-07-14 20:12:13 - [MESSAGE][PASSED] - com.reusableComponent.HighlightElement.run is PASSED
+
+2023-07-14 20:12:13 - [TEST_STEP][PASSED] - verifyElementVisible(findTestObject("Leaderboard/Leaderboard Ranking/select_102550100")): Object 'Object Repository/Leaderboard/Leaderboard Ranking/select_102550100' is visible
+
+2023-07-14 20:12:13 - [MESSAGE][PASSED] - Object 'Object Repository/Leaderboard/Leaderboard Ranking/select_102550100' is visible
+
+2023-07-14 20:12:13 - [TEST_STEP][PASSED] - verifyElementVisible(findTestObject("Leaderboard/Leaderboard Ranking/span_Copy")): Object 'Object Repository/Leaderboard/Leaderboard Ranking/span_Copy' is visible
+
+2023-07-14 20:12:13 - [MESSAGE][PASSED] - Object 'Object Repository/Leaderboard/Leaderboard Ranking/span_Copy' is visible
+
+2023-07-14 20:12:14 - [TEST_STEP][PASSED] - verifyElementVisible(findTestObject("Leaderboard/Leaderboard Ranking/span_CSV")): Object 'Object Repository/Leaderboard/Leaderboard Ranking/span_CSV' is visible
+
+2023-07-14 20:12:14 - [MESSAGE][PASSED] - Object 'Object Repository/Leaderboard/Leaderboard Ranking/span_CSV' is visible
+
+2023-07-14 20:12:14 - [TEST_STEP][PASSED] - verifyElementVisible(findTestObject("Leaderboard/Leaderboard Ranking/span_Excel")): Object 'Object Repository/Leaderboard/Leaderboard Ranking/span_Excel' is visible
+
+2023-07-14 20:12:14 - [MESSAGE][PASSED] - Object 'Object Repository/Leaderboard/Leaderboard Ranking/span_Excel' is visible
+
+2023-07-14 20:12:14 - [TEST_STEP][PASSED] - verifyElementVisible(findTestObject("Leaderboard/Leaderboard Ranking/span_PDF")): Object 'Object Repository/Leaderboard/Leaderboard Ranking/span_PDF' is visible
+
+2023-07-14 20:12:15 - [MESSAGE][PASSED] - Object 'Object Repository/Leaderboard/Leaderboard Ranking/span_PDF' is visible
+
+2023-07-14 20:12:15 - [TEST_STEP][PASSED] - verifyElementVisible(findTestObject("Leaderboard/Leaderboard Ranking/input_Search_form-control form-control-sm")): Object 'Object Repository/Leaderboard/Leaderboard Ranking/input_Search_form-control form-control-sm' is visible
+
+2023-07-14 20:12:15 - [MESSAGE][PASSED] - Object 'Object Repository/Leaderboard/Leaderboard Ranking/input_Search_form-control form-control-sm' is visible
+
+2023-07-14 20:12:15 - [TEST_STEP][PASSED] - com.reusableComponent.HighlightElement.run(findTestObject("Leaderboard/Leaderboard Ranking/th_Rank")): com.reusableComponent.HighlightElement.run is PASSED
+
+2023-07-14 20:12:16 - [MESSAGE][PASSED] - com.reusableComponent.HighlightElement.run is PASSED
+
+2023-07-14 20:12:16 - [TEST_STEP][PASSED] - com.reusableComponent.HighlightElement.run(findTestObject("Leaderboard/Leaderboard Ranking/th_Username")): com.reusableComponent.HighlightElement.run is PASSED
+
+2023-07-14 20:12:16 - [MESSAGE][PASSED] - com.reusableComponent.HighlightElement.run is PASSED
+
+2023-07-14 20:12:16 - [TEST_STEP][PASSED] - com.reusableComponent.HighlightElement.run(findTestObject("Leaderboard/Leaderboard Ranking/th_Amount")): com.reusableComponent.HighlightElement.run is PASSED
+
+2023-07-14 20:12:17 - [MESSAGE][PASSED] - com.reusableComponent.HighlightElement.run is PASSED
+
+2023-07-14 20:12:17 - [TEST_STEP][PASSED] - com.reusableComponent.HighlightElement.run(findTestObject("Leaderboard/Leaderboard Ranking/th_Phone Number")): com.reusableComponent.HighlightElement.run is PASSED
+
+2023-07-14 20:12:17 - [MESSAGE][PASSED] - com.reusableComponent.HighlightElement.run is PASSED
+
+2023-07-14 20:12:17 - [TEST_STEP][PASSED] - com.reusableComponent.HighlightElement.run(findTestObject("Leaderboard/Leaderboard Ranking/th_Action")): com.reusableComponent.HighlightElement.run is PASSED
+
+2023-07-14 20:12:18 - [MESSAGE][PASSED] - com.reusableComponent.HighlightElement.run is PASSED
+
+2023-07-14 20:12:18 - [TEST_STEP][PASSED] - com.reusableComponent.HighlightElement.run(findTestObject("Leaderboard/Leaderboard Ranking/table_RankUsername")): com.reusableComponent.HighlightElement.run is PASSED
+
+2023-07-14 20:12:18 - [MESSAGE][PASSED] - com.reusableComponent.HighlightElement.run is PASSED
+
+2023-07-14 20:12:18 - [TEST_STEP][PASSED] - verifyElementVisible(findTestObject("Leaderboard/Leaderboard Ranking/th_Rank")): Object 'Object Repository/Leaderboard/Leaderboard Ranking/th_Rank' is visible
+
+2023-07-14 20:12:18 - [MESSAGE][PASSED] - Object 'Object Repository/Leaderboard/Leaderboard Ranking/th_Rank' is visible
+
+2023-07-14 20:12:18 - [TEST_STEP][PASSED] - verifyElementVisible(findTestObject("Leaderboard/Leaderboard Ranking/th_Username")): Object 'Object Repository/Leaderboard/Leaderboard Ranking/th_Username' is visible
+
+2023-07-14 20:12:19 - [MESSAGE][PASSED] - Object 'Object Repository/Leaderboard/Leaderboard Ranking/th_Username' is visible
+
+2023-07-14 20:12:19 - [TEST_STEP][PASSED] - verifyElementVisible(findTestObject("Leaderboard/Leaderboard Ranking/th_Amount")): Object 'Object Repository/Leaderboard/Leaderboard Ranking/th_Amount' is visible
+
+2023-07-14 20:12:19 - [MESSAGE][PASSED] - Object 'Object Repository/Leaderboard/Leaderboard Ranking/th_Amount' is visible
+
+2023-07-14 20:12:19 - [TEST_STEP][PASSED] - verifyElementVisible(findTestObject("Leaderboard/Leaderboard Ranking/th_Phone Number")): Object 'Object Repository/Leaderboard/Leaderboard Ranking/th_Phone Number' is visible
+
+2023-07-14 20:12:20 - [MESSAGE][PASSED] - Object 'Object Repository/Leaderboard/Leaderboard Ranking/th_Phone Number' is visible
+
+2023-07-14 20:12:20 - [TEST_STEP][PASSED] - verifyElementVisible(findTestObject("Leaderboard/Leaderboard Ranking/th_Action")): Object 'Object Repository/Leaderboard/Leaderboard Ranking/th_Action' is visible
+
+2023-07-14 20:12:20 - [MESSAGE][PASSED] - Object 'Object Repository/Leaderboard/Leaderboard Ranking/th_Action' is visible
+
+2023-07-14 20:12:20 - [TEST_STEP][PASSED] - verifyElementVisible(findTestObject("Leaderboard/Leaderboard Ranking/table_RankUsername")): Object 'Object Repository/Leaderboard/Leaderboard Ranking/table_RankUsername' is visible
+
+2023-07-14 20:12:21 - [MESSAGE][PASSED] - Object 'Object Repository/Leaderboard/Leaderboard Ranking/table_RankUsername' is visible
+
+2023-07-14 20:12:21 - [TEST_STEP][PASSED] - com.reusableComponent.HighlightElement.run(findTestObject("Leaderboard/Leaderboard Ranking/li_Previous")): com.reusableComponent.HighlightElement.run is PASSED
+
+2023-07-14 20:12:21 - [MESSAGE][PASSED] - com.reusableComponent.HighlightElement.run is PASSED
+
+2023-07-14 20:12:21 - [TEST_STEP][PASSED] - com.reusableComponent.HighlightElement.run(findTestObject("Leaderboard/Leaderboard Ranking/a_Next")): com.reusableComponent.HighlightElement.run is PASSED
+
+2023-07-14 20:12:22 - [MESSAGE][PASSED] - com.reusableComponent.HighlightElement.run is PASSED
+
+2023-07-14 20:12:22 - [TEST_STEP][PASSED] - verifyElementVisible(findTestObject("Leaderboard/Leaderboard Ranking/li_Previous")): Object 'Object Repository/Leaderboard/Leaderboard Ranking/li_Previous' is visible
+
+2023-07-14 20:12:22 - [MESSAGE][PASSED] - Object 'Object Repository/Leaderboard/Leaderboard Ranking/li_Previous' is visible
+
+2023-07-14 20:12:22 - [TEST_STEP][PASSED] - verifyElementVisible(findTestObject("Leaderboard/Leaderboard Ranking/a_Next")): Object 'Object Repository/Leaderboard/Leaderboard Ranking/a_Next' is visible
+
+2023-07-14 20:12:22 - [MESSAGE][PASSED] - Object 'Object Repository/Leaderboard/Leaderboard Ranking/a_Next' is visible]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/Leaderboard/Ranking IDR" time="22.249" classname="Test Cases/Leaderboard/Ranking IDR" status="PASSED">
+         <system-out><![CDATA[2023-07-14 20:12:22 - [TEST_CASE][PASSED] - Test Cases/Leaderboard/Ranking IDR: Test Cases/Leaderboard/Ranking IDR
+
+2023-07-14 20:12:23 - [TEST_STEP][PASSED] - com.reusableComponent.HighlightElement.run(findTestObject("Leaderboard/Page_Dashboard/span_leaderboard")): com.reusableComponent.HighlightElement.run is PASSED
+
+2023-07-14 20:12:24 - [MESSAGE][PASSED] - com.reusableComponent.HighlightElement.run is PASSED
+
+2023-07-14 20:12:24 - [TEST_STEP][PASSED] - mouseOver(findTestObject("Leaderboard/Page_Dashboard/span_leaderboard")): Object: 'Object Repository/Leaderboard/Page_Dashboard/span_leaderboard' is hovered
+
+2023-07-14 20:12:24 - [MESSAGE][PASSED] - Object: 'Object Repository/Leaderboard/Page_Dashboard/span_leaderboard' is hovered
+
+2023-07-14 20:12:24 - [TEST_STEP][PASSED] - com.reusableComponent.HighlightElement.run(findTestObject("Leaderboard/Page_Dashboard/span_Ranking")): com.reusableComponent.HighlightElement.run is PASSED
+
+2023-07-14 20:12:25 - [MESSAGE][PASSED] - com.reusableComponent.HighlightElement.run is PASSED
+
+2023-07-14 20:12:25 - [TEST_STEP][PASSED] - mouseOver(findTestObject("Leaderboard/Page_Dashboard/span_Ranking")): Object: 'Object Repository/Leaderboard/Page_Dashboard/span_Ranking' is hovered
+
+2023-07-14 20:12:25 - [MESSAGE][PASSED] - Object: 'Object Repository/Leaderboard/Page_Dashboard/span_Ranking' is hovered
+
+2023-07-14 20:12:25 - [TEST_STEP][PASSED] - com.reusableComponent.HighlightElement.run(findTestObject("Leaderboard/Leaderboard Ranking/span_IDR")): com.reusableComponent.HighlightElement.run is PASSED
+
+2023-07-14 20:12:26 - [MESSAGE][PASSED] - com.reusableComponent.HighlightElement.run is PASSED
+
+2023-07-14 20:12:26 - [TEST_STEP][PASSED] - mouseOver(findTestObject("Leaderboard/Leaderboard Ranking/span_IDR")): Object: 'Object Repository/Leaderboard/Leaderboard Ranking/span_IDR' is hovered
+
+2023-07-14 20:12:27 - [MESSAGE][PASSED] - Object: 'Object Repository/Leaderboard/Leaderboard Ranking/span_IDR' is hovered
+
+2023-07-14 20:12:27 - [TEST_STEP][PASSED] - click(findTestObject("Leaderboard/Leaderboard Ranking/span_IDR")): Object: 'Object Repository/Leaderboard/Leaderboard Ranking/span_IDR' is clicked on
+
+2023-07-14 20:12:30 - [MESSAGE][PASSED] - Object: 'Object Repository/Leaderboard/Leaderboard Ranking/span_IDR' is clicked on
+
+2023-07-14 20:12:30 - [TEST_STEP][PASSED] - com.reusableComponent.HighlightElement.run(findTestObject("Leaderboard/Leaderboard Ranking/h3_Leaderboard List")): com.reusableComponent.HighlightElement.run is PASSED
+
+2023-07-14 20:12:30 - [MESSAGE][PASSED] - com.reusableComponent.HighlightElement.run is PASSED
+
+2023-07-14 20:12:30 - [TEST_STEP][PASSED] - com.reusableComponent.HighlightElement.run(findTestObject("Leaderboard/Leaderboard Ranking/select_May 2021")): com.reusableComponent.HighlightElement.run is PASSED
+
+2023-07-14 20:12:31 - [MESSAGE][PASSED] - com.reusableComponent.HighlightElement.run is PASSED
+
+2023-07-14 20:12:31 - [TEST_STEP][PASSED] - com.reusableComponent.HighlightElement.run(findTestObject("Leaderboard/Leaderboard Ranking/button_Search")): com.reusableComponent.HighlightElement.run is PASSED
+
+2023-07-14 20:12:31 - [MESSAGE][PASSED] - com.reusableComponent.HighlightElement.run is PASSED
+
+2023-07-14 20:12:31 - [TEST_STEP][PASSED] - verifyElementVisible(findTestObject("Leaderboard/Leaderboard Ranking/h3_Leaderboard List")): Object 'Object Repository/Leaderboard/Leaderboard Ranking/h3_Leaderboard List' is visible
+
+2023-07-14 20:12:32 - [MESSAGE][PASSED] - Object 'Object Repository/Leaderboard/Leaderboard Ranking/h3_Leaderboard List' is visible
+
+2023-07-14 20:12:32 - [TEST_STEP][PASSED] - verifyElementVisible(findTestObject("Leaderboard/Leaderboard Ranking/select_May 2021")): Object 'Object Repository/Leaderboard/Leaderboard Ranking/select_May 2021' is visible
+
+2023-07-14 20:12:32 - [MESSAGE][PASSED] - Object 'Object Repository/Leaderboard/Leaderboard Ranking/select_May 2021' is visible
+
+2023-07-14 20:12:32 - [TEST_STEP][PASSED] - verifyElementVisible(findTestObject("Leaderboard/Leaderboard Ranking/button_Search")): Object 'Object Repository/Leaderboard/Leaderboard Ranking/button_Search' is visible
+
+2023-07-14 20:12:32 - [MESSAGE][PASSED] - Object 'Object Repository/Leaderboard/Leaderboard Ranking/button_Search' is visible
+
+2023-07-14 20:12:32 - [TEST_STEP][PASSED] - com.reusableComponent.HighlightElement.run(findTestObject("Leaderboard/Leaderboard Ranking/select_102550100")): com.reusableComponent.HighlightElement.run is PASSED
+
+2023-07-14 20:12:33 - [MESSAGE][PASSED] - com.reusableComponent.HighlightElement.run is PASSED
+
+2023-07-14 20:12:33 - [TEST_STEP][PASSED] - com.reusableComponent.HighlightElement.run(findTestObject("Leaderboard/Leaderboard Ranking/span_Copy")): com.reusableComponent.HighlightElement.run is PASSED
+
+2023-07-14 20:12:33 - [MESSAGE][PASSED] - com.reusableComponent.HighlightElement.run is PASSED
+
+2023-07-14 20:12:33 - [TEST_STEP][PASSED] - com.reusableComponent.HighlightElement.run(findTestObject("Leaderboard/Leaderboard Ranking/span_CSV")): com.reusableComponent.HighlightElement.run is PASSED
+
+2023-07-14 20:12:34 - [MESSAGE][PASSED] - com.reusableComponent.HighlightElement.run is PASSED
+
+2023-07-14 20:12:34 - [TEST_STEP][PASSED] - com.reusableComponent.HighlightElement.run(findTestObject("Leaderboard/Leaderboard Ranking/span_Excel")): com.reusableComponent.HighlightElement.run is PASSED
+
+2023-07-14 20:12:34 - [MESSAGE][PASSED] - com.reusableComponent.HighlightElement.run is PASSED
+
+2023-07-14 20:12:34 - [TEST_STEP][PASSED] - com.reusableComponent.HighlightElement.run(findTestObject("Leaderboard/Leaderboard Ranking/span_PDF")): com.reusableComponent.HighlightElement.run is PASSED
+
+2023-07-14 20:12:35 - [MESSAGE][PASSED] - com.reusableComponent.HighlightElement.run is PASSED
+
+2023-07-14 20:12:35 - [TEST_STEP][PASSED] - com.reusableComponent.HighlightElement.run(findTestObject("Leaderboard/Leaderboard Ranking/input_Search_form-control form-control-sm")): com.reusableComponent.HighlightElement.run is PASSED
+
+2023-07-14 20:12:35 - [MESSAGE][PASSED] - com.reusableComponent.HighlightElement.run is PASSED
+
+2023-07-14 20:12:35 - [TEST_STEP][PASSED] - verifyElementVisible(findTestObject("Leaderboard/Leaderboard Ranking/select_102550100")): Object 'Object Repository/Leaderboard/Leaderboard Ranking/select_102550100' is visible
+
+2023-07-14 20:12:36 - [MESSAGE][PASSED] - Object 'Object Repository/Leaderboard/Leaderboard Ranking/select_102550100' is visible
+
+2023-07-14 20:12:36 - [TEST_STEP][PASSED] - verifyElementVisible(findTestObject("Leaderboard/Leaderboard Ranking/span_Copy")): Object 'Object Repository/Leaderboard/Leaderboard Ranking/span_Copy' is visible
+
+2023-07-14 20:12:36 - [MESSAGE][PASSED] - Object 'Object Repository/Leaderboard/Leaderboard Ranking/span_Copy' is visible
+
+2023-07-14 20:12:36 - [TEST_STEP][PASSED] - verifyElementVisible(findTestObject("Leaderboard/Leaderboard Ranking/span_CSV")): Object 'Object Repository/Leaderboard/Leaderboard Ranking/span_CSV' is visible
+
+2023-07-14 20:12:36 - [MESSAGE][PASSED] - Object 'Object Repository/Leaderboard/Leaderboard Ranking/span_CSV' is visible
+
+2023-07-14 20:12:36 - [TEST_STEP][PASSED] - verifyElementVisible(findTestObject("Leaderboard/Leaderboard Ranking/span_Excel")): Object 'Object Repository/Leaderboard/Leaderboard Ranking/span_Excel' is visible
+
+2023-07-14 20:12:37 - [MESSAGE][PASSED] - Object 'Object Repository/Leaderboard/Leaderboard Ranking/span_Excel' is visible
+
+2023-07-14 20:12:37 - [TEST_STEP][PASSED] - verifyElementVisible(findTestObject("Leaderboard/Leaderboard Ranking/span_PDF")): Object 'Object Repository/Leaderboard/Leaderboard Ranking/span_PDF' is visible
+
+2023-07-14 20:12:37 - [MESSAGE][PASSED] - Object 'Object Repository/Leaderboard/Leaderboard Ranking/span_PDF' is visible
+
+2023-07-14 20:12:37 - [TEST_STEP][PASSED] - verifyElementVisible(findTestObject("Leaderboard/Leaderboard Ranking/input_Search_form-control form-control-sm")): Object 'Object Repository/Leaderboard/Leaderboard Ranking/input_Search_form-control form-control-sm' is visible
+
+2023-07-14 20:12:38 - [MESSAGE][PASSED] - Object 'Object Repository/Leaderboard/Leaderboard Ranking/input_Search_form-control form-control-sm' is visible
+
+2023-07-14 20:12:38 - [TEST_STEP][PASSED] - com.reusableComponent.HighlightElement.run(findTestObject("Leaderboard/Leaderboard Ranking/th_Rank")): com.reusableComponent.HighlightElement.run is PASSED
+
+2023-07-14 20:12:38 - [MESSAGE][PASSED] - com.reusableComponent.HighlightElement.run is PASSED
+
+2023-07-14 20:12:38 - [TEST_STEP][PASSED] - com.reusableComponent.HighlightElement.run(findTestObject("Leaderboard/Leaderboard Ranking/th_Username")): com.reusableComponent.HighlightElement.run is PASSED
+
+2023-07-14 20:12:39 - [MESSAGE][PASSED] - com.reusableComponent.HighlightElement.run is PASSED
+
+2023-07-14 20:12:39 - [TEST_STEP][PASSED] - com.reusableComponent.HighlightElement.run(findTestObject("Leaderboard/Leaderboard Ranking/th_Amount")): com.reusableComponent.HighlightElement.run is PASSED
+
+2023-07-14 20:12:39 - [MESSAGE][PASSED] - com.reusableComponent.HighlightElement.run is PASSED
+
+2023-07-14 20:12:39 - [TEST_STEP][PASSED] - com.reusableComponent.HighlightElement.run(findTestObject("Leaderboard/Leaderboard Ranking/th_Phone Number")): com.reusableComponent.HighlightElement.run is PASSED
+
+2023-07-14 20:12:39 - [MESSAGE][PASSED] - com.reusableComponent.HighlightElement.run is PASSED
+
+2023-07-14 20:12:39 - [TEST_STEP][PASSED] - com.reusableComponent.HighlightElement.run(findTestObject("Leaderboard/Leaderboard Ranking/th_Action")): com.reusableComponent.HighlightElement.run is PASSED
+
+2023-07-14 20:12:40 - [MESSAGE][PASSED] - com.reusableComponent.HighlightElement.run is PASSED
+
+2023-07-14 20:12:40 - [TEST_STEP][PASSED] - com.reusableComponent.HighlightElement.run(findTestObject("Leaderboard/Leaderboard Ranking/table_RankUsername")): com.reusableComponent.HighlightElement.run is PASSED
+
+2023-07-14 20:12:40 - [MESSAGE][PASSED] - com.reusableComponent.HighlightElement.run is PASSED
+
+2023-07-14 20:12:40 - [TEST_STEP][PASSED] - verifyElementVisible(findTestObject("Leaderboard/Leaderboard Ranking/th_Rank")): Object 'Object Repository/Leaderboard/Leaderboard Ranking/th_Rank' is visible
+
+2023-07-14 20:12:41 - [MESSAGE][PASSED] - Object 'Object Repository/Leaderboard/Leaderboard Ranking/th_Rank' is visible
+
+2023-07-14 20:12:41 - [TEST_STEP][PASSED] - verifyElementVisible(findTestObject("Leaderboard/Leaderboard Ranking/th_Username")): Object 'Object Repository/Leaderboard/Leaderboard Ranking/th_Username' is visible
+
+2023-07-14 20:12:41 - [MESSAGE][PASSED] - Object 'Object Repository/Leaderboard/Leaderboard Ranking/th_Username' is visible
+
+2023-07-14 20:12:41 - [TEST_STEP][PASSED] - verifyElementVisible(findTestObject("Leaderboard/Leaderboard Ranking/th_Amount")): Object 'Object Repository/Leaderboard/Leaderboard Ranking/th_Amount' is visible
+
+2023-07-14 20:12:42 - [MESSAGE][PASSED] - Object 'Object Repository/Leaderboard/Leaderboard Ranking/th_Amount' is visible
+
+2023-07-14 20:12:42 - [TEST_STEP][PASSED] - verifyElementVisible(findTestObject("Leaderboard/Leaderboard Ranking/th_Phone Number")): Object 'Object Repository/Leaderboard/Leaderboard Ranking/th_Phone Number' is visible
+
+2023-07-14 20:12:42 - [MESSAGE][PASSED] - Object 'Object Repository/Leaderboard/Leaderboard Ranking/th_Phone Number' is visible
+
+2023-07-14 20:12:42 - [TEST_STEP][PASSED] - verifyElementVisible(findTestObject("Leaderboard/Leaderboard Ranking/th_Action")): Object 'Object Repository/Leaderboard/Leaderboard Ranking/th_Action' is visible
+
+2023-07-14 20:12:42 - [MESSAGE][PASSED] - Object 'Object Repository/Leaderboard/Leaderboard Ranking/th_Action' is visible
+
+2023-07-14 20:12:42 - [TEST_STEP][PASSED] - verifyElementVisible(findTestObject("Leaderboard/Leaderboard Ranking/table_RankUsername")): Object 'Object Repository/Leaderboard/Leaderboard Ranking/table_RankUsername' is visible
+
+2023-07-14 20:12:43 - [MESSAGE][PASSED] - Object 'Object Repository/Leaderboard/Leaderboard Ranking/table_RankUsername' is visible
+
+2023-07-14 20:12:43 - [TEST_STEP][PASSED] - com.reusableComponent.HighlightElement.run(findTestObject("Leaderboard/Leaderboard Ranking/li_Previous")): com.reusableComponent.HighlightElement.run is PASSED
+
+2023-07-14 20:12:43 - [MESSAGE][PASSED] - com.reusableComponent.HighlightElement.run is PASSED
+
+2023-07-14 20:12:43 - [TEST_STEP][PASSED] - com.reusableComponent.HighlightElement.run(findTestObject("Leaderboard/Leaderboard Ranking/a_Next")): com.reusableComponent.HighlightElement.run is PASSED
+
+2023-07-14 20:12:44 - [MESSAGE][PASSED] - com.reusableComponent.HighlightElement.run is PASSED
+
+2023-07-14 20:12:44 - [TEST_STEP][PASSED] - verifyElementVisible(findTestObject("Leaderboard/Leaderboard Ranking/li_Previous")): Object 'Object Repository/Leaderboard/Leaderboard Ranking/li_Previous' is visible
+
+2023-07-14 20:12:44 - [MESSAGE][PASSED] - Object 'Object Repository/Leaderboard/Leaderboard Ranking/li_Previous' is visible
+
+2023-07-14 20:12:44 - [TEST_STEP][PASSED] - verifyElementVisible(findTestObject("Leaderboard/Leaderboard Ranking/a_Next")): Object 'Object Repository/Leaderboard/Leaderboard Ranking/a_Next' is visible
+
+2023-07-14 20:12:45 - [MESSAGE][PASSED] - Object 'Object Repository/Leaderboard/Leaderboard Ranking/a_Next' is visible]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/Leaderboard/Ranking MMK" time="21.356" classname="Test Cases/Leaderboard/Ranking MMK" status="PASSED">
+         <system-out><![CDATA[2023-07-14 20:12:45 - [TEST_CASE][PASSED] - Test Cases/Leaderboard/Ranking MMK: Test Cases/Leaderboard/Ranking MMK
+
+2023-07-14 20:12:45 - [TEST_STEP][PASSED] - com.reusableComponent.HighlightElement.run(findTestObject("Leaderboard/Page_Dashboard/span_leaderboard")): com.reusableComponent.HighlightElement.run is PASSED
+
+2023-07-14 20:12:46 - [MESSAGE][PASSED] - com.reusableComponent.HighlightElement.run is PASSED
+
+2023-07-14 20:12:46 - [TEST_STEP][PASSED] - mouseOver(findTestObject("Leaderboard/Page_Dashboard/span_leaderboard")): Object: 'Object Repository/Leaderboard/Page_Dashboard/span_leaderboard' is hovered
+
+2023-07-14 20:12:46 - [MESSAGE][PASSED] - Object: 'Object Repository/Leaderboard/Page_Dashboard/span_leaderboard' is hovered
+
+2023-07-14 20:12:46 - [TEST_STEP][PASSED] - com.reusableComponent.HighlightElement.run(findTestObject("Leaderboard/Page_Dashboard/span_Ranking")): com.reusableComponent.HighlightElement.run is PASSED
+
+2023-07-14 20:12:47 - [MESSAGE][PASSED] - com.reusableComponent.HighlightElement.run is PASSED
+
+2023-07-14 20:12:47 - [TEST_STEP][PASSED] - mouseOver(findTestObject("Leaderboard/Page_Dashboard/span_Ranking")): Object: 'Object Repository/Leaderboard/Page_Dashboard/span_Ranking' is hovered
+
+2023-07-14 20:12:48 - [MESSAGE][PASSED] - Object: 'Object Repository/Leaderboard/Page_Dashboard/span_Ranking' is hovered
+
+2023-07-14 20:12:48 - [TEST_STEP][PASSED] - com.reusableComponent.HighlightElement.run(findTestObject("Leaderboard/Leaderboard Ranking/span_MMK")): com.reusableComponent.HighlightElement.run is PASSED
+
+2023-07-14 20:12:48 - [MESSAGE][PASSED] - com.reusableComponent.HighlightElement.run is PASSED
+
+2023-07-14 20:12:48 - [TEST_STEP][PASSED] - mouseOver(findTestObject("Leaderboard/Leaderboard Ranking/span_MMK")): Object: 'Object Repository/Leaderboard/Leaderboard Ranking/span_MMK' is hovered
+
+2023-07-14 20:12:49 - [MESSAGE][PASSED] - Object: 'Object Repository/Leaderboard/Leaderboard Ranking/span_MMK' is hovered
+
+2023-07-14 20:12:49 - [TEST_STEP][PASSED] - click(findTestObject("Leaderboard/Leaderboard Ranking/span_MMK")): Object: 'Object Repository/Leaderboard/Leaderboard Ranking/span_MMK' is clicked on
+
+2023-07-14 20:12:51 - [MESSAGE][PASSED] - Object: 'Object Repository/Leaderboard/Leaderboard Ranking/span_MMK' is clicked on
+
+2023-07-14 20:12:51 - [TEST_STEP][PASSED] - com.reusableComponent.HighlightElement.run(findTestObject("Leaderboard/Leaderboard Ranking/h3_Leaderboard List")): com.reusableComponent.HighlightElement.run is PASSED
+
+2023-07-14 20:12:52 - [MESSAGE][PASSED] - com.reusableComponent.HighlightElement.run is PASSED
+
+2023-07-14 20:12:52 - [TEST_STEP][PASSED] - com.reusableComponent.HighlightElement.run(findTestObject("Leaderboard/Leaderboard Ranking/select_May 2021")): com.reusableComponent.HighlightElement.run is PASSED
+
+2023-07-14 20:12:52 - [MESSAGE][PASSED] - com.reusableComponent.HighlightElement.run is PASSED
+
+2023-07-14 20:12:52 - [TEST_STEP][PASSED] - com.reusableComponent.HighlightElement.run(findTestObject("Leaderboard/Leaderboard Ranking/button_Search")): com.reusableComponent.HighlightElement.run is PASSED
+
+2023-07-14 20:12:53 - [MESSAGE][PASSED] - com.reusableComponent.HighlightElement.run is PASSED
+
+2023-07-14 20:12:53 - [TEST_STEP][PASSED] - verifyElementVisible(findTestObject("Leaderboard/Leaderboard Ranking/h3_Leaderboard List")): Object 'Object Repository/Leaderboard/Leaderboard Ranking/h3_Leaderboard List' is visible
+
+2023-07-14 20:12:53 - [MESSAGE][PASSED] - Object 'Object Repository/Leaderboard/Leaderboard Ranking/h3_Leaderboard List' is visible
+
+2023-07-14 20:12:53 - [TEST_STEP][PASSED] - verifyElementVisible(findTestObject("Leaderboard/Leaderboard Ranking/select_May 2021")): Object 'Object Repository/Leaderboard/Leaderboard Ranking/select_May 2021' is visible
+
+2023-07-14 20:12:53 - [MESSAGE][PASSED] - Object 'Object Repository/Leaderboard/Leaderboard Ranking/select_May 2021' is visible
+
+2023-07-14 20:12:53 - [TEST_STEP][PASSED] - verifyElementVisible(findTestObject("Leaderboard/Leaderboard Ranking/button_Search")): Object 'Object Repository/Leaderboard/Leaderboard Ranking/button_Search' is visible
+
+2023-07-14 20:12:54 - [MESSAGE][PASSED] - Object 'Object Repository/Leaderboard/Leaderboard Ranking/button_Search' is visible
+
+2023-07-14 20:12:54 - [TEST_STEP][PASSED] - com.reusableComponent.HighlightElement.run(findTestObject("Leaderboard/Leaderboard Ranking/select_102550100")): com.reusableComponent.HighlightElement.run is PASSED
+
+2023-07-14 20:12:54 - [MESSAGE][PASSED] - com.reusableComponent.HighlightElement.run is PASSED
+
+2023-07-14 20:12:54 - [TEST_STEP][PASSED] - com.reusableComponent.HighlightElement.run(findTestObject("Leaderboard/Leaderboard Ranking/span_Copy")): com.reusableComponent.HighlightElement.run is PASSED
+
+2023-07-14 20:12:55 - [MESSAGE][PASSED] - com.reusableComponent.HighlightElement.run is PASSED
+
+2023-07-14 20:12:55 - [TEST_STEP][PASSED] - com.reusableComponent.HighlightElement.run(findTestObject("Leaderboard/Leaderboard Ranking/span_CSV")): com.reusableComponent.HighlightElement.run is PASSED
+
+2023-07-14 20:12:55 - [MESSAGE][PASSED] - com.reusableComponent.HighlightElement.run is PASSED
+
+2023-07-14 20:12:55 - [TEST_STEP][PASSED] - com.reusableComponent.HighlightElement.run(findTestObject("Leaderboard/Leaderboard Ranking/span_Excel")): com.reusableComponent.HighlightElement.run is PASSED
+
+2023-07-14 20:12:56 - [MESSAGE][PASSED] - com.reusableComponent.HighlightElement.run is PASSED
+
+2023-07-14 20:12:56 - [TEST_STEP][PASSED] - com.reusableComponent.HighlightElement.run(findTestObject("Leaderboard/Leaderboard Ranking/span_PDF")): com.reusableComponent.HighlightElement.run is PASSED
+
+2023-07-14 20:12:56 - [MESSAGE][PASSED] - com.reusableComponent.HighlightElement.run is PASSED
+
+2023-07-14 20:12:56 - [TEST_STEP][PASSED] - com.reusableComponent.HighlightElement.run(findTestObject("Leaderboard/Leaderboard Ranking/input_Search_form-control form-control-sm")): com.reusableComponent.HighlightElement.run is PASSED
+
+2023-07-14 20:12:57 - [MESSAGE][PASSED] - com.reusableComponent.HighlightElement.run is PASSED
+
+2023-07-14 20:12:57 - [TEST_STEP][PASSED] - verifyElementVisible(findTestObject("Leaderboard/Leaderboard Ranking/select_102550100")): Object 'Object Repository/Leaderboard/Leaderboard Ranking/select_102550100' is visible
+
+2023-07-14 20:12:57 - [MESSAGE][PASSED] - Object 'Object Repository/Leaderboard/Leaderboard Ranking/select_102550100' is visible
+
+2023-07-14 20:12:57 - [TEST_STEP][PASSED] - verifyElementVisible(findTestObject("Leaderboard/Leaderboard Ranking/span_Copy")): Object 'Object Repository/Leaderboard/Leaderboard Ranking/span_Copy' is visible
+
+2023-07-14 20:12:58 - [MESSAGE][PASSED] - Object 'Object Repository/Leaderboard/Leaderboard Ranking/span_Copy' is visible
+
+2023-07-14 20:12:58 - [TEST_STEP][PASSED] - verifyElementVisible(findTestObject("Leaderboard/Leaderboard Ranking/span_CSV")): Object 'Object Repository/Leaderboard/Leaderboard Ranking/span_CSV' is visible
+
+2023-07-14 20:12:58 - [MESSAGE][PASSED] - Object 'Object Repository/Leaderboard/Leaderboard Ranking/span_CSV' is visible
+
+2023-07-14 20:12:58 - [TEST_STEP][PASSED] - verifyElementVisible(findTestObject("Leaderboard/Leaderboard Ranking/span_Excel")): Object 'Object Repository/Leaderboard/Leaderboard Ranking/span_Excel' is visible
+
+2023-07-14 20:12:58 - [MESSAGE][PASSED] - Object 'Object Repository/Leaderboard/Leaderboard Ranking/span_Excel' is visible
+
+2023-07-14 20:12:58 - [TEST_STEP][PASSED] - verifyElementVisible(findTestObject("Leaderboard/Leaderboard Ranking/span_PDF")): Object 'Object Repository/Leaderboard/Leaderboard Ranking/span_PDF' is visible
+
+2023-07-14 20:12:59 - [MESSAGE][PASSED] - Object 'Object Repository/Leaderboard/Leaderboard Ranking/span_PDF' is visible
+
+2023-07-14 20:12:59 - [TEST_STEP][PASSED] - verifyElementVisible(findTestObject("Leaderboard/Leaderboard Ranking/input_Search_form-control form-control-sm")): Object 'Object Repository/Leaderboard/Leaderboard Ranking/input_Search_form-control form-control-sm' is visible
+
+2023-07-14 20:12:59 - [MESSAGE][PASSED] - Object 'Object Repository/Leaderboard/Leaderboard Ranking/input_Search_form-control form-control-sm' is visible
+
+2023-07-14 20:12:59 - [TEST_STEP][PASSED] - com.reusableComponent.HighlightElement.run(findTestObject("Leaderboard/Leaderboard Ranking/th_Rank")): com.reusableComponent.HighlightElement.run is PASSED
+
+2023-07-14 20:13:00 - [MESSAGE][PASSED] - com.reusableComponent.HighlightElement.run is PASSED
+
+2023-07-14 20:13:00 - [TEST_STEP][PASSED] - com.reusableComponent.HighlightElement.run(findTestObject("Leaderboard/Leaderboard Ranking/th_Username")): com.reusableComponent.HighlightElement.run is PASSED
+
+2023-07-14 20:13:00 - [MESSAGE][PASSED] - com.reusableComponent.HighlightElement.run is PASSED
+
+2023-07-14 20:13:00 - [TEST_STEP][PASSED] - com.reusableComponent.HighlightElement.run(findTestObject("Leaderboard/Leaderboard Ranking/th_Amount")): com.reusableComponent.HighlightElement.run is PASSED
+
+2023-07-14 20:13:00 - [MESSAGE][PASSED] - com.reusableComponent.HighlightElement.run is PASSED
+
+2023-07-14 20:13:00 - [TEST_STEP][PASSED] - com.reusableComponent.HighlightElement.run(findTestObject("Leaderboard/Leaderboard Ranking/th_Phone Number")): com.reusableComponent.HighlightElement.run is PASSED
+
+2023-07-14 20:13:01 - [MESSAGE][PASSED] - com.reusableComponent.HighlightElement.run is PASSED
+
+2023-07-14 20:13:01 - [TEST_STEP][PASSED] - com.reusableComponent.HighlightElement.run(findTestObject("Leaderboard/Leaderboard Ranking/th_Action")): com.reusableComponent.HighlightElement.run is PASSED
+
+2023-07-14 20:13:01 - [MESSAGE][PASSED] - com.reusableComponent.HighlightElement.run is PASSED
+
+2023-07-14 20:13:01 - [TEST_STEP][PASSED] - com.reusableComponent.HighlightElement.run(findTestObject("Leaderboard/Leaderboard Ranking/table_RankUsername")): com.reusableComponent.HighlightElement.run is PASSED
+
+2023-07-14 20:13:02 - [MESSAGE][PASSED] - com.reusableComponent.HighlightElement.run is PASSED
+
+2023-07-14 20:13:02 - [TEST_STEP][PASSED] - verifyElementVisible(findTestObject("Leaderboard/Leaderboard Ranking/th_Rank")): Object 'Object Repository/Leaderboard/Leaderboard Ranking/th_Rank' is visible
+
+2023-07-14 20:13:02 - [MESSAGE][PASSED] - Object 'Object Repository/Leaderboard/Leaderboard Ranking/th_Rank' is visible
+
+2023-07-14 20:13:02 - [TEST_STEP][PASSED] - verifyElementVisible(findTestObject("Leaderboard/Leaderboard Ranking/th_Username")): Object 'Object Repository/Leaderboard/Leaderboard Ranking/th_Username' is visible
+
+2023-07-14 20:13:03 - [MESSAGE][PASSED] - Object 'Object Repository/Leaderboard/Leaderboard Ranking/th_Username' is visible
+
+2023-07-14 20:13:03 - [TEST_STEP][PASSED] - verifyElementVisible(findTestObject("Leaderboard/Leaderboard Ranking/th_Amount")): Object 'Object Repository/Leaderboard/Leaderboard Ranking/th_Amount' is visible
+
+2023-07-14 20:13:03 - [MESSAGE][PASSED] - Object 'Object Repository/Leaderboard/Leaderboard Ranking/th_Amount' is visible
+
+2023-07-14 20:13:03 - [TEST_STEP][PASSED] - verifyElementVisible(findTestObject("Leaderboard/Leaderboard Ranking/th_Phone Number")): Object 'Object Repository/Leaderboard/Leaderboard Ranking/th_Phone Number' is visible
+
+2023-07-14 20:13:04 - [MESSAGE][PASSED] - Object 'Object Repository/Leaderboard/Leaderboard Ranking/th_Phone Number' is visible
+
+2023-07-14 20:13:04 - [TEST_STEP][PASSED] - verifyElementVisible(findTestObject("Leaderboard/Leaderboard Ranking/th_Action")): Object 'Object Repository/Leaderboard/Leaderboard Ranking/th_Action' is visible
+
+2023-07-14 20:13:04 - [MESSAGE][PASSED] - Object 'Object Repository/Leaderboard/Leaderboard Ranking/th_Action' is visible
+
+2023-07-14 20:13:04 - [TEST_STEP][PASSED] - verifyElementVisible(findTestObject("Leaderboard/Leaderboard Ranking/table_RankUsername")): Object 'Object Repository/Leaderboard/Leaderboard Ranking/table_RankUsername' is visible
+
+2023-07-14 20:13:04 - [MESSAGE][PASSED] - Object 'Object Repository/Leaderboard/Leaderboard Ranking/table_RankUsername' is visible
+
+2023-07-14 20:13:04 - [TEST_STEP][PASSED] - com.reusableComponent.HighlightElement.run(findTestObject("Leaderboard/Leaderboard Ranking/li_Previous")): com.reusableComponent.HighlightElement.run is PASSED
+
+2023-07-14 20:13:05 - [MESSAGE][PASSED] - com.reusableComponent.HighlightElement.run is PASSED
+
+2023-07-14 20:13:05 - [TEST_STEP][PASSED] - com.reusableComponent.HighlightElement.run(findTestObject("Leaderboard/Leaderboard Ranking/a_Next")): com.reusableComponent.HighlightElement.run is PASSED
+
+2023-07-14 20:13:05 - [MESSAGE][PASSED] - com.reusableComponent.HighlightElement.run is PASSED
+
+2023-07-14 20:13:05 - [TEST_STEP][PASSED] - verifyElementVisible(findTestObject("Leaderboard/Leaderboard Ranking/li_Previous")): Object 'Object Repository/Leaderboard/Leaderboard Ranking/li_Previous' is visible
+
+2023-07-14 20:13:06 - [MESSAGE][PASSED] - Object 'Object Repository/Leaderboard/Leaderboard Ranking/li_Previous' is visible
+
+2023-07-14 20:13:06 - [TEST_STEP][PASSED] - verifyElementVisible(findTestObject("Leaderboard/Leaderboard Ranking/a_Next")): Object 'Object Repository/Leaderboard/Leaderboard Ranking/a_Next' is visible
+
+2023-07-14 20:13:06 - [MESSAGE][PASSED] - Object 'Object Repository/Leaderboard/Leaderboard Ranking/a_Next' is visible]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/Leaderboard/Ranking RMB" time="21.08" classname="Test Cases/Leaderboard/Ranking RMB" status="PASSED">
+         <system-out><![CDATA[2023-07-14 20:13:06 - [TEST_CASE][PASSED] - Test Cases/Leaderboard/Ranking RMB: Test Cases/Leaderboard/Ranking RMB
+
+2023-07-14 20:13:07 - [TEST_STEP][PASSED] - com.reusableComponent.HighlightElement.run(findTestObject("Leaderboard/Page_Dashboard/span_leaderboard")): com.reusableComponent.HighlightElement.run is PASSED
+
+2023-07-14 20:13:07 - [MESSAGE][PASSED] - com.reusableComponent.HighlightElement.run is PASSED
+
+2023-07-14 20:13:07 - [TEST_STEP][PASSED] - mouseOver(findTestObject("Leaderboard/Page_Dashboard/span_leaderboard")): Object: 'Object Repository/Leaderboard/Page_Dashboard/span_leaderboard' is hovered
+
+2023-07-14 20:13:08 - [MESSAGE][PASSED] - Object: 'Object Repository/Leaderboard/Page_Dashboard/span_leaderboard' is hovered
+
+2023-07-14 20:13:08 - [TEST_STEP][PASSED] - com.reusableComponent.HighlightElement.run(findTestObject("Leaderboard/Page_Dashboard/span_Ranking")): com.reusableComponent.HighlightElement.run is PASSED
+
+2023-07-14 20:13:08 - [MESSAGE][PASSED] - com.reusableComponent.HighlightElement.run is PASSED
+
+2023-07-14 20:13:08 - [TEST_STEP][PASSED] - mouseOver(findTestObject("Leaderboard/Page_Dashboard/span_Ranking")): Object: 'Object Repository/Leaderboard/Page_Dashboard/span_Ranking' is hovered
+
+2023-07-14 20:13:09 - [MESSAGE][PASSED] - Object: 'Object Repository/Leaderboard/Page_Dashboard/span_Ranking' is hovered
+
+2023-07-14 20:13:09 - [TEST_STEP][PASSED] - com.reusableComponent.HighlightElement.run(findTestObject("Leaderboard/Leaderboard Ranking/span_RMB")): com.reusableComponent.HighlightElement.run is PASSED
+
+2023-07-14 20:13:09 - [MESSAGE][PASSED] - com.reusableComponent.HighlightElement.run is PASSED
+
+2023-07-14 20:13:09 - [TEST_STEP][PASSED] - mouseOver(findTestObject("Leaderboard/Leaderboard Ranking/span_RMB")): Object: 'Object Repository/Leaderboard/Leaderboard Ranking/span_RMB' is hovered
+
+2023-07-14 20:13:10 - [MESSAGE][PASSED] - Object: 'Object Repository/Leaderboard/Leaderboard Ranking/span_RMB' is hovered
+
+2023-07-14 20:13:10 - [TEST_STEP][PASSED] - click(findTestObject("Leaderboard/Leaderboard Ranking/span_RMB")): Object: 'Object Repository/Leaderboard/Leaderboard Ranking/span_RMB' is clicked on
+
+2023-07-14 20:13:12 - [MESSAGE][PASSED] - Object: 'Object Repository/Leaderboard/Leaderboard Ranking/span_RMB' is clicked on
+
+2023-07-14 20:13:12 - [TEST_STEP][PASSED] - com.reusableComponent.HighlightElement.run(findTestObject("Leaderboard/Leaderboard Ranking/h3_Leaderboard List")): com.reusableComponent.HighlightElement.run is PASSED
+
+2023-07-14 20:13:13 - [MESSAGE][PASSED] - com.reusableComponent.HighlightElement.run is PASSED
+
+2023-07-14 20:13:13 - [TEST_STEP][PASSED] - com.reusableComponent.HighlightElement.run(findTestObject("Leaderboard/Leaderboard Ranking/select_May 2021")): com.reusableComponent.HighlightElement.run is PASSED
+
+2023-07-14 20:13:13 - [MESSAGE][PASSED] - com.reusableComponent.HighlightElement.run is PASSED
+
+2023-07-14 20:13:13 - [TEST_STEP][PASSED] - com.reusableComponent.HighlightElement.run(findTestObject("Leaderboard/Leaderboard Ranking/button_Search")): com.reusableComponent.HighlightElement.run is PASSED
+
+2023-07-14 20:13:14 - [MESSAGE][PASSED] - com.reusableComponent.HighlightElement.run is PASSED
+
+2023-07-14 20:13:14 - [TEST_STEP][PASSED] - verifyElementVisible(findTestObject("Leaderboard/Leaderboard Ranking/h3_Leaderboard List")): Object 'Object Repository/Leaderboard/Leaderboard Ranking/h3_Leaderboard List' is visible
+
+2023-07-14 20:13:14 - [MESSAGE][PASSED] - Object 'Object Repository/Leaderboard/Leaderboard Ranking/h3_Leaderboard List' is visible
+
+2023-07-14 20:13:14 - [TEST_STEP][PASSED] - verifyElementVisible(findTestObject("Leaderboard/Leaderboard Ranking/select_May 2021")): Object 'Object Repository/Leaderboard/Leaderboard Ranking/select_May 2021' is visible
+
+2023-07-14 20:13:14 - [MESSAGE][PASSED] - Object 'Object Repository/Leaderboard/Leaderboard Ranking/select_May 2021' is visible
+
+2023-07-14 20:13:14 - [TEST_STEP][PASSED] - verifyElementVisible(findTestObject("Leaderboard/Leaderboard Ranking/button_Search")): Object 'Object Repository/Leaderboard/Leaderboard Ranking/button_Search' is visible
+
+2023-07-14 20:13:15 - [MESSAGE][PASSED] - Object 'Object Repository/Leaderboard/Leaderboard Ranking/button_Search' is visible
+
+2023-07-14 20:13:15 - [TEST_STEP][PASSED] - com.reusableComponent.HighlightElement.run(findTestObject("Leaderboard/Leaderboard Ranking/select_102550100")): com.reusableComponent.HighlightElement.run is PASSED
+
+2023-07-14 20:13:15 - [MESSAGE][PASSED] - com.reusableComponent.HighlightElement.run is PASSED
+
+2023-07-14 20:13:15 - [TEST_STEP][PASSED] - com.reusableComponent.HighlightElement.run(findTestObject("Leaderboard/Leaderboard Ranking/span_Copy")): com.reusableComponent.HighlightElement.run is PASSED
+
+2023-07-14 20:13:16 - [MESSAGE][PASSED] - com.reusableComponent.HighlightElement.run is PASSED
+
+2023-07-14 20:13:16 - [TEST_STEP][PASSED] - com.reusableComponent.HighlightElement.run(findTestObject("Leaderboard/Leaderboard Ranking/span_CSV")): com.reusableComponent.HighlightElement.run is PASSED
+
+2023-07-14 20:13:16 - [MESSAGE][PASSED] - com.reusableComponent.HighlightElement.run is PASSED
+
+2023-07-14 20:13:16 - [TEST_STEP][PASSED] - com.reusableComponent.HighlightElement.run(findTestObject("Leaderboard/Leaderboard Ranking/span_Excel")): com.reusableComponent.HighlightElement.run is PASSED
+
+2023-07-14 20:13:17 - [MESSAGE][PASSED] - com.reusableComponent.HighlightElement.run is PASSED
+
+2023-07-14 20:13:17 - [TEST_STEP][PASSED] - com.reusableComponent.HighlightElement.run(findTestObject("Leaderboard/Leaderboard Ranking/span_PDF")): com.reusableComponent.HighlightElement.run is PASSED
+
+2023-07-14 20:13:17 - [MESSAGE][PASSED] - com.reusableComponent.HighlightElement.run is PASSED
+
+2023-07-14 20:13:17 - [TEST_STEP][PASSED] - com.reusableComponent.HighlightElement.run(findTestObject("Leaderboard/Leaderboard Ranking/input_Search_form-control form-control-sm")): com.reusableComponent.HighlightElement.run is PASSED
+
+2023-07-14 20:13:18 - [MESSAGE][PASSED] - com.reusableComponent.HighlightElement.run is PASSED
+
+2023-07-14 20:13:18 - [TEST_STEP][PASSED] - verifyElementVisible(findTestObject("Leaderboard/Leaderboard Ranking/select_102550100")): Object 'Object Repository/Leaderboard/Leaderboard Ranking/select_102550100' is visible
+
+2023-07-14 20:13:18 - [MESSAGE][PASSED] - Object 'Object Repository/Leaderboard/Leaderboard Ranking/select_102550100' is visible
+
+2023-07-14 20:13:18 - [TEST_STEP][PASSED] - verifyElementVisible(findTestObject("Leaderboard/Leaderboard Ranking/span_Copy")): Object 'Object Repository/Leaderboard/Leaderboard Ranking/span_Copy' is visible
+
+2023-07-14 20:13:19 - [MESSAGE][PASSED] - Object 'Object Repository/Leaderboard/Leaderboard Ranking/span_Copy' is visible
+
+2023-07-14 20:13:19 - [TEST_STEP][PASSED] - verifyElementVisible(findTestObject("Leaderboard/Leaderboard Ranking/span_CSV")): Object 'Object Repository/Leaderboard/Leaderboard Ranking/span_CSV' is visible
+
+2023-07-14 20:13:19 - [MESSAGE][PASSED] - Object 'Object Repository/Leaderboard/Leaderboard Ranking/span_CSV' is visible
+
+2023-07-14 20:13:19 - [TEST_STEP][PASSED] - verifyElementVisible(findTestObject("Leaderboard/Leaderboard Ranking/span_Excel")): Object 'Object Repository/Leaderboard/Leaderboard Ranking/span_Excel' is visible
+
+2023-07-14 20:13:19 - [MESSAGE][PASSED] - Object 'Object Repository/Leaderboard/Leaderboard Ranking/span_Excel' is visible
+
+2023-07-14 20:13:19 - [TEST_STEP][PASSED] - verifyElementVisible(findTestObject("Leaderboard/Leaderboard Ranking/span_PDF")): Object 'Object Repository/Leaderboard/Leaderboard Ranking/span_PDF' is visible
+
+2023-07-14 20:13:20 - [MESSAGE][PASSED] - Object 'Object Repository/Leaderboard/Leaderboard Ranking/span_PDF' is visible
+
+2023-07-14 20:13:20 - [TEST_STEP][PASSED] - verifyElementVisible(findTestObject("Leaderboard/Leaderboard Ranking/input_Search_form-control form-control-sm")): Object 'Object Repository/Leaderboard/Leaderboard Ranking/input_Search_form-control form-control-sm' is visible
+
+2023-07-14 20:13:20 - [MESSAGE][PASSED] - Object 'Object Repository/Leaderboard/Leaderboard Ranking/input_Search_form-control form-control-sm' is visible
+
+2023-07-14 20:13:20 - [TEST_STEP][PASSED] - com.reusableComponent.HighlightElement.run(findTestObject("Leaderboard/Leaderboard Ranking/th_Rank")): com.reusableComponent.HighlightElement.run is PASSED
+
+2023-07-14 20:13:21 - [MESSAGE][PASSED] - com.reusableComponent.HighlightElement.run is PASSED
+
+2023-07-14 20:13:21 - [TEST_STEP][PASSED] - com.reusableComponent.HighlightElement.run(findTestObject("Leaderboard/Leaderboard Ranking/th_Username")): com.reusableComponent.HighlightElement.run is PASSED
+
+2023-07-14 20:13:21 - [MESSAGE][PASSED] - com.reusableComponent.HighlightElement.run is PASSED
+
+2023-07-14 20:13:21 - [TEST_STEP][PASSED] - com.reusableComponent.HighlightElement.run(findTestObject("Leaderboard/Leaderboard Ranking/th_Amount")): com.reusableComponent.HighlightElement.run is PASSED
+
+2023-07-14 20:13:22 - [MESSAGE][PASSED] - com.reusableComponent.HighlightElement.run is PASSED
+
+2023-07-14 20:13:22 - [TEST_STEP][PASSED] - com.reusableComponent.HighlightElement.run(findTestObject("Leaderboard/Leaderboard Ranking/th_Phone Number")): com.reusableComponent.HighlightElement.run is PASSED
+
+2023-07-14 20:13:22 - [MESSAGE][PASSED] - com.reusableComponent.HighlightElement.run is PASSED
+
+2023-07-14 20:13:22 - [TEST_STEP][PASSED] - com.reusableComponent.HighlightElement.run(findTestObject("Leaderboard/Leaderboard Ranking/th_Action")): com.reusableComponent.HighlightElement.run is PASSED
+
+2023-07-14 20:13:22 - [MESSAGE][PASSED] - com.reusableComponent.HighlightElement.run is PASSED
+
+2023-07-14 20:13:22 - [TEST_STEP][PASSED] - com.reusableComponent.HighlightElement.run(findTestObject("Leaderboard/Leaderboard Ranking/table_RankUsername")): com.reusableComponent.HighlightElement.run is PASSED
+
+2023-07-14 20:13:23 - [MESSAGE][PASSED] - com.reusableComponent.HighlightElement.run is PASSED
+
+2023-07-14 20:13:23 - [TEST_STEP][PASSED] - verifyElementVisible(findTestObject("Leaderboard/Leaderboard Ranking/th_Rank")): Object 'Object Repository/Leaderboard/Leaderboard Ranking/th_Rank' is visible
+
+2023-07-14 20:13:23 - [MESSAGE][PASSED] - Object 'Object Repository/Leaderboard/Leaderboard Ranking/th_Rank' is visible
+
+2023-07-14 20:13:23 - [TEST_STEP][PASSED] - verifyElementVisible(findTestObject("Leaderboard/Leaderboard Ranking/th_Username")): Object 'Object Repository/Leaderboard/Leaderboard Ranking/th_Username' is visible
+
+2023-07-14 20:13:24 - [MESSAGE][PASSED] - Object 'Object Repository/Leaderboard/Leaderboard Ranking/th_Username' is visible
+
+2023-07-14 20:13:24 - [TEST_STEP][PASSED] - verifyElementVisible(findTestObject("Leaderboard/Leaderboard Ranking/th_Amount")): Object 'Object Repository/Leaderboard/Leaderboard Ranking/th_Amount' is visible
+
+2023-07-14 20:13:24 - [MESSAGE][PASSED] - Object 'Object Repository/Leaderboard/Leaderboard Ranking/th_Amount' is visible
+
+2023-07-14 20:13:24 - [TEST_STEP][PASSED] - verifyElementVisible(findTestObject("Leaderboard/Leaderboard Ranking/th_Phone Number")): Object 'Object Repository/Leaderboard/Leaderboard Ranking/th_Phone Number' is visible
+
+2023-07-14 20:13:24 - [MESSAGE][PASSED] - Object 'Object Repository/Leaderboard/Leaderboard Ranking/th_Phone Number' is visible
+
+2023-07-14 20:13:24 - [TEST_STEP][PASSED] - verifyElementVisible(findTestObject("Leaderboard/Leaderboard Ranking/th_Action")): Object 'Object Repository/Leaderboard/Leaderboard Ranking/th_Action' is visible
+
+2023-07-14 20:13:25 - [MESSAGE][PASSED] - Object 'Object Repository/Leaderboard/Leaderboard Ranking/th_Action' is visible
+
+2023-07-14 20:13:25 - [TEST_STEP][PASSED] - verifyElementVisible(findTestObject("Leaderboard/Leaderboard Ranking/table_RankUsername")): Object 'Object Repository/Leaderboard/Leaderboard Ranking/table_RankUsername' is visible
+
+2023-07-14 20:13:25 - [MESSAGE][PASSED] - Object 'Object Repository/Leaderboard/Leaderboard Ranking/table_RankUsername' is visible
+
+2023-07-14 20:13:25 - [TEST_STEP][PASSED] - com.reusableComponent.HighlightElement.run(findTestObject("Leaderboard/Leaderboard Ranking/li_Previous")): com.reusableComponent.HighlightElement.run is PASSED
+
+2023-07-14 20:13:26 - [MESSAGE][PASSED] - com.reusableComponent.HighlightElement.run is PASSED
+
+2023-07-14 20:13:26 - [TEST_STEP][PASSED] - com.reusableComponent.HighlightElement.run(findTestObject("Leaderboard/Leaderboard Ranking/a_Next")): com.reusableComponent.HighlightElement.run is PASSED
+
+2023-07-14 20:13:26 - [MESSAGE][PASSED] - com.reusableComponent.HighlightElement.run is PASSED
+
+2023-07-14 20:13:26 - [TEST_STEP][PASSED] - verifyElementVisible(findTestObject("Leaderboard/Leaderboard Ranking/li_Previous")): Object 'Object Repository/Leaderboard/Leaderboard Ranking/li_Previous' is visible
+
+2023-07-14 20:13:27 - [MESSAGE][PASSED] - Object 'Object Repository/Leaderboard/Leaderboard Ranking/li_Previous' is visible
+
+2023-07-14 20:13:27 - [TEST_STEP][PASSED] - verifyElementVisible(findTestObject("Leaderboard/Leaderboard Ranking/a_Next")): Object 'Object Repository/Leaderboard/Leaderboard Ranking/a_Next' is visible
+
+2023-07-14 20:13:27 - [MESSAGE][PASSED] - Object 'Object Repository/Leaderboard/Leaderboard Ranking/a_Next' is visible]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <system-out><![CDATA[2023-07-14 20:10:40 - [TEST_SUITE][PASSED] - Smoke: Test Cases/Leaderboard/Ranking RMB]]></system-out>
+      <system-err><![CDATA[]]></system-err>
+   </testsuite>
+</testsuites>

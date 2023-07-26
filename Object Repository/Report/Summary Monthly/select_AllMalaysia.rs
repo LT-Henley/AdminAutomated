@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>select_AllMalaysia</name>
+   <tag></tag>
+   <elementGuidId>9a687ac4-3027-44e2-84c5-b048b40bc536</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='instantSummaryMonthlyLayout']/div/div/form/div[2]/select</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>select.form-control.country</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>select</value>
+      <webElementGuid>c3e3fb4b-56ef-42ec-81fb-fe095d52d73c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>form-control country</value>
+      <webElementGuid>80f9cc1a-a08c-4f1f-b969-4d7e127478bf</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+                            All
+
+                                                            Malaysia
+                                                            Thailand
+                                                            Indonesia
+                                                            Myanmar
+                                                            China
+                                                    </value>
+      <webElementGuid>4609d8a3-b39f-43ad-8bc0-2702f62fdd14</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;instantSummaryMonthlyLayout&quot;)/div[@class=&quot;kt-portlet kt-portlet--mobile&quot;]/div[@class=&quot;kt-portlet__head kt-portlet__head--lg&quot;]/form[@class=&quot;form-inline&quot;]/div[@class=&quot;form-group mb-2 mr-2&quot;]/select[@class=&quot;form-control country&quot;]</value>
+      <webElementGuid>cbb6967e-1241-4bc5-8e79-c1683d6ad005</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='instantSummaryMonthlyLayout']/div/div/form/div[2]/select</value>
+      <webElementGuid>4699f2bc-3a84-4544-9f1d-dee2ae0e862c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Country :'])[1]/following::select[1]</value>
+      <webElementGuid>e13d61b1-928f-41ac-824c-b8acab253034</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Date Range :'])[1]/following::select[1]</value>
+      <webElementGuid>6e6f6e52-a78d-425e-8b9c-9016b06ac534</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Search'])[2]/preceding::select[1]</value>
+      <webElementGuid>68f63622-b1bc-47b4-a3b1-e4bf732bd5ba</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Copy'])[1]/preceding::select[1]</value>
+      <webElementGuid>129f9d77-f852-4b30-b994-d0ab7d76e92a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//select</value>
+      <webElementGuid>e8f5d685-b581-4c79-b1be-f36ce2405a02</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//select[(text() = '
+                            All
+
+                                                            Malaysia
+                                                            Thailand
+                                                            Indonesia
+                                                            Myanmar
+                                                            China
+                                                    ' or . = '
+                            All
+
+                                                            Malaysia
+                                                            Thailand
+                                                            Indonesia
+                                                            Myanmar
+                                                            China
+                                                    ')]</value>
+      <webElementGuid>ee756831-e68e-4068-b637-1ef8e3509433</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

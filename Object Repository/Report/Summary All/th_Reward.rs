@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>th_Reward</name>
+   <tag></tag>
+   <elementGuidId>59a35a7b-870d-4b8d-a8f5-4806741172f8</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='instantSummaryLayout']/div/div[2]/table/thead/tr/th[10]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>th:nth-of-type(10)</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>th</value>
+      <webElementGuid>2dae1e72-38f6-4c51-8215-ae4f19010286</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Reward</value>
+      <webElementGuid>361e2a00-91ef-47f9-8686-757a5e89edef</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;instantSummaryLayout&quot;)/div[@class=&quot;kt-portlet kt-portlet--mobile&quot;]/div[@class=&quot;kt-portlet__body&quot;]/table[@class=&quot;table table-striped- table-bordered table-hover table-checkable table-responsive w-100 d-block d-md-table datatableCustomTop&quot;]/thead[1]/tr[1]/th[10]</value>
+      <webElementGuid>7cfa59e9-8f0a-4c73-b72f-875e5aab6967</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='instantSummaryLayout']/div/div[2]/table/thead/tr/th[10]</value>
+      <webElementGuid>28dd7a8b-70a5-496f-b4e8-54681580602d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Chip'])[1]/following::th[1]</value>
+      <webElementGuid>e763c942-6ce7-48f0-befe-11b36039c334</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Commission'])[2]/following::th[2]</value>
+      <webElementGuid>37db2aaf-470b-4367-ac58-bd0bc69e6a89</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Interest'])[2]/preceding::th[1]</value>
+      <webElementGuid>3001234d-4235-4627-adb5-24a9361a96e3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Game'])[2]/preceding::th[2]</value>
+      <webElementGuid>11dd0fcb-5ccc-4728-a9fe-0f19d86d9a2d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//th[10]</value>
+      <webElementGuid>82f90520-8bf8-4505-a97d-36d143f39c17</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//th[(text() = 'Reward' or . = 'Reward')]</value>
+      <webElementGuid>dc865049-b2e7-4c42-802c-b9df2f77bbb6</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

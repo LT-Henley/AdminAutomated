@@ -1,0 +1,321 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+Smoke,Chrome 114.0.0.0,,,2023-07-17 19:25:30,2023-07-17 19:28:34,3m - 3.497s,PASSED
+,,,,,,,
+Test Cases/Banner/List All,Chrome 114.0.0.0,,,2023-07-17 19:25:31,2023-07-17 19:26:24,52.822s,PASSED
+"callTestCase(findTestCase(""Login Admin""), [:], STOP_ON_FAILURE)",Chrome 114.0.0.0,,,2023-07-17 19:25:32,2023-07-17 19:25:56,23.926s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""Banner/Page_Dashboard/span_Banner""))",Chrome 114.0.0.0,,,2023-07-17 19:25:56,2023-07-17 19:25:56,0.689s,PASSED
+"mouseOver(findTestObject(""Banner/Page_Dashboard/span_Banner""))",Chrome 114.0.0.0,,,2023-07-17 19:25:56,2023-07-17 19:25:57,0.627s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""Banner/Page_Dashboard/span_List""))",Chrome 114.0.0.0,,,2023-07-17 19:25:57,2023-07-17 19:25:57,0.522s,PASSED
+"mouseOver(findTestObject(""Banner/Page_Dashboard/span_List""))",Chrome 114.0.0.0,,,2023-07-17 19:25:57,2023-07-17 19:25:58,0.603s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""Banner/Banner List/span_All""))",Chrome 114.0.0.0,,,2023-07-17 19:25:58,2023-07-17 19:25:59,0.518s,PASSED
+"mouseOver(findTestObject(""Banner/Banner List/span_All""))",Chrome 114.0.0.0,,,2023-07-17 19:25:59,2023-07-17 19:25:59,0.566s,PASSED
+"click(findTestObject(""Banner/Banner List/span_All""))",Chrome 114.0.0.0,,,2023-07-17 19:25:59,2023-07-17 19:26:03,4.336s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""Banner/Banner List/h3_Banner List""))",Chrome 114.0.0.0,,,2023-07-17 19:26:03,2023-07-17 19:26:04,0.620s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""Banner/Banner List/select_lkym5tigerhubking1678""))",Chrome 114.0.0.0,,,2023-07-17 19:26:04,2023-07-17 19:26:05,0.482s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""Banner/Banner List/select_enchbmthvtidmy""))",Chrome 114.0.0.0,,,2023-07-17 19:26:05,2023-07-17 19:26:05,0.518s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""Banner/Banner List/button_Search""))",Chrome 114.0.0.0,,,2023-07-17 19:26:05,2023-07-17 19:26:06,0.506s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""Banner/Banner List/button_Add""))",Chrome 114.0.0.0,,,2023-07-17 19:26:06,2023-07-17 19:26:06,0.473s,PASSED
+"verifyElementVisible(findTestObject(""Banner/Banner List/h3_Banner List""))",Chrome 114.0.0.0,,,2023-07-17 19:26:06,2023-07-17 19:26:07,0.447s,PASSED
+"verifyElementVisible(findTestObject(""Banner/Banner List/select_lkym5tigerhubking1678""))",Chrome 114.0.0.0,,,2023-07-17 19:26:07,2023-07-17 19:26:07,0.419s,PASSED
+"verifyElementVisible(findTestObject(""Banner/Banner List/select_enchbmthvtidmy""))",Chrome 114.0.0.0,,,2023-07-17 19:26:07,2023-07-17 19:26:07,0.431s,PASSED
+"verifyElementVisible(findTestObject(""Banner/Banner List/button_Search""))",Chrome 114.0.0.0,,,2023-07-17 19:26:07,2023-07-17 19:26:08,0.419s,PASSED
+"verifyElementVisible(findTestObject(""Banner/Banner List/button_Add""))",Chrome 114.0.0.0,,,2023-07-17 19:26:08,2023-07-17 19:26:08,0.452s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""Banner/Banner List/select_102550100""))",Chrome 114.0.0.0,,,2023-07-17 19:26:08,2023-07-17 19:26:09,0.474s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""Banner/Banner List/span_Copy""))",Chrome 114.0.0.0,,,2023-07-17 19:26:09,2023-07-17 19:26:09,0.495s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""Banner/Banner List/span_CSV""))",Chrome 114.0.0.0,,,2023-07-17 19:26:09,2023-07-17 19:26:10,0.468s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""Banner/Banner List/span_Excel""))",Chrome 114.0.0.0,,,2023-07-17 19:26:10,2023-07-17 19:26:10,0.464s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""Banner/Banner List/span_PDF""))",Chrome 114.0.0.0,,,2023-07-17 19:26:10,2023-07-17 19:26:11,0.473s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""Banner/Banner List/input_Search_form-control form-control-sm""))",Chrome 114.0.0.0,,,2023-07-17 19:26:11,2023-07-17 19:26:11,0.497s,PASSED
+"verifyElementVisible(findTestObject(""Banner/Banner List/select_102550100""))",Chrome 114.0.0.0,,,2023-07-17 19:26:11,2023-07-17 19:26:12,0.420s,PASSED
+"verifyElementVisible(findTestObject(""Banner/Banner List/span_Copy""))",Chrome 114.0.0.0,,,2023-07-17 19:26:12,2023-07-17 19:26:12,0.453s,PASSED
+"verifyElementVisible(findTestObject(""Banner/Banner List/span_CSV""))",Chrome 114.0.0.0,,,2023-07-17 19:26:12,2023-07-17 19:26:12,0.424s,PASSED
+"verifyElementVisible(findTestObject(""Banner/Banner List/span_Excel""))",Chrome 114.0.0.0,,,2023-07-17 19:26:12,2023-07-17 19:26:13,0.433s,PASSED
+"verifyElementVisible(findTestObject(""Banner/Banner List/span_PDF""))",Chrome 114.0.0.0,,,2023-07-17 19:26:13,2023-07-17 19:26:13,0.433s,PASSED
+"verifyElementVisible(findTestObject(""Banner/Banner List/input_Search_form-control form-control-sm""))",Chrome 114.0.0.0,,,2023-07-17 19:26:13,2023-07-17 19:26:14,0.416s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""Banner/Banner List/th_Banner""))",Chrome 114.0.0.0,,,2023-07-17 19:26:14,2023-07-17 19:26:14,0.477s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""Banner/Banner List/th_Video Thumbnail""))",Chrome 114.0.0.0,,,2023-07-17 19:26:14,2023-07-17 19:26:15,0.489s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""Banner/Banner List/th_Type""))",Chrome 114.0.0.0,,,2023-07-17 19:26:15,2023-07-17 19:26:15,0.486s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""Banner/Banner List/th_Redirect Url""))",Chrome 114.0.0.0,,,2023-07-17 19:26:15,2023-07-17 19:26:16,0.493s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""Banner/Banner List/th_Country""))",Chrome 114.0.0.0,,,2023-07-17 19:26:16,2023-07-17 19:26:16,0.472s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""Banner/Banner List/th_Language""))",Chrome 114.0.0.0,,,2023-07-17 19:26:16,2023-07-17 19:26:17,0.483s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""Banner/Banner List/th_App Type""))",Chrome 114.0.0.0,,,2023-07-17 19:26:17,2023-07-17 19:26:17,0.486s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""Banner/Banner List/th_Action""))",Chrome 114.0.0.0,,,2023-07-17 19:26:17,2023-07-17 19:26:18,0.489s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""Banner/Banner List/table_Banner""))",Chrome 114.0.0.0,,,2023-07-17 19:26:18,2023-07-17 19:26:18,0.472s,PASSED
+"verifyElementVisible(findTestObject(""Banner/Banner List/th_Banner""))",Chrome 114.0.0.0,,,2023-07-17 19:26:18,2023-07-17 19:26:19,0.429s,PASSED
+"verifyElementVisible(findTestObject(""Banner/Banner List/th_Video Thumbnail""))",Chrome 114.0.0.0,,,2023-07-17 19:26:19,2023-07-17 19:26:19,0.415s,PASSED
+"verifyElementVisible(findTestObject(""Banner/Banner List/th_Type""))",Chrome 114.0.0.0,,,2023-07-17 19:26:19,2023-07-17 19:26:19,0.428s,PASSED
+"verifyElementVisible(findTestObject(""Banner/Banner List/th_Redirect Url""))",Chrome 114.0.0.0,,,2023-07-17 19:26:19,2023-07-17 19:26:20,0.431s,PASSED
+"verifyElementVisible(findTestObject(""Banner/Banner List/th_Country""))",Chrome 114.0.0.0,,,2023-07-17 19:26:20,2023-07-17 19:26:20,0.423s,PASSED
+"verifyElementVisible(findTestObject(""Banner/Banner List/th_Language""))",Chrome 114.0.0.0,,,2023-07-17 19:26:20,2023-07-17 19:26:21,0.425s,PASSED
+"verifyElementVisible(findTestObject(""Banner/Banner List/th_App Type""))",Chrome 114.0.0.0,,,2023-07-17 19:26:21,2023-07-17 19:26:21,0.434s,PASSED
+"verifyElementVisible(findTestObject(""Banner/Banner List/th_Action""))",Chrome 114.0.0.0,,,2023-07-17 19:26:21,2023-07-17 19:26:21,0.408s,PASSED
+"verifyElementVisible(findTestObject(""Banner/Banner List/table_Banner""))",Chrome 114.0.0.0,,,2023-07-17 19:26:21,2023-07-17 19:26:22,0.384s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""Banner/Banner List/li_Previous""))",Chrome 114.0.0.0,,,2023-07-17 19:26:22,2023-07-17 19:26:22,0.487s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""Banner/Banner List/li_Next""))",Chrome 114.0.0.0,,,2023-07-17 19:26:22,2023-07-17 19:26:23,0.480s,PASSED
+"verifyElementVisible(findTestObject(""Banner/Banner List/li_Previous""))",Chrome 114.0.0.0,,,2023-07-17 19:26:23,2023-07-17 19:26:23,0.512s,PASSED
+"verifyElementVisible(findTestObject(""Banner/Banner List/li_Next""))",Chrome 114.0.0.0,,,2023-07-17 19:26:23,2023-07-17 19:26:24,0.422s,PASSED
+,,,,,,,
+Test Cases/Banner/List MYR,Chrome 114.0.0.0,,,2023-07-17 19:26:24,2023-07-17 19:26:50,26.220s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""Banner/Page_Dashboard/span_Banner""))",Chrome 114.0.0.0,,,2023-07-17 19:26:25,2023-07-17 19:26:25,0.492s,PASSED
+"mouseOver(findTestObject(""Banner/Page_Dashboard/span_Banner""))",Chrome 114.0.0.0,,,2023-07-17 19:26:25,2023-07-17 19:26:26,0.595s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""Banner/Page_Dashboard/span_List""))",Chrome 114.0.0.0,,,2023-07-17 19:26:26,2023-07-17 19:26:26,0.455s,PASSED
+"mouseOver(findTestObject(""Banner/Page_Dashboard/span_List""))",Chrome 114.0.0.0,,,2023-07-17 19:26:26,2023-07-17 19:26:27,0.532s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""Banner/Banner List/span_MYR""))",Chrome 114.0.0.0,,,2023-07-17 19:26:27,2023-07-17 19:26:27,0.446s,PASSED
+"mouseOver(findTestObject(""Banner/Banner List/span_MYR""))",Chrome 114.0.0.0,,,2023-07-17 19:26:27,2023-07-17 19:26:28,0.646s,PASSED
+"click(findTestObject(""Banner/Banner List/span_MYR""))",Chrome 114.0.0.0,,,2023-07-17 19:26:28,2023-07-17 19:26:30,2.451s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""Banner/Banner List/h3_Banner List""))",Chrome 114.0.0.0,,,2023-07-17 19:26:30,2023-07-17 19:26:31,0.574s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""Banner/Banner List/select_lkym5tigerhubking1678""))",Chrome 114.0.0.0,,,2023-07-17 19:26:31,2023-07-17 19:26:31,0.454s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""Banner/Banner List/select_enchbmthvtidmy""))",Chrome 114.0.0.0,,,2023-07-17 19:26:31,2023-07-17 19:26:32,0.465s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""Banner/Banner List/button_Search""))",Chrome 114.0.0.0,,,2023-07-17 19:26:32,2023-07-17 19:26:32,0.453s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""Banner/Banner List/button_Add""))",Chrome 114.0.0.0,,,2023-07-17 19:26:32,2023-07-17 19:26:33,0.497s,PASSED
+"verifyElementVisible(findTestObject(""Banner/Banner List/h3_Banner List""))",Chrome 114.0.0.0,,,2023-07-17 19:26:33,2023-07-17 19:26:33,0.432s,PASSED
+"verifyElementVisible(findTestObject(""Banner/Banner List/select_lkym5tigerhubking1678""))",Chrome 114.0.0.0,,,2023-07-17 19:26:33,2023-07-17 19:26:34,0.402s,PASSED
+"verifyElementVisible(findTestObject(""Banner/Banner List/select_enchbmthvtidmy""))",Chrome 114.0.0.0,,,2023-07-17 19:26:34,2023-07-17 19:26:34,0.414s,PASSED
+"verifyElementVisible(findTestObject(""Banner/Banner List/button_Search""))",Chrome 114.0.0.0,,,2023-07-17 19:26:34,2023-07-17 19:26:34,0.411s,PASSED
+"verifyElementVisible(findTestObject(""Banner/Banner List/button_Add""))",Chrome 114.0.0.0,,,2023-07-17 19:26:34,2023-07-17 19:26:35,0.426s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""Banner/Banner List/select_102550100""))",Chrome 114.0.0.0,,,2023-07-17 19:26:35,2023-07-17 19:26:35,0.479s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""Banner/Banner List/span_Copy""))",Chrome 114.0.0.0,,,2023-07-17 19:26:35,2023-07-17 19:26:36,0.484s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""Banner/Banner List/span_CSV""))",Chrome 114.0.0.0,,,2023-07-17 19:26:36,2023-07-17 19:26:36,0.467s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""Banner/Banner List/span_Excel""))",Chrome 114.0.0.0,,,2023-07-17 19:26:36,2023-07-17 19:26:37,0.464s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""Banner/Banner List/span_PDF""))",Chrome 114.0.0.0,,,2023-07-17 19:26:37,2023-07-17 19:26:37,0.556s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""Banner/Banner List/input_Search_form-control form-control-sm""))",Chrome 114.0.0.0,,,2023-07-17 19:26:37,2023-07-17 19:26:38,0.458s,PASSED
+"verifyElementVisible(findTestObject(""Banner/Banner List/select_102550100""))",Chrome 114.0.0.0,,,2023-07-17 19:26:38,2023-07-17 19:26:38,0.424s,PASSED
+"verifyElementVisible(findTestObject(""Banner/Banner List/span_Copy""))",Chrome 114.0.0.0,,,2023-07-17 19:26:38,2023-07-17 19:26:39,0.432s,PASSED
+"verifyElementVisible(findTestObject(""Banner/Banner List/span_CSV""))",Chrome 114.0.0.0,,,2023-07-17 19:26:39,2023-07-17 19:26:39,0.414s,PASSED
+"verifyElementVisible(findTestObject(""Banner/Banner List/span_Excel""))",Chrome 114.0.0.0,,,2023-07-17 19:26:39,2023-07-17 19:26:39,0.396s,PASSED
+"verifyElementVisible(findTestObject(""Banner/Banner List/span_PDF""))",Chrome 114.0.0.0,,,2023-07-17 19:26:39,2023-07-17 19:26:40,0.412s,PASSED
+"verifyElementVisible(findTestObject(""Banner/Banner List/input_Search_form-control form-control-sm""))",Chrome 114.0.0.0,,,2023-07-17 19:26:40,2023-07-17 19:26:40,0.447s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""Banner/Banner List/th_Banner""))",Chrome 114.0.0.0,,,2023-07-17 19:26:40,2023-07-17 19:26:41,0.457s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""Banner/Banner List/th_Video Thumbnail""))",Chrome 114.0.0.0,,,2023-07-17 19:26:41,2023-07-17 19:26:41,0.452s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""Banner/Banner List/th_Type""))",Chrome 114.0.0.0,,,2023-07-17 19:26:41,2023-07-17 19:26:42,0.484s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""Banner/Banner List/th_Redirect Url""))",Chrome 114.0.0.0,,,2023-07-17 19:26:42,2023-07-17 19:26:42,0.454s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""Banner/Banner List/th_Country""))",Chrome 114.0.0.0,,,2023-07-17 19:26:42,2023-07-17 19:26:42,0.452s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""Banner/Banner List/th_Language""))",Chrome 114.0.0.0,,,2023-07-17 19:26:42,2023-07-17 19:26:43,0.481s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""Banner/Banner List/th_App Type""))",Chrome 114.0.0.0,,,2023-07-17 19:26:43,2023-07-17 19:26:43,0.465s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""Banner/Banner List/th_Action""))",Chrome 114.0.0.0,,,2023-07-17 19:26:43,2023-07-17 19:26:44,0.457s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""Banner/Banner List/table_Banner""))",Chrome 114.0.0.0,,,2023-07-17 19:26:44,2023-07-17 19:26:44,0.474s,PASSED
+"verifyElementVisible(findTestObject(""Banner/Banner List/th_Banner""))",Chrome 114.0.0.0,,,2023-07-17 19:26:44,2023-07-17 19:26:45,0.424s,PASSED
+"verifyElementVisible(findTestObject(""Banner/Banner List/th_Video Thumbnail""))",Chrome 114.0.0.0,,,2023-07-17 19:26:45,2023-07-17 19:26:45,0.434s,PASSED
+"verifyElementVisible(findTestObject(""Banner/Banner List/th_Type""))",Chrome 114.0.0.0,,,2023-07-17 19:26:45,2023-07-17 19:26:46,0.435s,PASSED
+"verifyElementVisible(findTestObject(""Banner/Banner List/th_Redirect Url""))",Chrome 114.0.0.0,,,2023-07-17 19:26:46,2023-07-17 19:26:46,0.401s,PASSED
+"verifyElementVisible(findTestObject(""Banner/Banner List/th_Country""))",Chrome 114.0.0.0,,,2023-07-17 19:26:46,2023-07-17 19:26:46,0.419s,PASSED
+"verifyElementVisible(findTestObject(""Banner/Banner List/th_Language""))",Chrome 114.0.0.0,,,2023-07-17 19:26:46,2023-07-17 19:26:47,0.429s,PASSED
+"verifyElementVisible(findTestObject(""Banner/Banner List/th_App Type""))",Chrome 114.0.0.0,,,2023-07-17 19:26:47,2023-07-17 19:26:47,0.395s,PASSED
+"verifyElementVisible(findTestObject(""Banner/Banner List/th_Action""))",Chrome 114.0.0.0,,,2023-07-17 19:26:47,2023-07-17 19:26:48,0.432s,PASSED
+"verifyElementVisible(findTestObject(""Banner/Banner List/table_Banner""))",Chrome 114.0.0.0,,,2023-07-17 19:26:48,2023-07-17 19:26:48,0.409s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""Banner/Banner List/li_Previous""))",Chrome 114.0.0.0,,,2023-07-17 19:26:48,2023-07-17 19:26:49,0.460s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""Banner/Banner List/li_Next""))",Chrome 114.0.0.0,,,2023-07-17 19:26:49,2023-07-17 19:26:49,0.553s,PASSED
+"verifyElementVisible(findTestObject(""Banner/Banner List/li_Previous""))",Chrome 114.0.0.0,,,2023-07-17 19:26:49,2023-07-17 19:26:50,0.430s,PASSED
+"verifyElementVisible(findTestObject(""Banner/Banner List/li_Next""))",Chrome 114.0.0.0,,,2023-07-17 19:26:50,2023-07-17 19:26:50,0.391s,PASSED
+,,,,,,,
+Test Cases/Banner/List THB,Chrome 114.0.0.0,,,2023-07-17 19:26:50,2023-07-17 19:27:16,25.838s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""Banner/Page_Dashboard/span_Banner""))",Chrome 114.0.0.0,,,2023-07-17 19:26:51,2023-07-17 19:26:51,0.474s,PASSED
+"mouseOver(findTestObject(""Banner/Page_Dashboard/span_Banner""))",Chrome 114.0.0.0,,,2023-07-17 19:26:51,2023-07-17 19:26:52,0.660s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""Banner/Page_Dashboard/span_List""))",Chrome 114.0.0.0,,,2023-07-17 19:26:52,2023-07-17 19:26:52,0.447s,PASSED
+"mouseOver(findTestObject(""Banner/Page_Dashboard/span_List""))",Chrome 114.0.0.0,,,2023-07-17 19:26:52,2023-07-17 19:26:53,0.552s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""Banner/Banner List/span_THB""))",Chrome 114.0.0.0,,,2023-07-17 19:26:53,2023-07-17 19:26:53,0.469s,PASSED
+"mouseOver(findTestObject(""Banner/Banner List/span_THB""))",Chrome 114.0.0.0,,,2023-07-17 19:26:53,2023-07-17 19:26:54,0.540s,PASSED
+"click(findTestObject(""Banner/Banner List/span_THB""))",Chrome 114.0.0.0,,,2023-07-17 19:26:54,2023-07-17 19:26:56,2.529s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""Banner/Banner List/h3_Banner List""))",Chrome 114.0.0.0,,,2023-07-17 19:26:56,2023-07-17 19:26:57,0.587s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""Banner/Banner List/select_lkym5tigerhubking1678""))",Chrome 114.0.0.0,,,2023-07-17 19:26:57,2023-07-17 19:26:57,0.462s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""Banner/Banner List/select_enchbmthvtidmy""))",Chrome 114.0.0.0,,,2023-07-17 19:26:57,2023-07-17 19:26:58,0.437s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""Banner/Banner List/button_Search""))",Chrome 114.0.0.0,,,2023-07-17 19:26:58,2023-07-17 19:26:58,0.468s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""Banner/Banner List/button_Add""))",Chrome 114.0.0.0,,,2023-07-17 19:26:58,2023-07-17 19:26:59,0.445s,PASSED
+"verifyElementVisible(findTestObject(""Banner/Banner List/h3_Banner List""))",Chrome 114.0.0.0,,,2023-07-17 19:26:59,2023-07-17 19:26:59,0.420s,PASSED
+"verifyElementVisible(findTestObject(""Banner/Banner List/select_lkym5tigerhubking1678""))",Chrome 114.0.0.0,,,2023-07-17 19:26:59,2023-07-17 19:27:00,0.429s,PASSED
+"verifyElementVisible(findTestObject(""Banner/Banner List/select_enchbmthvtidmy""))",Chrome 114.0.0.0,,,2023-07-17 19:27:00,2023-07-17 19:27:00,0.434s,PASSED
+"verifyElementVisible(findTestObject(""Banner/Banner List/button_Search""))",Chrome 114.0.0.0,,,2023-07-17 19:27:00,2023-07-17 19:27:00,0.436s,PASSED
+"verifyElementVisible(findTestObject(""Banner/Banner List/button_Add""))",Chrome 114.0.0.0,,,2023-07-17 19:27:00,2023-07-17 19:27:01,0.400s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""Banner/Banner List/select_102550100""))",Chrome 114.0.0.0,,,2023-07-17 19:27:01,2023-07-17 19:27:01,0.434s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""Banner/Banner List/span_Copy""))",Chrome 114.0.0.0,,,2023-07-17 19:27:01,2023-07-17 19:27:02,0.456s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""Banner/Banner List/span_CSV""))",Chrome 114.0.0.0,,,2023-07-17 19:27:02,2023-07-17 19:27:02,0.463s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""Banner/Banner List/span_Excel""))",Chrome 114.0.0.0,,,2023-07-17 19:27:02,2023-07-17 19:27:03,0.478s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""Banner/Banner List/span_PDF""))",Chrome 114.0.0.0,,,2023-07-17 19:27:03,2023-07-17 19:27:03,0.548s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""Banner/Banner List/input_Search_form-control form-control-sm""))",Chrome 114.0.0.0,,,2023-07-17 19:27:03,2023-07-17 19:27:04,0.469s,PASSED
+"verifyElementVisible(findTestObject(""Banner/Banner List/select_102550100""))",Chrome 114.0.0.0,,,2023-07-17 19:27:04,2023-07-17 19:27:04,0.438s,PASSED
+"verifyElementVisible(findTestObject(""Banner/Banner List/span_Copy""))",Chrome 114.0.0.0,,,2023-07-17 19:27:04,2023-07-17 19:27:05,0.418s,PASSED
+"verifyElementVisible(findTestObject(""Banner/Banner List/span_CSV""))",Chrome 114.0.0.0,,,2023-07-17 19:27:05,2023-07-17 19:27:05,0.403s,PASSED
+"verifyElementVisible(findTestObject(""Banner/Banner List/span_Excel""))",Chrome 114.0.0.0,,,2023-07-17 19:27:05,2023-07-17 19:27:05,0.400s,PASSED
+"verifyElementVisible(findTestObject(""Banner/Banner List/span_PDF""))",Chrome 114.0.0.0,,,2023-07-17 19:27:05,2023-07-17 19:27:06,0.428s,PASSED
+"verifyElementVisible(findTestObject(""Banner/Banner List/input_Search_form-control form-control-sm""))",Chrome 114.0.0.0,,,2023-07-17 19:27:06,2023-07-17 19:27:06,0.406s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""Banner/Banner List/th_Banner""))",Chrome 114.0.0.0,,,2023-07-17 19:27:06,2023-07-17 19:27:07,0.468s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""Banner/Banner List/th_Video Thumbnail""))",Chrome 114.0.0.0,,,2023-07-17 19:27:07,2023-07-17 19:27:07,0.459s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""Banner/Banner List/th_Type""))",Chrome 114.0.0.0,,,2023-07-17 19:27:07,2023-07-17 19:27:08,0.450s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""Banner/Banner List/th_Redirect Url""))",Chrome 114.0.0.0,,,2023-07-17 19:27:08,2023-07-17 19:27:08,0.473s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""Banner/Banner List/th_Country""))",Chrome 114.0.0.0,,,2023-07-17 19:27:08,2023-07-17 19:27:08,0.418s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""Banner/Banner List/th_Language""))",Chrome 114.0.0.0,,,2023-07-17 19:27:08,2023-07-17 19:27:09,0.437s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""Banner/Banner List/th_App Type""))",Chrome 114.0.0.0,,,2023-07-17 19:27:09,2023-07-17 19:27:09,0.463s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""Banner/Banner List/th_Action""))",Chrome 114.0.0.0,,,2023-07-17 19:27:09,2023-07-17 19:27:10,0.467s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""Banner/Banner List/table_Banner""))",Chrome 114.0.0.0,,,2023-07-17 19:27:10,2023-07-17 19:27:10,0.452s,PASSED
+"verifyElementVisible(findTestObject(""Banner/Banner List/th_Banner""))",Chrome 114.0.0.0,,,2023-07-17 19:27:10,2023-07-17 19:27:11,0.523s,PASSED
+"verifyElementVisible(findTestObject(""Banner/Banner List/th_Video Thumbnail""))",Chrome 114.0.0.0,,,2023-07-17 19:27:11,2023-07-17 19:27:11,0.410s,PASSED
+"verifyElementVisible(findTestObject(""Banner/Banner List/th_Type""))",Chrome 114.0.0.0,,,2023-07-17 19:27:11,2023-07-17 19:27:12,0.396s,PASSED
+"verifyElementVisible(findTestObject(""Banner/Banner List/th_Redirect Url""))",Chrome 114.0.0.0,,,2023-07-17 19:27:12,2023-07-17 19:27:12,0.426s,PASSED
+"verifyElementVisible(findTestObject(""Banner/Banner List/th_Country""))",Chrome 114.0.0.0,,,2023-07-17 19:27:12,2023-07-17 19:27:12,0.395s,PASSED
+"verifyElementVisible(findTestObject(""Banner/Banner List/th_Language""))",Chrome 114.0.0.0,,,2023-07-17 19:27:12,2023-07-17 19:27:13,0.451s,PASSED
+"verifyElementVisible(findTestObject(""Banner/Banner List/th_App Type""))",Chrome 114.0.0.0,,,2023-07-17 19:27:13,2023-07-17 19:27:13,0.411s,PASSED
+"verifyElementVisible(findTestObject(""Banner/Banner List/th_Action""))",Chrome 114.0.0.0,,,2023-07-17 19:27:13,2023-07-17 19:27:14,0.409s,PASSED
+"verifyElementVisible(findTestObject(""Banner/Banner List/table_Banner""))",Chrome 114.0.0.0,,,2023-07-17 19:27:14,2023-07-17 19:27:14,0.420s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""Banner/Banner List/li_Previous""))",Chrome 114.0.0.0,,,2023-07-17 19:27:14,2023-07-17 19:27:15,0.473s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""Banner/Banner List/li_Next""))",Chrome 114.0.0.0,,,2023-07-17 19:27:15,2023-07-17 19:27:15,0.460s,PASSED
+"verifyElementVisible(findTestObject(""Banner/Banner List/li_Previous""))",Chrome 114.0.0.0,,,2023-07-17 19:27:15,2023-07-17 19:27:15,0.403s,PASSED
+"verifyElementVisible(findTestObject(""Banner/Banner List/li_Next""))",Chrome 114.0.0.0,,,2023-07-17 19:27:15,2023-07-17 19:27:16,0.397s,PASSED
+,,,,,,,
+Test Cases/Banner/List IDR,Chrome 114.0.0.0,,,2023-07-17 19:27:16,2023-07-17 19:27:42,26.307s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""Banner/Page_Dashboard/span_Banner""))",Chrome 114.0.0.0,,,2023-07-17 19:27:16,2023-07-17 19:27:17,0.454s,PASSED
+"mouseOver(findTestObject(""Banner/Page_Dashboard/span_Banner""))",Chrome 114.0.0.0,,,2023-07-17 19:27:17,2023-07-17 19:27:17,0.549s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""Banner/Page_Dashboard/span_List""))",Chrome 114.0.0.0,,,2023-07-17 19:27:17,2023-07-17 19:27:18,0.468s,PASSED
+"mouseOver(findTestObject(""Banner/Page_Dashboard/span_List""))",Chrome 114.0.0.0,,,2023-07-17 19:27:18,2023-07-17 19:27:19,0.648s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""Banner/Banner List/span_IDR""))",Chrome 114.0.0.0,,,2023-07-17 19:27:19,2023-07-17 19:27:19,0.454s,PASSED
+"mouseOver(findTestObject(""Banner/Banner List/span_IDR""))",Chrome 114.0.0.0,,,2023-07-17 19:27:19,2023-07-17 19:27:20,0.526s,PASSED
+"click(findTestObject(""Banner/Banner List/span_IDR""))",Chrome 114.0.0.0,,,2023-07-17 19:27:20,2023-07-17 19:27:22,2.693s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""Banner/Banner List/h3_Banner List""))",Chrome 114.0.0.0,,,2023-07-17 19:27:22,2023-07-17 19:27:23,0.708s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""Banner/Banner List/select_lkym5tigerhubking1678""))",Chrome 114.0.0.0,,,2023-07-17 19:27:23,2023-07-17 19:27:23,0.460s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""Banner/Banner List/select_enchbmthvtidmy""))",Chrome 114.0.0.0,,,2023-07-17 19:27:23,2023-07-17 19:27:24,0.546s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""Banner/Banner List/button_Search""))",Chrome 114.0.0.0,,,2023-07-17 19:27:24,2023-07-17 19:27:24,0.457s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""Banner/Banner List/button_Add""))",Chrome 114.0.0.0,,,2023-07-17 19:27:24,2023-07-17 19:27:25,0.467s,PASSED
+"verifyElementVisible(findTestObject(""Banner/Banner List/h3_Banner List""))",Chrome 114.0.0.0,,,2023-07-17 19:27:25,2023-07-17 19:27:25,0.393s,PASSED
+"verifyElementVisible(findTestObject(""Banner/Banner List/select_lkym5tigerhubking1678""))",Chrome 114.0.0.0,,,2023-07-17 19:27:25,2023-07-17 19:27:26,0.411s,PASSED
+"verifyElementVisible(findTestObject(""Banner/Banner List/select_enchbmthvtidmy""))",Chrome 114.0.0.0,,,2023-07-17 19:27:26,2023-07-17 19:27:26,0.399s,PASSED
+"verifyElementVisible(findTestObject(""Banner/Banner List/button_Search""))",Chrome 114.0.0.0,,,2023-07-17 19:27:26,2023-07-17 19:27:26,0.387s,PASSED
+"verifyElementVisible(findTestObject(""Banner/Banner List/button_Add""))",Chrome 114.0.0.0,,,2023-07-17 19:27:26,2023-07-17 19:27:27,0.403s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""Banner/Banner List/select_102550100""))",Chrome 114.0.0.0,,,2023-07-17 19:27:27,2023-07-17 19:27:27,0.454s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""Banner/Banner List/span_Copy""))",Chrome 114.0.0.0,,,2023-07-17 19:27:27,2023-07-17 19:27:28,0.559s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""Banner/Banner List/span_CSV""))",Chrome 114.0.0.0,,,2023-07-17 19:27:28,2023-07-17 19:27:28,0.550s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""Banner/Banner List/span_Excel""))",Chrome 114.0.0.0,,,2023-07-17 19:27:28,2023-07-17 19:27:29,0.460s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""Banner/Banner List/span_PDF""))",Chrome 114.0.0.0,,,2023-07-17 19:27:29,2023-07-17 19:27:29,0.554s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""Banner/Banner List/input_Search_form-control form-control-sm""))",Chrome 114.0.0.0,,,2023-07-17 19:27:29,2023-07-17 19:27:30,0.545s,PASSED
+"verifyElementVisible(findTestObject(""Banner/Banner List/select_102550100""))",Chrome 114.0.0.0,,,2023-07-17 19:27:30,2023-07-17 19:27:30,0.499s,PASSED
+"verifyElementVisible(findTestObject(""Banner/Banner List/span_Copy""))",Chrome 114.0.0.0,,,2023-07-17 19:27:30,2023-07-17 19:27:31,0.407s,PASSED
+"verifyElementVisible(findTestObject(""Banner/Banner List/span_CSV""))",Chrome 114.0.0.0,,,2023-07-17 19:27:31,2023-07-17 19:27:31,0.428s,PASSED
+"verifyElementVisible(findTestObject(""Banner/Banner List/span_Excel""))",Chrome 114.0.0.0,,,2023-07-17 19:27:31,2023-07-17 19:27:32,0.374s,PASSED
+"verifyElementVisible(findTestObject(""Banner/Banner List/span_PDF""))",Chrome 114.0.0.0,,,2023-07-17 19:27:32,2023-07-17 19:27:32,0.408s,PASSED
+"verifyElementVisible(findTestObject(""Banner/Banner List/input_Search_form-control form-control-sm""))",Chrome 114.0.0.0,,,2023-07-17 19:27:32,2023-07-17 19:27:32,0.388s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""Banner/Banner List/th_Banner""))",Chrome 114.0.0.0,,,2023-07-17 19:27:32,2023-07-17 19:27:33,0.456s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""Banner/Banner List/th_Video Thumbnail""))",Chrome 114.0.0.0,,,2023-07-17 19:27:33,2023-07-17 19:27:33,0.449s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""Banner/Banner List/th_Type""))",Chrome 114.0.0.0,,,2023-07-17 19:27:33,2023-07-17 19:27:34,0.446s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""Banner/Banner List/th_Redirect Url""))",Chrome 114.0.0.0,,,2023-07-17 19:27:34,2023-07-17 19:27:34,0.458s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""Banner/Banner List/th_Country""))",Chrome 114.0.0.0,,,2023-07-17 19:27:34,2023-07-17 19:27:35,0.446s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""Banner/Banner List/th_Language""))",Chrome 114.0.0.0,,,2023-07-17 19:27:35,2023-07-17 19:27:35,0.467s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""Banner/Banner List/th_App Type""))",Chrome 114.0.0.0,,,2023-07-17 19:27:35,2023-07-17 19:27:36,0.445s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""Banner/Banner List/th_Action""))",Chrome 114.0.0.0,,,2023-07-17 19:27:36,2023-07-17 19:27:36,0.439s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""Banner/Banner List/table_Banner""))",Chrome 114.0.0.0,,,2023-07-17 19:27:36,2023-07-17 19:27:37,0.441s,PASSED
+"verifyElementVisible(findTestObject(""Banner/Banner List/th_Banner""))",Chrome 114.0.0.0,,,2023-07-17 19:27:37,2023-07-17 19:27:37,0.405s,PASSED
+"verifyElementVisible(findTestObject(""Banner/Banner List/th_Video Thumbnail""))",Chrome 114.0.0.0,,,2023-07-17 19:27:37,2023-07-17 19:27:37,0.412s,PASSED
+"verifyElementVisible(findTestObject(""Banner/Banner List/th_Type""))",Chrome 114.0.0.0,,,2023-07-17 19:27:37,2023-07-17 19:27:38,0.428s,PASSED
+"verifyElementVisible(findTestObject(""Banner/Banner List/th_Redirect Url""))",Chrome 114.0.0.0,,,2023-07-17 19:27:38,2023-07-17 19:27:38,0.401s,PASSED
+"verifyElementVisible(findTestObject(""Banner/Banner List/th_Country""))",Chrome 114.0.0.0,,,2023-07-17 19:27:38,2023-07-17 19:27:39,0.409s,PASSED
+"verifyElementVisible(findTestObject(""Banner/Banner List/th_Language""))",Chrome 114.0.0.0,,,2023-07-17 19:27:39,2023-07-17 19:27:39,0.399s,PASSED
+"verifyElementVisible(findTestObject(""Banner/Banner List/th_App Type""))",Chrome 114.0.0.0,,,2023-07-17 19:27:39,2023-07-17 19:27:39,0.414s,PASSED
+"verifyElementVisible(findTestObject(""Banner/Banner List/th_Action""))",Chrome 114.0.0.0,,,2023-07-17 19:27:39,2023-07-17 19:27:40,0.408s,PASSED
+"verifyElementVisible(findTestObject(""Banner/Banner List/table_Banner""))",Chrome 114.0.0.0,,,2023-07-17 19:27:40,2023-07-17 19:27:40,0.438s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""Banner/Banner List/li_Previous""))",Chrome 114.0.0.0,,,2023-07-17 19:27:40,2023-07-17 19:27:41,0.456s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""Banner/Banner List/li_Next""))",Chrome 114.0.0.0,,,2023-07-17 19:27:41,2023-07-17 19:27:41,0.557s,PASSED
+"verifyElementVisible(findTestObject(""Banner/Banner List/li_Previous""))",Chrome 114.0.0.0,,,2023-07-17 19:27:41,2023-07-17 19:27:42,0.516s,PASSED
+"verifyElementVisible(findTestObject(""Banner/Banner List/li_Next""))",Chrome 114.0.0.0,,,2023-07-17 19:27:42,2023-07-17 19:27:42,0.386s,PASSED
+,,,,,,,
+Test Cases/Banner/List MMK,Chrome 114.0.0.0,,,2023-07-17 19:27:42,2023-07-17 19:28:08,26.339s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""Banner/Page_Dashboard/span_Banner""))",Chrome 114.0.0.0,,,2023-07-17 19:27:43,2023-07-17 19:27:43,0.535s,PASSED
+"mouseOver(findTestObject(""Banner/Page_Dashboard/span_Banner""))",Chrome 114.0.0.0,,,2023-07-17 19:27:43,2023-07-17 19:27:44,0.701s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""Banner/Page_Dashboard/span_List""))",Chrome 114.0.0.0,,,2023-07-17 19:27:44,2023-07-17 19:27:44,0.454s,PASSED
+"mouseOver(findTestObject(""Banner/Page_Dashboard/span_List""))",Chrome 114.0.0.0,,,2023-07-17 19:27:44,2023-07-17 19:27:45,0.546s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""Banner/Banner List/span_MMK""))",Chrome 114.0.0.0,,,2023-07-17 19:27:45,2023-07-17 19:27:45,0.478s,PASSED
+"mouseOver(findTestObject(""Banner/Banner List/span_MMK""))",Chrome 114.0.0.0,,,2023-07-17 19:27:45,2023-07-17 19:27:46,0.518s,PASSED
+"click(findTestObject(""Banner/Banner List/span_MMK""))",Chrome 114.0.0.0,,,2023-07-17 19:27:46,2023-07-17 19:27:49,2.781s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""Banner/Banner List/h3_Banner List""))",Chrome 114.0.0.0,,,2023-07-17 19:27:49,2023-07-17 19:27:49,0.660s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""Banner/Banner List/select_lkym5tigerhubking1678""))",Chrome 114.0.0.0,,,2023-07-17 19:27:49,2023-07-17 19:27:50,0.546s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""Banner/Banner List/select_enchbmthvtidmy""))",Chrome 114.0.0.0,,,2023-07-17 19:27:50,2023-07-17 19:27:50,0.458s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""Banner/Banner List/button_Search""))",Chrome 114.0.0.0,,,2023-07-17 19:27:50,2023-07-17 19:27:51,0.553s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""Banner/Banner List/button_Add""))",Chrome 114.0.0.0,,,2023-07-17 19:27:51,2023-07-17 19:27:51,0.448s,PASSED
+"verifyElementVisible(findTestObject(""Banner/Banner List/h3_Banner List""))",Chrome 114.0.0.0,,,2023-07-17 19:27:51,2023-07-17 19:27:52,0.410s,PASSED
+"verifyElementVisible(findTestObject(""Banner/Banner List/select_lkym5tigerhubking1678""))",Chrome 114.0.0.0,,,2023-07-17 19:27:52,2023-07-17 19:27:52,0.401s,PASSED
+"verifyElementVisible(findTestObject(""Banner/Banner List/select_enchbmthvtidmy""))",Chrome 114.0.0.0,,,2023-07-17 19:27:52,2023-07-17 19:27:53,0.405s,PASSED
+"verifyElementVisible(findTestObject(""Banner/Banner List/button_Search""))",Chrome 114.0.0.0,,,2023-07-17 19:27:53,2023-07-17 19:27:53,0.435s,PASSED
+"verifyElementVisible(findTestObject(""Banner/Banner List/button_Add""))",Chrome 114.0.0.0,,,2023-07-17 19:27:53,2023-07-17 19:27:53,0.384s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""Banner/Banner List/select_102550100""))",Chrome 114.0.0.0,,,2023-07-17 19:27:53,2023-07-17 19:27:54,0.446s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""Banner/Banner List/span_Copy""))",Chrome 114.0.0.0,,,2023-07-17 19:27:54,2023-07-17 19:27:54,0.465s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""Banner/Banner List/span_CSV""))",Chrome 114.0.0.0,,,2023-07-17 19:27:54,2023-07-17 19:27:55,0.557s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""Banner/Banner List/span_Excel""))",Chrome 114.0.0.0,,,2023-07-17 19:27:55,2023-07-17 19:27:55,0.462s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""Banner/Banner List/span_PDF""))",Chrome 114.0.0.0,,,2023-07-17 19:27:55,2023-07-17 19:27:56,0.560s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""Banner/Banner List/input_Search_form-control form-control-sm""))",Chrome 114.0.0.0,,,2023-07-17 19:27:56,2023-07-17 19:27:56,0.535s,PASSED
+"verifyElementVisible(findTestObject(""Banner/Banner List/select_102550100""))",Chrome 114.0.0.0,,,2023-07-17 19:27:56,2023-07-17 19:27:57,0.411s,PASSED
+"verifyElementVisible(findTestObject(""Banner/Banner List/span_Copy""))",Chrome 114.0.0.0,,,2023-07-17 19:27:57,2023-07-17 19:27:57,0.392s,PASSED
+"verifyElementVisible(findTestObject(""Banner/Banner List/span_CSV""))",Chrome 114.0.0.0,,,2023-07-17 19:27:57,2023-07-17 19:27:58,0.397s,PASSED
+"verifyElementVisible(findTestObject(""Banner/Banner List/span_Excel""))",Chrome 114.0.0.0,,,2023-07-17 19:27:58,2023-07-17 19:27:58,0.414s,PASSED
+"verifyElementVisible(findTestObject(""Banner/Banner List/span_PDF""))",Chrome 114.0.0.0,,,2023-07-17 19:27:58,2023-07-17 19:27:58,0.399s,PASSED
+"verifyElementVisible(findTestObject(""Banner/Banner List/input_Search_form-control form-control-sm""))",Chrome 114.0.0.0,,,2023-07-17 19:27:58,2023-07-17 19:27:59,0.421s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""Banner/Banner List/th_Banner""))",Chrome 114.0.0.0,,,2023-07-17 19:27:59,2023-07-17 19:27:59,0.459s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""Banner/Banner List/th_Video Thumbnail""))",Chrome 114.0.0.0,,,2023-07-17 19:27:59,2023-07-17 19:28:00,0.455s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""Banner/Banner List/th_Type""))",Chrome 114.0.0.0,,,2023-07-17 19:28:00,2023-07-17 19:28:00,0.430s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""Banner/Banner List/th_Redirect Url""))",Chrome 114.0.0.0,,,2023-07-17 19:28:00,2023-07-17 19:28:01,0.445s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""Banner/Banner List/th_Country""))",Chrome 114.0.0.0,,,2023-07-17 19:28:01,2023-07-17 19:28:01,0.423s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""Banner/Banner List/th_Language""))",Chrome 114.0.0.0,,,2023-07-17 19:28:01,2023-07-17 19:28:02,0.451s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""Banner/Banner List/th_App Type""))",Chrome 114.0.0.0,,,2023-07-17 19:28:02,2023-07-17 19:28:02,0.438s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""Banner/Banner List/th_Action""))",Chrome 114.0.0.0,,,2023-07-17 19:28:02,2023-07-17 19:28:02,0.463s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""Banner/Banner List/table_Banner""))",Chrome 114.0.0.0,,,2023-07-17 19:28:02,2023-07-17 19:28:03,0.445s,PASSED
+"verifyElementVisible(findTestObject(""Banner/Banner List/th_Banner""))",Chrome 114.0.0.0,,,2023-07-17 19:28:03,2023-07-17 19:28:03,0.519s,PASSED
+"verifyElementVisible(findTestObject(""Banner/Banner List/th_Video Thumbnail""))",Chrome 114.0.0.0,,,2023-07-17 19:28:03,2023-07-17 19:28:04,0.459s,PASSED
+"verifyElementVisible(findTestObject(""Banner/Banner List/th_Type""))",Chrome 114.0.0.0,,,2023-07-17 19:28:04,2023-07-17 19:28:04,0.403s,PASSED
+"verifyElementVisible(findTestObject(""Banner/Banner List/th_Redirect Url""))",Chrome 114.0.0.0,,,2023-07-17 19:28:04,2023-07-17 19:28:05,0.406s,PASSED
+"verifyElementVisible(findTestObject(""Banner/Banner List/th_Country""))",Chrome 114.0.0.0,,,2023-07-17 19:28:05,2023-07-17 19:28:05,0.428s,PASSED
+"verifyElementVisible(findTestObject(""Banner/Banner List/th_Language""))",Chrome 114.0.0.0,,,2023-07-17 19:28:05,2023-07-17 19:28:06,0.419s,PASSED
+"verifyElementVisible(findTestObject(""Banner/Banner List/th_App Type""))",Chrome 114.0.0.0,,,2023-07-17 19:28:06,2023-07-17 19:28:06,0.422s,PASSED
+"verifyElementVisible(findTestObject(""Banner/Banner List/th_Action""))",Chrome 114.0.0.0,,,2023-07-17 19:28:06,2023-07-17 19:28:06,0.408s,PASSED
+"verifyElementVisible(findTestObject(""Banner/Banner List/table_Banner""))",Chrome 114.0.0.0,,,2023-07-17 19:28:06,2023-07-17 19:28:07,0.398s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""Banner/Banner List/li_Previous""))",Chrome 114.0.0.0,,,2023-07-17 19:28:07,2023-07-17 19:28:07,0.439s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""Banner/Banner List/li_Next""))",Chrome 114.0.0.0,,,2023-07-17 19:28:07,2023-07-17 19:28:08,0.465s,PASSED
+"verifyElementVisible(findTestObject(""Banner/Banner List/li_Previous""))",Chrome 114.0.0.0,,,2023-07-17 19:28:08,2023-07-17 19:28:08,0.422s,PASSED
+"verifyElementVisible(findTestObject(""Banner/Banner List/li_Next""))",Chrome 114.0.0.0,,,2023-07-17 19:28:08,2023-07-17 19:28:08,0.372s,PASSED
+,,,,,,,
+Test Cases/Banner/List RMB,Chrome 114.0.0.0,,,2023-07-17 19:28:09,2023-07-17 19:28:34,25.441s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""Banner/Page_Dashboard/span_Banner""))",Chrome 114.0.0.0,,,2023-07-17 19:28:09,2023-07-17 19:28:10,0.454s,PASSED
+"mouseOver(findTestObject(""Banner/Page_Dashboard/span_Banner""))",Chrome 114.0.0.0,,,2023-07-17 19:28:10,2023-07-17 19:28:10,0.544s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""Banner/Page_Dashboard/span_List""))",Chrome 114.0.0.0,,,2023-07-17 19:28:10,2023-07-17 19:28:10,0.451s,PASSED
+"mouseOver(findTestObject(""Banner/Page_Dashboard/span_List""))",Chrome 114.0.0.0,,,2023-07-17 19:28:10,2023-07-17 19:28:11,0.545s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""Banner/Banner List/span_RMB""))",Chrome 114.0.0.0,,,2023-07-17 19:28:11,2023-07-17 19:28:12,0.486s,PASSED
+"mouseOver(findTestObject(""Banner/Banner List/span_RMB""))",Chrome 114.0.0.0,,,2023-07-17 19:28:12,2023-07-17 19:28:12,0.580s,PASSED
+"click(findTestObject(""Banner/Banner List/span_RMB""))",Chrome 114.0.0.0,,,2023-07-17 19:28:12,2023-07-17 19:28:15,2.627s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""Banner/Banner List/h3_Banner List""))",Chrome 114.0.0.0,,,2023-07-17 19:28:15,2023-07-17 19:28:15,0.560s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""Banner/Banner List/select_lkym5tigerhubking1678""))",Chrome 114.0.0.0,,,2023-07-17 19:28:15,2023-07-17 19:28:16,0.441s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""Banner/Banner List/select_enchbmthvtidmy""))",Chrome 114.0.0.0,,,2023-07-17 19:28:16,2023-07-17 19:28:16,0.558s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""Banner/Banner List/button_Search""))",Chrome 114.0.0.0,,,2023-07-17 19:28:16,2023-07-17 19:28:17,0.471s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""Banner/Banner List/button_Add""))",Chrome 114.0.0.0,,,2023-07-17 19:28:17,2023-07-17 19:28:17,0.452s,PASSED
+"verifyElementVisible(findTestObject(""Banner/Banner List/h3_Banner List""))",Chrome 114.0.0.0,,,2023-07-17 19:28:17,2023-07-17 19:28:18,0.410s,PASSED
+"verifyElementVisible(findTestObject(""Banner/Banner List/select_lkym5tigerhubking1678""))",Chrome 114.0.0.0,,,2023-07-17 19:28:18,2023-07-17 19:28:18,0.423s,PASSED
+"verifyElementVisible(findTestObject(""Banner/Banner List/select_enchbmthvtidmy""))",Chrome 114.0.0.0,,,2023-07-17 19:28:18,2023-07-17 19:28:18,0.405s,PASSED
+"verifyElementVisible(findTestObject(""Banner/Banner List/button_Search""))",Chrome 114.0.0.0,,,2023-07-17 19:28:18,2023-07-17 19:28:19,0.404s,PASSED
+"verifyElementVisible(findTestObject(""Banner/Banner List/button_Add""))",Chrome 114.0.0.0,,,2023-07-17 19:28:19,2023-07-17 19:28:19,0.389s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""Banner/Banner List/select_102550100""))",Chrome 114.0.0.0,,,2023-07-17 19:28:19,2023-07-17 19:28:20,0.445s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""Banner/Banner List/span_Copy""))",Chrome 114.0.0.0,,,2023-07-17 19:28:20,2023-07-17 19:28:20,0.459s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""Banner/Banner List/span_CSV""))",Chrome 114.0.0.0,,,2023-07-17 19:28:20,2023-07-17 19:28:21,0.462s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""Banner/Banner List/span_Excel""))",Chrome 114.0.0.0,,,2023-07-17 19:28:21,2023-07-17 19:28:21,0.461s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""Banner/Banner List/span_PDF""))",Chrome 114.0.0.0,,,2023-07-17 19:28:21,2023-07-17 19:28:22,0.559s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""Banner/Banner List/input_Search_form-control form-control-sm""))",Chrome 114.0.0.0,,,2023-07-17 19:28:22,2023-07-17 19:28:22,0.540s,PASSED
+"verifyElementVisible(findTestObject(""Banner/Banner List/select_102550100""))",Chrome 114.0.0.0,,,2023-07-17 19:28:22,2023-07-17 19:28:23,0.398s,PASSED
+"verifyElementVisible(findTestObject(""Banner/Banner List/span_Copy""))",Chrome 114.0.0.0,,,2023-07-17 19:28:23,2023-07-17 19:28:23,0.394s,PASSED
+"verifyElementVisible(findTestObject(""Banner/Banner List/span_CSV""))",Chrome 114.0.0.0,,,2023-07-17 19:28:23,2023-07-17 19:28:23,0.411s,PASSED
+"verifyElementVisible(findTestObject(""Banner/Banner List/span_Excel""))",Chrome 114.0.0.0,,,2023-07-17 19:28:23,2023-07-17 19:28:24,0.409s,PASSED
+"verifyElementVisible(findTestObject(""Banner/Banner List/span_PDF""))",Chrome 114.0.0.0,,,2023-07-17 19:28:24,2023-07-17 19:28:24,0.373s,PASSED
+"verifyElementVisible(findTestObject(""Banner/Banner List/input_Search_form-control form-control-sm""))",Chrome 114.0.0.0,,,2023-07-17 19:28:24,2023-07-17 19:28:25,0.405s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""Banner/Banner List/th_Banner""))",Chrome 114.0.0.0,,,2023-07-17 19:28:25,2023-07-17 19:28:25,0.431s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""Banner/Banner List/th_Video Thumbnail""))",Chrome 114.0.0.0,,,2023-07-17 19:28:25,2023-07-17 19:28:25,0.472s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""Banner/Banner List/th_Type""))",Chrome 114.0.0.0,,,2023-07-17 19:28:25,2023-07-17 19:28:26,0.427s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""Banner/Banner List/th_Redirect Url""))",Chrome 114.0.0.0,,,2023-07-17 19:28:26,2023-07-17 19:28:26,0.465s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""Banner/Banner List/th_Country""))",Chrome 114.0.0.0,,,2023-07-17 19:28:26,2023-07-17 19:28:27,0.468s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""Banner/Banner List/th_Language""))",Chrome 114.0.0.0,,,2023-07-17 19:28:27,2023-07-17 19:28:27,0.431s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""Banner/Banner List/th_App Type""))",Chrome 114.0.0.0,,,2023-07-17 19:28:27,2023-07-17 19:28:28,0.438s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""Banner/Banner List/th_Action""))",Chrome 114.0.0.0,,,2023-07-17 19:28:28,2023-07-17 19:28:28,0.431s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""Banner/Banner List/table_Banner""))",Chrome 114.0.0.0,,,2023-07-17 19:28:28,2023-07-17 19:28:29,0.444s,PASSED
+"verifyElementVisible(findTestObject(""Banner/Banner List/th_Banner""))",Chrome 114.0.0.0,,,2023-07-17 19:28:29,2023-07-17 19:28:29,0.416s,PASSED
+"verifyElementVisible(findTestObject(""Banner/Banner List/th_Video Thumbnail""))",Chrome 114.0.0.0,,,2023-07-17 19:28:29,2023-07-17 19:28:29,0.397s,PASSED
+"verifyElementVisible(findTestObject(""Banner/Banner List/th_Type""))",Chrome 114.0.0.0,,,2023-07-17 19:28:29,2023-07-17 19:28:30,0.395s,PASSED
+"verifyElementVisible(findTestObject(""Banner/Banner List/th_Redirect Url""))",Chrome 114.0.0.0,,,2023-07-17 19:28:30,2023-07-17 19:28:30,0.418s,PASSED
+"verifyElementVisible(findTestObject(""Banner/Banner List/th_Country""))",Chrome 114.0.0.0,,,2023-07-17 19:28:30,2023-07-17 19:28:31,0.377s,PASSED
+"verifyElementVisible(findTestObject(""Banner/Banner List/th_Language""))",Chrome 114.0.0.0,,,2023-07-17 19:28:31,2023-07-17 19:28:31,0.394s,PASSED
+"verifyElementVisible(findTestObject(""Banner/Banner List/th_App Type""))",Chrome 114.0.0.0,,,2023-07-17 19:28:31,2023-07-17 19:28:31,0.398s,PASSED
+"verifyElementVisible(findTestObject(""Banner/Banner List/th_Action""))",Chrome 114.0.0.0,,,2023-07-17 19:28:31,2023-07-17 19:28:32,0.363s,PASSED
+"verifyElementVisible(findTestObject(""Banner/Banner List/table_Banner""))",Chrome 114.0.0.0,,,2023-07-17 19:28:32,2023-07-17 19:28:32,0.385s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""Banner/Banner List/li_Previous""))",Chrome 114.0.0.0,,,2023-07-17 19:28:32,2023-07-17 19:28:33,0.472s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""Banner/Banner List/li_Next""))",Chrome 114.0.0.0,,,2023-07-17 19:28:33,2023-07-17 19:28:33,0.448s,PASSED
+"verifyElementVisible(findTestObject(""Banner/Banner List/li_Previous""))",Chrome 114.0.0.0,,,2023-07-17 19:28:33,2023-07-17 19:28:34,0.498s,PASSED
+"verifyElementVisible(findTestObject(""Banner/Banner List/li_Next""))",Chrome 114.0.0.0,,,2023-07-17 19:28:34,2023-07-17 19:28:34,0.397s,PASSED

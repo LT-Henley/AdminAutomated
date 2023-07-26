@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>th_Sales</name>
+   <tag></tag>
+   <elementGuidId>c1a475a8-64d8-4c2c-8d8c-9a0ac4160ff5</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(//table[@id='datatable']/thead/tr/th[3])[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.kt-portlet__body > #datatable > thead > tr > th:nth-of-type(3)</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>th</value>
+      <webElementGuid>b187c7df-06ec-409a-b9b3-e30c2ffc20c9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Sales</value>
+      <webElementGuid>f9c76c09-1c00-4027-999a-40e5ecc51fdc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;selfSummaryReportLayout&quot;)/div[@class=&quot;kt-portlet kt-portlet--mobile&quot;]/div[@class=&quot;kt-portlet__body&quot;]/table[@id=&quot;datatable&quot;]/thead[1]/tr[1]/th[3]</value>
+      <webElementGuid>d6c1dbb2-d160-48c9-b471-429e0074297e</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>(//table[@id='datatable']/thead/tr/th[3])[2]</value>
+      <webElementGuid>8de1daa0-6a4b-4caa-ad51-bb2883daf281</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Category'])[2]/following::th[1]</value>
+      <webElementGuid>620799c9-8565-443b-b467-6ce7e8dd95eb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Account'])[1]/following::th[2]</value>
+      <webElementGuid>b91a6918-7f37-4ff0-8df4-38104a8da8cb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Platform Share'])[1]/preceding::th[1]</value>
+      <webElementGuid>26c61897-a295-4acf-84bf-64c20e533191</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Platform Profit'])[1]/preceding::th[2]</value>
+      <webElementGuid>fa8f5293-edda-452f-a1b0-82a5238f105a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Sales']/parent::*</value>
+      <webElementGuid>fc7bd04a-b024-474f-a3ab-5d3bc7a2b095</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/table/thead/tr/th[3]</value>
+      <webElementGuid>78daedaf-8ff4-4639-8736-1c050b0acc42</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//th[(text() = 'Sales' or . = 'Sales')]</value>
+      <webElementGuid>b71c0115-51cf-4205-bf94-0501d5a22cf2</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,33 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+Smoke,Chrome 114.0.0.0,,,2023-06-16 21:52:33,2023-06-16 21:53:13,40.279s,PASSED
+,,,,,,,
+Test Cases/Interest/Interest List MYR,Chrome 114.0.0.0,,,2023-06-16 21:52:33,2023-06-16 21:53:02,28.744s,PASSED
+"callTestCase(findTestCase(""Login Admin""), [:], STOP_ON_FAILURE)",Chrome 114.0.0.0,,,2023-06-16 21:52:34,2023-06-16 21:52:59,25.347s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""Interest/Page_Dashboard/span_Interest""))",Chrome 114.0.0.0,,,2023-06-16 21:52:59,2023-06-16 21:53:00,0.723s,PASSED
+"mouseOver(findTestObject(""Interest/Page_Dashboard/span_Interest""))",Chrome 114.0.0.0,,,2023-06-16 21:53:00,2023-06-16 21:53:01,0.734s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""Interest/Page_Dashboard/span_Interest List MYR""))",Chrome 114.0.0.0,,,2023-06-16 21:53:01,2023-06-16 21:53:01,0.538s,PASSED
+"mouseOver(findTestObject(""Interest/Page_Dashboard/span_Interest List MYR""))",Chrome 114.0.0.0,,,2023-06-16 21:53:01,2023-06-16 21:53:02,0.657s,PASSED
+,,,,,,,
+Test Cases/Interest/Interest List THB,Chrome 114.0.0.0,,,2023-06-16 21:53:02,2023-06-16 21:53:05,2.827s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""Interest/Page_Dashboard/span_Interest""))",Chrome 114.0.0.0,,,2023-06-16 21:53:03,2023-06-16 21:53:03,0.493s,PASSED
+"mouseOver(findTestObject(""Interest/Page_Dashboard/span_Interest""))",Chrome 114.0.0.0,,,2023-06-16 21:53:03,2023-06-16 21:53:04,0.577s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""Interest/Page_Dashboard/span_Interest List THB""))",Chrome 114.0.0.0,,,2023-06-16 21:53:04,2023-06-16 21:53:04,0.470s,PASSED
+"mouseOver(findTestObject(""Interest/Page_Dashboard/span_Interest List THB""))",Chrome 114.0.0.0,,,2023-06-16 21:53:04,2023-06-16 21:53:05,0.559s,PASSED
+,,,,,,,
+Test Cases/Interest/Interest List IDR,Chrome 114.0.0.0,,,2023-06-16 21:53:05,2023-06-16 21:53:08,2.629s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""Interest/Page_Dashboard/span_Interest""))",Chrome 114.0.0.0,,,2023-06-16 21:53:05,2023-06-16 21:53:06,0.502s,PASSED
+"mouseOver(findTestObject(""Interest/Page_Dashboard/span_Interest""))",Chrome 114.0.0.0,,,2023-06-16 21:53:06,2023-06-16 21:53:07,0.552s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""Interest/Page_Dashboard/span_Interest List IDR""))",Chrome 114.0.0.0,,,2023-06-16 21:53:07,2023-06-16 21:53:07,0.478s,PASSED
+"mouseOver(findTestObject(""Interest/Page_Dashboard/span_Interest List IDR""))",Chrome 114.0.0.0,,,2023-06-16 21:53:07,2023-06-16 21:53:08,0.531s,PASSED
+,,,,,,,
+Test Cases/Interest/Interest List MMK,Chrome 114.0.0.0,,,2023-06-16 21:53:08,2023-06-16 21:53:10,2.798s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""Interest/Page_Dashboard/span_Interest""))",Chrome 114.0.0.0,,,2023-06-16 21:53:08,2023-06-16 21:53:09,0.533s,PASSED
+"mouseOver(findTestObject(""Interest/Page_Dashboard/span_Interest""))",Chrome 114.0.0.0,,,2023-06-16 21:53:09,2023-06-16 21:53:09,0.531s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""Interest/Page_Dashboard/span_Interest List MMK""))",Chrome 114.0.0.0,,,2023-06-16 21:53:09,2023-06-16 21:53:10,0.475s,PASSED
+"mouseOver(findTestObject(""Interest/Page_Dashboard/span_Interest List MMK""))",Chrome 114.0.0.0,,,2023-06-16 21:53:10,2023-06-16 21:53:10,0.541s,PASSED
+,,,,,,,
+Test Cases/Interest/Interest List RMB,Chrome 114.0.0.0,,,2023-06-16 21:53:10,2023-06-16 21:53:13,2.727s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""Interest/Page_Dashboard/span_Interest""))",Chrome 114.0.0.0,,,2023-06-16 21:53:11,2023-06-16 21:53:11,0.445s,PASSED
+"mouseOver(findTestObject(""Interest/Page_Dashboard/span_Interest""))",Chrome 114.0.0.0,,,2023-06-16 21:53:11,2023-06-16 21:53:12,0.647s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""Interest/Page_Dashboard/span_Interest List RMB""))",Chrome 114.0.0.0,,,2023-06-16 21:53:12,2023-06-16 21:53:12,0.569s,PASSED
+"mouseOver(findTestObject(""Interest/Page_Dashboard/span_Interest List RMB""))",Chrome 114.0.0.0,,,2023-06-16 21:53:12,2023-06-16 21:53:13,0.580s,PASSED

@@ -1,0 +1,75 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+Smoke,Chrome 114.0.0.0,,,2023-06-16 22:17:29,2023-06-16 22:18:29,59.435s,PASSED
+,,,,,,,
+Test Cases/Announcement/Public,Chrome 114.0.0.0,,,2023-06-16 22:17:30,2023-06-16 22:17:57,26.764s,PASSED
+"callTestCase(findTestCase(""Login Admin""), [:], STOP_ON_FAILURE)",Chrome 114.0.0.0,,,2023-06-16 22:17:31,2023-06-16 22:17:54,23.398s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""Announcement/Page_Dashboard/span_Announcement""))",Chrome 114.0.0.0,,,2023-06-16 22:17:54,2023-06-16 22:17:55,0.692s,PASSED
+"mouseOver(findTestObject(""Announcement/Page_Dashboard/span_Announcement""))",Chrome 114.0.0.0,,,2023-06-16 22:17:55,2023-06-16 22:17:55,0.603s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""Announcement/Page_Dashboard/span_Public""))",Chrome 114.0.0.0,,,2023-06-16 22:17:55,2023-06-16 22:17:56,0.486s,PASSED
+"mouseOver(findTestObject(""Announcement/Page_Dashboard/span_Public""))",Chrome 114.0.0.0,,,2023-06-16 22:17:56,2023-06-16 22:17:57,0.641s,PASSED
+,,,,,,,
+Test Cases/Announcement/Member,Chrome 114.0.0.0,,,2023-06-16 22:17:57,2023-06-16 22:17:59,2.837s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""Announcement/Page_Dashboard/span_Announcement""))",Chrome 114.0.0.0,,,2023-06-16 22:17:57,2023-06-16 22:17:58,0.462s,PASSED
+"mouseOver(findTestObject(""Announcement/Page_Dashboard/span_Announcement""))",Chrome 114.0.0.0,,,2023-06-16 22:17:58,2023-06-16 22:17:58,0.553s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""Announcement/Page_Dashboard/span_Member""))",Chrome 114.0.0.0,,,2023-06-16 22:17:58,2023-06-16 22:17:59,0.487s,PASSED
+"mouseOver(findTestObject(""Announcement/Page_Dashboard/span_Member""))",Chrome 114.0.0.0,,,2023-06-16 22:17:59,2023-06-16 22:17:59,0.586s,PASSED
+,,,,,,,
+Test Cases/Announcement/Shareholder,Chrome 114.0.0.0,,,2023-06-16 22:17:59,2023-06-16 22:18:02,2.718s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""Announcement/Page_Dashboard/span_Announcement""))",Chrome 114.0.0.0,,,2023-06-16 22:18:00,2023-06-16 22:18:00,0.438s,PASSED
+"mouseOver(findTestObject(""Announcement/Page_Dashboard/span_Announcement""))",Chrome 114.0.0.0,,,2023-06-16 22:18:00,2023-06-16 22:18:01,0.549s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""Announcement/Page_Dashboard/span_Shareholder""))",Chrome 114.0.0.0,,,2023-06-16 22:18:01,2023-06-16 22:18:02,0.477s,PASSED
+"mouseOver(findTestObject(""Announcement/Page_Dashboard/span_Shareholder""))",Chrome 114.0.0.0,,,2023-06-16 22:18:02,2023-06-16 22:18:02,0.557s,PASSED
+,,,,,,,
+Test Cases/Game/Product List,Chrome 114.0.0.0,,,2023-06-16 22:18:02,2023-06-16 22:18:05,3.199s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""Game/Page_Dashboard/span_Game""))",Chrome 114.0.0.0,,,2023-06-16 22:18:03,2023-06-16 22:18:04,0.589s,PASSED
+"mouseOver(findTestObject(""Game/Page_Dashboard/span_Game""))",Chrome 114.0.0.0,,,2023-06-16 22:18:04,2023-06-16 22:18:04,0.536s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""Game/Page_Dashboard/span_Product List""))",Chrome 114.0.0.0,,,2023-06-16 22:18:04,2023-06-16 22:18:05,0.479s,PASSED
+"mouseOver(findTestObject(""Game/Page_Dashboard/span_Product List""))",Chrome 114.0.0.0,,,2023-06-16 22:18:05,2023-06-16 22:18:05,0.517s,PASSED
+,,,,,,,
+Test Cases/Game/Product Sequence,Chrome 114.0.0.0,,,2023-06-16 22:18:05,2023-06-16 22:18:08,2.551s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""Game/Page_Dashboard/span_Game""))",Chrome 114.0.0.0,,,2023-06-16 22:18:06,2023-06-16 22:18:06,0.456s,PASSED
+"mouseOver(findTestObject(""Game/Page_Dashboard/span_Game""))",Chrome 114.0.0.0,,,2023-06-16 22:18:06,2023-06-16 22:18:07,0.565s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""Game/Page_Dashboard/span_Product Sequence""))",Chrome 114.0.0.0,,,2023-06-16 22:18:07,2023-06-16 22:18:07,0.466s,PASSED
+"mouseOver(findTestObject(""Game/Page_Dashboard/span_Product Sequence""))",Chrome 114.0.0.0,,,2023-06-16 22:18:07,2023-06-16 22:18:08,0.536s,PASSED
+,,,,,,,
+Test Cases/Game/Lucky Draw,Chrome 114.0.0.0,,,2023-06-16 22:18:08,2023-06-16 22:18:10,2.623s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""Game/Page_Dashboard/span_Game""))",Chrome 114.0.0.0,,,2023-06-16 22:18:08,2023-06-16 22:18:09,0.459s,PASSED
+"mouseOver(findTestObject(""Game/Page_Dashboard/span_Game""))",Chrome 114.0.0.0,,,2023-06-16 22:18:09,2023-06-16 22:18:09,0.524s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""Game/Page_Dashboard/span_Lucky Draw""))",Chrome 114.0.0.0,,,2023-06-16 22:18:09,2023-06-16 22:18:10,0.507s,PASSED
+"mouseOver(findTestObject(""Game/Page_Dashboard/span_Lucky Draw""))",Chrome 114.0.0.0,,,2023-06-16 22:18:10,2023-06-16 22:18:10,0.574s,PASSED
+,,,,,,,
+Test Cases/Game/Xe88 Sequence,Chrome 114.0.0.0,,,2023-06-16 22:18:10,2023-06-16 22:18:14,3.073s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""Game/Page_Dashboard/span_Game""))",Chrome 114.0.0.0,,,2023-06-16 22:18:12,2023-06-16 22:18:12,0.460s,PASSED
+"mouseOver(findTestObject(""Game/Page_Dashboard/span_Game""))",Chrome 114.0.0.0,,,2023-06-16 22:18:12,2023-06-16 22:18:13,0.584s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""Game/Page_Dashboard/span_Xe88 Sequence""))",Chrome 114.0.0.0,,,2023-06-16 22:18:13,2023-06-16 22:18:13,0.431s,PASSED
+"mouseOver(findTestObject(""Game/Page_Dashboard/span_Xe88 Sequence""))",Chrome 114.0.0.0,,,2023-06-16 22:18:13,2023-06-16 22:18:14,0.553s,PASSED
+,,,,,,,
+Test Cases/Game/Vpower Sequence,Chrome 114.0.0.0,,,2023-06-16 22:18:14,2023-06-16 22:18:16,2.412s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""Game/Page_Dashboard/span_Game""))",Chrome 114.0.0.0,,,2023-06-16 22:18:14,2023-06-16 22:18:14,0.428s,PASSED
+"mouseOver(findTestObject(""Game/Page_Dashboard/span_Game""))",Chrome 114.0.0.0,,,2023-06-16 22:18:14,2023-06-16 22:18:15,0.542s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""Game/Page_Dashboard/span_Xe88 Sequence""))",Chrome 114.0.0.0,,,2023-06-16 22:18:15,2023-06-16 22:18:15,0.454s,PASSED
+"mouseOver(findTestObject(""Game/Page_Dashboard/span_Xe88 Sequence""))",Chrome 114.0.0.0,,,2023-06-16 22:18:15,2023-06-16 22:18:16,0.534s,PASSED
+,,,,,,,
+Test Cases/Game/Gioco Sequence,Chrome 114.0.0.0,,,2023-06-16 22:18:16,2023-06-16 22:18:18,2.537s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""Game/Page_Dashboard/span_Game""))",Chrome 114.0.0.0,,,2023-06-16 22:18:17,2023-06-16 22:18:17,0.470s,PASSED
+"mouseOver(findTestObject(""Game/Page_Dashboard/span_Game""))",Chrome 114.0.0.0,,,2023-06-16 22:18:17,2023-06-16 22:18:18,0.534s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""Game/Page_Dashboard/span_Gioco Sequence""))",Chrome 114.0.0.0,,,2023-06-16 22:18:18,2023-06-16 22:18:18,0.427s,PASSED
+"mouseOver(findTestObject(""Game/Page_Dashboard/span_Gioco Sequence""))",Chrome 114.0.0.0,,,2023-06-16 22:18:18,2023-06-16 22:18:18,0.555s,PASSED
+,,,,,,,
+Test Cases/Game/Playtech Sequence,Chrome 114.0.0.0,,,2023-06-16 22:18:18,2023-06-16 22:18:24,5.106s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""Game/Page_Dashboard/span_Game""))",Chrome 114.0.0.0,,,2023-06-16 22:18:19,2023-06-16 22:18:19,0.448s,PASSED
+"mouseOver(findTestObject(""Game/Page_Dashboard/span_Game""))",Chrome 114.0.0.0,,,2023-06-16 22:18:19,2023-06-16 22:18:20,0.602s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""Game/Page_Dashboard/span_Xe88 Sequence""))",Chrome 114.0.0.0,,,2023-06-16 22:18:20,2023-06-16 22:18:21,0.843s,PASSED
+"mouseOver(findTestObject(""Game/Page_Dashboard/span_Xe88 Sequence""))",Chrome 114.0.0.0,,,2023-06-16 22:18:21,2023-06-16 22:18:24,2.679s,PASSED
+,,,,,,,
+Test Cases/Game/Joker Sequence,Chrome 114.0.0.0,,,2023-06-16 22:18:24,2023-06-16 22:18:26,2.590s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""Game/Page_Dashboard/span_Game""))",Chrome 114.0.0.0,,,2023-06-16 22:18:24,2023-06-16 22:18:25,0.447s,PASSED
+"mouseOver(findTestObject(""Game/Page_Dashboard/span_Game""))",Chrome 114.0.0.0,,,2023-06-16 22:18:25,2023-06-16 22:18:25,0.618s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""Game/Page_Dashboard/span_Joker Sequence""))",Chrome 114.0.0.0,,,2023-06-16 22:18:25,2023-06-16 22:18:26,0.479s,PASSED
+"mouseOver(findTestObject(""Game/Page_Dashboard/span_Joker Sequence""))",Chrome 114.0.0.0,,,2023-06-16 22:18:26,2023-06-16 22:18:26,0.532s,PASSED
+,,,,,,,
+Test Cases/Game/Game Logs,Chrome 114.0.0.0,,,2023-06-16 22:18:26,2023-06-16 22:18:29,2.501s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""Game/Page_Dashboard/span_Game""))",Chrome 114.0.0.0,,,2023-06-16 22:18:27,2023-06-16 22:18:27,0.470s,PASSED
+"mouseOver(findTestObject(""Game/Page_Dashboard/span_Game""))",Chrome 114.0.0.0,,,2023-06-16 22:18:27,2023-06-16 22:18:28,0.537s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""Game/Page_Dashboard/span_Game Logs""))",Chrome 114.0.0.0,,,2023-06-16 22:18:28,2023-06-16 22:18:28,0.478s,PASSED
+"mouseOver(findTestObject(""Game/Page_Dashboard/span_Game Logs""))",Chrome 114.0.0.0,,,2023-06-16 22:18:28,2023-06-16 22:18:29,0.556s,PASSED

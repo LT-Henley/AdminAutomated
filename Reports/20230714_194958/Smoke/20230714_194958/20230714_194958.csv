@@ -1,0 +1,288 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+Smoke,Chrome 114.0.0.0,,,2023-07-14 19:50:08,2023-07-14 19:52:53,2m - 44.974s,PASSED
+,,,,,,,
+Test Cases/Leaderboard/List MYR,Chrome 114.0.0.0,,,2023-07-14 19:50:09,2023-07-14 19:51:02,52.489s,PASSED
+"callTestCase(findTestCase(""Login Admin""), [:], STOP_ON_FAILURE)",Chrome 114.0.0.0,,,2023-07-14 19:50:10,2023-07-14 19:50:33,23.425s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""Leaderboard/Page_Dashboard/span_leaderboard""))",Chrome 114.0.0.0,,,2023-07-14 19:50:33,2023-07-14 19:50:34,0.692s,PASSED
+"mouseOver(findTestObject(""Leaderboard/Page_Dashboard/span_leaderboard""))",Chrome 114.0.0.0,,,2023-07-14 19:50:34,2023-07-14 19:50:35,0.664s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""Leaderboard/Page_Dashboard/span_List""))",Chrome 114.0.0.0,,,2023-07-14 19:50:35,2023-07-14 19:50:35,0.489s,PASSED
+"mouseOver(findTestObject(""Leaderboard/Page_Dashboard/span_List""))",Chrome 114.0.0.0,,,2023-07-14 19:50:35,2023-07-14 19:50:36,0.597s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""Leaderboard/Page_Dashboard/span_MYR""))",Chrome 114.0.0.0,,,2023-07-14 19:50:36,2023-07-14 19:50:36,0.546s,PASSED
+"mouseOver(findTestObject(""Leaderboard/Page_Dashboard/span_MYR""))",Chrome 114.0.0.0,,,2023-07-14 19:50:36,2023-07-14 19:50:37,0.562s,PASSED
+"click(findTestObject(""Leaderboard/Page_Dashboard/span_MYR""))",Chrome 114.0.0.0,,,2023-07-14 19:50:37,2023-07-14 19:50:40,3.130s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""Leaderboard/Leaderboard List/h3_Leaderboard Management""))",Chrome 114.0.0.0,,,2023-07-14 19:50:40,2023-07-14 19:50:41,0.531s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""Leaderboard/Leaderboard List/button_Add""))",Chrome 114.0.0.0,,,2023-07-14 19:50:41,2023-07-14 19:50:41,0.462s,PASSED
+"verifyElementVisible(findTestObject(""Leaderboard/Leaderboard List/h3_Leaderboard Management""))",Chrome 114.0.0.0,,,2023-07-14 19:50:41,2023-07-14 19:50:42,0.459s,PASSED
+"verifyElementVisible(findTestObject(""Leaderboard/Leaderboard List/button_Add""))",Chrome 114.0.0.0,,,2023-07-14 19:50:42,2023-07-14 19:50:42,0.426s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""Leaderboard/Leaderboard List/select_102550100""))",Chrome 114.0.0.0,,,2023-07-14 19:50:42,2023-07-14 19:50:42,0.476s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""Leaderboard/Leaderboard List/span_Copy""))",Chrome 114.0.0.0,,,2023-07-14 19:50:42,2023-07-14 19:50:43,0.467s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""Leaderboard/Leaderboard List/span_CSV""))",Chrome 114.0.0.0,,,2023-07-14 19:50:43,2023-07-14 19:50:43,0.566s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""Leaderboard/Leaderboard List/span_Excel""))",Chrome 114.0.0.0,,,2023-07-14 19:50:43,2023-07-14 19:50:44,0.472s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""Leaderboard/Leaderboard List/span_PDF""))",Chrome 114.0.0.0,,,2023-07-14 19:50:44,2023-07-14 19:50:44,0.471s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""Leaderboard/Leaderboard List/input_Search_form-control form-control-sm""))",Chrome 114.0.0.0,,,2023-07-14 19:50:44,2023-07-14 19:50:45,0.475s,PASSED
+"verifyElementVisible(findTestObject(""Leaderboard/Leaderboard List/select_102550100""))",Chrome 114.0.0.0,,,2023-07-14 19:50:45,2023-07-14 19:50:45,0.435s,PASSED
+"verifyElementVisible(findTestObject(""Leaderboard/Leaderboard List/span_Copy""))",Chrome 114.0.0.0,,,2023-07-14 19:50:45,2023-07-14 19:50:46,0.458s,PASSED
+"verifyElementVisible(findTestObject(""Leaderboard/Leaderboard List/span_CSV""))",Chrome 114.0.0.0,,,2023-07-14 19:50:46,2023-07-14 19:50:46,0.415s,PASSED
+"verifyElementVisible(findTestObject(""Leaderboard/Leaderboard List/span_Excel""))",Chrome 114.0.0.0,,,2023-07-14 19:50:46,2023-07-14 19:50:47,0.385s,PASSED
+"verifyElementVisible(findTestObject(""Leaderboard/Leaderboard List/span_PDF""))",Chrome 114.0.0.0,,,2023-07-14 19:50:47,2023-07-14 19:50:47,0.403s,PASSED
+"verifyElementVisible(findTestObject(""Leaderboard/Leaderboard List/input_Search_form-control form-control-sm""))",Chrome 114.0.0.0,,,2023-07-14 19:50:47,2023-07-14 19:50:47,0.416s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""Leaderboard/Leaderboard List/th_Name EN""))",Chrome 114.0.0.0,,,2023-07-14 19:50:47,2023-07-14 19:50:48,0.508s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""Leaderboard/Leaderboard List/th_Name BM""))",Chrome 114.0.0.0,,,2023-07-14 19:50:48,2023-07-14 19:50:48,0.506s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""Leaderboard/Leaderboard List/th_Name CN""))",Chrome 114.0.0.0,,,2023-07-14 19:50:48,2023-07-14 19:50:49,0.477s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""Leaderboard/Leaderboard List/th_Name TH""))",Chrome 114.0.0.0,,,2023-07-14 19:50:49,2023-07-14 19:50:49,0.458s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""Leaderboard/Leaderboard List/th_Description""))",Chrome 114.0.0.0,,,2023-07-14 19:50:49,2023-07-14 19:50:50,0.461s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""Leaderboard/Leaderboard List/th_Banner ImageEN""))",Chrome 114.0.0.0,,,2023-07-14 19:50:50,2023-07-14 19:50:50,0.493s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""Leaderboard/Leaderboard List/th_Banner ImageBM""))",Chrome 114.0.0.0,,,2023-07-14 19:50:50,2023-07-14 19:50:51,0.478s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""Leaderboard/Leaderboard List/th_Banner ImageCN""))",Chrome 114.0.0.0,,,2023-07-14 19:50:51,2023-07-14 19:50:51,0.490s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""Leaderboard/Leaderboard List/th_Banner ImageTH""))",Chrome 114.0.0.0,,,2023-07-14 19:50:51,2023-07-14 19:50:52,0.463s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""Leaderboard/Leaderboard List/th_Start Datetime""))",Chrome 114.0.0.0,,,2023-07-14 19:50:52,2023-07-14 19:50:52,0.482s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""Leaderboard/Leaderboard List/th_End Datetime""))",Chrome 114.0.0.0,,,2023-07-14 19:50:52,2023-07-14 19:50:53,0.466s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""Leaderboard/Leaderboard List/th_Status""))",Chrome 114.0.0.0,,,2023-07-14 19:50:53,2023-07-14 19:50:53,0.456s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""Leaderboard/Leaderboard List/th_Action""))",Chrome 114.0.0.0,,,2023-07-14 19:50:53,2023-07-14 19:50:54,0.465s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""Leaderboard/Leaderboard List/table_Name ENName BMName CNName THDescriptionBanner ImageENBanner ImageBMBanner ImageCNBanner ImageTHStart DatetimeEnd DatetimeStatusAction""))",Chrome 114.0.0.0,,,2023-07-14 19:50:54,2023-07-14 19:50:54,0.464s,PASSED
+"verifyElementVisible(findTestObject(""Leaderboard/Leaderboard List/th_Name EN""))",Chrome 114.0.0.0,,,2023-07-14 19:50:54,2023-07-14 19:50:54,0.415s,PASSED
+"verifyElementVisible(findTestObject(""Leaderboard/Leaderboard List/th_Name BM""))",Chrome 114.0.0.0,,,2023-07-14 19:50:54,2023-07-14 19:50:55,0.406s,PASSED
+"verifyElementVisible(findTestObject(""Leaderboard/Leaderboard List/th_Name CN""))",Chrome 114.0.0.0,,,2023-07-14 19:50:55,2023-07-14 19:50:55,0.418s,PASSED
+"verifyElementVisible(findTestObject(""Leaderboard/Leaderboard List/th_Name TH""))",Chrome 114.0.0.0,,,2023-07-14 19:50:55,2023-07-14 19:50:56,0.425s,PASSED
+"verifyElementVisible(findTestObject(""Leaderboard/Leaderboard List/th_Description""))",Chrome 114.0.0.0,,,2023-07-14 19:50:56,2023-07-14 19:50:56,0.406s,PASSED
+"verifyElementVisible(findTestObject(""Leaderboard/Leaderboard List/th_Banner ImageEN""))",Chrome 114.0.0.0,,,2023-07-14 19:50:56,2023-07-14 19:50:57,0.422s,PASSED
+"verifyElementVisible(findTestObject(""Leaderboard/Leaderboard List/th_Banner ImageBM""))",Chrome 114.0.0.0,,,2023-07-14 19:50:57,2023-07-14 19:50:57,0.404s,PASSED
+"verifyElementVisible(findTestObject(""Leaderboard/Leaderboard List/th_Banner ImageCN""))",Chrome 114.0.0.0,,,2023-07-14 19:50:57,2023-07-14 19:50:57,0.409s,PASSED
+"verifyElementVisible(findTestObject(""Leaderboard/Leaderboard List/th_Banner ImageTH""))",Chrome 114.0.0.0,,,2023-07-14 19:50:57,2023-07-14 19:50:58,0.397s,PASSED
+"verifyElementVisible(findTestObject(""Leaderboard/Leaderboard List/th_Start Datetime""))",Chrome 114.0.0.0,,,2023-07-14 19:50:58,2023-07-14 19:50:58,0.385s,PASSED
+"verifyElementVisible(findTestObject(""Leaderboard/Leaderboard List/th_End Datetime""))",Chrome 114.0.0.0,,,2023-07-14 19:50:58,2023-07-14 19:50:59,0.428s,PASSED
+"verifyElementVisible(findTestObject(""Leaderboard/Leaderboard List/th_Status""))",Chrome 114.0.0.0,,,2023-07-14 19:50:59,2023-07-14 19:50:59,0.376s,PASSED
+"verifyElementVisible(findTestObject(""Leaderboard/Leaderboard List/th_Action""))",Chrome 114.0.0.0,,,2023-07-14 19:50:59,2023-07-14 19:50:59,0.398s,PASSED
+"verifyElementVisible(findTestObject(""Leaderboard/Leaderboard List/table_Name ENName BMName CNName THDescriptionBanner ImageENBanner ImageBMBanner ImageCNBanner ImageTHStart DatetimeEnd DatetimeStatusAction""))",Chrome 114.0.0.0,,,2023-07-14 19:50:59,2023-07-14 19:51:00,0.408s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""Leaderboard/Leaderboard List/li_Previous""))",Chrome 114.0.0.0,,,2023-07-14 19:51:00,2023-07-14 19:51:00,0.484s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""Leaderboard/Leaderboard List/li_Next""))",Chrome 114.0.0.0,,,2023-07-14 19:51:00,2023-07-14 19:51:01,0.486s,PASSED
+"verifyElementVisible(findTestObject(""Leaderboard/Leaderboard List/li_Previous""))",Chrome 114.0.0.0,,,2023-07-14 19:51:01,2023-07-14 19:51:01,0.402s,PASSED
+"verifyElementVisible(findTestObject(""Leaderboard/Leaderboard List/li_Next""))",Chrome 114.0.0.0,,,2023-07-14 19:51:01,2023-07-14 19:51:02,0.396s,PASSED
+,,,,,,,
+Test Cases/Leaderboard/List THB,Chrome 114.0.0.0,,,2023-07-14 19:51:02,2023-07-14 19:51:29,27.318s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""Leaderboard/Page_Dashboard/span_leaderboard""))",Chrome 114.0.0.0,,,2023-07-14 19:51:02,2023-07-14 19:51:03,0.440s,PASSED
+"mouseOver(findTestObject(""Leaderboard/Page_Dashboard/span_leaderboard""))",Chrome 114.0.0.0,,,2023-07-14 19:51:03,2023-07-14 19:51:03,0.536s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""Leaderboard/Page_Dashboard/span_List""))",Chrome 114.0.0.0,,,2023-07-14 19:51:03,2023-07-14 19:51:04,0.460s,PASSED
+"mouseOver(findTestObject(""Leaderboard/Page_Dashboard/span_List""))",Chrome 114.0.0.0,,,2023-07-14 19:51:04,2023-07-14 19:51:04,0.538s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""Leaderboard/Page_Dashboard/span_THB""))",Chrome 114.0.0.0,,,2023-07-14 19:51:04,2023-07-14 19:51:05,0.488s,PASSED
+"mouseOver(findTestObject(""Leaderboard/Page_Dashboard/span_THB""))",Chrome 114.0.0.0,,,2023-07-14 19:51:05,2023-07-14 19:51:05,0.535s,PASSED
+"click(findTestObject(""Leaderboard/Page_Dashboard/span_THB""))",Chrome 114.0.0.0,,,2023-07-14 19:51:05,2023-07-14 19:51:08,2.544s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""Leaderboard/Leaderboard List/h3_Leaderboard Management""))",Chrome 114.0.0.0,,,2023-07-14 19:51:08,2023-07-14 19:51:08,0.574s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""Leaderboard/Leaderboard List/button_Add""))",Chrome 114.0.0.0,,,2023-07-14 19:51:08,2023-07-14 19:51:09,0.451s,PASSED
+"verifyElementVisible(findTestObject(""Leaderboard/Leaderboard List/h3_Leaderboard Management""))",Chrome 114.0.0.0,,,2023-07-14 19:51:09,2023-07-14 19:51:09,0.423s,PASSED
+"verifyElementVisible(findTestObject(""Leaderboard/Leaderboard List/button_Add""))",Chrome 114.0.0.0,,,2023-07-14 19:51:09,2023-07-14 19:51:10,0.418s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""Leaderboard/Leaderboard List/select_102550100""))",Chrome 114.0.0.0,,,2023-07-14 19:51:10,2023-07-14 19:51:10,0.465s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""Leaderboard/Leaderboard List/span_Copy""))",Chrome 114.0.0.0,,,2023-07-14 19:51:10,2023-07-14 19:51:11,0.540s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""Leaderboard/Leaderboard List/span_CSV""))",Chrome 114.0.0.0,,,2023-07-14 19:51:11,2023-07-14 19:51:11,0.454s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""Leaderboard/Leaderboard List/span_Excel""))",Chrome 114.0.0.0,,,2023-07-14 19:51:11,2023-07-14 19:51:12,0.548s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""Leaderboard/Leaderboard List/span_PDF""))",Chrome 114.0.0.0,,,2023-07-14 19:51:12,2023-07-14 19:51:12,0.465s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""Leaderboard/Leaderboard List/input_Search_form-control form-control-sm""))",Chrome 114.0.0.0,,,2023-07-14 19:51:12,2023-07-14 19:51:13,0.554s,PASSED
+"verifyElementVisible(findTestObject(""Leaderboard/Leaderboard List/select_102550100""))",Chrome 114.0.0.0,,,2023-07-14 19:51:13,2023-07-14 19:51:13,0.424s,PASSED
+"verifyElementVisible(findTestObject(""Leaderboard/Leaderboard List/span_Copy""))",Chrome 114.0.0.0,,,2023-07-14 19:51:13,2023-07-14 19:51:13,0.418s,PASSED
+"verifyElementVisible(findTestObject(""Leaderboard/Leaderboard List/span_CSV""))",Chrome 114.0.0.0,,,2023-07-14 19:51:13,2023-07-14 19:51:14,0.417s,PASSED
+"verifyElementVisible(findTestObject(""Leaderboard/Leaderboard List/span_Excel""))",Chrome 114.0.0.0,,,2023-07-14 19:51:14,2023-07-14 19:51:14,0.392s,PASSED
+"verifyElementVisible(findTestObject(""Leaderboard/Leaderboard List/span_PDF""))",Chrome 114.0.0.0,,,2023-07-14 19:51:14,2023-07-14 19:51:15,0.384s,PASSED
+"verifyElementVisible(findTestObject(""Leaderboard/Leaderboard List/input_Search_form-control form-control-sm""))",Chrome 114.0.0.0,,,2023-07-14 19:51:15,2023-07-14 19:51:15,0.433s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""Leaderboard/Leaderboard List/th_Name EN""))",Chrome 114.0.0.0,,,2023-07-14 19:51:15,2023-07-14 19:51:16,0.436s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""Leaderboard/Leaderboard List/th_Name BM""))",Chrome 114.0.0.0,,,2023-07-14 19:51:16,2023-07-14 19:51:16,0.453s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""Leaderboard/Leaderboard List/th_Name CN""))",Chrome 114.0.0.0,,,2023-07-14 19:51:16,2023-07-14 19:51:16,0.439s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""Leaderboard/Leaderboard List/th_Name TH""))",Chrome 114.0.0.0,,,2023-07-14 19:51:16,2023-07-14 19:51:17,0.463s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""Leaderboard/Leaderboard List/th_Description""))",Chrome 114.0.0.0,,,2023-07-14 19:51:17,2023-07-14 19:51:17,0.451s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""Leaderboard/Leaderboard List/th_Banner ImageEN""))",Chrome 114.0.0.0,,,2023-07-14 19:51:17,2023-07-14 19:51:18,0.437s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""Leaderboard/Leaderboard List/th_Banner ImageBM""))",Chrome 114.0.0.0,,,2023-07-14 19:51:18,2023-07-14 19:51:18,0.436s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""Leaderboard/Leaderboard List/th_Banner ImageCN""))",Chrome 114.0.0.0,,,2023-07-14 19:51:18,2023-07-14 19:51:19,0.448s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""Leaderboard/Leaderboard List/th_Banner ImageTH""))",Chrome 114.0.0.0,,,2023-07-14 19:51:19,2023-07-14 19:51:19,0.446s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""Leaderboard/Leaderboard List/th_Start Datetime""))",Chrome 114.0.0.0,,,2023-07-14 19:51:19,2023-07-14 19:51:20,0.424s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""Leaderboard/Leaderboard List/th_End Datetime""))",Chrome 114.0.0.0,,,2023-07-14 19:51:20,2023-07-14 19:51:20,0.444s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""Leaderboard/Leaderboard List/th_Status""))",Chrome 114.0.0.0,,,2023-07-14 19:51:20,2023-07-14 19:51:20,0.463s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""Leaderboard/Leaderboard List/th_Action""))",Chrome 114.0.0.0,,,2023-07-14 19:51:20,2023-07-14 19:51:21,0.461s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""Leaderboard/Leaderboard List/table_Name ENName BMName CNName THDescriptionBanner ImageENBanner ImageBMBanner ImageCNBanner ImageTHStart DatetimeEnd DatetimeStatusAction""))",Chrome 114.0.0.0,,,2023-07-14 19:51:21,2023-07-14 19:51:21,0.443s,PASSED
+"verifyElementVisible(findTestObject(""Leaderboard/Leaderboard List/th_Name EN""))",Chrome 114.0.0.0,,,2023-07-14 19:51:21,2023-07-14 19:51:22,0.427s,PASSED
+"verifyElementVisible(findTestObject(""Leaderboard/Leaderboard List/th_Name BM""))",Chrome 114.0.0.0,,,2023-07-14 19:51:22,2023-07-14 19:51:22,0.402s,PASSED
+"verifyElementVisible(findTestObject(""Leaderboard/Leaderboard List/th_Name CN""))",Chrome 114.0.0.0,,,2023-07-14 19:51:22,2023-07-14 19:51:23,0.398s,PASSED
+"verifyElementVisible(findTestObject(""Leaderboard/Leaderboard List/th_Name TH""))",Chrome 114.0.0.0,,,2023-07-14 19:51:23,2023-07-14 19:51:23,0.391s,PASSED
+"verifyElementVisible(findTestObject(""Leaderboard/Leaderboard List/th_Description""))",Chrome 114.0.0.0,,,2023-07-14 19:51:23,2023-07-14 19:51:23,0.413s,PASSED
+"verifyElementVisible(findTestObject(""Leaderboard/Leaderboard List/th_Banner ImageEN""))",Chrome 114.0.0.0,,,2023-07-14 19:51:23,2023-07-14 19:51:24,0.408s,PASSED
+"verifyElementVisible(findTestObject(""Leaderboard/Leaderboard List/th_Banner ImageBM""))",Chrome 114.0.0.0,,,2023-07-14 19:51:24,2023-07-14 19:51:24,0.400s,PASSED
+"verifyElementVisible(findTestObject(""Leaderboard/Leaderboard List/th_Banner ImageCN""))",Chrome 114.0.0.0,,,2023-07-14 19:51:24,2023-07-14 19:51:25,0.400s,PASSED
+"verifyElementVisible(findTestObject(""Leaderboard/Leaderboard List/th_Banner ImageTH""))",Chrome 114.0.0.0,,,2023-07-14 19:51:25,2023-07-14 19:51:25,0.407s,PASSED
+"verifyElementVisible(findTestObject(""Leaderboard/Leaderboard List/th_Start Datetime""))",Chrome 114.0.0.0,,,2023-07-14 19:51:25,2023-07-14 19:51:25,0.443s,PASSED
+"verifyElementVisible(findTestObject(""Leaderboard/Leaderboard List/th_End Datetime""))",Chrome 114.0.0.0,,,2023-07-14 19:51:25,2023-07-14 19:51:26,0.407s,PASSED
+"verifyElementVisible(findTestObject(""Leaderboard/Leaderboard List/th_Status""))",Chrome 114.0.0.0,,,2023-07-14 19:51:26,2023-07-14 19:51:26,0.412s,PASSED
+"verifyElementVisible(findTestObject(""Leaderboard/Leaderboard List/th_Action""))",Chrome 114.0.0.0,,,2023-07-14 19:51:26,2023-07-14 19:51:27,0.423s,PASSED
+"verifyElementVisible(findTestObject(""Leaderboard/Leaderboard List/table_Name ENName BMName CNName THDescriptionBanner ImageENBanner ImageBMBanner ImageCNBanner ImageTHStart DatetimeEnd DatetimeStatusAction""))",Chrome 114.0.0.0,,,2023-07-14 19:51:27,2023-07-14 19:51:27,0.425s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""Leaderboard/Leaderboard List/li_Previous""))",Chrome 114.0.0.0,,,2023-07-14 19:51:27,2023-07-14 19:51:28,0.478s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""Leaderboard/Leaderboard List/li_Next""))",Chrome 114.0.0.0,,,2023-07-14 19:51:28,2023-07-14 19:51:28,0.457s,PASSED
+"verifyElementVisible(findTestObject(""Leaderboard/Leaderboard List/li_Previous""))",Chrome 114.0.0.0,,,2023-07-14 19:51:28,2023-07-14 19:51:28,0.403s,PASSED
+"verifyElementVisible(findTestObject(""Leaderboard/Leaderboard List/li_Next""))",Chrome 114.0.0.0,,,2023-07-14 19:51:28,2023-07-14 19:51:29,0.392s,PASSED
+,,,,,,,
+Test Cases/Leaderboard/List IDR,Chrome 114.0.0.0,,,2023-07-14 19:51:29,2023-07-14 19:51:56,27.278s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""Leaderboard/Page_Dashboard/span_leaderboard""))",Chrome 114.0.0.0,,,2023-07-14 19:51:29,2023-07-14 19:51:30,0.472s,PASSED
+"mouseOver(findTestObject(""Leaderboard/Page_Dashboard/span_leaderboard""))",Chrome 114.0.0.0,,,2023-07-14 19:51:30,2023-07-14 19:51:30,0.555s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""Leaderboard/Page_Dashboard/span_List""))",Chrome 114.0.0.0,,,2023-07-14 19:51:30,2023-07-14 19:51:31,0.461s,PASSED
+"mouseOver(findTestObject(""Leaderboard/Page_Dashboard/span_List""))",Chrome 114.0.0.0,,,2023-07-14 19:51:31,2023-07-14 19:51:31,0.537s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""Leaderboard/Page_Dashboard/span_IDR""))",Chrome 114.0.0.0,,,2023-07-14 19:51:31,2023-07-14 19:51:32,0.492s,PASSED
+"mouseOver(findTestObject(""Leaderboard/Page_Dashboard/span_IDR""))",Chrome 114.0.0.0,,,2023-07-14 19:51:32,2023-07-14 19:51:32,0.547s,PASSED
+"click(findTestObject(""Leaderboard/Page_Dashboard/span_IDR""))",Chrome 114.0.0.0,,,2023-07-14 19:51:32,2023-07-14 19:51:35,2.497s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""Leaderboard/Leaderboard List/h3_Leaderboard Management""))",Chrome 114.0.0.0,,,2023-07-14 19:51:35,2023-07-14 19:51:36,0.553s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""Leaderboard/Leaderboard List/button_Add""))",Chrome 114.0.0.0,,,2023-07-14 19:51:36,2023-07-14 19:51:36,0.535s,PASSED
+"verifyElementVisible(findTestObject(""Leaderboard/Leaderboard List/h3_Leaderboard Management""))",Chrome 114.0.0.0,,,2023-07-14 19:51:36,2023-07-14 19:51:36,0.405s,PASSED
+"verifyElementVisible(findTestObject(""Leaderboard/Leaderboard List/button_Add""))",Chrome 114.0.0.0,,,2023-07-14 19:51:36,2023-07-14 19:51:37,0.420s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""Leaderboard/Leaderboard List/select_102550100""))",Chrome 114.0.0.0,,,2023-07-14 19:51:37,2023-07-14 19:51:37,0.455s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""Leaderboard/Leaderboard List/span_Copy""))",Chrome 114.0.0.0,,,2023-07-14 19:51:37,2023-07-14 19:51:38,0.452s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""Leaderboard/Leaderboard List/span_CSV""))",Chrome 114.0.0.0,,,2023-07-14 19:51:38,2023-07-14 19:51:38,0.546s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""Leaderboard/Leaderboard List/span_Excel""))",Chrome 114.0.0.0,,,2023-07-14 19:51:38,2023-07-14 19:51:39,0.556s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""Leaderboard/Leaderboard List/span_PDF""))",Chrome 114.0.0.0,,,2023-07-14 19:51:39,2023-07-14 19:51:39,0.458s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""Leaderboard/Leaderboard List/input_Search_form-control form-control-sm""))",Chrome 114.0.0.0,,,2023-07-14 19:51:39,2023-07-14 19:51:40,0.555s,PASSED
+"verifyElementVisible(findTestObject(""Leaderboard/Leaderboard List/select_102550100""))",Chrome 114.0.0.0,,,2023-07-14 19:51:40,2023-07-14 19:51:40,0.440s,PASSED
+"verifyElementVisible(findTestObject(""Leaderboard/Leaderboard List/span_Copy""))",Chrome 114.0.0.0,,,2023-07-14 19:51:40,2023-07-14 19:51:41,0.418s,PASSED
+"verifyElementVisible(findTestObject(""Leaderboard/Leaderboard List/span_CSV""))",Chrome 114.0.0.0,,,2023-07-14 19:51:41,2023-07-14 19:51:41,0.418s,PASSED
+"verifyElementVisible(findTestObject(""Leaderboard/Leaderboard List/span_Excel""))",Chrome 114.0.0.0,,,2023-07-14 19:51:41,2023-07-14 19:51:42,0.439s,PASSED
+"verifyElementVisible(findTestObject(""Leaderboard/Leaderboard List/span_PDF""))",Chrome 114.0.0.0,,,2023-07-14 19:51:42,2023-07-14 19:51:42,0.439s,PASSED
+"verifyElementVisible(findTestObject(""Leaderboard/Leaderboard List/input_Search_form-control form-control-sm""))",Chrome 114.0.0.0,,,2023-07-14 19:51:42,2023-07-14 19:51:43,0.430s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""Leaderboard/Leaderboard List/th_Name EN""))",Chrome 114.0.0.0,,,2023-07-14 19:51:43,2023-07-14 19:51:43,0.445s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""Leaderboard/Leaderboard List/th_Name BM""))",Chrome 114.0.0.0,,,2023-07-14 19:51:43,2023-07-14 19:51:43,0.481s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""Leaderboard/Leaderboard List/th_Name CN""))",Chrome 114.0.0.0,,,2023-07-14 19:51:43,2023-07-14 19:51:44,0.444s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""Leaderboard/Leaderboard List/th_Name TH""))",Chrome 114.0.0.0,,,2023-07-14 19:51:44,2023-07-14 19:51:44,0.446s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""Leaderboard/Leaderboard List/th_Description""))",Chrome 114.0.0.0,,,2023-07-14 19:51:44,2023-07-14 19:51:45,0.453s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""Leaderboard/Leaderboard List/th_Banner ImageEN""))",Chrome 114.0.0.0,,,2023-07-14 19:51:45,2023-07-14 19:51:45,0.457s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""Leaderboard/Leaderboard List/th_Banner ImageBM""))",Chrome 114.0.0.0,,,2023-07-14 19:51:45,2023-07-14 19:51:46,0.421s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""Leaderboard/Leaderboard List/th_Banner ImageCN""))",Chrome 114.0.0.0,,,2023-07-14 19:51:46,2023-07-14 19:51:46,0.437s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""Leaderboard/Leaderboard List/th_Banner ImageTH""))",Chrome 114.0.0.0,,,2023-07-14 19:51:46,2023-07-14 19:51:47,0.468s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""Leaderboard/Leaderboard List/th_Start Datetime""))",Chrome 114.0.0.0,,,2023-07-14 19:51:47,2023-07-14 19:51:47,0.458s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""Leaderboard/Leaderboard List/th_End Datetime""))",Chrome 114.0.0.0,,,2023-07-14 19:51:47,2023-07-14 19:51:47,0.437s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""Leaderboard/Leaderboard List/th_Status""))",Chrome 114.0.0.0,,,2023-07-14 19:51:47,2023-07-14 19:51:48,0.453s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""Leaderboard/Leaderboard List/th_Action""))",Chrome 114.0.0.0,,,2023-07-14 19:51:48,2023-07-14 19:51:48,0.436s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""Leaderboard/Leaderboard List/table_Name ENName BMName CNName THDescriptionBanner ImageENBanner ImageBMBanner ImageCNBanner ImageTHStart DatetimeEnd DatetimeStatusAction""))",Chrome 114.0.0.0,,,2023-07-14 19:51:48,2023-07-14 19:51:49,0.438s,PASSED
+"verifyElementVisible(findTestObject(""Leaderboard/Leaderboard List/th_Name EN""))",Chrome 114.0.0.0,,,2023-07-14 19:51:49,2023-07-14 19:51:49,0.418s,PASSED
+"verifyElementVisible(findTestObject(""Leaderboard/Leaderboard List/th_Name BM""))",Chrome 114.0.0.0,,,2023-07-14 19:51:49,2023-07-14 19:51:50,0.419s,PASSED
+"verifyElementVisible(findTestObject(""Leaderboard/Leaderboard List/th_Name CN""))",Chrome 114.0.0.0,,,2023-07-14 19:51:50,2023-07-14 19:51:50,0.405s,PASSED
+"verifyElementVisible(findTestObject(""Leaderboard/Leaderboard List/th_Name TH""))",Chrome 114.0.0.0,,,2023-07-14 19:51:50,2023-07-14 19:51:50,0.378s,PASSED
+"verifyElementVisible(findTestObject(""Leaderboard/Leaderboard List/th_Description""))",Chrome 114.0.0.0,,,2023-07-14 19:51:50,2023-07-14 19:51:51,0.404s,PASSED
+"verifyElementVisible(findTestObject(""Leaderboard/Leaderboard List/th_Banner ImageEN""))",Chrome 114.0.0.0,,,2023-07-14 19:51:51,2023-07-14 19:51:51,0.403s,PASSED
+"verifyElementVisible(findTestObject(""Leaderboard/Leaderboard List/th_Banner ImageBM""))",Chrome 114.0.0.0,,,2023-07-14 19:51:51,2023-07-14 19:51:52,0.386s,PASSED
+"verifyElementVisible(findTestObject(""Leaderboard/Leaderboard List/th_Banner ImageCN""))",Chrome 114.0.0.0,,,2023-07-14 19:51:52,2023-07-14 19:51:52,0.409s,PASSED
+"verifyElementVisible(findTestObject(""Leaderboard/Leaderboard List/th_Banner ImageTH""))",Chrome 114.0.0.0,,,2023-07-14 19:51:52,2023-07-14 19:51:52,0.404s,PASSED
+"verifyElementVisible(findTestObject(""Leaderboard/Leaderboard List/th_Start Datetime""))",Chrome 114.0.0.0,,,2023-07-14 19:51:52,2023-07-14 19:51:53,0.391s,PASSED
+"verifyElementVisible(findTestObject(""Leaderboard/Leaderboard List/th_End Datetime""))",Chrome 114.0.0.0,,,2023-07-14 19:51:53,2023-07-14 19:51:53,0.364s,PASSED
+"verifyElementVisible(findTestObject(""Leaderboard/Leaderboard List/th_Status""))",Chrome 114.0.0.0,,,2023-07-14 19:51:53,2023-07-14 19:51:54,0.391s,PASSED
+"verifyElementVisible(findTestObject(""Leaderboard/Leaderboard List/th_Action""))",Chrome 114.0.0.0,,,2023-07-14 19:51:54,2023-07-14 19:51:54,0.407s,PASSED
+"verifyElementVisible(findTestObject(""Leaderboard/Leaderboard List/table_Name ENName BMName CNName THDescriptionBanner ImageENBanner ImageBMBanner ImageCNBanner ImageTHStart DatetimeEnd DatetimeStatusAction""))",Chrome 114.0.0.0,,,2023-07-14 19:51:54,2023-07-14 19:51:54,0.396s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""Leaderboard/Leaderboard List/li_Previous""))",Chrome 114.0.0.0,,,2023-07-14 19:51:54,2023-07-14 19:51:55,0.466s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""Leaderboard/Leaderboard List/li_Next""))",Chrome 114.0.0.0,,,2023-07-14 19:51:55,2023-07-14 19:51:55,0.489s,PASSED
+"verifyElementVisible(findTestObject(""Leaderboard/Leaderboard List/li_Previous""))",Chrome 114.0.0.0,,,2023-07-14 19:51:55,2023-07-14 19:51:56,0.412s,PASSED
+"verifyElementVisible(findTestObject(""Leaderboard/Leaderboard List/li_Next""))",Chrome 114.0.0.0,,,2023-07-14 19:51:56,2023-07-14 19:51:56,0.407s,PASSED
+,,,,,,,
+Test Cases/Leaderboard/List MMK,Chrome 114.0.0.0,,,2023-07-14 19:51:56,2023-07-14 19:52:26,30.041s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""Leaderboard/Page_Dashboard/span_leaderboard""))",Chrome 114.0.0.0,,,2023-07-14 19:51:57,2023-07-14 19:51:57,0.502s,PASSED
+"mouseOver(findTestObject(""Leaderboard/Page_Dashboard/span_leaderboard""))",Chrome 114.0.0.0,,,2023-07-14 19:51:57,2023-07-14 19:51:58,0.531s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""Leaderboard/Page_Dashboard/span_List""))",Chrome 114.0.0.0,,,2023-07-14 19:51:58,2023-07-14 19:51:58,0.462s,PASSED
+"mouseOver(findTestObject(""Leaderboard/Page_Dashboard/span_List""))",Chrome 114.0.0.0,,,2023-07-14 19:51:58,2023-07-14 19:51:59,0.536s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""Leaderboard/Page_Dashboard/span_MMK""))",Chrome 114.0.0.0,,,2023-07-14 19:51:59,2023-07-14 19:51:59,0.468s,PASSED
+"mouseOver(findTestObject(""Leaderboard/Page_Dashboard/span_MMK""))",Chrome 114.0.0.0,,,2023-07-14 19:51:59,2023-07-14 19:52:00,0.638s,PASSED
+"click(findTestObject(""Leaderboard/Page_Dashboard/span_MMK""))",Chrome 114.0.0.0,,,2023-07-14 19:52:00,2023-07-14 19:52:05,5.111s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""Leaderboard/Leaderboard List/h3_Leaderboard Management""))",Chrome 114.0.0.0,,,2023-07-14 19:52:05,2023-07-14 19:52:06,0.573s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""Leaderboard/Leaderboard List/button_Add""))",Chrome 114.0.0.0,,,2023-07-14 19:52:06,2023-07-14 19:52:06,0.552s,PASSED
+"verifyElementVisible(findTestObject(""Leaderboard/Leaderboard List/h3_Leaderboard Management""))",Chrome 114.0.0.0,,,2023-07-14 19:52:06,2023-07-14 19:52:07,0.407s,PASSED
+"verifyElementVisible(findTestObject(""Leaderboard/Leaderboard List/button_Add""))",Chrome 114.0.0.0,,,2023-07-14 19:52:07,2023-07-14 19:52:07,0.388s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""Leaderboard/Leaderboard List/select_102550100""))",Chrome 114.0.0.0,,,2023-07-14 19:52:07,2023-07-14 19:52:07,0.450s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""Leaderboard/Leaderboard List/span_Copy""))",Chrome 114.0.0.0,,,2023-07-14 19:52:07,2023-07-14 19:52:08,0.546s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""Leaderboard/Leaderboard List/span_CSV""))",Chrome 114.0.0.0,,,2023-07-14 19:52:08,2023-07-14 19:52:08,0.547s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""Leaderboard/Leaderboard List/span_Excel""))",Chrome 114.0.0.0,,,2023-07-14 19:52:08,2023-07-14 19:52:09,0.453s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""Leaderboard/Leaderboard List/span_PDF""))",Chrome 114.0.0.0,,,2023-07-14 19:52:09,2023-07-14 19:52:09,0.453s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""Leaderboard/Leaderboard List/input_Search_form-control form-control-sm""))",Chrome 114.0.0.0,,,2023-07-14 19:52:09,2023-07-14 19:52:10,0.538s,PASSED
+"verifyElementVisible(findTestObject(""Leaderboard/Leaderboard List/select_102550100""))",Chrome 114.0.0.0,,,2023-07-14 19:52:10,2023-07-14 19:52:10,0.406s,PASSED
+"verifyElementVisible(findTestObject(""Leaderboard/Leaderboard List/span_Copy""))",Chrome 114.0.0.0,,,2023-07-14 19:52:10,2023-07-14 19:52:11,0.419s,PASSED
+"verifyElementVisible(findTestObject(""Leaderboard/Leaderboard List/span_CSV""))",Chrome 114.0.0.0,,,2023-07-14 19:52:11,2023-07-14 19:52:11,0.403s,PASSED
+"verifyElementVisible(findTestObject(""Leaderboard/Leaderboard List/span_Excel""))",Chrome 114.0.0.0,,,2023-07-14 19:52:11,2023-07-14 19:52:12,0.398s,PASSED
+"verifyElementVisible(findTestObject(""Leaderboard/Leaderboard List/span_PDF""))",Chrome 114.0.0.0,,,2023-07-14 19:52:12,2023-07-14 19:52:12,0.415s,PASSED
+"verifyElementVisible(findTestObject(""Leaderboard/Leaderboard List/input_Search_form-control form-control-sm""))",Chrome 114.0.0.0,,,2023-07-14 19:52:12,2023-07-14 19:52:12,0.429s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""Leaderboard/Leaderboard List/th_Name EN""))",Chrome 114.0.0.0,,,2023-07-14 19:52:12,2023-07-14 19:52:13,0.457s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""Leaderboard/Leaderboard List/th_Name BM""))",Chrome 114.0.0.0,,,2023-07-14 19:52:13,2023-07-14 19:52:13,0.434s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""Leaderboard/Leaderboard List/th_Name CN""))",Chrome 114.0.0.0,,,2023-07-14 19:52:13,2023-07-14 19:52:14,0.461s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""Leaderboard/Leaderboard List/th_Name TH""))",Chrome 114.0.0.0,,,2023-07-14 19:52:14,2023-07-14 19:52:14,0.448s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""Leaderboard/Leaderboard List/th_Description""))",Chrome 114.0.0.0,,,2023-07-14 19:52:14,2023-07-14 19:52:15,0.444s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""Leaderboard/Leaderboard List/th_Banner ImageEN""))",Chrome 114.0.0.0,,,2023-07-14 19:52:15,2023-07-14 19:52:15,0.450s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""Leaderboard/Leaderboard List/th_Banner ImageBM""))",Chrome 114.0.0.0,,,2023-07-14 19:52:15,2023-07-14 19:52:15,0.442s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""Leaderboard/Leaderboard List/th_Banner ImageCN""))",Chrome 114.0.0.0,,,2023-07-14 19:52:15,2023-07-14 19:52:16,0.464s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""Leaderboard/Leaderboard List/th_Banner ImageTH""))",Chrome 114.0.0.0,,,2023-07-14 19:52:16,2023-07-14 19:52:16,0.521s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""Leaderboard/Leaderboard List/th_Start Datetime""))",Chrome 114.0.0.0,,,2023-07-14 19:52:16,2023-07-14 19:52:17,0.458s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""Leaderboard/Leaderboard List/th_End Datetime""))",Chrome 114.0.0.0,,,2023-07-14 19:52:17,2023-07-14 19:52:17,0.421s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""Leaderboard/Leaderboard List/th_Status""))",Chrome 114.0.0.0,,,2023-07-14 19:52:17,2023-07-14 19:52:18,0.444s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""Leaderboard/Leaderboard List/th_Action""))",Chrome 114.0.0.0,,,2023-07-14 19:52:18,2023-07-14 19:52:18,0.467s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""Leaderboard/Leaderboard List/table_Name ENName BMName CNName THDescriptionBanner ImageENBanner ImageBMBanner ImageCNBanner ImageTHStart DatetimeEnd DatetimeStatusAction""))",Chrome 114.0.0.0,,,2023-07-14 19:52:18,2023-07-14 19:52:19,0.454s,PASSED
+"verifyElementVisible(findTestObject(""Leaderboard/Leaderboard List/th_Name EN""))",Chrome 114.0.0.0,,,2023-07-14 19:52:19,2023-07-14 19:52:19,0.413s,PASSED
+"verifyElementVisible(findTestObject(""Leaderboard/Leaderboard List/th_Name BM""))",Chrome 114.0.0.0,,,2023-07-14 19:52:19,2023-07-14 19:52:20,0.399s,PASSED
+"verifyElementVisible(findTestObject(""Leaderboard/Leaderboard List/th_Name CN""))",Chrome 114.0.0.0,,,2023-07-14 19:52:20,2023-07-14 19:52:20,0.376s,PASSED
+"verifyElementVisible(findTestObject(""Leaderboard/Leaderboard List/th_Name TH""))",Chrome 114.0.0.0,,,2023-07-14 19:52:20,2023-07-14 19:52:20,0.409s,PASSED
+"verifyElementVisible(findTestObject(""Leaderboard/Leaderboard List/th_Description""))",Chrome 114.0.0.0,,,2023-07-14 19:52:20,2023-07-14 19:52:21,0.414s,PASSED
+"verifyElementVisible(findTestObject(""Leaderboard/Leaderboard List/th_Banner ImageEN""))",Chrome 114.0.0.0,,,2023-07-14 19:52:21,2023-07-14 19:52:21,0.393s,PASSED
+"verifyElementVisible(findTestObject(""Leaderboard/Leaderboard List/th_Banner ImageBM""))",Chrome 114.0.0.0,,,2023-07-14 19:52:21,2023-07-14 19:52:22,0.423s,PASSED
+"verifyElementVisible(findTestObject(""Leaderboard/Leaderboard List/th_Banner ImageCN""))",Chrome 114.0.0.0,,,2023-07-14 19:52:22,2023-07-14 19:52:22,0.457s,PASSED
+"verifyElementVisible(findTestObject(""Leaderboard/Leaderboard List/th_Banner ImageTH""))",Chrome 114.0.0.0,,,2023-07-14 19:52:22,2023-07-14 19:52:22,0.418s,PASSED
+"verifyElementVisible(findTestObject(""Leaderboard/Leaderboard List/th_Start Datetime""))",Chrome 114.0.0.0,,,2023-07-14 19:52:22,2023-07-14 19:52:23,0.404s,PASSED
+"verifyElementVisible(findTestObject(""Leaderboard/Leaderboard List/th_End Datetime""))",Chrome 114.0.0.0,,,2023-07-14 19:52:23,2023-07-14 19:52:23,0.393s,PASSED
+"verifyElementVisible(findTestObject(""Leaderboard/Leaderboard List/th_Status""))",Chrome 114.0.0.0,,,2023-07-14 19:52:23,2023-07-14 19:52:24,0.398s,PASSED
+"verifyElementVisible(findTestObject(""Leaderboard/Leaderboard List/th_Action""))",Chrome 114.0.0.0,,,2023-07-14 19:52:24,2023-07-14 19:52:24,0.402s,PASSED
+"verifyElementVisible(findTestObject(""Leaderboard/Leaderboard List/table_Name ENName BMName CNName THDescriptionBanner ImageENBanner ImageBMBanner ImageCNBanner ImageTHStart DatetimeEnd DatetimeStatusAction""))",Chrome 114.0.0.0,,,2023-07-14 19:52:24,2023-07-14 19:52:24,0.387s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""Leaderboard/Leaderboard List/li_Previous""))",Chrome 114.0.0.0,,,2023-07-14 19:52:24,2023-07-14 19:52:25,0.465s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""Leaderboard/Leaderboard List/li_Next""))",Chrome 114.0.0.0,,,2023-07-14 19:52:25,2023-07-14 19:52:25,0.479s,PASSED
+"verifyElementVisible(findTestObject(""Leaderboard/Leaderboard List/li_Previous""))",Chrome 114.0.0.0,,,2023-07-14 19:52:25,2023-07-14 19:52:26,0.403s,PASSED
+"verifyElementVisible(findTestObject(""Leaderboard/Leaderboard List/li_Next""))",Chrome 114.0.0.0,,,2023-07-14 19:52:26,2023-07-14 19:52:26,0.421s,PASSED
+,,,,,,,
+Test Cases/Leaderboard/List RMB,Chrome 114.0.0.0,,,2023-07-14 19:52:26,2023-07-14 19:52:53,27.277s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""Leaderboard/Page_Dashboard/span_leaderboard""))",Chrome 114.0.0.0,,,2023-07-14 19:52:27,2023-07-14 19:52:27,0.463s,PASSED
+"mouseOver(findTestObject(""Leaderboard/Page_Dashboard/span_leaderboard""))",Chrome 114.0.0.0,,,2023-07-14 19:52:27,2023-07-14 19:52:28,0.577s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""Leaderboard/Page_Dashboard/span_List""))",Chrome 114.0.0.0,,,2023-07-14 19:52:28,2023-07-14 19:52:28,0.479s,PASSED
+"mouseOver(findTestObject(""Leaderboard/Page_Dashboard/span_List""))",Chrome 114.0.0.0,,,2023-07-14 19:52:28,2023-07-14 19:52:29,0.553s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""Leaderboard/Page_Dashboard/span_RMB""))",Chrome 114.0.0.0,,,2023-07-14 19:52:29,2023-07-14 19:52:29,0.479s,PASSED
+"mouseOver(findTestObject(""Leaderboard/Page_Dashboard/span_RMB""))",Chrome 114.0.0.0,,,2023-07-14 19:52:29,2023-07-14 19:52:30,0.531s,PASSED
+"click(findTestObject(""Leaderboard/Page_Dashboard/span_RMB""))",Chrome 114.0.0.0,,,2023-07-14 19:52:30,2023-07-14 19:52:32,2.393s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""Leaderboard/Leaderboard List/h3_Leaderboard Management""))",Chrome 114.0.0.0,,,2023-07-14 19:52:32,2023-07-14 19:52:33,0.720s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""Leaderboard/Leaderboard List/button_Add""))",Chrome 114.0.0.0,,,2023-07-14 19:52:33,2023-07-14 19:52:33,0.546s,PASSED
+"verifyElementVisible(findTestObject(""Leaderboard/Leaderboard List/h3_Leaderboard Management""))",Chrome 114.0.0.0,,,2023-07-14 19:52:33,2023-07-14 19:52:34,0.401s,PASSED
+"verifyElementVisible(findTestObject(""Leaderboard/Leaderboard List/button_Add""))",Chrome 114.0.0.0,,,2023-07-14 19:52:34,2023-07-14 19:52:34,0.418s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""Leaderboard/Leaderboard List/select_102550100""))",Chrome 114.0.0.0,,,2023-07-14 19:52:34,2023-07-14 19:52:35,0.461s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""Leaderboard/Leaderboard List/span_Copy""))",Chrome 114.0.0.0,,,2023-07-14 19:52:35,2023-07-14 19:52:35,0.544s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""Leaderboard/Leaderboard List/span_CSV""))",Chrome 114.0.0.0,,,2023-07-14 19:52:35,2023-07-14 19:52:36,0.473s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""Leaderboard/Leaderboard List/span_Excel""))",Chrome 114.0.0.0,,,2023-07-14 19:52:36,2023-07-14 19:52:36,0.542s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""Leaderboard/Leaderboard List/span_PDF""))",Chrome 114.0.0.0,,,2023-07-14 19:52:36,2023-07-14 19:52:37,0.452s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""Leaderboard/Leaderboard List/input_Search_form-control form-control-sm""))",Chrome 114.0.0.0,,,2023-07-14 19:52:37,2023-07-14 19:52:37,0.471s,PASSED
+"verifyElementVisible(findTestObject(""Leaderboard/Leaderboard List/select_102550100""))",Chrome 114.0.0.0,,,2023-07-14 19:52:37,2023-07-14 19:52:38,0.415s,PASSED
+"verifyElementVisible(findTestObject(""Leaderboard/Leaderboard List/span_Copy""))",Chrome 114.0.0.0,,,2023-07-14 19:52:38,2023-07-14 19:52:38,0.428s,PASSED
+"verifyElementVisible(findTestObject(""Leaderboard/Leaderboard List/span_CSV""))",Chrome 114.0.0.0,,,2023-07-14 19:52:38,2023-07-14 19:52:38,0.405s,PASSED
+"verifyElementVisible(findTestObject(""Leaderboard/Leaderboard List/span_Excel""))",Chrome 114.0.0.0,,,2023-07-14 19:52:38,2023-07-14 19:52:39,0.394s,PASSED
+"verifyElementVisible(findTestObject(""Leaderboard/Leaderboard List/span_PDF""))",Chrome 114.0.0.0,,,2023-07-14 19:52:39,2023-07-14 19:52:39,0.403s,PASSED
+"verifyElementVisible(findTestObject(""Leaderboard/Leaderboard List/input_Search_form-control form-control-sm""))",Chrome 114.0.0.0,,,2023-07-14 19:52:39,2023-07-14 19:52:40,0.406s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""Leaderboard/Leaderboard List/th_Name EN""))",Chrome 114.0.0.0,,,2023-07-14 19:52:40,2023-07-14 19:52:40,0.475s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""Leaderboard/Leaderboard List/th_Name BM""))",Chrome 114.0.0.0,,,2023-07-14 19:52:40,2023-07-14 19:52:41,0.446s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""Leaderboard/Leaderboard List/th_Name CN""))",Chrome 114.0.0.0,,,2023-07-14 19:52:41,2023-07-14 19:52:41,0.457s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""Leaderboard/Leaderboard List/th_Name TH""))",Chrome 114.0.0.0,,,2023-07-14 19:52:41,2023-07-14 19:52:42,0.448s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""Leaderboard/Leaderboard List/th_Description""))",Chrome 114.0.0.0,,,2023-07-14 19:52:42,2023-07-14 19:52:42,0.458s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""Leaderboard/Leaderboard List/th_Banner ImageEN""))",Chrome 114.0.0.0,,,2023-07-14 19:52:42,2023-07-14 19:52:42,0.441s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""Leaderboard/Leaderboard List/th_Banner ImageBM""))",Chrome 114.0.0.0,,,2023-07-14 19:52:42,2023-07-14 19:52:43,0.447s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""Leaderboard/Leaderboard List/th_Banner ImageCN""))",Chrome 114.0.0.0,,,2023-07-14 19:52:43,2023-07-14 19:52:43,0.447s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""Leaderboard/Leaderboard List/th_Banner ImageTH""))",Chrome 114.0.0.0,,,2023-07-14 19:52:43,2023-07-14 19:52:44,0.442s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""Leaderboard/Leaderboard List/th_Start Datetime""))",Chrome 114.0.0.0,,,2023-07-14 19:52:44,2023-07-14 19:52:44,0.442s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""Leaderboard/Leaderboard List/th_End Datetime""))",Chrome 114.0.0.0,,,2023-07-14 19:52:44,2023-07-14 19:52:45,0.443s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""Leaderboard/Leaderboard List/th_Status""))",Chrome 114.0.0.0,,,2023-07-14 19:52:45,2023-07-14 19:52:45,0.441s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""Leaderboard/Leaderboard List/th_Action""))",Chrome 114.0.0.0,,,2023-07-14 19:52:45,2023-07-14 19:52:46,0.452s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""Leaderboard/Leaderboard List/table_Name ENName BMName CNName THDescriptionBanner ImageENBanner ImageBMBanner ImageCNBanner ImageTHStart DatetimeEnd DatetimeStatusAction""))",Chrome 114.0.0.0,,,2023-07-14 19:52:46,2023-07-14 19:52:46,0.458s,PASSED
+"verifyElementVisible(findTestObject(""Leaderboard/Leaderboard List/th_Name EN""))",Chrome 114.0.0.0,,,2023-07-14 19:52:46,2023-07-14 19:52:46,0.503s,PASSED
+"verifyElementVisible(findTestObject(""Leaderboard/Leaderboard List/th_Name BM""))",Chrome 114.0.0.0,,,2023-07-14 19:52:46,2023-07-14 19:52:47,0.384s,PASSED
+"verifyElementVisible(findTestObject(""Leaderboard/Leaderboard List/th_Name CN""))",Chrome 114.0.0.0,,,2023-07-14 19:52:47,2023-07-14 19:52:47,0.391s,PASSED
+"verifyElementVisible(findTestObject(""Leaderboard/Leaderboard List/th_Name TH""))",Chrome 114.0.0.0,,,2023-07-14 19:52:47,2023-07-14 19:52:48,0.425s,PASSED
+"verifyElementVisible(findTestObject(""Leaderboard/Leaderboard List/th_Description""))",Chrome 114.0.0.0,,,2023-07-14 19:52:48,2023-07-14 19:52:48,0.396s,PASSED
+"verifyElementVisible(findTestObject(""Leaderboard/Leaderboard List/th_Banner ImageEN""))",Chrome 114.0.0.0,,,2023-07-14 19:52:48,2023-07-14 19:52:48,0.405s,PASSED
+"verifyElementVisible(findTestObject(""Leaderboard/Leaderboard List/th_Banner ImageBM""))",Chrome 114.0.0.0,,,2023-07-14 19:52:48,2023-07-14 19:52:49,0.374s,PASSED
+"verifyElementVisible(findTestObject(""Leaderboard/Leaderboard List/th_Banner ImageCN""))",Chrome 114.0.0.0,,,2023-07-14 19:52:49,2023-07-14 19:52:49,0.408s,PASSED
+"verifyElementVisible(findTestObject(""Leaderboard/Leaderboard List/th_Banner ImageTH""))",Chrome 114.0.0.0,,,2023-07-14 19:52:49,2023-07-14 19:52:50,0.424s,PASSED
+"verifyElementVisible(findTestObject(""Leaderboard/Leaderboard List/th_Start Datetime""))",Chrome 114.0.0.0,,,2023-07-14 19:52:50,2023-07-14 19:52:50,0.407s,PASSED
+"verifyElementVisible(findTestObject(""Leaderboard/Leaderboard List/th_End Datetime""))",Chrome 114.0.0.0,,,2023-07-14 19:52:50,2023-07-14 19:52:51,0.404s,PASSED
+"verifyElementVisible(findTestObject(""Leaderboard/Leaderboard List/th_Status""))",Chrome 114.0.0.0,,,2023-07-14 19:52:51,2023-07-14 19:52:51,0.419s,PASSED
+"verifyElementVisible(findTestObject(""Leaderboard/Leaderboard List/th_Action""))",Chrome 114.0.0.0,,,2023-07-14 19:52:51,2023-07-14 19:52:51,0.426s,PASSED
+"verifyElementVisible(findTestObject(""Leaderboard/Leaderboard List/table_Name ENName BMName CNName THDescriptionBanner ImageENBanner ImageBMBanner ImageCNBanner ImageTHStart DatetimeEnd DatetimeStatusAction""))",Chrome 114.0.0.0,,,2023-07-14 19:52:51,2023-07-14 19:52:52,0.389s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""Leaderboard/Leaderboard List/li_Previous""))",Chrome 114.0.0.0,,,2023-07-14 19:52:52,2023-07-14 19:52:52,0.435s,PASSED
+"com.reusableComponent.HighlightElement.run(findTestObject(""Leaderboard/Leaderboard List/li_Next""))",Chrome 114.0.0.0,,,2023-07-14 19:52:52,2023-07-14 19:52:53,0.446s,PASSED
+"verifyElementVisible(findTestObject(""Leaderboard/Leaderboard List/li_Previous""))",Chrome 114.0.0.0,,,2023-07-14 19:52:53,2023-07-14 19:52:53,0.407s,PASSED
+"verifyElementVisible(findTestObject(""Leaderboard/Leaderboard List/li_Next""))",Chrome 114.0.0.0,,,2023-07-14 19:52:53,2023-07-14 19:52:53,0.436s,PASSED

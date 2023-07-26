@@ -1,0 +1,54 @@
+{
+  "brokenTestObjects": [
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/User/Page_Dashboard/Shareholder/User List/select_102550100",
+      "brokenLocator": "//select[@name\u003d\u0027datatable1_length\u0027]",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "(.//*[normalize-space(text()) and normalize-space(.)\u003d\u0027Copy\u0027])[1]/preceding::select[1]",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/20230623_192511/Smoke/20230623_192511/Object Repository/User/Page_Dashboard/Shareholder/User List/select_102550100_neighbor.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/User/Page_Dashboard/Shareholder/User List/span_Copy",
+      "brokenLocator": "//div[@id\u003d\u0027datatable1_wrapper\u0027]/div[2]/button/span",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "(.//*[normalize-space(text()) and normalize-space(.)\u003d\u0027CSV\u0027])[1]/preceding::span[1]",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/20230623_192511/Smoke/20230623_192511/Object Repository/User/Page_Dashboard/Shareholder/User List/span_Copy_neighbor.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/User/Page_Dashboard/Shareholder/User List/span_CSV",
+      "brokenLocator": "//div[@id\u003d\u0027datatable1_wrapper\u0027]/div[2]/button[2]/span",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "(.//*[normalize-space(text()) and normalize-space(.)\u003d\u0027Copy\u0027])[1]/following::span[1]",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/20230623_192511/Smoke/20230623_192511/Object Repository/User/Page_Dashboard/Shareholder/User List/span_CSV_neighbor.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/User/Page_Dashboard/Shareholder/User List/span_Excel",
+      "brokenLocator": "//div[@id\u003d\u0027datatable1_wrapper\u0027]/div[2]/button[3]/span",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "(.//*[normalize-space(text()) and normalize-space(.)\u003d\u0027CSV\u0027])[1]/following::span[1]",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/20230623_192511/Smoke/20230623_192511/Object Repository/User/Page_Dashboard/Shareholder/User List/span_Excel_neighbor.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/User/Page_Dashboard/Shareholder/User List/span_PDF",
+      "brokenLocator": "//div[@id\u003d\u0027datatable1_wrapper\u0027]/div[2]/button[4]/span",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "(.//*[normalize-space(text()) and normalize-space(.)\u003d\u0027Excel\u0027])[1]/following::span[1]",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/20230623_192511/Smoke/20230623_192511/Object Repository/User/Page_Dashboard/Shareholder/User List/span_PDF_neighbor.png"
+    }
+  ]
+}
