@@ -55,3 +55,5 @@ CustomKeywords.'com.reusableComponent.HighlightElement.run'(findTestObject('Logi
 
 WebUI.click(findTestObject('Object Repository/Login/Page_Dashboard/button_OK'))
 
+WebUI.acceptAlert()
+
