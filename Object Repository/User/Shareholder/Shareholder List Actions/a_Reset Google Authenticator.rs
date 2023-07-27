@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Reset Google Authenticator</name>
+   <tag></tag>
+   <elementGuidId>e4a372c4-32cc-4b51-9bf8-d6b6ab79f81e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//table[@id='datatable1']/tbody/tr/td[18]/div/div/a[12]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>a.dropdown-item.resetGoogleAuthenticator</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>13ebc72e-9929-4419-bb27-d35cf0f68427</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>dropdown-item resetGoogleAuthenticator</value>
+      <webElementGuid>0d889c2b-dd29-41e4-8e51-5f5fc366034d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>#</value>
+      <webElementGuid>a18de581-9f2d-409d-ad1a-439610447529</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-key</name>
+      <type>Main</type>
+      <value>VqxFXyirFnJbnZi5jpGvnnP3oV7QCFVNN7gNkYF0uGEceYbNDHKG6NS8mlH2vPkUlgJgangvNPnCYIXx8nl4CnnfPIWBqfnMtrDHsrL3sigyvpriVMdYNaGSxfDDM5674bwK8dFnmp3fAqL5SlDq72AcUiFDBkMeXiyhSTCALxpeDNiS0r9HzpIX306XTa5GBTr0rW7b</value>
+      <webElementGuid>a0263808-039f-445f-a691-96374abdc849</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Reset Google Authenticator</value>
+      <webElementGuid>5377aa48-6787-4c2a-b76b-6f14d11bb850</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;datatable1&quot;)/tbody[1]/tr[@class=&quot;odd&quot;]/td[18]/div[@class=&quot;dropdown show&quot;]/div[@class=&quot;dropdown-menu show&quot;]/a[@class=&quot;dropdown-item resetGoogleAuthenticator&quot;]</value>
+      <webElementGuid>bfd6093e-4a02-4522-a8f3-ad505591f9af</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//table[@id='datatable1']/tbody/tr/td[18]/div/div/a[12]</value>
+      <webElementGuid>91c44fc7-b5c7-4bcd-a0ce-df837e558ce6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Reset Google Authenticator')]</value>
+      <webElementGuid>a33a8544-fe8f-40c7-9666-f4174ad03289</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Block Features'])[1]/following::a[2]</value>
+      <webElementGuid>604624f5-f641-4e04-be47-db6471cfe119</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Bonus Accounts'])[1]/following::a[4]</value>
+      <webElementGuid>0754fc39-3c4c-4307-9160-8ec80173e43c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Edit Phone Number'])[1]/preceding::a[1]</value>
+      <webElementGuid>ae99b496-6ca3-4381-9b70-e85f6270f2e6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='-'])[1]/preceding::a[2]</value>
+      <webElementGuid>cdecd748-1358-47a8-af08-32900ab104f2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Reset Google Authenticator']/parent::*</value>
+      <webElementGuid>fffa4cae-4ca8-4e85-824f-5f18ce53b132</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>(//a[contains(@href, '#')])[4]</value>
+      <webElementGuid>7122659a-4dee-46e8-a9b3-18f72cfc2a0e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//a[12]</value>
+      <webElementGuid>6487dedc-415b-4f0a-bd1a-a7ce2103f793</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '#' and (text() = 'Reset Google Authenticator' or . = 'Reset Google Authenticator')]</value>
+      <webElementGuid>54781b0b-a878-45ca-9efe-76f9e2a5450a</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

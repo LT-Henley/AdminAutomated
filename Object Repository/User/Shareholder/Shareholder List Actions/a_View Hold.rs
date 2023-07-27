@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_View Hold</name>
+   <tag></tag>
+   <elementGuidId>42fec2ed-ea95-4f5f-9d87-361c06874f3a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//table[@id='datatable1']/tbody/tr/td[18]/div/div/a[7]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>d7150d1f-fb9d-44b0-9613-7b6b1ab51675</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>target</name>
+      <type>Main</type>
+      <value>_blank</value>
+      <webElementGuid>0ef95fb9-3ac2-44b4-87d7-45b60fa000f9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>dropdown-item</value>
+      <webElementGuid>c1b9acfe-26fb-4cbf-9901-f5ea9ae05e6f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/Shareholder/walletHold/VqxFXyirFnJbnZi5jpGvnnP3oV7QCFVNN7gNkYF0uGEceYbNDHKG6NS8mlH2vPkUlgJgangvNPnCYIXx8nl4CnnfPIWBqfnMtrDHsrL3sigyvpriVMdYNaGSxfDDM5674bwK8dFnmp3fAqL5SlDq72AcUiFDBkMeXiyhSTCALxpeDNiS0r9HzpIX306XTa5GBTr0rW7b</value>
+      <webElementGuid>68495e6a-3e5f-4701-a1f6-9a05338c8c06</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>View Hold</value>
+      <webElementGuid>610c23b3-fb5f-4fd6-9cf0-821584a9b054</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;datatable1&quot;)/tbody[1]/tr[@class=&quot;odd&quot;]/td[18]/div[@class=&quot;dropdown show&quot;]/div[@class=&quot;dropdown-menu show&quot;]/a[@class=&quot;dropdown-item&quot;]</value>
+      <webElementGuid>0aac55a6-2cf1-46f6-8b6b-2355ba7867d0</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//table[@id='datatable1']/tbody/tr/td[18]/div/div/a[7]</value>
+      <webElementGuid>da751055-bf0d-4c75-bc9a-9183e0a6486f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'View Hold')]</value>
+      <webElementGuid>f7297676-2330-49ad-8eb6-22aa6d2ca36b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Records'])[1]/following::a[1]</value>
+      <webElementGuid>a2d36070-574f-4e36-b405-7e69fb805665</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Block'])[1]/following::a[2]</value>
+      <webElementGuid>04193405-1dd6-418d-aa02-eef99d21792f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Bonus Accounts'])[1]/preceding::a[1]</value>
+      <webElementGuid>90db5cc5-7821-4656-bb8d-6ef58d3432e2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Block Features'])[1]/preceding::a[3]</value>
+      <webElementGuid>18d8e01f-8ead-480f-8f2b-5f162cfde6e3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='View Hold']/parent::*</value>
+      <webElementGuid>5ee95458-1d69-4c7c-8312-8366c9096f66</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '/Shareholder/walletHold/VqxFXyirFnJbnZi5jpGvnnP3oV7QCFVNN7gNkYF0uGEceYbNDHKG6NS8mlH2vPkUlgJgangvNPnCYIXx8nl4CnnfPIWBqfnMtrDHsrL3sigyvpriVMdYNaGSxfDDM5674bwK8dFnmp3fAqL5SlDq72AcUiFDBkMeXiyhSTCALxpeDNiS0r9HzpIX306XTa5GBTr0rW7b')]</value>
+      <webElementGuid>64a237be-ab49-4ece-bd97-146b64bd21d6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//a[7]</value>
+      <webElementGuid>1cf9d94f-5040-452a-9657-ab868a0055fb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/Shareholder/walletHold/VqxFXyirFnJbnZi5jpGvnnP3oV7QCFVNN7gNkYF0uGEceYbNDHKG6NS8mlH2vPkUlgJgangvNPnCYIXx8nl4CnnfPIWBqfnMtrDHsrL3sigyvpriVMdYNaGSxfDDM5674bwK8dFnmp3fAqL5SlDq72AcUiFDBkMeXiyhSTCALxpeDNiS0r9HzpIX306XTa5GBTr0rW7b' and (text() = 'View Hold' or . = 'View Hold')]</value>
+      <webElementGuid>4ef7ed62-e78e-456c-9fcc-9d1f50516189</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

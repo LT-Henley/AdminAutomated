@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Bonus Accounts</name>
+   <tag></tag>
+   <elementGuidId>d7fdfae5-831d-432e-9866-408296ce33aa</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//table[@id='datatable1']/tbody/tr/td[18]/div/div/a[8]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>25350c55-f1ed-454f-a21a-d9fa27ae2361</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>target</name>
+      <type>Main</type>
+      <value>_blank</value>
+      <webElementGuid>58a07b03-8797-4910-bd33-08f6b308ea03</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>dropdown-item</value>
+      <webElementGuid>eadc35d1-7ab9-420e-a93f-73cf05825bd5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/Shareholder/shareholderBonusAccount/VqxFXyirFnJbnZi5jpGvnnP3oV7QCFVNN7gNkYF0uGEceYbNDHKG6NS8mlH2vPkUlgJgangvNPnCYIXx8nl4CnnfPIWBqfnMtrDHsrL3sigyvpriVMdYNaGSxfDDM5674bwK8dFnmp3fAqL5SlDq72AcUiFDBkMeXiyhSTCALxpeDNiS0r9HzpIX306XTa5GBTr0rW7b</value>
+      <webElementGuid>d20789fb-5752-4543-a4d3-21b3763e46dc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Bonus Accounts</value>
+      <webElementGuid>6ad3d121-6a4c-44f7-8d86-bf917ec684eb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;datatable1&quot;)/tbody[1]/tr[@class=&quot;odd&quot;]/td[18]/div[@class=&quot;dropdown show&quot;]/div[@class=&quot;dropdown-menu show&quot;]/a[@class=&quot;dropdown-item&quot;]</value>
+      <webElementGuid>2d30021b-72b2-4e9d-b9ab-d95e1a629e0e</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//table[@id='datatable1']/tbody/tr/td[18]/div/div/a[8]</value>
+      <webElementGuid>6a3aead7-c77a-4677-99f5-7ec54704c7fb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Bonus Accounts')]</value>
+      <webElementGuid>5bc1f483-578b-4321-8672-3b638889064a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='View Hold'])[1]/following::a[1]</value>
+      <webElementGuid>e3c40d8f-4f4b-4f2d-b6cd-b78dcdd00945</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Records'])[1]/following::a[2]</value>
+      <webElementGuid>a25a4cb2-e3ca-4ed3-b3c6-f875789154a8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Block Features'])[1]/preceding::a[2]</value>
+      <webElementGuid>00406c7b-cd2b-434c-bfa6-0f1e8770472e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Edit Phone Number'])[1]/preceding::a[5]</value>
+      <webElementGuid>16d27c98-474d-4dab-a191-2253186dad41</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Bonus Accounts']/parent::*</value>
+      <webElementGuid>b25d5feb-8d62-417c-bef3-1f1868526cd1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '/Shareholder/shareholderBonusAccount/VqxFXyirFnJbnZi5jpGvnnP3oV7QCFVNN7gNkYF0uGEceYbNDHKG6NS8mlH2vPkUlgJgangvNPnCYIXx8nl4CnnfPIWBqfnMtrDHsrL3sigyvpriVMdYNaGSxfDDM5674bwK8dFnmp3fAqL5SlDq72AcUiFDBkMeXiyhSTCALxpeDNiS0r9HzpIX306XTa5GBTr0rW7b')]</value>
+      <webElementGuid>715dc1c8-5a27-4c76-95b1-4233a23b7f14</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//a[8]</value>
+      <webElementGuid>23c52cff-60ef-441d-8072-be6c654d57ea</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/Shareholder/shareholderBonusAccount/VqxFXyirFnJbnZi5jpGvnnP3oV7QCFVNN7gNkYF0uGEceYbNDHKG6NS8mlH2vPkUlgJgangvNPnCYIXx8nl4CnnfPIWBqfnMtrDHsrL3sigyvpriVMdYNaGSxfDDM5674bwK8dFnmp3fAqL5SlDq72AcUiFDBkMeXiyhSTCALxpeDNiS0r9HzpIX306XTa5GBTr0rW7b' and (text() = 'Bonus Accounts' or . = 'Bonus Accounts')]</value>
+      <webElementGuid>16ff9068-1018-49f1-96a3-b94b3b2b0750</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

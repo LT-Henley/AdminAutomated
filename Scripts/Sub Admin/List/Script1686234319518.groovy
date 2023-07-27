@@ -97,5 +97,29 @@ CustomKeywords.'com.reusableComponent.HighlightElement.run'(findTestObject('Sub 
 
 WebUI.verifyElementVisible(findTestObject('Sub Admin/Page_Admin List/table_NameCountryApp TypeCreated DatetimeLast Login DatetimeLast login IPAccount StatusAction'))
 
+CustomKeywords.'com.reusableComponent.HighlightElement.run'(findTestObject('Sub Admin/Page_Admin List/Action Buttons/td_Block                            Delete                            Password                            Edit'))
+
+CustomKeywords.'com.reusableComponent.HighlightElement.run'(findTestObject('Sub Admin/Page_Admin List/Action Buttons/button_Block'))
+
+CustomKeywords.'com.reusableComponent.HighlightElement.run'(findTestObject('Sub Admin/Page_Admin List/Action Buttons/button_Delete'))
+
+CustomKeywords.'com.reusableComponent.HighlightElement.run'(findTestObject('Sub Admin/Page_Admin List/Action Buttons/button_Password'))
+
+WebUI.verifyElementVisible(findTestObject('Sub Admin/Page_Admin List/Action Buttons/td_Block                            Delete                            Password                            Edit'))
+
+WebUI.verifyElementVisible(findTestObject('Sub Admin/Page_Admin List/Action Buttons/button_Block'))
+
+WebUI.verifyElementVisible(findTestObject('Sub Admin/Page_Admin List/Action Buttons/button_Delete'))
+
+WebUI.verifyElementVisible(findTestObject('Sub Admin/Page_Admin List/Action Buttons/button_Password'))
+
+CustomKeywords.'com.reusableComponent.HighlightElement.run'(findTestObject('Sub Admin/Page_Admin List/li_Previous'))
+
+CustomKeywords.'com.reusableComponent.HighlightElement.run'(findTestObject('Sub Admin/Page_Admin List/a_Next'))
+
+WebUI.verifyElementVisible(findTestObject('Sub Admin/Page_Admin List/li_Previous'))
+
+WebUI.verifyElementVisible(findTestObject('Sub Admin/Page_Admin List/a_Next'))
+
 WebUI.closeBrowser()
 

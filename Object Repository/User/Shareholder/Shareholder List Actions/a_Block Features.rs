@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Block Features</name>
+   <tag></tag>
+   <elementGuidId>cc7f6815-7691-4ac6-9845-6cc3589b432f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//table[@id='datatable1']/tbody/tr/td[18]/div/div/a[10]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>a.dropdown-item.showBlockUserFeaturesDialog</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>1910ec91-4569-417f-a797-c6e3b4a943c2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>dropdown-item showBlockUserFeaturesDialog</value>
+      <webElementGuid>f80bd48a-c2ea-4dcd-a2fe-e6585bf9282c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-unique-key</name>
+      <type>Main</type>
+      <value>VqxFXyirFnJbnZi5jpGvnnP3oV7QCFVNN7gNkYF0uGEceYbNDHKG6NS8mlH2vPkUlgJgangvNPnCYIXx8nl4CnnfPIWBqfnMtrDHsrL3sigyvpriVMdYNaGSxfDDM5674bwK8dFnmp3fAqL5SlDq72AcUiFDBkMeXiyhSTCALxpeDNiS0r9HzpIX306XTa5GBTr0rW7b</value>
+      <webElementGuid>9e3dd8f4-b132-4b3d-b102-40e153e48563</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-type</name>
+      <type>Main</type>
+      <value>shareholder</value>
+      <webElementGuid>4c6a3069-53df-4924-9b42-1ed8224a7609</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-username</name>
+      <type>Main</type>
+      <value>Luckym01</value>
+      <webElementGuid>af92a16b-b62e-4ae5-9281-baada84173bd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Block Features</value>
+      <webElementGuid>235c80dc-aba2-4e43-8f42-e16bd2c26848</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;datatable1&quot;)/tbody[1]/tr[@class=&quot;odd&quot;]/td[18]/div[@class=&quot;dropdown show&quot;]/div[@class=&quot;dropdown-menu show&quot;]/a[@class=&quot;dropdown-item showBlockUserFeaturesDialog&quot;]</value>
+      <webElementGuid>c90229a2-3a81-4c18-b96f-900d13448d93</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//table[@id='datatable1']/tbody/tr/td[18]/div/div/a[10]</value>
+      <webElementGuid>2a0ba5eb-2cc9-4729-b2c4-2b5a09a2cd3e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Block Features')]</value>
+      <webElementGuid>e1bf8926-74d9-417e-8775-c3d0505748ab</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Bonus Accounts'])[1]/following::a[2]</value>
+      <webElementGuid>ceff71fc-8c43-456c-b7d1-cf65173ac275</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='View Hold'])[1]/following::a[3]</value>
+      <webElementGuid>ac7bef87-2f52-485c-b37f-ce51ec9ba113</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Edit Phone Number'])[1]/preceding::a[3]</value>
+      <webElementGuid>de38828a-beac-4210-8c16-90dbb4e93696</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='-'])[1]/preceding::a[4]</value>
+      <webElementGuid>b4edaf34-a516-4a89-aa12-97fdc9c4fac3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Block Features']/parent::*</value>
+      <webElementGuid>914baa67-60fb-40cc-a6c5-5e888c8aaa46</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//a[10]</value>
+      <webElementGuid>49c32379-fee8-49e1-9aaa-faae54de58bf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[(text() = 'Block Features' or . = 'Block Features')]</value>
+      <webElementGuid>64f5743b-2dbf-4562-aef5-01aa6c9dac2c</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
