@@ -165,3 +165,63 @@ WebUI.verifyElementVisible(findTestObject('User/Shareholder/User List/th_Main Li
 
 WebUI.verifyElementVisible(findTestObject('User/Shareholder/User List/tableUserList'))
 
+CustomKeywords.'com.reusableComponent.HighlightElement.run'(findTestObject('User/Shareholder/Shareholder List Actions/button_Actions'))
+
+WebUI.verifyElementVisible(findTestObject('User/Shareholder/Shareholder List Actions/button_Actions'))
+
+WebUI.doubleClick(findTestObject('User/Shareholder/Shareholder List Actions/button_Actions'))
+
+CustomKeywords.'com.reusableComponent.HighlightElement.run'(findTestObject('User/Shareholder/Shareholder List Actions/a_Credit'))
+
+CustomKeywords.'com.reusableComponent.HighlightElement.run'(findTestObject('User/Shareholder/Shareholder List Actions/a_Stat'))
+
+CustomKeywords.'com.reusableComponent.HighlightElement.run'(findTestObject('User/Shareholder/Shareholder List Actions/a_Edit'))
+
+CustomKeywords.'com.reusableComponent.HighlightElement.run'(findTestObject('User/Shareholder/Shareholder List Actions/a_Password'))
+
+CustomKeywords.'com.reusableComponent.HighlightElement.run'(findTestObject('User/Shareholder/Shareholder List Actions/a_Block'))
+
+CustomKeywords.'com.reusableComponent.HighlightElement.run'(findTestObject('User/Shareholder/Shareholder List Actions/a_Records'))
+
+CustomKeywords.'com.reusableComponent.HighlightElement.run'(findTestObject('User/Shareholder/Shareholder List Actions/a_View Hold'))
+
+CustomKeywords.'com.reusableComponent.HighlightElement.run'(findTestObject('User/Shareholder/Shareholder List Actions/a_Bonus Accounts'))
+
+CustomKeywords.'com.reusableComponent.HighlightElement.run'(findTestObject('User/Shareholder/Shareholder List Actions/a_Turn Off 5 downline percentage'))
+
+CustomKeywords.'com.reusableComponent.HighlightElement.run'(findTestObject('User/Shareholder/Shareholder List Actions/a_Block Features'))
+
+CustomKeywords.'com.reusableComponent.HighlightElement.run'(findTestObject('User/Shareholder/Shareholder List Actions/a_Override Share'))
+
+CustomKeywords.'com.reusableComponent.HighlightElement.run'(findTestObject('User/Shareholder/Shareholder List Actions/a_Reset Google Authenticator'))
+
+CustomKeywords.'com.reusableComponent.HighlightElement.run'(findTestObject('User/Shareholder/Shareholder List Actions/a_Edit Phone Number'))
+
+WebUI.verifyElementVisible(findTestObject('User/Shareholder/Shareholder List Actions/a_Credit'))
+
+WebUI.verifyElementVisible(findTestObject('User/Shareholder/Shareholder List Actions/a_Stat'))
+
+WebUI.verifyElementVisible(findTestObject('User/Shareholder/Shareholder List Actions/a_Edit'))
+
+WebUI.verifyElementVisible(findTestObject('User/Shareholder/Shareholder List Actions/a_Password'))
+
+WebUI.verifyElementVisible(findTestObject('User/Shareholder/Shareholder List Actions/a_Block'))
+
+WebUI.verifyElementVisible(findTestObject('User/Shareholder/Shareholder List Actions/a_Records'))
+
+WebUI.verifyElementVisible(findTestObject('User/Shareholder/Shareholder List Actions/a_View Hold'))
+
+WebUI.verifyElementVisible(findTestObject('User/Shareholder/Shareholder List Actions/a_Bonus Accounts'))
+
+WebUI.verifyElementVisible(findTestObject('User/Shareholder/Shareholder List Actions/a_Turn Off 5 downline percentage'))
+
+WebUI.verifyElementVisible(findTestObject('User/Shareholder/Shareholder List Actions/a_Block Features'))
+
+WebUI.verifyElementVisible(findTestObject('User/Shareholder/Shareholder List Actions/a_Override Share'))
+
+WebUI.verifyElementVisible(findTestObject('User/Shareholder/Shareholder List Actions/a_Reset Google Authenticator'))
+
+WebUI.verifyElementVisible(findTestObject('User/Shareholder/Shareholder List Actions/a_Edit Phone Number'))
+
+WebUI.closeBrowser()
+
